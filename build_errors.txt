@@ -168,10 +168,10 @@ reading sources... [ 99%] rentkammer/rentkammer-and-kolonat-system
 reading sources... [ 99%] rentkammer/terms
 reading sources... [100%] rentkammer/workflow
 
-/home/kurt/sphinx-nla/source/1291/doc11.md.rst:149: WARNING: Unknown directive type: '' [myst.directive_unknown]
-/home/kurt/sphinx-nla/source/1291/doc11.md.rst:171: WARNING: Unknown directive type: '' [myst.directive_unknown]
-/home/kurt/sphinx-nla/source/1291/doc11.md.rst:324: WARNING: Unknown directive type: '' [myst.directive_unknown]
-/home/kurt/sphinx-nla/source/1291/doc11.md.rst:346: WARNING: Unknown directive type: '' [myst.directive_unknown]
+/home/kurt/sphinx-nla/source/1291/doc11.md.rst:138: WARNING: Unknown directive type: '' [myst.directive_unknown]
+/home/kurt/sphinx-nla/source/1291/doc11.md.rst:159: WARNING: Unknown directive type: '' [myst.directive_unknown]
+/home/kurt/sphinx-nla/source/1291/doc11.md.rst:301: WARNING: Unknown directive type: '' [myst.directive_unknown]
+/home/kurt/sphinx-nla/source/1291/doc11.md.rst:322: WARNING: Unknown directive type: '' [myst.directive_unknown]
 /home/kurt/sphinx-nla/source/1291/doc6.md.rst:113: WARNING: Unknown directive type: '' [myst.directive_unknown]
 /home/kurt/sphinx-nla/source/139/cover.md.rst:51: WARNING: Document headings start at H2, not H1 [myst.header]
 /home/kurt/sphinx-nla/source/689/content-list.md.rst:73: WARNING: Document headings start at H2, not H1 [myst.header]
@@ -182,6 +182,31 @@ reading sources... [100%] rentkammer/workflow
 looking for now-outdated files... none found
 pickling environment... done
 checking consistency... /home/kurt/sphinx-nla/source/1237/nav.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/contents-list.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/cover.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc1.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc10.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc11.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc12.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc13.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc14.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc15.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc16.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc17.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc18.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc19.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc2.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc20.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc21.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc22.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc3.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc4.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc5.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc6.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc7.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc8.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/doc9.md: WARNING: document isn't included in any toctree [toc.not_included]
+/home/kurt/sphinx-nla/source/1291/index.md: WARNING: document isn't included in any toctree [toc.not_included]
 /home/kurt/sphinx-nla/source/1291/nav.md: WARNING: document isn't included in any toctree [toc.not_included]
 /home/kurt/sphinx-nla/source/139/nav.md: WARNING: document isn't included in any toctree [toc.not_included]
 /home/kurt/sphinx-nla/source/139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding.md: WARNING: document isn't included in any toctree [toc.not_included]
@@ -467,26 +492,9 @@ writing output... [100%] rentkammer/workflow
 /home/kurt/sphinx-nla/source/1291/contents-list.md:107: WARNING: 'myst' cross-reference target not found: 'doc21.md' [myst.xref_missing]
 /home/kurt/sphinx-nla/source/1291/contents-list.md:109: WARNING: 'myst' cross-reference target not found: 'doc22.md' [myst.xref_missing]
 /home/kurt/sphinx-nla/source/1291/contents-list.md:111: WARNING: 'myst' cross-reference target not found: 'doc22.md' [myst.xref_missing]
-/home/kurt/sphinx-nla/source/1291/doc1.md:48: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc10.md:26: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc10.md:114: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc11.md:232: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc11.md:407: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc13.md:30: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc14.md:103: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc2.md:97: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc2.md:138: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
 /home/kurt/sphinx-nla/source/1291/doc20.md:76: WARNING: 'myst' cross-reference target not found: 'doc11.md' [myst.xref_missing]
 /home/kurt/sphinx-nla/source/1291/doc21.md:14: WARNING: 'myst' cross-reference target not found: 'contents-list.md' [myst.xref_missing]
 /home/kurt/sphinx-nla/source/1291/doc22.md:83: WARNING: 'myst' cross-reference target not found: 'doc11.md' [myst.xref_missing]
-/home/kurt/sphinx-nla/source/1291/doc4.md:81: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc5.md:147: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc6.md:201: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc7.md:36: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc8.md:68: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/doc8.md:142: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
-/home/kurt/sphinx-nla/source/1291/nav.md:1: WARNING: toctree contains reference to document '1291/index' that doesn't have a title: no link will be generated [toc.no_title]
-/home/kurt/sphinx-nla/source/1291/nav.md:1: WARNING: toctree contains reference to document '1291/cover' that doesn't have a title: no link will be generated [toc.no_title]
 /home/kurt/sphinx-nla/source/139/actum-bueckeburg-amt-21-aug-1849.md:27: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
 /home/kurt/sphinx-nla/source/139/actum-bueckeburg-amt-21-aug-1849.md:84: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
 /home/kurt/sphinx-nla/source/139/amt-report-22-aug-1849.md:53: WARNING: Pygments lexer name '{.bordered' is not known [misc.highlighting_failure]
@@ -579,114 +587,121 @@ copying images... [  2%] 1237/images/02.png
 copying images... [  3%] 1237/images/03-left-page.png
 copying images... [  4%] 1237/images/06-right-page.png
 copying images... [  5%] 1237/images/08-right-page.png
-copying images... [  6%] 1237/images/07-right-page.png
-copying images... [  7%] 1291/images/01-r.jpg
+copying images... [  5%] 1237/images/07-right-page.png
+copying images... [  6%] 1291/images/01-r.jpg
 copying images... [  7%] 1291/images/02-l.jpg
 copying images... [  8%] 1291/images/02-r.jpg
 copying images... [  9%] 1291/images/20-l.png
-copying images... [ 10%] 1291/images/17-r.png
-copying images... [ 11%] 1291/images/18-l.png
-copying images... [ 12%] 1291/images/19-r.png
+copying images... [  9%] 1291/images/17-r.png
+copying images... [ 10%] 1291/images/18-l.png
+copying images... [ 11%] 1291/images/19-r.png
 copying images... [ 12%] 1291/images/18-r.png
-copying images... [ 13%] 1291/images/21-r.png
+copying images... [ 12%] 1291/images/21-r.png
+copying images... [ 13%] 1291/images/22-l.png
 copying images... [ 14%] 1291/images/21-r-vert-text.png
-copying images... [ 15%] 1291/images/23-r.png
+copying images... [ 15%] 1291/images/23-l.png
+copying images... [ 16%] 1291/images/23-r.png
 copying images... [ 16%] 1291/images/24-r.png
 copying images... [ 17%] 1291/images/25-l.png
-copying images... [ 17%] 1291/images/25-r.png
-copying images... [ 18%] 1291/images/26-r.png
-copying images... [ 19%] 1291/images/29-l.png
-copying images... [ 20%] 1291/images/28-l.png
-copying images... [ 21%] 1291/images/30-r.png
-copying images... [ 21%] 1291/images/31-r.png
-copying images... [ 22%] 1291/images/32-l.png
-copying images... [ 23%] 1291/images/31-r-vert-text.png
-copying images... [ 24%] 1291/images/32-r.png
-copying images... [ 25%] 1291/images/33-r.png
-copying images... [ 26%] 1291/images/34-r.png
-copying images... [ 26%] 1291/images/35-l.png
-copying images... [ 27%] 1291/images/35-r.png
-copying images... [ 28%] 1291/images/03-r.png
-copying images... [ 29%] 1291/images/03-r-horz-text.png
-copying images... [ 30%] 1291/images/04-r.png
-copying images... [ 31%] 1291/images/05-r.png
-copying images... [ 31%] 1291/images/36-r.png
-copying images... [ 32%] 1291/images/37-l.png
-copying images... [ 33%] 1291/images/37-r.png
-copying images... [ 34%] 1291/images/38-r.png
-copying images... [ 35%] 1291/images/39-r.png
-copying images... [ 36%] 1291/images/40-l.png
-copying images... [ 36%] 1291/images/40-r.png
-copying images... [ 37%] 1291/images/06-r.png
-copying images... [ 38%] 1291/images/11-l.png
-copying images... [ 39%] 1291/images/07-r.png
-copying images... [ 40%] 1291/images/08-l.png
-copying images... [ 40%] 1291/images/07-r-vertical-text.png
-copying images... [ 41%] 1291/images/10-l.png
-copying images... [ 42%] 1291/images/09-l.png
-copying images... [ 43%] 1291/images/12-r.png
-copying images... [ 44%] 1291/images/13-l.png
-copying images... [ 45%] 1291/images/12-r-vert-text.png
-copying images... [ 45%] 1291/images/13-r.png
-copying images... [ 46%] 1291/images/14-r.png
-copying images... [ 47%] 1291/images/15-l.png
-copying images... [ 48%] 1291/images/15-r.png
-copying images... [ 49%] 1291/images/16-r.png
-copying images... [ 50%] 139/images/10-l.png
-copying images... [ 50%] 139/images/05-r.png
-copying images... [ 51%] 139/images/01.png
-copying images... [ 52%] 139/images/cover.jpg
-copying images... [ 53%] 139/images/02-left-side-of-page.png
-copying images... [ 54%] 139/images/03-left-side-of-page.png
-copying images... [ 55%] 139/images/03-r.png
-copying images... [ 55%] 139/images/04-r.png
-copying images... [ 56%] 139/images/07-r.png
-copying images... [ 57%] 139/images/11-l.png
-copying images... [ 58%] 140/images/title-140.png
-copying images... [ 59%] 140/images/page-17.png
-copying images... [ 60%] 146/images/19-r.png
-copying images... [ 60%] 146/images/20-l.png
-copying images... [ 61%] 146/images/08-r.png
-copying images... [ 62%] 146/images/21-r.png
-copying images... [ 63%] 146/images/22-r.png
-copying images... [ 64%] 146/images/23-l.png
-copying images... [ 64%] 146/images/23-r.png
-copying images... [ 65%] 146/images/24-l.png
-copying images... [ 66%] 146/images/cover-top.jpg
-copying images... [ 67%] 146/images/05-l.png
-copying images... [ 68%] 146/images/02-r.png
-copying images... [ 69%] 146/images/03-l.png
-copying images... [ 69%] 146/images/12-r.png
-copying images... [ 70%] 146/images/13-r.png
-copying images... [ 71%] 146/images/14-l.png
-copying images... [ 72%] 146/images/03-r.png
-copying images... [ 73%] 146/images/04-l.png
-copying images... [ 74%] 146/images/04-r.png
-copying images... [ 74%] 146/images/05-r-alternate.png
-copying images... [ 75%] 146/images/06-r.png
-copying images... [ 76%] 146/images/07-r.png
-copying images... [ 77%] 146/images/10-r.png
-copying images... [ 78%] 146/images/11-r.png
-copying images... [ 79%] 146/images/22-l.png
-copying images... [ 79%] 146/images/16-l-alternate.png
-copying images... [ 80%] 146/images/17-r-alternate.png
-copying images... [ 81%] 146/images/17-r-small-text.png
-copying images... [ 82%] 146/images/15-r.png
-copying images... [ 83%] 147/images/01-r.png
-copying images... [ 83%] 147/images/cover.png
-copying images... [ 84%] 147/images/09-r.png
-copying images... [ 85%] 147/images/09-vert-text.png
-copying images... [ 86%] 147/images/11.png
-copying images... [ 87%] 188/images/01-r.png
+copying images... [ 18%] 1291/images/25-r.png
+copying images... [ 19%] 1291/images/26-r.png
+copying images... [ 20%] 1291/images/29-l.png
+copying images... [ 20%] 1291/images/27-l.png
+copying images... [ 21%] 1291/images/28-l.png
+copying images... [ 22%] 1291/images/28-r.png
+copying images... [ 23%] 1291/images/30-r.png
+copying images... [ 23%] 1291/images/31-r.png
+copying images... [ 24%] 1291/images/32-l.png
+copying images... [ 25%] 1291/images/31-r-vert-text.png
+copying images... [ 26%] 1291/images/32-r.png
+copying images... [ 27%] 1291/images/33-r.png
+copying images... [ 27%] 1291/images/34-r.png
+copying images... [ 28%] 1291/images/35-l.png
+copying images... [ 29%] 1291/images/35-r.png
+copying images... [ 30%] 1291/images/03-r.png
+copying images... [ 30%] 1291/images/03-r-horz-text.png
+copying images... [ 31%] 1291/images/04-r.png
+copying images... [ 32%] 1291/images/05-r.png
+copying images... [ 33%] 1291/images/36-r.png
+copying images... [ 34%] 1291/images/37-l.png
+copying images... [ 34%] 1291/images/37-r.png
+copying images... [ 35%] 1291/images/38-r.png
+copying images... [ 36%] 1291/images/39-r.png
+copying images... [ 37%] 1291/images/40-l.png
+copying images... [ 38%] 1291/images/40-r.png
+copying images... [ 38%] 1291/images/06-r.png
+copying images... [ 39%] 1291/images/11-l.png
+copying images... [ 40%] 1291/images/07-r.png
+copying images... [ 41%] 1291/images/08-l.png
+copying images... [ 41%] 1291/images/07-r-vertical-text.png
+copying images... [ 42%] 1291/images/10-l.png
+copying images... [ 43%] 1291/images/08-r.png
+copying images... [ 44%] 1291/images/09-l.png
+copying images... [ 45%] 1291/images/08-r-vert-text.png
+copying images... [ 45%] 1291/images/12-r.png
+copying images... [ 46%] 1291/images/13-l.png
+copying images... [ 47%] 1291/images/12-r-vert-text.png
+copying images... [ 48%] 1291/images/13-r.png
+copying images... [ 48%] 1291/images/14-r.png
+copying images... [ 49%] 1291/images/15-l.png
+copying images... [ 50%] 1291/images/15-r.png
+copying images... [ 51%] 1291/images/16-r.png
+copying images... [ 52%] 1291/images/17-l.png
+copying images... [ 52%] 139/images/10-l.png
+copying images... [ 53%] 139/images/05-r.png
+copying images... [ 54%] 139/images/01.png
+copying images... [ 55%] 139/images/cover.jpg
+copying images... [ 55%] 139/images/02-left-side-of-page.png
+copying images... [ 56%] 139/images/03-left-side-of-page.png
+copying images... [ 57%] 139/images/03-r.png
+copying images... [ 58%] 139/images/04-r.png
+copying images... [ 59%] 139/images/07-r.png
+copying images... [ 59%] 139/images/11-l.png
+copying images... [ 60%] 140/images/title-140.png
+copying images... [ 61%] 140/images/page-17.png
+copying images... [ 62%] 146/images/19-r.png
+copying images... [ 62%] 146/images/20-l.png
+copying images... [ 63%] 146/images/08-r.png
+copying images... [ 64%] 146/images/21-r.png
+copying images... [ 65%] 146/images/22-r.png
+copying images... [ 66%] 146/images/23-l.png
+copying images... [ 66%] 146/images/23-r.png
+copying images... [ 67%] 146/images/24-l.png
+copying images... [ 68%] 146/images/cover-top.jpg
+copying images... [ 69%] 146/images/05-l.png
+copying images... [ 70%] 146/images/02-r.png
+copying images... [ 70%] 146/images/03-l.png
+copying images... [ 71%] 146/images/12-r.png
+copying images... [ 72%] 146/images/13-r.png
+copying images... [ 73%] 146/images/14-l.png
+copying images... [ 73%] 146/images/03-r.png
+copying images... [ 74%] 146/images/04-l.png
+copying images... [ 75%] 146/images/04-r.png
+copying images... [ 76%] 146/images/05-r-alternate.png
+copying images... [ 77%] 146/images/06-r.png
+copying images... [ 77%] 146/images/07-r.png
+copying images... [ 78%] 146/images/10-r.png
+copying images... [ 79%] 146/images/11-r.png
+copying images... [ 80%] 146/images/22-l.png
+copying images... [ 80%] 146/images/16-l-alternate.png
+copying images... [ 81%] 146/images/17-r-alternate.png
+copying images... [ 82%] 146/images/17-r-small-text.png
+copying images... [ 83%] 146/images/15-r.png
+copying images... [ 84%] 147/images/01-r.png
+copying images... [ 84%] 147/images/cover.png
+copying images... [ 85%] 147/images/09-r.png
+copying images... [ 86%] 147/images/09-vert-text.png
+copying images... [ 87%] 147/images/11.png
+copying images... [ 88%] 188/images/01-r.png
 copying images... [ 88%] 188/images/cover.png
-copying images... [ 88%] 2713/images/2713-24.png
-copying images... [ 89%] 354/images/cover.png
-copying images... [ 90%] 354/images/002.png
+copying images... [ 89%] 2713/images/2713-24.png
+copying images... [ 90%] 354/images/cover.png
+copying images... [ 91%] 354/images/002.png
 copying images... [ 91%] 354/images/003.png
 copying images... [ 92%] 354/images/04.png
 copying images... [ 93%] 689/images/01-r.png
-copying images... [ 93%] 689/images/cover-orig.png
-copying images... [ 94%] 689/images/08-l.png
+copying images... [ 94%] 689/images/cover-orig.png
+copying images... [ 95%] 689/images/08-l.png
 copying images... [ 95%] 689/images/06-l.png
 copying images... [ 96%] 689/images/09-r.png
 copying images... [ 97%] 689/images/10-l.png
@@ -697,6 +712,6 @@ copying images... [100%] 689/images/07-l.png
 
 dumping search index in English (code: en)... done
 dumping object inventory... done
-build succeeded, 228 warnings.
+build succeeded, 236 warnings.
 
 The HTML pages are in _build/html.
