@@ -1,33 +1,37 @@
-# Converstion Processs
+# Conversion Route
 
-## copy .adoc files
-
-```
-find ~/antora-nla/modules -name "*.adoc" -exec sh -c '
-    # Extract the module name (the folder immediately after /modules/)
-    module=$(echo "$1" | sed -n "s|.*/modules/\([^/]*\)/.*|\1|p")
-    
-    # Define the target directory in the Sphinx project
-    target_dir="$HOME/sphinx-nla/source/$module"
-    
-    # Create the folder if it does not exist
-    mkdir -p "$target_dir"
-    
-    # Copy the file
-    cp "$1" "$target_dir/"
-' _ {} \;
-```
-
-## Steps
-
-- Run pdoc.sh--does pandoc convert to a markdown flavor similar to MyST.
-- `migrate_to_myst.py` -- converted raw html tables to MyST `{list-table}`
-  or `{eval-rst}` blocks
-- `cleanup_script.py`--fixes the header levels (demoting those accidental
-# titles), strips the 1237/ folder prefixes from the Table of Contents,
-and forces the exact blank lines Sphinx needs to keep from crashing
-- `final_cleanup.py`
+.adoc
+  ↓
+Asciidoctor → DocBook 5
+  ↓
+XSLT (db5to4-core.xsl)
+  ↓
+DocBook 4
+  ↓
+Pandoc
+  ↓
+Markdown/MyST
 
 
+## Setting up the XSLT Piece
 
+1. git clone https://github.com/tomschr/dbcookbook.git && cd dbcookbook
 
+2. cp dbcookbook/en/xml/structure/common/copy.xsl \                                                                                              sphinx-nla
+   dbcookbook/en/xml/structure/db5-to-db4/
+ 
+## The First Two Steps
+
+1. Convert .adoc to DocBook 5:
+
+asciidoctor ~/nla/m/1291/p/contents-list.adoc  -b docbook -o ~/temp/doc5.xml
+
+2. Strip the DocBook 5 Namespace
+
+sed 's/xmlns="http:\/\/docbook.org\/ns\/docbook"//' ~/temp/doc5.xml > ~/temp/doc5-nons.xml
+
+3. Change into the stylesheet directory
+
+4. Run the Transformation
+
+xsltproc db5to4.xsl ~/temp/doc5-nons.xml > ~/temp/doc4.xml
