@@ -38,7 +38,9 @@ python3 convert.py doc4.xml > output.md
 
 Test convert.py more
 
-Convert the pipeline steps into a bash script.
+Convert the pipeline steps into a bash script:
+
+`convert_adoc_to_myst.sh input.adoc`
 
 ## How to Go About Testing convert.py
 
