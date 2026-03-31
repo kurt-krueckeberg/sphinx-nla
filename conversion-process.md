@@ -1,17 +1,11 @@
 # Conversion Route
-
 .adoc
   ↓
 Asciidoctor → DocBook 5
   ↓
-XSLT (db5to4-core.xsl)
+strip namespace + XSLT → DocBook 4
   ↓
-DocBook 4
-  ↓
-Pandoc
-  ↓
-Markdown/MyST
-
+Python script → MyST Markdown
 
 ## Setting up the XSLT Step
 
@@ -22,24 +16,137 @@ This step down-converts DocBook 5 to DocBook 4. It uses a github repo.
 2. cp dbcookbook/en/xml/structure/common/copy.xsl \                                                                                              sphinx-nla
    dbcookbook/en/xml/structure/db5-to-db4/
  
-## The First Two Steps
+## Pipeline
 
-1. Convert .adoc to DocBook 5
+1. AsciiDoc → DocBook 5
+asciidoctor -b docbook input.adoc -o doc5.xml
 
-asciidoctor ~/nla/m/1291/p/contents-list.adoc  -b docbook -o ~/temp/doc5.xml
+2. Strip namespace
+sed 's/xmlns="http:\/\/docbook.org\/ns\/docbook"//' doc5.xml > doc5-nons.xml
 
-2. Strip the DocBook 5 Namespace from doc5.xml
+3. DocBook 5 → DocBook 4
+xsltproc \
+  --path dbcookbook/en/xml/structure/db5-to-db4 \
+  dbcookbook/en/xml/structure/db5-to-db4/db5to4.xsl \
+  doc5-nons.xml > doc4.xml
 
-sed 's/xmlns="http:\/\/docbook.org\/ns\/docbook"//' ~/temp/doc5.xml > ~/temp/doc5-nons.xml
+4. DocBook 4 → MyST
 
-3. Go to the stylesheet directory
+python3 convert.py doc4.xml > output.md
 
-cd dbcookbook/en/xml/structure/db5-to-db4
+## Next Step
 
-4. Run the Transformation
+Test convert.py more
 
-xsltproc db5to4.xsl ~/temp/doc5-nons.xml > ~/temp/doc4.xml
+Convert the pipeline steps into a bash script.
 
-5. Convert to Markdown using convert.py
+## How to Go About Testing convert.py
 
-python3 ~/temp/doc4.xml > contents-list.md
+Yes—that is exactly the correct next step. And more importantly, it’s now a **repeatable pipeline**, not an experiment.
+
+## How to run your next tests (efficiently)
+
+Don’t just “try files”—test systematically.
+
+### Pick 2–3 representative documents:
+
+1. **Simple file**
+
+   * basic paragraphs
+   * 1 simple table (no spans)
+
+2. **Moderate file**
+
+   * multiple tables
+   * xrefs inside tables
+   * images
+
+3. **Complex file**
+
+   * spanning tables
+   * nested sections
+   * mixed content
+
+---
+
+### What to evaluate (strictly)
+
+For each file, check only:
+
+#### 1. Tables
+
+* simple → `list-table`
+* spans → `flat-table`
+* no missing rows or cells
+
+---
+
+#### 2. Links
+
+* internal links → `.md` ✔
+* xrefs → `{ref}` ✔
+
+---
+
+#### 3. Structure
+
+* headings correct level
+* no missing sections
+
+---
+
+#### 4. Images
+
+* correct path
+* captions preserved
+
+---
+
+### What NOT to do
+
+* Don’t generalize early
+* Don’t refactor the script broadly
+* Don’t “improve” working parts
+
+---
+
+### How to handle issues
+
+When something fails:
+
+> isolate → fix → re-run
+
+Example:
+
+* one table breaks → adjust `convert_table()`
+* one inline case fails → adjust `render_inline()`
+
+Each fix should be **local and surgical**
+
+---
+
+## Optional (but very useful)
+
+You may want to wrap your pipeline into a single command:
+
+```bash
+asciidoctor -b docbook input.adoc -o doc5.xml
+sed 's/xmlns="http:\/\/docbook.org\/ns\/docbook"//' doc5.xml > doc5-ns.xml
+xsltproc db5to4.xsl doc5-ns.xml > doc4.xml
+python3 convert.py doc4.xml > output.md
+```
+
+This removes friction and lets you iterate quickly.
+
+---
+
+### Bottom line
+
+> You are no longer searching for a solution—you are now **validating and stabilizing one**.
+
+That’s a fundamentally different phase, and much easier to complete.
+
+---
+
+When you test the next files, bring one failure at a time if needed. Each one will be small and fixable.
+
