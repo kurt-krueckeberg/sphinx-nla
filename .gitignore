@@ -1,0 +1,81 @@
+# =========================
+# Python / virtualenv
+# =========================
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Sphinx build output
+# =========================
+_build/
+build/
+dist/
+
+# =========================
+# Sphinx cache / temp
+# =========================
+.doctrees/
+*.doctree
+
+# =========================
+# OS / editor junk
+# =========================
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# MyST / Markdown artifacts
+# =========================
+# (only if generated during conversion)
+*.bak
+*.tmp
+
+# =========================
+# Antora conversion leftovers
+# =========================
+# (keep if your scripts generated temp files)
+**/node_modules/
+**/.cache/
+
+# =========================
+# Sphinx config overrides (optional)
+# =========================
+# Uncomment if you keep local config out of git
+# conf_local.py
+
+# =========================
+# VS Code / IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# LaTeX output (if building PDF)
+# =========================
+*.aux
+*.toc
+*.out
+*.lof
+*.log
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# =========================
+# Coverage / testing (optional)
+# =========================
+.coverage
+htmlcov/
