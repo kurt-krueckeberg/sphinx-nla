@@ -16,39 +16,30 @@ This step down-converts DocBook 5 to DocBook 4. It uses a github repo.
 2. cp dbcookbook/en/xml/structure/common/copy.xsl \                                                                                              sphinx-nla
    dbcookbook/en/xml/structure/db5-to-db4/
  
-## Pipeline
+## Pipeline Steps
 
 1. AsciiDoc → DocBook 5
+
 asciidoctor -b docbook input.adoc -o doc5.xml
 
-2. Strip namespace
+2. Strip namespace from DocBook 5 file
+
 sed 's/xmlns="http:\/\/docbook.org\/ns\/docbook"//' doc5.xml > doc5-nons.xml
 
 3. DocBook 5 → DocBook 4
+
 xsltproc \
-  --path dbcookbook/en/xml/structure/db5-to-db4 \
-  dbcookbook/en/xml/structure/db5-to-db4/db5to4.xsl \
+  --path $HOME/temp/dbcookbook/en/xml/structure/db5-to-db4 \
+  $HOME/temp/dbcookbook/en/xml/structure/db5-to-db4/db5to4.xsl \
   doc5-nons.xml > doc4.xml
 
 4. DocBook 4 → MyST
 
 python3 convert.py doc4.xml > output.md
 
-## Next Step
+## How to Go About Further Testing convert.py
 
-Test convert.py more
-
-Convert the pipeline steps into a bash script:
-
-`convert_adoc_to_myst.sh input.adoc`
-
-## How to Go About Testing convert.py
-
-Yes—that is exactly the correct next step. And more importantly, it’s now a **repeatable pipeline**, not an experiment.
-
-## How to run your next tests (efficiently)
-
-Don’t just “try files”—test systematically.
+Test systematically by...
 
 ### Pick 2–3 representative documents:
 
@@ -56,18 +47,21 @@ Don’t just “try files”—test systematically.
 
    * basic paragraphs
    * 1 simple table (no spans)
+   * ordered list
+   * unordered list
 
 2. **Moderate file**
 
-   * multiple tables
-   * xrefs inside tables
-   * images
+   - multiple tables
+     - tables with frame=... and grid=...
+   - xrefs inside tables
+   - images
 
 3. **Complex file**
 
-   * spanning tables
-   * nested sections
-   * mixed content
+   - spanning tables
+   - nested sections
+   - mixed content
 
 ---
 
@@ -85,22 +79,22 @@ For each file, check only:
 
 #### 2. Links
 
-* internal links → `.md` ✔
-* xrefs → `{ref}` ✔
+- internal links → `.md` ✔
+- xrefs → `{ref}` ✔
 
 ---
 
 #### 3. Structure
 
-* headings correct level
-* no missing sections
+- headings correct level
+- no missing sections
 
 ---
 
 #### 4. Images
 
-* correct path
-* captions preserved
+- correct path
+- captions preserved
 
 ---
 
