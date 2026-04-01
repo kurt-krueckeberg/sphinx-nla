@@ -20,12 +20,12 @@ def render_inline(elem):
             out += f"{{ref}}`{target}`"
         elif child.tag == "ulink":
             url = child.attrib.get("url", "")
-  
+
             if url.endswith(".xml"):
                 url = url[:-4] + ".md"
-  
+
             label = render_inline(child) or url
-            out += f"[{label}]({url})" 
+            out += f"[{label}]({url})"
         else:
             out += render_inline(child)
 
@@ -127,22 +127,24 @@ def convert_flat_table(elem):
 
     for row in rows:
         out += f"   * - {render_inline(row[0])}\n"
+
         for cell in row[1:]:
             attrs = []
+
             if "morerows" in cell.attrib:
                 try:
                     attrs.append(f":rspan: {int(cell.attrib['morerows'])}")
                 except ValueError:
                     pass
+
             if "namest" in cell.attrib and "nameend" in cell.attrib:
-                # CALS col span is difficult to calculate exactly without colspec lookup.
-                # Mark it as a span placeholder so the cell is not silently flattened.
                 attrs.append(":cspan: 1")
 
+            # --- FIX: always emit a list item ---
             if attrs:
+                out += f"     - {render_inline(cell)}\n"
                 for attr in attrs:
-                    out += f"     {attr}\n"
-                out += f"     {render_inline(cell)}\n"
+                    out += f"       {attr}\n"
             else:
                 out += f"     - {render_inline(cell)}\n"
 
