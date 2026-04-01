@@ -1,5 +1,15 @@
 import xml.etree.ElementTree as ET
 
+def render_link(elem):
+    ulink = elem.find("ulink")
+    if ulink is not None:
+        url = ulink.attrib.get("url", "")
+        if url.endswith(".xml"):
+            url = url[:-4] + ".md"
+        label = "".join(ulink.itertext()).strip()
+
+        return f"[{label or url}]({url})"
+    return ""
 
 def render_inline(elem):
     out = ""
@@ -15,9 +25,11 @@ def render_inline(elem):
                 out += f"**{inner}**"
             else:
                 out += f"*{inner}*"
+
         elif child.tag == "xref":
             target = child.attrib.get("linkend", "")
             out += f"{{ref}}`{target}`"
+
         elif child.tag == "ulink":
             url = child.attrib.get("url", "")
 
@@ -26,13 +38,33 @@ def render_inline(elem):
 
             label = render_inline(child) or url
             out += f"[{label}]({url})"
+
+        elif child.tag == "link":
+            out += render_link(child)
+
         else:
             out += render_inline(child)
 
-        if child.tail:
-            out += child.tail.lstrip()
+        if child.tag != "link" and child.tail:
+            out += child.tail
 
-    return out.strip()
+    return out.strip() if elem.tag in ("para", "simpara") else out
+
+
+def render_cell_paragraphs(elem):
+    paras = []
+
+    for child in elem:
+        if child.tag in ("simpara", "para"):
+            text = render_inline(child)
+            if text:
+                paras.append(text)
+
+    if paras:
+        return paras
+
+    text = render_inline(elem)
+    return [text] if text else [""]
 
 
 def convert_image(elem):
@@ -99,6 +131,47 @@ def get_rows(elem):
     return rows
 
 
+def emit_list_table_cell(paras, indent):
+    out = f"{indent}- {paras[0]}\n"
+    for para in paras[1:]:
+        out += f"{indent}  \n"
+        out += f"{indent}  {para}\n"
+    return out
+
+
+def emit_flat_table_cell(cell, indent):
+    attrs = []
+
+    if "morerows" in cell.attrib:
+        try:
+            attrs.append(f":rspan: {int(cell.attrib['morerows'])}")
+        except ValueError:
+            pass
+
+    if "namest" in cell.attrib and "nameend" in cell.attrib:
+        attrs.append(":cspan: 1")
+
+    paras = render_cell_paragraphs(cell)
+    out = ""
+
+    if attrs:
+        out += f"{indent}- {paras[0]}\n"
+    
+        for para in paras[1:]:
+            out += f"{indent}  \n"
+            out += f"{indent}  {para}\n"
+    
+        for attr in attrs:
+            out += f"{indent}  {attr}\n"
+    else:
+        out += f"{indent}- {paras[0]}\n"
+        for para in paras[1:]:
+            out += f"{indent}  \n"
+            out += f"{indent}  {para}\n"
+
+    return out
+
+
 def convert_simple_list_table(elem):
     rows = get_rows(elem)
     if not rows:
@@ -108,47 +181,17 @@ def convert_simple_list_table(elem):
     out += ":header-rows: 1\n\n"
 
     for row in rows:
-        out += f"* - {render_inline(row[0])}\n"
+        first_paras = render_cell_paragraphs(row[0])
+        out += f"* - {first_paras[0]}\n"
+        for para in first_paras[1:]:
+            out += f"    \n"
+            out += f"    {para}\n"
+
         for cell in row[1:]:
-            out += f"  - {render_inline(cell)}\n"
+            paras = render_cell_paragraphs(cell)
+            out += emit_list_table_cell(paras, "  ")
 
     out += ":::\n\n"
-    return out
-
-
-def convert_flat_table(elem):
-    rows = get_rows(elem)
-    if not rows:
-        return ""
-
-    out = "```{eval-rst}\n"
-    out += ".. flat-table::\n"
-    out += "   :header-rows: 1\n\n"
-
-    for row in rows:
-        out += f"   * - {render_inline(row[0])}\n"
-
-        for cell in row[1:]:
-            attrs = []
-
-            if "morerows" in cell.attrib:
-                try:
-                    attrs.append(f":rspan: {int(cell.attrib['morerows'])}")
-                except ValueError:
-                    pass
-
-            if "namest" in cell.attrib and "nameend" in cell.attrib:
-                attrs.append(":cspan: 1")
-
-            # --- FIX: always emit a list item ---
-            if attrs:
-                out += f"     - {render_inline(cell)}\n"
-                for attr in attrs:
-                    out += f"       {attr}\n"
-            else:
-                out += f"     - {render_inline(cell)}\n"
-
-    out += "```\n\n"
     return out
 
 
