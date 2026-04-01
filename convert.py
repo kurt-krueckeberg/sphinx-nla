@@ -156,19 +156,21 @@ def emit_flat_table_cell(cell, indent):
 
     if attrs:
         out += f"{indent}- {paras[0]}\n"
-    
+  
         for para in paras[1:]:
-            out += f"{indent}  \n"
-            out += f"{indent}  {para}\n"
-    
+          out += f"{indent}  \n"
+          for line in para.splitlines():
+              out += f"{indent}  {line}\n"
+  
         for attr in attrs:
             out += f"{indent}  {attr}\n"
     else:
         out += f"{indent}- {paras[0]}\n"
         for para in paras[1:]:
             out += f"{indent}  \n"
-            out += f"{indent}  {para}\n"
-
+            for line in para.splitlines():
+                out += f"{indent}  {line}\n"         
+    
     return out
 
 
