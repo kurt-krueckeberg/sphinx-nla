@@ -30,7 +30,7 @@ def render_inline(elem):
             out += render_inline(child)
 
         if child.tail:
-            out += child.tail
+            out += child.tail.lstrip()
 
     return out.strip()
 
