@@ -4,6 +4,7 @@ set -euo pipefail
 
 OUTPUT_OVERRIDE=""
 INPUT=""
+DEBUG="${DEBUG:-0}"
 
 # --- Parse args (order-independent) ---
 while [[ $# -gt 0 ]]; do
@@ -37,17 +38,25 @@ fi
 
 # --- Derive names ---
 BASENAME="$(basename "$INPUT" .adoc)"
-WORKDIR="$(dirname "$INPUT")"
 
-DOC5="$WORKDIR/doc5.xml"
-DOC5_NONS="$WORKDIR/doc5-nons.xml"
-DOC4="$WORKDIR/doc4.xml"
+# --- Temp working directory ---
+TMPDIR="$(mktemp -d)"
+
+if [[ "$DEBUG" -eq 1 ]]; then
+  echo "DEBUG: using temp dir: $TMPDIR"
+else
+  trap 'rm -rf "$TMPDIR"' EXIT
+fi
+
+DOC5="$TMPDIR/doc5.xml"
+DOC5_NONS="$TMPDIR/doc5-nons.xml"
+DOC4="$TMPDIR/doc4.xml"
 
 # --- Output handling ---
 if [[ -n "$OUTPUT_OVERRIDE" ]]; then
   OUTPUT_MD="$OUTPUT_OVERRIDE"
 else
-  OUTPUT_MD="$WORKDIR/${BASENAME}.md"
+  OUTPUT_MD="$(dirname "$INPUT")/${BASENAME}.md"
 fi
 
 # --- Configure dbcookbook location ---

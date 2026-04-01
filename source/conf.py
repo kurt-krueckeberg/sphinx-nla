@@ -27,6 +27,15 @@ myst_enable_extensions = [
     "substitution",
 ]
 
+source_suffix = {
+    ".rst": "restructuredtext",
+    ".md": "markdown",
+}
+
+master_doc = "index"
+myst_heading_anchors = 3
+nitpicky = True
+
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
@@ -41,7 +50,6 @@ html_static_path = ['_static']
 html_css_files = [
     'custom.css',
 ]
-
 html_theme_options = {
     "show_navbar_depth": 2,
     "home_page_in_toc": True,
