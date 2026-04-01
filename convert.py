@@ -208,6 +208,27 @@ def convert_table(elem):
         return caption + "\n\n" + out
     return out
 
+def convert_flat_table(elem):
+    rows = get_rows(elem)
+    if not rows:
+        return ""
+
+    out = "```{eval-rst}\n"
+    out += ".. flat-table::\n"
+    out += "   :header-rows: 1\n\n"
+
+    for row in rows:
+        first_paras = render_cell_paragraphs(row[0])
+        out += f"   * - {first_paras[0]}\n"
+        for para in first_paras[1:]:
+            out += f"       \n"
+            out += f"       {para}\n"
+
+        for cell in row[1:]:
+            out += emit_flat_table_cell(cell, "     ")
+
+    out += "```\n\n"
+    return out
 
 def convert_element(elem, level=1):
     out = ""
