@@ -54,5 +54,4 @@ html_theme_options = {
     "show_navbar_depth": 2,
     "home_page_in_toc": True,
     "use_download_button": True,
-    "content_footer_extra": "Archive Documentation Project",
 }
