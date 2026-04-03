@@ -9,7 +9,6 @@ Provide AsciiDoc excerpts of
 - description list used for glossaries
 - link:https://....[Some website]
 - cross references to other "modules" with the same project.
-- Admonitions: Important, Note, other
 - sidebars
 
 

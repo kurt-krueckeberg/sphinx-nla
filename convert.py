@@ -10,10 +10,20 @@ def render_link(elem):
         url = ulink.attrib.get("url", "")
         if url.endswith(".xml"):
             url = url[:-4] + ".md"
+
         label = "".join(ulink.itertext()).strip()
+        label = escape_markdown_link_text(label)
 
         return f"[{label or url}]({url})"
     return ""
+
+def escape_markdown_link_text(text):
+    """
+    Escape characters that are significant inside Markdown link text.
+    """
+    if not text:
+        return text
+    return text.replace("\\", "\\\\").replace("[", "\\[").replace("]", "\\]")
 
 def render_inline(elem):
     out = ""
@@ -41,8 +51,9 @@ def render_inline(elem):
                 url = url[:-4] + ".md"
 
             label = render_inline(child) or url
+            label = escape_markdown_link_text(label)
             out += f"[{label}]({url})"
-
+        
         elif child.tag == "link":
             out += render_link(child)
 
