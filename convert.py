@@ -265,11 +265,31 @@ def convert_element(elem, level=1):
     if elem.tag == "orderedlist":
         return out + convert_orderedlist(elem)
 
+    if elem.tag == "literallayout":
+        text = elem.text or ""
+
+        classes = []
+        role = elem.attrib.get("role", "").strip()
+        class_attr = elem.attrib.get("class", "").strip()
+
+        if role:
+            classes.append(role)
+
+        if class_attr:
+            classes.extend(class_attr.split())
+
+        out += "```{code-block} text\n"
+        if classes:
+            out += f":class: {' '.join(classes)}\n"
+        out += "\n"
+        out += text.rstrip("\n")
+        out += "\n```\n\n"
+        return out
+
     for child in elem:
         out += convert_element(child, level)
 
     return out
-
 
 def convert(doc):
     root = ET.parse(doc).getroot()
