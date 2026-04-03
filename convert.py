@@ -313,6 +313,20 @@ def table_width_from_pi(elem):
     """
     return elem.attrib.get("_table_width")
 
+def header_rows_from_table(elem):
+    """
+    Return the number of header rows based on the DocBook table structure.
+
+    For now, treat the presence of <thead> as one header row.
+    If there is no <thead>, return 0.
+    """
+    thead = elem.find(".//thead")
+    if thead is None:
+        return 0
+
+    rows = thead.findall("row")
+    return len(rows) if rows else 1
+
 def convert_simple_list_table(elem):
     rows = get_rows(elem)
     if not rows:
@@ -328,7 +342,11 @@ def convert_simple_list_table(elem):
     if widths:
         out += f":widths: {widths}\n"
 
-    out += ":header-rows: 1\n\n"
+    header_rows = header_rows_from_table(elem)
+    if header_rows > 0:
+        out += f":header-rows: {header_rows}\n"
+
+    out += "\n"
 
     for row in rows:
         first_paras = render_cell_paragraphs(row[0])
