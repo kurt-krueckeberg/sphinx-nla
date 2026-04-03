@@ -87,6 +87,40 @@ def render_blocks(elem, level=1):
         out += convert_element(child, level)
     return out
 
+def convert_blockquote(elem):
+    parts = []
+
+    attribution = elem.find("attribution")
+    if attribution is not None:
+        attr_text = render_inline(attribution).strip()
+        if attr_text:
+            parts.append(f"-- {attr_text}")
+
+    for child in elem:
+        if child.tag == "attribution":
+            continue
+        if child.tag in ("para", "simpara"):
+            text = render_inline(child).strip()
+            if text:
+                parts.append(text)
+        else:
+            rendered = convert_element(child).rstrip()
+            if rendered:
+                parts.append(rendered)
+
+    if not parts:
+        return ""
+
+    out = ""
+    for i, part in enumerate(parts):
+        for line in part.splitlines():
+            out += f"> {line}\n" if line.strip() else ">\n"
+        if i != len(parts) - 1:
+            out += ">\n"
+
+    out += "\n"
+    return out
+
 def convert_variablelist(elem):
     out = ""
 
@@ -529,6 +563,9 @@ def convert_element(elem, level=1):
 
     if elem.tag == "variablelist":
         return out + convert_variablelist(elem)
+
+    if elem.tag == "blockquote":
+        return out + convert_blockquote(elem)
 
     if elem.tag in ("note", "tip", "important", "warning", "caution"):
         return out + convert_admonition(elem)
