@@ -1,4 +1,8 @@
 import xml.etree.ElementTree as ET
+import re
+from decimal import Decimal, InvalidOperation
+from math import gcd
+from functools import reduce
 
 def render_link(elem):
     ulink = elem.find("ulink")
@@ -130,6 +134,105 @@ def get_rows(elem):
             rows.append(cells)
     return rows
 
+def parse_colwidth_value(colwidth):
+    """
+    Parse DocBook colwidth values like:
+      17*
+      72.25*
+      42.5*
+    Return Decimal or None.
+    """
+    if not colwidth:
+        return None
+
+    value = colwidth.strip()
+
+    m = re.fullmatch(r'([0-9]+(?:\.[0-9]+)?)\*', value)
+    if m:
+        try:
+            return Decimal(m.group(1))
+        except InvalidOperation:
+            return None
+
+    m = re.fullmatch(r'([0-9]+(?:\.[0-9]+)?)', value)
+    if m:
+        try:
+            return Decimal(m.group(1))
+        except InvalidOperation:
+            return None
+
+    return None
+
+
+def decimals_to_scaled_ints(values):
+    """
+    Convert Decimals to integers by scaling to the maximum number
+    of decimal places present.
+    Example: [42.5, 85, 297.5] -> [425, 850, 2975]
+    """
+    exponents = [abs(v.as_tuple().exponent) for v in values]
+    scale = max(exponents) if exponents else 0
+    factor = Decimal(10) ** scale
+    return [int(v * factor) for v in values]
+
+
+def reduce_ratio(ints):
+    """
+    Reduce a list of integers to lowest whole-number ratio.
+    Example: [425, 850, 2975] -> [1, 2, 7]
+    """
+    g = reduce(gcd, ints)
+    if g == 0:
+        return ints
+    return [n // g for n in ints]
+
+
+def widths_from_colspecs(elem, prefer_ratio=True):
+    """
+    Read <colspec colwidth="..."> and return a MyST widths string.
+
+    If prefer_ratio is True, return the lowest whole-number ratio:
+      42.5*,85*,297.5* -> '1 2 7'
+
+    Otherwise return integer percentages:
+      17*,72.25*,335.75* -> '4 17 79'
+    """
+    tgroup = elem.find("tgroup")
+    if tgroup is None:
+        return None
+
+    colspecs = tgroup.findall("colspec")
+    if not colspecs:
+        return None
+
+    raw = []
+    for colspec in colspecs:
+        w = parse_colwidth_value(colspec.attrib.get("colwidth", ""))
+        if w is None:
+            return None
+        raw.append(w)
+
+    if not raw:
+        return None
+
+    if prefer_ratio:
+        ints = decimals_to_scaled_ints(raw)
+        ratio = reduce_ratio(ints)
+        return " ".join(str(x) for x in ratio)
+
+    total = sum(raw)
+    if total == 0:
+        return None
+
+    exact = [(w * Decimal("100")) / total for w in raw]
+    rounded = [int(x.to_integral_value(rounding="ROUND_HALF_UP")) for x in exact]
+
+    diff = 100 - sum(rounded)
+    if diff != 0:
+        rounded[-1] += diff
+
+    rounded = [max(1, x) for x in rounded]
+    return " ".join(str(x) for x in rounded)
 
 def emit_list_table_cell(paras, indent):
     out = f"{indent}- {paras[0]}\n"
@@ -173,13 +276,17 @@ def emit_flat_table_cell(cell, indent):
     
     return out
 
-
 def convert_simple_list_table(elem):
     rows = get_rows(elem)
     if not rows:
         return ""
 
     out = "::: {list-table}\n"
+
+    widths = widths_from_colspecs(elem, prefer_ratio=True)
+    if widths:
+        out += f":widths: {widths}\n"
+
     out += ":header-rows: 1\n\n"
 
     for row in rows:
@@ -195,7 +302,6 @@ def convert_simple_list_table(elem):
 
     out += ":::\n\n"
     return out
-
 
 def convert_table(elem):
     title = elem.find("title")
