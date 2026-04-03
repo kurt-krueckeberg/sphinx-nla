@@ -87,6 +87,63 @@ def render_blocks(elem, level=1):
         out += convert_element(child, level)
     return out
 
+def is_sidebar_subtitle_candidate(elem):
+    if elem.tag not in ("para", "simpara"):
+        return False
+
+    if (elem.text or "").strip():
+        return False
+
+    children = list(elem)
+    if len(children) != 1:
+        return False
+
+    child = children[0]
+    if child.tag != "emphasis":
+        return False
+
+    if child.attrib.get("role", "") != "strong":
+        return False
+
+    if (child.tail or "").strip():
+        return False
+
+    return True
+
+def convert_sidebar(elem):
+    title_elem = elem.find("title")
+    title = render_inline(title_elem).strip() if title_elem is not None else ""
+
+    subtitle = None
+    body_children = []
+    seen_title = False
+    subtitle_consumed = False
+
+    for child in elem:
+        if child.tag == "title" and not seen_title:
+            seen_title = True
+            continue
+
+        if not subtitle_consumed and is_sidebar_subtitle_candidate(child):
+            subtitle = "".join(child.itertext()).strip()
+            subtitle_consumed = True
+            continue
+
+        body_children.append(child)
+
+    out = f"::::{{sidebar}} {title}\n"
+    if subtitle:
+        out += f":subtitle: {subtitle}\n"
+    out += "\n"
+
+    for child in body_children:
+        rendered = convert_element(child)
+        if rendered:
+            out += rendered
+
+    out += "::::\n\n"
+    return out
+
 def convert_blockquote(elem):
     parts = []
 
@@ -563,6 +620,9 @@ def convert_element(elem, level=1):
 
     if elem.tag == "variablelist":
         return out + convert_variablelist(elem)
+
+    if elem.tag == "sidebar":
+        return out + convert_sidebar(elem)
 
     if elem.tag == "blockquote":
         return out + convert_blockquote(elem)
