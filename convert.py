@@ -81,6 +81,61 @@ def render_cell_paragraphs(elem):
     text = render_inline(elem)
     return [text] if text else [""]
 
+def render_blocks(elem, level=1):
+    out = ""
+    for child in elem:
+        out += convert_element(child, level)
+    return out
+
+def convert_variablelist(elem):
+    out = ""
+
+    for entry in elem.findall("varlistentry"):
+        terms = []
+        for term in entry.findall("term"):
+            text = render_inline(term).strip()
+            if text:
+                terms.append(text)
+
+        listitem = entry.find("listitem")
+        if listitem is None:
+            continue
+
+        paras = []
+        other_blocks = []
+
+        for child in listitem:
+            if child.tag in ("para", "simpara"):
+                text = render_inline(child).strip()
+                if text:
+                    paras.append(text)
+            else:
+                rendered = convert_element(child).rstrip()
+                if rendered:
+                    other_blocks.append(rendered)
+
+        if not terms:
+            continue
+
+        for term in terms:
+            out += f"{term}\n"
+
+        if paras:
+            out += f": {paras[0]}\n"
+            for para in paras[1:]:
+                out += "\n"
+                out += f"  {para}\n"
+        else:
+            out += ": \n"
+
+        for block in other_blocks:
+            out += "\n"
+            for line in block.splitlines():
+                out += f"  {line}\n"
+
+        out += "\n"
+
+    return out
 
 def convert_image(elem):
     img = elem.find(".//imagedata")
@@ -471,6 +526,9 @@ def convert_element(elem, level=1):
 
     if elem.tag == "orderedlist":
         return out + convert_orderedlist(elem)
+
+    if elem.tag == "variablelist":
+        return out + convert_variablelist(elem)
 
     if elem.tag in ("note", "tip", "important", "warning", "caution"):
         return out + convert_admonition(elem)
