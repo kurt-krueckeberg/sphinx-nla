@@ -3,6 +3,7 @@
 set -euo pipefail
 
 OUTPUT_OVERRIDE=""
+DOC4_DIR_OVERRIDE=""
 INPUT=""
 DEBUG="${DEBUG:-0}"
 
@@ -13,9 +14,13 @@ while [[ $# -gt 0 ]]; do
       OUTPUT_OVERRIDE="$2"
       shift 2
       ;;
+    --doc4-dir)
+      DOC4_DIR_OVERRIDE="$2"
+      shift 2
+      ;;
     -*)
       echo "Unknown option: $1"
-      echo "Usage: $0 [-o output.md] <input.adoc>"
+      echo "Usage: $0 [-o output.md] [--doc4-dir /path/to/folder] <input.adoc>"
       exit 1
       ;;
     *)
@@ -27,7 +32,7 @@ done
 
 # --- Input validation ---
 if [[ -z "$INPUT" ]]; then
-  echo "Usage: $0 [-o output.md] <input.adoc>"
+  echo "Usage: $0 [-o output.md] [--doc4-dir /path/to/folder] <input.adoc>"
   exit 1
 fi
 
@@ -50,7 +55,14 @@ fi
 
 DOC5="$TMPDIR/doc5.xml"
 DOC5_NONS="$TMPDIR/doc5-nons.xml"
-DOC4="$TMPDIR/doc4.xml"
+
+# --- doc4 output handling ---
+if [[ -n "$DOC4_DIR_OVERRIDE" ]]; then
+  mkdir -p "$DOC4_DIR_OVERRIDE"
+  DOC4="$DOC4_DIR_OVERRIDE/doc4.xml"
+else
+  DOC4="$TMPDIR/doc4.xml"
+fi
 
 # --- Output handling ---
 if [[ -n "$OUTPUT_OVERRIDE" ]]; then
@@ -86,3 +98,4 @@ xsltproc \
 python3 ~/snla/convert.py "$DOC4" > "$OUTPUT_MD"
 
 echo "Done: $OUTPUT_MD"
+echo "DocBook 4 file: $DOC4"
