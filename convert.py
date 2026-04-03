@@ -5,6 +5,7 @@ from math import gcd
 from functools import reduce
 
 def render_link(elem):
+    # External link wrapped in <link><ulink ...>...</ulink></link>
     ulink = elem.find("ulink")
     if ulink is not None:
         url = ulink.attrib.get("url", "")
@@ -15,6 +16,14 @@ def render_link(elem):
         label = escape_markdown_link_text(label)
 
         return f"[{label or url}]({url})"
+
+    # Internal DocBook link: <link linkend="...">label</link>
+    linkend = elem.attrib.get("linkend", "").strip()
+    if linkend:
+        label = render_inline(elem).strip() or linkend
+        label = escape_markdown_link_text(label)
+        return f"[{label}](#{linkend})"
+
     return ""
 
 def escape_markdown_link_text(text):
@@ -60,7 +69,7 @@ def render_inline(elem):
         else:
             out += render_inline(child)
 
-        if child.tag != "link" and child.tail:
+        if child.tail:
             out += child.tail
 
     return out.strip() if elem.tag in ("para", "simpara") else out
@@ -225,6 +234,67 @@ def convert_variablelist(elem):
                 out += f"  {line}\n"
 
         out += "\n"
+
+    return out
+
+def convert_anchor(elem):
+    anchor_id = elem.attrib.get("id", "").strip()
+    if not anchor_id:
+        return ""
+    return f"({anchor_id})="
+
+def convert_bibliography(elem, level=1):
+    out = ""
+
+    if "id" in elem.attrib:
+        out += f"({elem.attrib['id']})=\n\n"
+
+    title = elem.find("title")
+    if title is not None:
+        out += "#" * level + " " + render_inline(title) + "\n\n"
+
+    for child in elem:
+        if child.tag == "title":
+            continue
+        rendered = convert_element(child, level + 1)
+        if rendered:
+            out += rendered
+
+    return out
+
+def convert_bibliomixed(elem):
+    parts = []
+
+    for child in elem:
+        if child.tag == "anchor":
+            rendered = convert_anchor(child)
+            if rendered:
+                parts.append(rendered)
+        elif child.tag in ("bibliomisc", "simpara", "para"):
+            text = render_inline(child).strip()
+            if text:
+                parts.append(text)
+        else:
+            rendered = convert_element(child).strip()
+            if rendered:
+                parts.append(rendered)
+
+    if not parts:
+        return ""
+
+    return "\n\n".join(parts) + "\n\n"
+
+def convert_bibliodiv(elem, level=1):
+    out = ""
+
+    title = elem.find("title")
+    if title is not None:
+        out += "#" * level + " " + render_inline(title) + "\n\n"
+
+    for child in elem:
+        if child.tag == "title":
+            continue
+        out += convert_element(child, level)
 
     return out
 
@@ -626,6 +696,22 @@ def convert_element(elem, level=1):
 
     if elem.tag == "blockquote":
         return out + convert_blockquote(elem)
+
+    if elem.tag == "bibliography":
+        return out + convert_bibliography(elem, level)
+
+    if elem.tag == "bibliodiv":
+        return out + convert_bibliodiv(elem, level + 1)
+
+    if elem.tag == "bibliomixed":
+        return out + convert_bibliomixed(elem)
+
+    if elem.tag == "bibliomisc":
+        text = render_inline(elem).strip()
+        return out + (text + "\n\n" if text else "")
+
+    if elem.tag == "anchor":
+        return out + convert_anchor(elem) + "\n\n"
 
     if elem.tag in ("note", "tip", "important", "warning", "caution"):
         return out + convert_admonition(elem)
