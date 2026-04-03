@@ -276,12 +276,53 @@ def emit_flat_table_cell(cell, indent):
     
     return out
 
+def parse_docbook_with_table_widths(doc):
+    """
+    Parse the DocBook file while preserving table-width processing instructions
+    like <?dbhtml table-width="100%"?> by attaching the discovered width to
+    the currently open table/informaltable element as a synthetic attribute
+    named _table_width.
+    """
+    root = None
+    table_stack = []
+
+    for event, node in ET.iterparse(doc, events=("start", "end", "pi")):
+        if event == "start":
+            if root is None:
+                root = node
+
+            if node.tag in ("table", "informaltable"):
+                table_stack.append(node)
+
+        elif event == "pi":
+            text = getattr(node, "text", "") or ""
+            m = re.search(r'table-width="([^"]+)"', text)
+            if m and table_stack:
+                table_stack[-1].attrib["_table_width"] = m.group(1)
+
+        elif event == "end":
+            if node.tag in ("table", "informaltable"):
+                if table_stack and table_stack[-1] is node:
+                    table_stack.pop()
+
+    return root
+
+def table_width_from_pi(elem):
+    """
+    Return a table width such as '100%' if one was attached during parsing.
+    """
+    return elem.attrib.get("_table_width")
+
 def convert_simple_list_table(elem):
     rows = get_rows(elem)
     if not rows:
         return ""
 
     out = "::: {list-table}\n"
+
+    table_width = table_width_from_pi(elem)
+    if table_width:
+        out += f":width: {table_width}\n"
 
     widths = widths_from_colspecs(elem, prefer_ratio=True)
     if widths:
@@ -389,7 +430,7 @@ def convert_element(elem, level=1):
     return out
 
 def convert(doc):
-    root = ET.parse(doc).getroot()
+    root = parse_docbook_with_table_widths(doc) 
     out = ""
 
     title = root.find("title")
