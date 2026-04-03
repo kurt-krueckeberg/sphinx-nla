@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?><?asciidoc-numbered?><article xmlns:xl="http://www.w3.org/1999/xlink" lang="en">
+  <info>
+    <title>Table with No Header</title>
+    <date>2026-04-03</date>
+  </info>
+  <section id="_sample_table">
+    <title>Sample Table</title>
+    <informaltable frame="all" rowsep="1" colsep="1">
+      <?dbhtml table-width="100%"?>
+      <?dbfo table-width="100%"?>
+      <?dblatex table-width="100%"?>
+      <tgroup cols="3">
+        <colspec colname="col_1" colwidth="42.5*"/>
+        <colspec colname="col_2" colwidth="85*"/>
+        <colspec colname="col_3" colwidth="297.5*"/>
+        <tbody>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>
+                <emphasis role="strong">3</emphasis>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>11 Mar 1799</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara><emphasis>Concept Cammer Rescript</emphasis> to the Bückeburg Office,
+ordering implementation of the Chamber’s decision following the 27 Feb
+1799 Office report. Signed <quote>Anstatt pp Hering Riehe MKaas Emmerwarth v.
+Landesberg.</quote></simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>
+                <emphasis role="strong">4</emphasis>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>18 Oct 1800</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara><emphasis>Report of the same officials</emphasis>, apparently confirming
+execution or boundaries of the assigned plot.</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>
+                <emphasis role="strong">4½</emphasis>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>(undated)</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara><emphasis>Lieutenant Funck’s report</emphasis> on measurement or
+valuation of the land. Usually attached to #4.</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>
+                <emphasis role="strong">5</emphasis>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>27 Oct 1800</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara><emphasis>Concept Cammer Rescript</emphasis> to the Bückeburg Office and to
+Chamber treasurer Stackmann, authorizing preparation of the purchase
+deed; closing line <quote>Grafl: p MKaas Wint J. Danckwerth.</quote></simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>
+                <emphasis role="strong">6</emphasis>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>1 Dec 1800</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara><emphasis>Concept Kaufbrief</emphasis> (draft purchase letter) from the
+Rentkammer to Colon Krückeberg, finalizing the transfer of the small
+plot.</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry align="left" valign="top">
+              <simpara>
+                <emphasis role="strong">7</emphasis>
+              </simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>(if present—often cover note or filing slip)</simpara>
+            </entry>
+            <entry align="left" valign="top">
+              <simpara>Final filing or
+acknowledgment of execution.</simpara>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+  </section>
+  <section id="_sample_admonitions">
+    <title>Sample Admonitions</title>
+    <important>
+      <simpara>This is a something important you should know when reading
+the next section.</simpara>
+    </important>
+    <note>
+      <simpara>This is a note about something you should keep in mind when reading
+the next section.</simpara>
+    </note>
+    <tip>
+      <simpara>This is a tip to help make something clear!</simpara>
+    </tip>
+    <important>
+      <simpara>This is a something important you should know when reading
+the next section.</simpara>
+    </important>
+    <note>
+      <simpara>This is a note about something you should keep in mind when reading
+the next section.</simpara>
+    </note>
+    <tip>
+      <simpara>This is a tip to help make something clear!</simpara>
+    </tip>
+  </section>
+</article>

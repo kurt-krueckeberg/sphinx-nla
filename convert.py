@@ -125,6 +125,37 @@ def table_has_spans(elem):
             return True
     return False
 
+def convert_admonition(elem):
+    tag_to_name = {
+        "note": "note",
+        "tip": "tip",
+        "important": "important",
+        "warning": "warning",
+        "caution": "caution",
+    }
+
+    admonition_type = tag_to_name.get(elem.tag)
+    if not admonition_type:
+        return ""
+
+    out = f"```{{{admonition_type}}}\n"
+
+    paras = []
+    for child in elem:
+        if child.tag in ("simpara", "para"):
+            text = render_inline(child)
+            if text:
+                paras.append(text)
+        else:
+            rendered = convert_element(child)
+            if rendered.strip():
+                paras.append(rendered.strip())
+
+    if paras:
+        out += "\n\n".join(paras) + "\n"
+
+    out += "```\n\n"
+    return out
 
 def get_rows(elem):
     rows = []
@@ -429,6 +460,9 @@ def convert_element(elem, level=1):
 
     if elem.tag == "orderedlist":
         return out + convert_orderedlist(elem)
+
+    if elem.tag in ("note", "tip", "important", "warning", "caution"):
+        return out + convert_admonition(elem)
 
     if elem.tag == "literallayout":
         text = elem.text or ""

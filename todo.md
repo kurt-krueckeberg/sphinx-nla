@@ -10,7 +10,6 @@ Provide AsciiDoc excerpts of
 - link:https://....[Some website]
 - cross references to other "modules" with the same project.
 - Admonitions: Important, Note, other
-- blockquotes
 - sidebars
 
 
