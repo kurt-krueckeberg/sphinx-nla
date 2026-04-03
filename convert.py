@@ -267,23 +267,14 @@ def convert_element(elem, level=1):
 
     if elem.tag == "literallayout":
         text = elem.text or ""
-
-        classes = []
         role = elem.attrib.get("role", "").strip()
-        class_attr = elem.attrib.get("class", "").strip()
-
-        if role:
-            classes.append(role)
-
-        if class_attr:
-            classes.extend(class_attr.split())
 
         out += "```{code-block} text\n"
-        if classes:
-            out += f":class: {' '.join(classes)}\n"
+        if role:
+            out += f":class: {role}\n"
         out += "\n"
         out += text.rstrip("\n")
-        out += "\n```\n\n"
+        out += "\n```\n\n" 
         return out
 
     for child in elem:
