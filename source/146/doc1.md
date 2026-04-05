@@ -1,0 +1,196 @@
+# Document 1
+
+(_overview)=
+
+## Overview
+
+This is Schneider Krückeberg’s petition to purchase a tenancy holding on land
+where he can build a future home that was presented to the Rentkammer on 30
+September 1808.
+
+The Rentkammer’s response is written just below the petition’s salutation.
+
+(_hans_heinrich_wilharm_was_one_of_carl_friedrich_born_1807_baptismal_sponsors)=
+
+### Hans Heinrich Wilharm was one of Carl Friedrich (born 1807) Baptismal Sponsors
+
+We know that when Carl Friedrich Krückeberg was
+[born in 1807](genealogy:petzen:PET-B-1807a.md), one of his
+[baptismal sponsors](genealogy:petzen:PET-B-1807a.md) was Hans Heinrich
+Wilharm of no. 11 Evesen.
+
+Hans Heinrich Wilharm was [born in
+Berenbusch in 1760](genealogy:petzen:PET-B-1760a.md), and in 1796 he
+[married Anne Marie Philippine Blecke
+of no. 11 Evesen](genealogy:petzen:PET-M-1796a.md). She died after giving birth to their son
+Hans Heinrich Wilharm], who was [born
+11 April 1797](genealogy:petzen:PET-B-1797a.md) at no. 11 Evesen. Later the same year, her husband
+[remarried to Sophie Ernestine
+Blecke](genealogy:petzen:PET-M-1797a.md), who had been living with them already.
+
+The birth records of their daughter Anne Marie
+Christine, [born in 1798](genealogy:petzen:PET-B-1798c.md), and their
+son Carl Heinrich, [born in 1810](genealogy:petzen:PET-B-1810a.md),
+show the family:
+
+- continued to live a no. 11 Evesen
+- Hans Heinrich was the Colon (Stätte holder) of no. 11 Evesen
+- He worked as an Ackermann (farmer) in 1810.
+
+(_response)=
+
+## Response
+
+The Rentkammer asked the Bückeburg Amt (administrative office) to report on
+the " financial circumstances and on the personal qualities of the petitioner."
+
+(_petition_cover_page)=
+
+## Petition Cover Page
+
+```{figure} images/05-l.png
+```
+
+```{note}
+Petition cover pages typically identify individuals by occupation and place
+of association, which may reflect where they worked, were registered, or
+were administratively known, and does not always prove their legal
+residence. The label “des Schneiders Krückeberg in Evesen” therefore
+indicates that Krückeberg was known as a tailor in Evesen but does not by
+itself establish domicile there. Consistent church records identifying
+Krückeberg as resident at Berenbusch No. 10 carry greater evidentiary
+weight for determining residence.
+```
+
+(_transliteration_and_translation_of_petition_cover_page)=
+
+## Transliteration and Translation of Petition Cover Page
+
+Transliteration
+
+```{code-block} text
+
+An Fürstl[iche]. Rentkammer
+
+des Schneiders Krückeberg
+in Evesen
+
+Unterthänigste Vorstellung
+und Bitte
+
+gnädigste Überlassung
+eines Platzes zum Hausbau
+```
+
+Translation
+
+```{code-block} text
+
+To
+the Princely Rent Chamber
+
+of the tailor Krückeberg
+in Evesen
+
+Most humble petition
+and request
+
+for the gracious granting
+of a plot of land for the construction of a house
+```
+
+(_images_for_petition_submitted_by_the_tailor_krückeberg_in_evesen)=
+
+## Images for Petition submitted by the tailor Krückeberg in Evesen
+
+```{figure} images/02-r.png
+```
+
+```{figure} images/03-l.png
+```
+
+See [Corrections to Text](https://chatgpt.com/share/694485ae-3bec-8004-961e-67d320e050d3)
+
+(_transliteration_and_translation)=
+
+## Transliteration and Translation
+
+Transliteration
+
+```{code-block} text
+
+Nr. Cam. 260.                         praes. 30. Sept. 1808.
+
+
+Durchlauchtigster Fürst.
+Gnädigst regierender Fürst
+und Herr!
+
+[Four-letter marginal filing and routing marks
+without semantic relevance to the case content]
+
+Res: Cam: Dem Amte brevi manu zum Berichte über die Vermögens-Umstände und
+über die persönlichen Eigenschaften des Supplicanten. B. 2. Octbr. 1808.
+P[?]kaas
+
+Ich habe bisher als Einlieger beÿ Wilharm No 11 in Evesen gewohnt, wünscht
+aber jetzt mich selbst anzubauen. Vor Bärenbusch liegt ein Platz, der vorher
+schon von Forstamtswegen besichtiget worden, beÿ Gelegenheit daß ein Anderer
+sich da anzubauen wünschte, welcher aber den Platz nicht bezahlen konnte.
+
+Dieser Platz nun ist zwar zum Haus-Bau sehr unbequem, indem lauter Grunde
+darauf sind, deren Ausfüllung und Ebenung viele Mühe erfordern wird. Allein er
+ist mir deswegen gelegen, weil er nicht zu weit von Lauten entfernt ist,
+worauf ich wegen meiner Schneider Profession besonders Bedacht nehmen muß.
+
+Indem ich nun die Hoffnung seye, dass Euer Durchlaucht in Betracht der vielen
+Mühe, welche die Ebenung dieses Platzes erfordern wird, den Preis desselben
+nicht zu hoch ansetzen werden, so ergeht an Ew. Durchlauchten meine
+unterthänigste Bitte:
+
+mir jenen Platz zum Hausbau gnädigst gegen ein Billiges zu überlassen.
+
+Ich ersterbe in tiefster Ehrfurcht Ew. Durchlauchten
+
+Unterthänigster Knecht
+Schneider Krückeberg in Evesen
+
+Suppl.
+Bbg. d. 29ten Sept.
+1808.
+H Wellmann
+```
+
+Translation
+
+```{code-block} text
+
+No. Cam. 260.                         presented 30 Sept. 1808.
+
+[marginal note]
+(undeciphered docket mark)
+
+Most Serene Prince,
+Most Graciously Reigning Prince
+and Lord!
+```
+
+(_translation_notes)=
+
+### Translation Notes
+
+**Einlieger** →  tenant (non-landholding resident)
+
+**mich selbst anzubauen** →  to establish myself independently (i.e., to build and maintain one’s own holding)
+
+**Forst-Amtswegen** →  by the Forestry Office
+
+**Gründe** →  uneven grounds / irregular ground
+
+**Leuten** →  people (important for a tailor’s livelihood)
+
+**gegen ein Billiges** →  at a reasonable price
+
+**Ich erstrecke mich** →  formal closing: I remain
+
+

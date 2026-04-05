@@ -1,0 +1,62 @@
+# List of all Kolons in the districts of Bückeburg and Arensburg, with numbering of all houses. (1747)
+
+(_overview)=
+
+## Overview
+
+The **Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und
+Arensburg, mit Nummerierung der sämtlichen Häuser ("List of names of all
+Kolons of the offices of Bückeburg and Arensburg, with numbering of the all
+houses")** has identifier
+[NLA
+BU, L 101a, A Nr. 140](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389) in the online
+[Arcinsys
+system](https://www.arcinsys.niedersachsen.de/arcinsys/start.action) of Niedersachsen and Bremem.
+
+The microfiche image below was obtained by commissioned research done by
+[Dr. Sylvia Möhle](https://www.moehle-research.de/). It has been
+enhanced as best as can be from its virtually unreadable orignal (in which
+the text was whitish-yellow).
+
+While its life span is given as 1740 - 1830,  Dr. Möhle found, however,
+that it covers only the year 1747.
+
+(_image_of_title_page)=
+
+## Image of Title Page
+
+```{figure} images/title-140.png
+```
+
+(_transliteration_and_translation)=
+
+## Transliteration and Translation
+
+Transliteration
+
+```{code-block} text
+
+Colonatsachen
+
+Acta [judicialia]
+
+betr.
+```
+
+Kolonen
+: Tenant holders under the Kolonat system (hereditary leaseholds).
+
+Translation
+
+```{code-block} text
+
+Colonate Matters
+
+Judicial Records
+
+Concerning
+
+A 
+```
+
+
