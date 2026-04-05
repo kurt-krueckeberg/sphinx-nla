@@ -17,9 +17,14 @@ release = '0.8'
 extensions = [
     'myst_parser',        # Enables Markdown support
     'sphinx_inline_tabs',  # Enables tabbed content
-    "linuxdoc.rstFlatTable",
+    'linuxdoc.rstFlatTable',
     'sphinx_external_toc',
+    'sphinx.ext.intersphinx',
 ]
+
+intersphinx_mapping = {
+    'python': ('https://docs.python.org/3', None),
+}
 
 # Add this to enable colon-fences (useful for the :::figure::: syntax)
 myst_enable_extensions = [
