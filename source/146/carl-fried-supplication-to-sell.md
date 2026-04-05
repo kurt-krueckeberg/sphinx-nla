@@ -1,10 +1,6 @@
 # 11 Sept. 1850
 
-(_overview)=
-
 ## Overview
-
-(_1_nature_of_the_document)=
 
 ### 1. Nature of the document
 
@@ -12,8 +8,6 @@ This is a **supplication (Supplik)** addressed directly to the **Fürstliche
 Rentkammer**, requesting **official consent (Konsens)** for the sale of a
 *Neubauer* holding. Such consent was legally required because the land
 originated from a **state-regulated settlement**.
-
-(_2_bezug_im_bericht_an_das_amt_bückeburg)=
 
 ### 2. Bezug im Bericht an das Amt Bückeburg
 
@@ -26,8 +20,6 @@ In translation, it functions as:
 This is **internal bureaucratic routing**, not part of the petition text
 itself.
 
-(_3_nc_vs_internal_routing_marks)=
-
 ### 3. NC vs. internal routing marks
 
 - **N.C. 4386** = Rentkammer docket number.
@@ -36,8 +28,6 @@ itself.
 signatures.
 - The **3-groschen stamp** and **9-groschen notation** indicate **fees paid**
 for filing and drafting.
-
-(_4_substantive_content)=
 
 ### 4. Substantive content
 
@@ -52,15 +42,11 @@ official consent**.
 - The urgency (must already be in Bremen by the first of the current
 month) explains the tone and timing.
 
-(_5_neubauer_colonie)=
-
 ### 5. Neubauer-Colonie
 
 Here, *Neubauer-Colonie* does **not** mean a colony in the overseas sense,
 but a **state-organized settlement holding**, subject to continuing
 oversight and restrictions on alienation.
-
-(_6_social_and_legal_implications)=
 
 ### 6. Social and legal implications
 
@@ -73,14 +59,10 @@ emigration.
 - The Rentkammer’s consent was essential to prevent loss of control over
 settlement lands.
 
-(_image)=
-
 ## Image
 
-```{figure} images/21-r.png
+```{figure} 21-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

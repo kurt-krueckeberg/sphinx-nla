@@ -1,19 +1,15 @@
 # Documnet 16
 
-(_petition)=
-
 ## Petition
 
-```{figure} images/31-r.png
+```{figure} 31-r.png
 ```
 
-```{figure} images/32-l.png
+```{figure} 32-l.png
 ```
 
-```{figure} images/31-r-vert-text.png
+```{figure} 31-r-vert-text.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

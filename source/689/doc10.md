@@ -1,7 +1,5 @@
 # Docket Item 10
 
-(_nc_2422_follow_up_to_prommissory_note_for_200_reichsthaler_of_12_jan_1842_liquidationcrediting_of_interest)=
-
 ## NC 2422 — Follow-up to Prommissory Note for 200 Reichsthaler, of 12 Jan 1842) — liquidation/crediting of interest
 
 ::: {list-table}
@@ -34,8 +32,6 @@
               
             
 :::
-
-(_transliteration_and_translation)=
 
 ### Transliteration and Translation
 
@@ -152,8 +148,6 @@ receipt.
               
 :::
 
-(_follow_up_deliveryreceipt_mortgage_cancellation_approved)=
-
 ## Follow-up delivery/receipt; mortgage cancellation approved
 
 ::: {list-table}
@@ -218,8 +212,6 @@ receipt.
             
   - 
 :::
-
-(_nc_2696)=
 
 ## NC 2696
 
@@ -307,8 +299,6 @@ paid — **[initialed: DH]** — **2 Reichthalers 12 groschen**.
 Poppelbaum.
             
 :::
-
-(_concept_quittung)=
 
 ## Concept Quittung
 

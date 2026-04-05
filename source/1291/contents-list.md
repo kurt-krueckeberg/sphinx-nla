@@ -4,17 +4,13 @@ The **Designatio Actorum** is the table of contents for the Rentkammer case
 file. It lists its documents in the second column and their topics in the
 third column.
 
-(_digital_images)=
-
 ## Digital Images
 
-```{figure} images/01-r.jpg
+```{figure} 01-r.jpg
 ```
 
-```{figure} images/02-l.jpg
+```{figure} 02-l.jpg
 ```
-
-(_designation_actorum)=
 
 ## Designation Actorum
 

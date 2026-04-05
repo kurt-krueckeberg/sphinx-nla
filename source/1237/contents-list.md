@@ -1,13 +1,9 @@
 # Contents List
 
-(_the_designatio_actorum_table_of_contents)=
-
 ## The Designatio Actorum (Table of Contents)
 
-```{figure} images/01.png
+```{figure} 01.png
 ```
-
-(_transliteration_and_translation)=
 
 ### Transliteration and Translation
 
@@ -86,8 +82,6 @@ Transliteration and Translation of Document Index
   - Dec
   - 1
 :::
-
-(_glossary_of_terms)=
 
 ## Glossary of Terms
 

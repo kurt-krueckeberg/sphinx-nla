@@ -1,19 +1,15 @@
 # Document 19
 
-(_purchase_contract)=
-
 ## Purchase Contract
 
-```{figure} images/34-r.png
+```{figure} 34-r.png
 ```
 
-```{figure} images/35-l.png
+```{figure} 35-l.png
 ```
 
-```{figure} images/35-r.png
+```{figure} 35-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

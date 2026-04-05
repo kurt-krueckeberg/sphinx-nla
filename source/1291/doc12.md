@@ -1,19 +1,15 @@
 # Document 12
 
-(_digital_images)=
-
 ## Digital Images
 
-```{figure} images/24-r.png
+```{figure} 24-r.png
 ```
 
-```{figure} images/25-l.png
+```{figure} 25-l.png
 ```
 
-```{figure} images/25-r.png
+```{figure} 25-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

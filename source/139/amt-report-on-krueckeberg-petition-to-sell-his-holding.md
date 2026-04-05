@@ -1,7 +1,5 @@
 # Report of Amt Bückeburg on Petition of Colon Krückeberg No. 10 in Berenbusch for Permission to Sell his Farmstead (15 Sept. 1849)
 
-(_narrative_summary)=
-
 ## Narrative Summary
 
 This document is a report from the Amt Bückeburg to the Princely Rentkammer
@@ -17,11 +15,9 @@ note dated September 20 instructs that the purchase deed is to be confirmed
 and returned once processed, and that proof of the dues and obligations
 attached to the property is to be provided.
 
-(_transliteration_and_translation)=
-
 ## Transliteration and Translation
 
-```{figure} images/05-r.png
+```{figure} 05-r.png
 ```
 
 ```{code-block} text

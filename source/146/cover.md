@@ -1,7 +1,5 @@
 # Case File Cover
 
-(_summary)=
-
 ## Summary
 
 Administrative cover for a Rentkammer case concerning the assignment of a
@@ -10,14 +8,10 @@ J. Heinrich Krückeberg, No. 18, under the agrarian holding colonization
 program of the County of Schaumburg, handled by the Bückeburg district
 office.
 
-(_image)=
-
 ## Image
 
-```{figure} images/cover-top.jpg
+```{figure} cover-top.jpg
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

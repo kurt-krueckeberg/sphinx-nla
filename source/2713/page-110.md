@@ -1,13 +1,9 @@
 # Page 110
 
-(_image_of_page_110)=
-
 ## Image of page 110
 
-```{figure} images/2713-24.png
+```{figure} 2713-24.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

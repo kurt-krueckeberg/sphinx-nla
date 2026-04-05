@@ -9,8 +9,6 @@ corner number and may not be physically in the case file anymore.
 *That’s why #10 has no boxed number in your file.*
 ```
 
-(_why_there_are_multiple_numbersstamps_on_the_same_sheets)=
-
 ## Why there are multiple numbers/stamps on the same sheets
 
 Different desks used **different books** to track the same matter. Each book created its **own** number/mark. They
@@ -22,8 +20,6 @@ use **parallel systems.** An **NC** number is **not** the same thing as **Nr pr*
 - It’s normal that **only one** ledger/protocol number (e.g., **Nr pr: 1274**) shows on a single leaf.
 - **“Nro g. d.”** is frequently just a tight **rubric** on copies/minutes; the number/date are recorded in the registry
 book and/or noted elsewhere.
-
-(_other_small_marks_youll_see_quick_glossary)=
 
 ## Other small marks you’ll see (quick glossary)
 

@@ -1,13 +1,9 @@
 # Document 7
 
-(_image)=
-
 ## Image
 
-```{figure} images/09-r.png
+```{figure} 09-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

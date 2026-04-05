@@ -1,13 +1,9 @@
 # Actenstück 1 (Administrative File Item 1): Likewise
 
-(_images)=
-
 ## Images
 
-```{figure} images/03-r.png
+```{figure} 03-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

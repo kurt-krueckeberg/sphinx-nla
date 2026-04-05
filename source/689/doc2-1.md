@@ -1,7 +1,5 @@
 # Docket Item 2
 
-(_overview)=
-
 ## Overview
 
 This report was issued by the **Amt Bückeburg** on 7 October 1841 in response
@@ -20,16 +18,12 @@ The case file then includes two ancillary items:
 1. A cover slip recording the Rentkammer’s resolution and dispatch.
 2. A rubric heading identifying the petition for filing purposes.
 
-(_timeline)=
-
 ## Timeline
 
 - 7 October 1841 — Report issued by the Amt Bückeburg.
 - 11 October 1841 — Report presented at the Rentkammer, registered as N.C. 4487.
 - 14 October 1841 — Rentkammer resolution instructing the Amt to notify Krückeberg.
 - 17 November 1841 — Clerk Holste logs expedition of the decision.
-
-(_explanations)=
 
 ## Explanations
 
@@ -47,8 +41,6 @@ means: "concerning (**ad** = concerning) Rentcammer document number 4381,
 which belongs to case #1274 in the Rentcammer’s Protokollbuch (the ledger
 of Rentcammer case numbers)".
 
-(_summary_of_amt_report_7_oct_1841)=
-
 ## Summary of Amt Report (7 Oct 1841)
 
 The Amt Bückeburg acknowledged Krückeberg’s liability for the long-standing
@@ -57,8 +49,6 @@ recommended that he be permitted to contract a loan of 190 Reichsthaler to
 settle it. The Amt judged his holding and lands to offer sufficient
 security, despite existing debts of 700 Reichsthaler. The Amt also noted
 that it had temporarily suspended the distraint order.
-
-(_images)=
 
 ## Images
 
@@ -111,8 +101,6 @@ that it had temporarily suspended the distraint order.
             
   - 
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

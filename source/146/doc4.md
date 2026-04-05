@@ -1,20 +1,14 @@
 # Document 4
 
-(_overview)=
-
 ## Overview
 
 TODO: Summarize the report and explain what  "in the presence of chief
 forester Falkmann" mean?
 
-(_image)=
-
 ## Image
 
-```{figure} images/05-r-alternate.png
+```{figure} 05-r-alternate.png
 ```
-
-(_transliateration_and_translation)=
 
 ## Transliateration and Translation
 

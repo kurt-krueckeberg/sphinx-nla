@@ -1,7 +1,5 @@
 # Contents List
 
-(_designatio_actorum)=
-
 ## Designatio Actorum
 
 The **Designation Actorum** is the table of contents for the time period of
@@ -9,10 +7,8 @@ The **Designation Actorum** is the table of contents for the time period of
 contents that concern the sale of no. 18 Berenbusch. They all only from
 September of 1850.
 
-```{figure} images/01-r.png
+```{figure} 01-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

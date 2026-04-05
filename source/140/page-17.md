@@ -1,7 +1,5 @@
 # Page 17
 
-(_overview)=
-
 ## Overview
 
 This microfiche image was obtained by commissioned research done by
@@ -20,14 +18,10 @@ So it is page 17 in the volume that no. 10 Berenbusch is mentioned.
 Furthermore, we know from xref:[]  that Johann Heinrich Krückeberg came
 into possession of no. 10 Berenbusch through marriage.
 
-(_image)=
-
 ## Image
 
-```{figure} images/page-17.png
+```{figure} page-17.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

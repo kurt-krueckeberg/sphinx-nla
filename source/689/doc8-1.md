@@ -1,13 +1,9 @@
 # Docket Item 8
 
-(_images)=
-
 ## Images
 
-```{figure} images/18-r.png
+```{figure} 18-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

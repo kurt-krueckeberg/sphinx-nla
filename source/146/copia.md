@@ -1,7 +1,5 @@
 # Copy of Purchase Contract for Stätte No. 18 in Berenbusch (1850)
 
-(_summary)=
-
 ## Summary
 
 This 1850 contract records the approved sale of the hereditary holding
@@ -17,23 +15,19 @@ contract, with costs borne by the buyer, and both parties waived any legal
 objections. The agreement received judicial confirmation and was to be
 submitted to the Princely Rent Chamber for final approval.
 
-(_images)=
-
 ## Images
 
-```{figure} images/22-r.png
+```{figure} 22-r.png
 ```
 
-```{figure} images/23-l.png
+```{figure} 23-l.png
 ```
 
-```{figure} images/23-r.png
+```{figure} 23-r.png
 ```
 
-```{figure} images/24-l.png
+```{figure} 24-l.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

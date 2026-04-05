@@ -1,13 +1,9 @@
 # Petition (to sell) Cover Sheet
 
-(_image)=
-
 ## Image
 
-```{figure} images/22-l.png
+```{figure} 22-l.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

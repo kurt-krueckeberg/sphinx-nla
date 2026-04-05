@@ -1,15 +1,11 @@
 # Overview of the Rentkammer of Schaumburg-Lippe
 
-(_land_administration_and_the_kolonat_system)=
-
 ## Land Administration and the Kolonat System
 
 The Schaumburg-Lippe **Rentkammer** was the **princely government office
 responsible for managing land, finances, forests, and rural property
 matters, including land sales, boundary changes, and approvals for
 farmstead or homestead expansions**.
-
-(_what_the_rentkammer_of_schaumburg_lippe_actually_did)=
 
 ## What the Rentkammer of Schaumburg-Lippe actually did
 
@@ -52,8 +48,6 @@ together in the files.
 
 It was the **decision-making authority**, not just a bookkeeping office.
 
-(_clarifying_stätte_kolon_and_kolonat_in_schaumburg_lippe)=
-
 ## Clarifying *Stätte*, *Kolon*, and *Kolonat* in Schaumburg-Lippe
 
 In the Rentkammer documents you are working with, the terms **Stätte**,
@@ -72,8 +66,6 @@ property as a Kolon**. In other words, it describes the **tenure
 arrangement**. When we speak of a Kolonat, we mean the entire arrangement
 by which a Kolon holds and uses a Stätte under certain conditions
 (rents, duties, permissions) granted by the princely administration.
-
-(_in_the_rentkammer_case_files)=
 
 ### In the Rentkammer Case Files
 

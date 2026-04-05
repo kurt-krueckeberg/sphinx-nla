@@ -1,7 +1,5 @@
 # Docket Item 8
 
-(_images)=
-
 ## Images
 
 ::: {list-table}
@@ -34,8 +32,6 @@
               
             
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

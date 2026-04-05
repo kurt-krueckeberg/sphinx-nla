@@ -1,7 +1,5 @@
 # Purchase Contract for Stätte No. 10 in Berenbusch (5 Sep. 1849)
 
-(_explanation_of_the_sales_contract)=
-
 ## Explanation of the Sales Contract
 
 This document records the formal sale of Stätte No. 10 in Berenbusch by Colon
@@ -31,8 +29,6 @@ Fürstliche Rentkammer for superior confirmation.
 In practical terms, this contract documents Krückeberg’s departure from the
 village social order and Bornemann’s accession into the position of **Kolonat**
 holder—a significant upward shift in rural status and responsibility.
-
-(_glossary_of_terms)=
 
 ## Glossary of Terms
 
@@ -66,8 +62,6 @@ holder—a significant upward shift in rural status and responsibility.
 * - **Landfolgen / Wachten / Dorfsfolgen**
   - Collective village labor and communal service obligations (road repair, fire watch, bridge maintenance, etc.).
 :::
-
-(_images)=
 
 ## Images
 
@@ -132,8 +126,6 @@ holder—a significant upward shift in rural status and responsibility.
               
             
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

@@ -1,13 +1,9 @@
 # NLA 147
 
-(_image)=
-
 ## Image
 
-```{figure} images/cover.png
+```{figure} cover.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

@@ -1,7 +1,5 @@
 # Markings that can appear on documents
 
-(_markings_that_can_appear_on_documents)=
-
 ## Markings that can appear on documents
 
 1. **Document type & parties***Vorstellung / Gesuch / Bericht / Official

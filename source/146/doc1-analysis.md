@@ -5,8 +5,6 @@
 
 
 
-(_1_function_and_position_within_the_case_file)=
-
 ## 1. Function and position within the case file
 
 This document is the **foundational petition** that **initiated the entire
@@ -25,11 +23,7 @@ that caused the process to begin**.
 
 
 
-(_2_administrative_metadata_and_filing_context)=
-
 ## 2. Administrative metadata and filing context
-
-(_a_rentkammer_intake)=
 
 ### a. Rentkammer intake
 
@@ -42,8 +36,6 @@ The petitioner’s own date (29 Sept.) reflects drafting/signing; **30
 Sept.** marks the administrative start of the case.
 
 
-
-(_b_marginal_rescript_and_routing)=
 
 ### b. Marginal rescript and routing
 
@@ -74,11 +66,7 @@ substance of the case.
 
 
 
-(_3_identity_and_legal_status_of_the_petitioner)=
-
 ## 3. Identity and legal status of the petitioner
-
-(_a_social_and_legal_position)=
 
 ### a. Social and legal position
 
@@ -102,8 +90,6 @@ und Gartenstätte.
 
 
 
-(_b_intended_status_change)=
-
 ### b. Intended status change
 
 The petition seeks a **change in tenure**, not in profession:
@@ -115,11 +101,7 @@ No claim is made, implicitly or explicitly, to agricultural identity.
 
 
 
-(_4_description_and_prior_status_of_the_requested_land)=
-
 ## 4. Description and prior status of the requested land
-
-(_a_origin_and_administrative_status)=
 
 ### a. Origin and administrative status
 
@@ -145,8 +127,6 @@ This aligns exactly with the later file wording:
 
 
 
-(_b_physical_condition_of_the_site)=
-
 ### b. Physical condition of the site
 
 He emphasizes that the site is:
@@ -164,8 +144,6 @@ functions to:
 The argument is economic, not agrarian.
 
 
-
-(_5_occupational_logic_and_site_suitability)=
 
 ## 5. Occupational logic and site suitability
 
@@ -185,8 +163,6 @@ This is **fully consistent with Colon status**, which in Schaumburg-Lippe
 was **tenurial**, not occupational.
 
 
-
-(_6_legal_formulation_of_the_request)=
 
 ## 6. Legal formulation of the request
 
@@ -216,8 +192,6 @@ The scope of the request matches exactly what later becomes:
 
 
 
-(_7_dating_endorsements_and_closing_formula)=
-
 ## 7. Dating, endorsements, and closing formula
 
 - **Signed:** 29 September 1808
@@ -230,8 +204,6 @@ The names at the end (e.g., *Sepp*, *H. Swellman*) are best understood
 as **clerical or presentational endorsements**, not co-petitioners.
 
 
-
-(_8_what_this_document_definitively_establishes)=
 
 ## 8. What this document definitively establishes
 
@@ -248,8 +220,6 @@ decision.
 
 
 
-(_9_what_it_does_not_yet_establish)=
-
 ## 9. What it does not yet establish
 
 At this stage, the petition does **not** establish:
@@ -264,8 +234,6 @@ All of those depend on the **Amt’s Bericht** ordered in the marginal
 rescript.
 
 
-
-(_10_bottom_line_interpretation_corrected)=
 
 ## 10. Bottom-line interpretation (corrected)
 
@@ -285,8 +253,6 @@ presupposes agriculture, nor did Colon status require it.**
 If you’d like, the next logical step is to analyze how the **Amt’s
 report** either confirms or challenges this positioning.
 
-(_how_to_interpret_einlieger_neubauer_colon)=
-
 ## How to interpret *Einlieger*, *Neubauer*, *Colon*
 
 See: [https://chatgpt.com/c/69850070-0dc8-8397-ad59-2d0e3b1bedb9](https://chatgpt.com/c/69850070-0dc8-8397-ad59-2d0e3b1bedb9)
@@ -300,8 +266,6 @@ Below is a **single, merged, self-contained guide** that **combines**:
 specifically for interpreting **Einlieger, Neubauer, Colon / Colonie** in
 **Schaumburg-Lippe Rentkammer** case files (ca. 1800).
 
-(_sources_hierarchy_links_and_proper_use_schaumburg_lippe_context)=
-
 ### Sources, hierarchy, links, and proper use (Schaumburg-Lippe context)
 
 The correct approach is **layered**, not single-source. Each source type
@@ -309,13 +273,9 @@ answers a different historical question.
 
 
 
-(_layer_1_general_legal_historical_meaning_baseline_control)=
-
 ### 
         **Layer 1 — General legal-historical meaning (baseline control)**
       
-
-(_deutsches_rechtswörterbuch_drw)=
 
 #### 
           **Deutsches Rechtswörterbuch (DRW)**
@@ -350,19 +310,13 @@ for German-language legal and administrative terminology (Middle Ages →
 
 
 
-(_layer_2_regional_social_administrative_function_interpretive_context)=
-
 ### 
         **Layer 2 — Regional social & administrative function (interpretive context)**
       
 
-(_das_fürstentum_lippe_im_zeitalter_der_französischen_revolution_17701820_jürgen_arndt_1992)=
-
 #### 
           **Das Fürstentum Lippe im Zeitalter der Französischen Revolution 1770–1820 — Jürgen Arndt (1992)**
         
-
-(_direct_pdf_lwl_digital_edition_part_ii)=
 
 ##### 
             **Direct PDF (LWL digital edition, Part II):**
@@ -427,15 +381,11 @@ You can ignore sections on:
 
 TODO: Continue here: [https://chatgpt.com/share/69853a0a-aa84-8004-b2e2-1f98ba20b6eb](https://chatgpt.com/share/69853a0a-aa84-8004-b2e2-1f98ba20b6eb)
 
-(_layer_3_schaumburg_lippespecific_primary_era_authority)=
-
 ### 
         **Layer 3 — Schaumburg-Lippe–specific, primary-era authority**
       
 
 I will skip this since J. Arndt uses this as his primary sources!
-
-(_layer_4_your_rentkammer_case_files_authoritative_local_practice)=
 
 ### 
         **Layer 4 — Your Rentkammer case files (authoritative local practice)**
@@ -461,8 +411,6 @@ I will skip this since J. Arndt uses this as his primary sources!
 
 
 
-(_putting_it_all_together_methodologically_sound)=
-
 ### 
         **Putting it all together (methodologically sound)**
       
@@ -478,8 +426,6 @@ This is exactly how regional historians and archival editors proceed.
 
 
 
-(_bottom_line_synthesis_safe_to_quoteparaphrase)=
-
 ### 
         **Bottom-line synthesis (safe to quote/paraphrase)**
       
@@ -493,8 +439,6 @@ This is exactly how regional historians and archival editors proceed.
 > evidence of local administrative practice.*
 
 
-
-(_in_one_sentence)=
 
 ### 
         **In one sentence**

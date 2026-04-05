@@ -1,7 +1,5 @@
 # Docket Item 8
 
-(_images)=
-
 ## Images
 
 ::: {list-table}

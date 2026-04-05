@@ -4,10 +4,8 @@ The number in the first column of the contents list designates a cluster of rela
 of the overall decision making process is under consideration. The 2nd column describes each document, the third
 column is a note on the subject of the doucment(s); lastly comes the place, year, month and day
 
-```{figure} images/01-r.png
+```{figure} 01-r.png
 ```
-
-(_transliteration)=
 
 ## Transliteration
 
@@ -179,8 +177,6 @@ corner number and may not be physically in the case file anymore.  *That’s why
 boxed number in the case file.*
 
 ::::
-
-(_english_version)=
 
 ## English Version
 

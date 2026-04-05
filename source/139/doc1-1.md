@@ -1,7 +1,5 @@
 # Actenstück 1 (Administrative File Item 1)
 
-(doc-index-1-1)=
-
 ## Overview
 
 The petition of window Krückeberg begins on the right of the first page and
@@ -24,8 +22,6 @@ of her holding.
 ```
 
 ::::
-
-(_images_of_petition_of_the_widow_krückeberg)=
 
 ## Images of Petition of the widow Krückeberg
 
@@ -59,8 +55,6 @@ of her holding.
               
             
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -126,17 +120,13 @@ Burgrest and forestry labor services owed from her holding.
 G. Schultze
 ```
 
-(doc-index-1-2)=
-
 ### Report from the Bückeburg Office (26 July 1824)
 
 The report of the Bückeburg local government office appears on the left side of the first page opposite the
 petition of the widow Krückeberg.
 
-```{figure} images/02-left-side-of-page.png
+```{figure} 02-left-side-of-page.png
 ```
-
-(_translation_and_transliteration)=
 
 ### Translation and Transliteration
 
@@ -201,8 +191,6 @@ Approved — Spang.
 By authority of Prince Georg Wilhelm.
 ```
 
-(_reminder_instruction_and_note)=
-
 ### Reminder Instruction and Note
 
 The text appears on the left side of the back page. It is evidently
@@ -213,11 +201,9 @@ had once bought from the Chamber.
 This is apparently a sort of "post-it" note reminder of what further to
 request in the Amt report.
 
-(_transliteration_and_translation_2)=
-
 ### Transliteration and Translation
 
-```{figure} images/03-left-side-of-page.png
+```{figure} 03-left-side-of-page.png
 ```
 
 Transliteration
@@ -251,11 +237,7 @@ See overleaf.
 documents.”
 ```
 
-(_the_last_three_documents_all_one_one_page)=
-
 ## The Last Three Documents (all one one page)
-
-(_summary_of_last_three_documents)=
 
 ### Summary of Last Three Documents
 
@@ -277,11 +259,9 @@ provide an additional report about the Söhren land purchase.
 Because each is extremely short — just a few lines — and none needed its own sheet, the clerk assigned the
 same **N.C. 2816** and **N.P. 602** identifiers to the entire page.
 
-(doc-index-1-3)=
-
 ### Rought Draft of the Official Reply to the Widow Krückeberg (4 Aug. 1824)
 
-```{figure} images/03-r.png
+```{figure} 03-r.png
 ```
 
 ::: {list-table}
@@ -314,8 +294,6 @@ For the record.
 A. Kaas
               
 :::
-
-(doc-index-1-4)=
 
 ### Likewise: Sealed (with the official seal) and Signed by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)
 
@@ -365,8 +343,6 @@ officialsa, to Schöe, Stahlhuth and Creuzinger. It was initialed by four
 clerks: Boiness, Winde, Sp. and Tamerlin; and sent out (expidiert) by
 Alvei, who mailed it (or logged its mailing).
 ```
-
-(doc-index-1-5)=
 
 ### Rough Draft of the Official Reply originating from the Office of Bückeberg (24 Aug. 1824)
 

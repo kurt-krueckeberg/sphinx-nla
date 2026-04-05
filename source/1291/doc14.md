@@ -2,14 +2,10 @@
 
 **TODO:** The date at the end doesn’t seem, to match the Designatio Actorum?!
 
-(_petition_docket_page)=
-
 ## Petition Docket Page
 
-```{figure} images/29-l.png
+```{figure} 29-l.png
 ```
-
-(_transliteration_and_translation_of_outer_address_page)=
 
 ### Transliteration and Translation of Outer Address Page
 
@@ -40,24 +36,18 @@ be most graciously granted to me.
               
 :::
 
-(_document_14)=
-
 ## Document 14
-
-(_image)=
 
 ### Image
 
-```{figure} images/27-l.png
+```{figure} 27-l.png
 ```
 
-```{figure} images/28-l.png
+```{figure} 28-l.png
 ```
 
-```{figure} images/28-r.png
+```{figure} 28-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

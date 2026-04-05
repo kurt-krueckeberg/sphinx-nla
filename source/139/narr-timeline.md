@@ -1,7 +1,5 @@
 # Narrative Timeline
 
-(_petition_of_widow_krückeberg_8_july_1824)=
-
 ## Petition of Widow Krückeberg (8 July 1824)
 
 The widow Krückeberg is 58 years old and she can’t perform the feudal
@@ -13,8 +11,6 @@ doctor and apothecary, become nearly destitute. She petitions the
 Rentkammer for these duties to be remitted. She petitions the Rentkammer
 for these duties to be remitted.
 
-(_report_from_the_bückeburg_office_26_july_1824)=
-
 ## Report from the Bückeburg Office (26 July 1824)
 
 The Bückeburg local governmental office reports to the Chamber explains
@@ -22,8 +18,6 @@ that the several years of severe illness of the petitioner’s late husband,
 and the costly domestic and foreign medical help that she sought in the
 joint effort to save him has left the petitioner entirely impoverished. She
 therefore deserves approval of any relief that might ease her condition.
-
-(_rentcammer_resolution_2_august_1824)=
 
 ## Rentcammer Resolution (2 August 1824)
 

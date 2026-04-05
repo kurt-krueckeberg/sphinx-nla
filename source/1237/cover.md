@@ -1,13 +1,9 @@
 # Case File Cover
 
-(_image)=
-
 ## Image
 
-```{figure} images/1237-cover.png
+```{figure} 1237-cover.png
 ```
-
-(_translation_and_translation)=
 
 ## Translation and Translation
 
@@ -54,8 +50,6 @@ farm. Hofraum refers to he yard space of a rural household holding—​the
 open area around the house and outbuildings used for daily work and
 storage.
 ```
-
-(_glossary_of_terms)=
 
 ## Glossary of Terms
 

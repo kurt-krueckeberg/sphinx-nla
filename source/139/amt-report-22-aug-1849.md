@@ -1,7 +1,5 @@
 # Report from the Amt Bückeburg Concerning the Sale of the Krückeberg Farmstead (22 August 1849)
 
-(_narrative_summary)=
-
 ## Narrative Summary
 
 This document is a formal report sent from the Amt Bückeburg to the
@@ -18,11 +16,9 @@ resolution dated the 13th of the month, it will collect a 12 Mariengroschen
 stamp duty from Krückeberg and will forward the amount. The document is
 issued from Bückeburg on 22 August 1849 and signed by Höner.
 
-(_transliteration_and_translation)=
-
 ## Transliteration and Translation
 
-```{figure} images/10-r.png
+```{figure} 10-r.png
 ```
 
 ```{code-block} text

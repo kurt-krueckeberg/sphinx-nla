@@ -1,7 +1,5 @@
 # The Rentcammer and Bückeburg Amt
 
-(_what_was_schaumburg_lippe_and_how_did_its_government_work)=
-
 ## What was Schaumburg-Lippe and how did its government work?
 
 Schaumburg-Lippe was a small German principality, a mini-state, in the 1800s. Like other German states of the time,
@@ -12,11 +10,7 @@ this case are:
 1. the **Bückeburg Amt**, the district office and court for local matters, and
 2. the **Rentkammer** (also written Rentcammer), the **state treasury and finance department**.
 
-(_rentkammer_responsiblities)=
-
 ## Rentkammer Responsiblities
-
-(_1_state_money_taxes_rents_kammerkasse)=
 
 ### 1. State money (taxes, rents, Kammerkasse)
 
@@ -27,16 +21,12 @@ paid regular rents, which were handled much like taxes.
 - **Payments out of the Kammerkasse:** The treasury made disbursements such as salaries of officials, upkeep of state
 buildings, army expenses, and interest on debts.
 
-(_2_state_lands_and_forests_leases_sales_mortgages)=
-
 ### 2. State lands and forests (leases, sales, mortgages)
 
 - **Leases:** State forests, hunting rights, meadows, and farmland were leased out.
 - **Sales:** Smaller parcels of domain land could be sold, especially garden plots or farm extensions.
 - **Mortgages:** When land was purchased from the state, payment could be spread out over time. The land served as
 security until the last installment was made.
-
-(_3_loans_to_subjects_secured_on_land)=
 
 ### 3. Loans to subjects (secured on land)
 

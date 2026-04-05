@@ -3,8 +3,6 @@
 Since the Acten Designation items 1–7 all fall in **1841**, use this tight checklist of what to extract from each document
 in order ton (a) reconstruct the workflow, and (b) verify numbering conventions (Nr pr. vs. N.C.), enclosures, and decisions.
 
-(_what_to_note_on_each_document_quick_audit_list)=
-
 ## What to note on each document (quick audit list)
 
 1. **Document type:**
@@ -32,8 +30,6 @@ valuation—-these explain conditions for the loan.
   Endorsements/cover slips: **“Copt/Cpt.”**, routing (to Amt, to officer Creuzinger), “Expedirt” notes, initials.
 9. **Scribal notes****Conc. [name]** (Concipist/drafter), **m[anu] p[ropria]**; signatures of officials (Hauck, Dr. Neuhsel, Höcker, etc.).
 10. **Marginalia & foliation:** Later pencil folios vs. ink notes; keep separate from 1841 hands.
-
-(_how_to_use_it_fast_workflow)=
 
 ## How to use it (fast workflow)
 

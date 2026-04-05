@@ -1,7 +1,5 @@
 # Actenstück 1 (Administrative File Item 1)
 
-(_summary)=
-
 ## Summary
 
 The report of the Bückeburg local government office appears on the left
@@ -9,14 +7,10 @@ side of the first page of the petition. The first page of the petition
 has been cropped in the image below so only the report from the Bückeberg
 office appears.
 
-(_image_of_report_from_bückeburg_office)=
-
 ## Image of Report from Bückeburg Office
 
-```{figure} images/02-left-side-of-page.png
+```{figure} 02-left-side-of-page.png
 ```
-
-(_translation_and_transliteration)=
 
 ## Translation and Transliteration
 
@@ -81,8 +75,6 @@ Approved — Spang.
 By authority of Prince Georg Wilhelm.
 ```
 
-(_reminder_instruction_and_note)=
-
 ## Reminder Instruction and Note
 
 The text appears on the left side of the back page. It is evidently
@@ -93,11 +85,9 @@ had once bought from the Chamber.
 This is apparently a sort of "post-it" note reminder of what further to
 request in the Amt report.
 
-(_transliteration_and_translation)=
-
 ### Transliteration and Translation
 
-```{figure} images/03-left-side-of-page.png
+```{figure} 03-left-side-of-page.png
 ```
 
 Transliteration

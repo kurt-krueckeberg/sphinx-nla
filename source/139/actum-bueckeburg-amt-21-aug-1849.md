@@ -1,7 +1,5 @@
 # Hearing Confirming the Sale of Krückeberg’s Farmstead Prior to Emigration (21 August 1849)
 
-(_narrative_summary)=
-
 ## Narrative Summary
 
 This document records a formal hearing before the Amt Bückeburg on 21
@@ -25,8 +23,6 @@ possesses assets amounting to 150 Reichsthaler, and that he will borrow the
 remainder needed for the purchase from Colon Rinne of Evesen. The record is
 concluded with signatures (or marks) of the parties and attestation by the
 Amt official Höcker.
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -200,14 +196,10 @@ Mark of + + + of Wilhelm
                  Höcker
 ```
 
-(_cover_note_to_the_document)=
-
 ## Cover Note to the Document
 
-```{figure} images/10-l.png
+```{figure} 10-l.png
 ```
-
-(_transliteration_and_translation_2)=
 
 ### Transliteration and Translation
 

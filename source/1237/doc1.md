@@ -1,13 +1,9 @@
 # Document 1
 
-(_petition_docket_item)=
-
 ## Petition Docket Item
 
-```{figure} images/05-left-page.png
+```{figure} 05-left-page.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -41,8 +37,6 @@ Guardianship
 Rent Chamber
 ```
 
-(doc-index-1-1)=
-
 ## Jobst Heinrich Krückeberg’s Petition
 
 The smaller, fainter text in two images is the petition written of Jobst
@@ -62,17 +56,13 @@ MKaas (MK), who initials appear several times, was very likely a Forstamt
 official who also functioned as an administrative clerk, which explains why
 the "Res Cam" was initialed by him.
 
-(_petition)=
-
 ## Petition
 
-```{figure} images/02.png
+```{figure} 02.png
 ```
 
-```{figure} images/03-left-page.png
+```{figure} 03-left-page.png
 ```
-
-(_transliteration_and_translation_2)=
 
 ## Transliteration and Translation
 
@@ -149,8 +139,6 @@ Lindemann, written on behalf of[him]        Col. Krückeberg No. 10 at Berenbusc
 by order.
 ```
 
-(_cammer_response_forestry_office_report_regarding_land_expansion)=
-
 ## Cammer Response: Forestry Office Report Regarding Land Expansion
 
 The Cammer requested a Forestry report that was written by **MKass** of the
@@ -195,8 +183,6 @@ forest, three saplings for each poplar that is felled.
                    MKaas, Forestry Officier
 ```
 
-(_mariginal_notation_of_the_brief_written_order_to_the_bückeburg_amt)=
-
 ## Mariginal Notation of the Brief Written Order to the Bückeburg Amt
 
 On 18 February 1799 a marginal note by Forstmeister Kaas records that a brief
@@ -206,7 +192,7 @@ order and any enclosures (such as the Forestry Report) are not preserved;
 only this short reference and the Amt’s subsequent [Report on the matter](doc2.md)
 (Document No. 2) remain.
 
-```{figure} images/02-admin-note.png
+```{figure} 02-admin-note.png
 ```
 
 Translation

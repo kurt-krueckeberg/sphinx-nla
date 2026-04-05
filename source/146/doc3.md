@@ -1,7 +1,5 @@
 # Document 3
 
-(_overview)=
-
 ## Overview
 
 The Rentkammer officially and formally informed the Ämter that they
@@ -16,14 +14,10 @@ Mariengroschen per Quadratrute (square rod).
 
 They are to inform Jobst Heinrich of these conditions and terms.
 
-(_image_of_document_3)=
-
 ## Image of Document 3
 
-```{figure} images/04-r.png
+```{figure} 04-r.png
 ```
-
-(_transliateration_and_translation)=
 
 ## Transliateration and Translation
 

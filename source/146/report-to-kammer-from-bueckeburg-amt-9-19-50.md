@@ -1,16 +1,12 @@
 # 17 Sept. 1850: To the Princely Treasury Report from the Bückeburg Office, Re
 
-(_image)=
-
 ## Image
 
-```{figure} images/17-r-alternate.png
+```{figure} 17-r-alternate.png
 ```
 
-```{figure} images/17-r-small-text.png
+```{figure} 17-r-small-text.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

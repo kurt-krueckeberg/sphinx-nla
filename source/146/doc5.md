@@ -1,20 +1,14 @@
 # Document 5
 
-(_overview)=
-
 ## Overview
 
 TODO: This seems like a duplication of the Rescript at the bottom of
 document 4?
 
-(_image)=
-
 ## Image
 
-```{figure} images/06-r.png
+```{figure} 06-r.png
 ```
-
-(_transliateration_and_translation)=
 
 ## Transliateration and Translation
 

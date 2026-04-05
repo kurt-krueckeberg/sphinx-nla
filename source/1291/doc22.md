@@ -1,19 +1,15 @@
 # Document 22
 
-(_concluded_purchase_contract_for_new_settler_brüggemann_no_13_at_nordholz)=
-
 ## Concluded purchase contract for new settler Brüggemann No. 13 at Nordholz
 
-```{figure} images/39-r.png
+```{figure} 39-r.png
 ```
 
-```{figure} images/40-l.png
+```{figure} 40-l.png
 ```
 
-```{figure} images/40-r.png
+```{figure} 40-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -144,8 +140,6 @@ Bückeburg, 14 November 1818.
 F. S. L. z. R. v. D.
 R. n. A.
 ```
-
-(_terms)=
 
 ### Terms
 

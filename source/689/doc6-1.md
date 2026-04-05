@@ -1,7 +1,5 @@
 # Docket Item 6
 
-(_images)=
-
 ## Images
 
 ::: {list-table}
@@ -22,8 +20,6 @@
             
   - **Vertical text in prior image rotated right**
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

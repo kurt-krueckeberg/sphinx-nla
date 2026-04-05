@@ -1,7 +1,5 @@
 # Docket Item 3
 
-(_summary)=
-
 ## Summary
 
 The cover slip for Document 3 records the Rentcammer’s brief resolution:
@@ -10,14 +8,10 @@ The cover slip for Document 3 records the Rentcammer’s brief resolution:
 clerkly initials and the notation “Copt an den Colon Krückeberg N. 10 in
 Berenbusch”, showing that a copy of the decision was dispatched to him.
 
-(_image)=
-
 ## Image
 
-```{figure} images/10-l.png
+```{figure} 10-l.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

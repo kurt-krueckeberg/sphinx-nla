@@ -1,7 +1,5 @@
 # Document 4½
 
-(_explanation)=
-
 ## Explanation
 
 Document 4½ is signed by Lieutenant Funck, a "beeidigter Landmesser" (sworn
@@ -17,14 +15,10 @@ Document 4, which it supplemented, is dated over a year later, October 18,
 negotiations, inspections, and back-and-forth between offices.
 earlier.
 
-(_transliteration_and_translation)=
-
 ## Transliteration and Translation
 
-```{figure} images/08-right-page.png
+```{figure} 08-right-page.png
 ```
-
-(_transliteration_of_diagram_text)=
 
 ### Transliteration of Diagram Text
 
@@ -44,8 +38,6 @@ earlier.
 * - Below entire diagram (horizontal)
   - Dorf Strasse (village street or drive)
 :::
-
-(_main_text)=
 
 ### Main Text
 
@@ -99,8 +91,6 @@ This reflects that the offices of Bückeburg and Arensburg were putting forward
 a definitive recommendation or decision to the Cammer (Chamber), expecting it
 to be accepted and implemented without need for further consultation with the
 petitioner.
-
-(_glossary_of_terms)=
 
 ### Glossary of Terms
 

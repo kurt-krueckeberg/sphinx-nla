@@ -1,7 +1,5 @@
 # Survey of the Villages of Evesen, Berenbusch, and Nordholz (1745)
 
-(_document_overview)=
-
 ## Document Overview
 
 The **Survey of the Villages of Evesen, Berenbusch, and Nordholz** (Vermessung
@@ -15,14 +13,10 @@ Archival information system Niedersachsen and Bremen.
 
 On page 110 Berenbusch and Johann Heinrich Krückeberg are mentioned.
 
-(_image_of_page_110_concerning_johann_heinrich_krückebergs_holding)=
-
 ## Image of page 110 Concerning Johann Heinrich Krückeberg’s Holding
 
-```{figure} images/2713-24.png
+```{figure} 2713-24.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

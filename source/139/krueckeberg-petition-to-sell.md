@@ -1,7 +1,5 @@
 # Petition of Colon Krückeberg for Permission to Sell His Farmstead (8 August 1849)
 
-(_narrative_summary)=
-
 ## Narrative Summary
 
 This document is a petition submitted by Colon Krückeberg of Stätte No. 10
@@ -16,14 +14,10 @@ note added by Barkhausen on 13 August instructs that the matter be
 forwarded to the Amt Bückeburg for report and that a 12 Pfennig stamp fee
 be collected and remitted.
 
-(_image)=
-
 ## Image
 
-```{figure} images/07-r.png
+```{figure} 07-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -90,14 +84,10 @@ Bückeburg, 13 August 1849.
 Barkhausen.
 ```
 
-(_cover_note)=
-
 ## Cover Note
 
-```{figure} images/10-l.png
+```{figure} 10-l.png
 ```
-
-(_transliteration)=
 
 ## Transliteration
 

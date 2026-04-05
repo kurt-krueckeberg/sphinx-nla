@@ -33,8 +33,6 @@ taxation, forestry, and state property**.  It operated at the principality level
 (Ämter).  In the case file concerning Jobst Heinrich Krückeberg, the Cammer was the body that made the **final
 decisions** on land grants.
 
-(_comparison_amt_versus_cammer)=
-
 ## Comparison: Amt versus Cammer
 
 ::: {list-table}

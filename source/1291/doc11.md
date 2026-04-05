@@ -1,19 +1,17 @@
 # Document 11
 
-(_digital_image)=
-
 ## Digital Image
 
-```{figure} images/21-r.png
+```{figure} 21-r.png
 ```
 
-```{figure} images/22-l.png
+```{figure} 22-l.png
 ```
 
-```{figure} images/21-r-vert-text.png
+```{figure} 21-r-vert-text.png
 ```
 
-```{figure} images/23-l.png
+```{figure} 23-l.png
 ```
 
 Definitions of Map Terms
@@ -40,14 +38,10 @@ geographic feature used as a point of orientation.
 or access and often forms the boundary between adjoining parcels of land.
 :::
 
-```{figure} images/23-r.png
+```{figure} 23-r.png
 ```
 
-(_transliteration)=
-
 ## Transliteration
-
-(_comments)=
 
 ### Comments
 
@@ -221,8 +215,6 @@ Nordholz für Haus und Gartenplatz
      - 
 ```
 
-(_specifications_transliteration)=
-
 ### Specification’s Transliteration
 
 ```{code-block} text
@@ -283,8 +275,6 @@ sind im Baumer Forste, bei Nordholz, belegen.
 Bburg d 9 Merz 1818
 L. Stille
 ```
-
-(_translation)=
 
 ## Translation
 
@@ -433,8 +423,6 @@ Nordholz for house and garden plot
      - 
      - 
 ```
-
-(_specifications_translation)=
 
 ### Specification’s Translation
 

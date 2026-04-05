@@ -1,13 +1,9 @@
 # Document 5
 
-(_petition_docket_page)=
-
 ## Petition Docket Page
 
-```{figure} images/10-l.png
+```{figure} 10-l.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -42,24 +38,18 @@ a plot of land for the construction of a house with a garden.
             
 :::
 
-(_citation)=
-
 ## Citation
-
-(_document_5)=
 
 ## Document 5
 
-```{figure} images/08-r.png
+```{figure} 08-r.png
 ```
 
-```{figure} images/09-l.png
+```{figure} 09-l.png
 ```
 
-```{figure} images/08-r-vert-text.png
+```{figure} 08-r-vert-text.png
 ```
-
-(_transliteration_and_translation_2)=
 
 ## Transliteration and Translation
 
@@ -166,8 +156,6 @@ Petition
 Bückeburg, 15 December 1817
 Aswellmann p [?] [?]
 ```
-
-(_resolution_of_rentkammer)=
 
 ### Resolution of Rentkammer
 

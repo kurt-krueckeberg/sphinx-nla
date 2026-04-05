@@ -1,10 +1,6 @@
 # Document 6
 
-(_narrative_overview)=
-
 ## Narrative Overview
-
-(_final_transfer_of_ownership_december_1_1800)=
 
 ### Final Transfer of Ownership (December 1, 1800)
 
@@ -36,8 +32,6 @@ The document is dated **Bückeburg, December 1800**, and issued under the
 **impressed comital guardianship treasury seal** with signatures of the
 appointed directors and councillors: **Gladbeck, von Landesberg, Maas,
 Windt, and Wippermann**.  It was dispatched by **Beÿer**.
-
-(_images)=
 
 ## Images
 
@@ -71,8 +65,6 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
               
             
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -170,8 +162,6 @@ Gladbeck · von Landesberg · Maas · Windt
 ------
 Wippermann
 ```
-
-(_glossary_of_terms)=
 
 ## Glossary of Terms
 

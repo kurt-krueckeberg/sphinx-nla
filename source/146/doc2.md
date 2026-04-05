@@ -1,7 +1,5 @@
 # Document 2
 
-(_overview)=
-
 ## Overview
 
 This is the report of the administrative offices of Bückeburg and
@@ -16,8 +14,6 @@ the first page. The third image below contains this text rotated so it
 can be read. The Rentkammer’s response ends with an asterisk
 resembling a double dagger, and the text referenced by the double
 dagger lies at the bottom of the first page.
-
-(_comments)=
 
 ## Comments
 
@@ -45,23 +41,19 @@ Rentkammer to expands his grounds and garden, is called
 - [1237:doc6.xml](1237:doc6.md)
 ```
 
-(_images_for_document_1)=
-
 ## Images for Document #1
 
-```{figure} images/03-r.png
+```{figure} 03-r.png
 ```
 
-```{figure} images/04-l.png
+```{figure} 04-l.png
 ```
 
-```{figure} images/03-r-side-text.png
+```{figure} 03-r-side-text.png
 ```
 
-```{figure} images/03-r-bot-res-cam.png
+```{figure} 03-r-bot-res-cam.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -127,8 +119,6 @@ Falkmann angegeben sind, wird unter der Voraussetzung bewilliget, daß
 keine gegründete Widersprüche von Seiten der Hudeberechtigten
 eintreten, und 2., dasß der Supplicant ein Vermögen von wenigstens 
 ```
-
-(_translation)=
 
 ### Translation
 

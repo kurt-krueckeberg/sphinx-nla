@@ -1,16 +1,12 @@
 # 16 Sept. 1850 
 
-(_image)=
-
 ## Image
 
-```{figure} images/19-r.png
+```{figure} 19-r.png
 ```
 
-```{figure} images/20-l.png
+```{figure} 20-l.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

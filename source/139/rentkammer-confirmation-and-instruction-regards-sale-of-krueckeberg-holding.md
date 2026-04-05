@@ -1,7 +1,5 @@
 # Rentkammer Confirmation and Instruction regarding
 
-(_narrative_summary)=
-
 ## Narrative Summary
 
 This document records the final approval and confirmation of the sale
@@ -18,8 +16,6 @@ official (Werner). The document concludes with an authorization instructing
 that the 12 Mariengroschen stamp fee be properly collected, accounted for,
 and the receipt sent to the Kammer. The approval and orders are dated 20
 September 1849 and signed by Spreng and other clerical officials.
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -53,8 +49,6 @@ September 1849 and signed by Spreng and other clerical officials.
               
             
 :::
-
-(_transliteration_and_translation_2)=
 
 ## Transliteration and Translation
 

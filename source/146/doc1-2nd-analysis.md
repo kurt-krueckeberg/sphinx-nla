@@ -7,8 +7,6 @@ passage.
 
 
 
-(_definition_contextualized_to_schaumburg_lippe_late_18th_c)=
-
 ## Definition (contextualized to Schaumburg-Lippe, late 18th c.)
 
 In **18th–early 19th century Schaumburg-Lippe Rentkammer usage**, an
@@ -32,11 +30,7 @@ Rentkammer.
 
 
 
-(_authoritative_historical_sources_with_citations)=
-
 ## Authoritative historical sources (with citations)
-
-(_1_johann_christoph_adelung_17931801)=
 
 ### 1. Johann Christoph Adelung (1793–1801)
 
@@ -54,8 +48,6 @@ Digitized at Bayerische Staatsbibliothek:
 
 
 
-(_2_deutsches_wörterbuch_jacob_wilhelm_grimm)=
-
 ### 2. Deutsches Wörterbuch (Jacob & Wilhelm Grimm)
 
 Via the closely related category *Instmann*, which the Grimms explicitly
@@ -70,8 +62,6 @@ s.v. **Instmann**. (Quoted and summarized in:)
 [https://de.wikipedia.org/wiki/Inste](https://de.wikipedia.org/wiki/Inste)
 
 
-
-(_3_regional_agrarian_social_history_northwest_germany)=
 
 ### 3. Regional agrarian-social history (Northwest Germany)
 
@@ -94,8 +84,6 @@ practice**, which followed the same Rentkammer-regulated colonization
 model.
 
 
-
-(_reading_your_petition_sentence_in_that_legal_sense)=
 
 ## Reading your petition sentence in that legal sense
 
@@ -137,8 +125,6 @@ Rentkammer administrative awareness.
 petitioner implies **financial capability**, strengthening eligibility.
 
 
-
-(_bottom_line_for_your_documentation_glossary)=
 
 ## Bottom line (for your documentation / glossary)
 

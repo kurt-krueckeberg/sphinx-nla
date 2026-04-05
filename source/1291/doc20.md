@@ -1,19 +1,15 @@
 # Document 20
 
-(_concluded_purchase_contract_for_new_settler_vogt_no_13_at_nordholz)=
-
 ## Concluded purchase contract for new settler Vogt No. 13 at Nordholz
 
-```{figure} images/36-r.png
+```{figure} 36-r.png
 ```
 
-```{figure} images/37-l.png
+```{figure} 37-l.png
 ```
 
-```{figure} images/37-r.png
+```{figure} 37-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

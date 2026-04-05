@@ -1,10 +1,6 @@
 # Document 11
 
-(_overview)=
-
 ## Overview
-
-(_what_this_document_is)=
 
 ### What this document is
 
@@ -15,8 +11,6 @@ legal deed** for his holding, even though a more formal document
 (the Kaufbrief or Meyerbrief) was still to follow.
 In the document itself this is described as being issued **statt Kaufbriefs**
 (“in place of a purchase deed”).
-
-(_what_it_records_the_essential_facts)=
 
 ### What it records (the essential facts)
 
@@ -32,11 +26,7 @@ Bückeburg.
 - **Payment:** the full purchase price—**17 Reichsthaler and
 3 Mariengroschen**—had already been **paid into the government treasury**.
 
-(_what_this_document_actually_gives_him)=
-
 ### What this document actually gives him
-
-(_1_what_ownership_eigenthum_means_here)=
 
 #### 1. What “ownership (Eigenthum)” means here
 
@@ -59,8 +49,6 @@ This ownership **also includes permanent conditions**:
 These obligations are **not exceptions** to ownership; they are
 **part of what ownership means in this system**.
 
-(_2_what_the_protection_clause_means)=
-
 #### 2. What the protection clause means
 
 The document promises that Krückeberg and his heirs are to be
@@ -75,8 +63,6 @@ In practical terms, this means:
 This protection does **not** remove the holding from government oversight
 or from its attached obligations.
 
-(_3_what_obligations_come_with_the_holding)=
-
 #### 3. What obligations come with the holding
 
 The land carries **regular annual dues** (called **Prästanden**), which
@@ -88,8 +74,6 @@ the **duty to pay them remains in force**.
 - Meeting these obligations is required to keep the holding in good standing.
 
 Failure to meet these obligations could ultimately put the holding at risk.
-
-(_4_why_this_is_different_from_modern_land_ownership)=
 
 #### 4. Why this is different from modern land ownership
 
@@ -105,8 +89,6 @@ Here, ownership works differently:
 
 This arrangement was normal at the time but has no direct modern equivalent.
 
-(_how_this_document_fits_into_the_larger_process)=
-
 ### How this document fits into the larger process
 
 This document represents the point at which:
@@ -121,17 +103,13 @@ A later document (the Meyerbrief) would normally spell out the long-term
 rules and obligations in more detail, but this draft already establishes
 Krückeberg’s secure and heritable right to the holding.
 
-(_image)=
-
 ## Image
 
-```{figure} images/13-r.png
+```{figure} 13-r.png
 ```
 
-```{figure} images/14-l.png
+```{figure} 14-l.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

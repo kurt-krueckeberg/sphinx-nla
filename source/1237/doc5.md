@@ -1,10 +1,6 @@
 # Document 5
 
-(_narrative_overview)=
-
 ## Narrative Overview
-
-(_18_october_1800_local_officials_report)=
 
 ### 
         **18 October 1800 – Local Officials' Report**
@@ -19,8 +15,6 @@ to enlarge his grounds and garden.
 They proposed an annual **Rottzins** (ground rent) of **2 Mariengroschen, 1
 Pfennig**, beginning **Michaelmas** (29 September) 1800, and a purchase price
 of **2 Reichsthaler, 4 Mariengroschen per rod**.
-
-(_27_october_1800_official_reply_1_approval_of_land_assignment)=
 
 ### 
         **27 October 1800 – Official Reply 1: Approval of Land Assignment**
@@ -37,8 +31,6 @@ Pfennig**, payable to the Cammer’s revenue office.
 
 The local officials were instructed to ensure Krückeberg fulfilled all
 stated conditions.
-
-(_27_october_1800_official_reply_2_directive_to_collect_purchase_price)=
 
 ### 
         **27 October 1800 – Official Reply 2: Directive to Collect Purchase Price**
@@ -57,8 +49,6 @@ justification.
 The marginal note **Exp: per Bolte** records that the order was dispatched by
 the official Bolte.
 
-(_significance)=
-
 ### 
         **Significance**
       
@@ -70,8 +60,6 @@ stage** of the case:
 
 With these actions, the land enlargement for Krückeberg moved from
 **proposal to final execution**.
-
-(_draft_of_chambers_official_resolutions_to_the_bückeburg_officials_terms_confirmed)=
 
 ## Draft of Chamber’s Official Resolutions to the Bückeburg Officials: Terms Confirmed
 
@@ -103,8 +91,6 @@ With these actions, the land enlargement for Krückeberg moved from
               
             
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -180,8 +166,6 @@ Mkaas
 Wint
 [H.?] Danckwerk
 ```
-
-(_draft_of_official_resolution_to_the_fiscal_treasurer_stackmann_payment_ordered)=
 
 ## Draft of Official Resolution to the Fiscal Treasurer Stackmann: Payment Ordered
 

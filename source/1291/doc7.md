@@ -1,13 +1,9 @@
 # Document 7
 
-(_digital_image)=
-
 ## Digital Image
 
-```{figure} images/13-r.png
+```{figure} 13-r.png
 ```
-
-(_tramsliteration_and_translation)=
 
 ## Tramsliteration and Translation
 

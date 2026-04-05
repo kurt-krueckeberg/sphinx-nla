@@ -1,13 +1,9 @@
 # 26 Sept. 1850: To the Princely Treasury Report from the Bückeberg Office, Re
 
-(_image)=
-
 ## Image
 
-```{figure} images/15-r.png
+```{figure} 15-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

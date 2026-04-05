@@ -1,19 +1,13 @@
 # Actenstück 1 (Administrative File Item 1)
 
-(_overview)=
-
 ## Overview
 
 The Draft of the Official Reply appears in the lower right quadrant of the
 image.
 
-(_image)=
-
 ## Image
 
 03 r
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

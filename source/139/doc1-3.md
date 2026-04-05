@@ -1,7 +1,5 @@
 # Actenstück 1 (Administrative File Item 1)
 
-(_summary)=
-
 ## Summary
 
 The is the **Draft (Concept) of the official reply (Rescript) to the widow
@@ -12,14 +10,10 @@ her three years' service excemption from the **Burgrest labor days** and the
 The text of the Office Reply appears on the top left (consisting of about
 three lines of text) and on the top right of the image.
 
-(_image)=
-
 ## Image
 
-```{figure} images/03-r.png
+```{figure} 03-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

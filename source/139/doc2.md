@@ -1,7 +1,5 @@
 # Actenstück 2 (Administrative File Item 2)
 
-(_report_from_the_bückeburg_office)=
-
 ## Report from the Bückeburg Office
 
 This is a report written by the Amt Bückeburg (with Amt Arensburg
@@ -20,14 +18,10 @@ of it to someone else.
 
 The report is signed Sander at Bückeburg on 7 August 1824.
 
-(_image_of_report_from_the_bückeburg_office)=
-
 ## Image of Report from the Bückeburg Office
 
-```{figure} images/04-r.png
+```{figure} 04-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -88,8 +82,6 @@ Sander
 - **8/C** = "8 x 100" → 800. **8/C** was shorthand for 800.
 ```
 
-(_comments_of_document_identifiers)=
-
 ## Comments of Document Identifiers
 
 The document identifiers were written by:
@@ -103,8 +95,6 @@ outgoing report.
 - Both written in the *Amt* hand (Sander’s or his clerk’s).
 - The **top-left Nr. 2935** and **Præs. 8 Aug 1824** were then added
 *after receipt* by the Rentkammer registry.
-
-(_summary)=
 
 ### ✅ Summary
 

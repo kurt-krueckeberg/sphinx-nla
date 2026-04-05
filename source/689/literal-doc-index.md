@@ -1,9 +1,7 @@
 # Index
 
-```{figure} images/01-r.png
+```{figure} 01-r.png
 ```
-
-(_under_development)=
 
 ## Under Development
 

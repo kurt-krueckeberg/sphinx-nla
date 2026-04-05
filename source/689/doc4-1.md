@@ -1,7 +1,5 @@
 # Docket Item 4
 
-(_overview)=
-
 ## Overview
 
 On 21 November 1841, Colon Krückeberg of No. 10 Berenbusch submitted a
@@ -32,15 +30,11 @@ provide an expert report on whether the Söhren lands might be worth
 purchasing and at what price, and a copy of this instruction was entered
 into the case file.
 
-(_timeline)=
-
 ### Timeline
 
 - 21 Nov 1841 — Krückeberg submits second petition to the Prince.
 - 25 Nov 1841 — Rentkammer decision by Reck: no loan; possible inquiry about Söhren lands.
 - 25 Nov 1841 — Instruction sent to Oberförster Kreutzinger; file copy entered into case record.
-
-(_images)=
 
 ## Images
 
@@ -74,8 +68,6 @@ into the case file.
               
             
 :::
-
-(_transliteration_and_translation_of_krückebergs_petition_21_nov_1841)=
 
 ## Transliteration and Translation of Krückeberg’s Petition (21 Nov 1841)
 

@@ -1,13 +1,9 @@
 # 26 Sept. 1850: Report to the Bückeburg Office, Re
 
-(_image)=
-
 ## Image
 
-```{figure} images/16-l-alternate.png
+```{figure} 16-l-alternate.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

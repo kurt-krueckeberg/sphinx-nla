@@ -1,13 +1,9 @@
 # Document 15
 
-(_chancery_resolution)=
-
 ## Chancery resolution
 
-```{figure} images/30-r.png
+```{figure} 30-r.png
 ```
-
-(_transliteration_and_translation_of_outer_address_page)=
 
 ## Transliteration and Translation of Outer Address Page
 

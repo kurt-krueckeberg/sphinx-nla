@@ -1,7 +1,5 @@
 # Document 9
 
-(_summary)=
-
 ## Summary
 
 On December 7, 1809, Jobst Heinrich’s wife had [petitioned
@@ -16,14 +14,10 @@ only hereditary tenancy rights to the land not full ownership; ultimate title
 remained with the territorial authority.
 ```
 
-(_image)=
-
 ## Image
 
-```{figure} images/11-r.png
+```{figure} 11-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

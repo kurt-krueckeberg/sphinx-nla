@@ -11,8 +11,6 @@ Rescripts
 
 Amt Reports
 
-(_terms)=
-
 ## Terms
 
 

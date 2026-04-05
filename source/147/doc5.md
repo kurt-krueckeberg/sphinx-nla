@@ -1,21 +1,17 @@
 # Document 5
 
-(_images)=
-
 ## Images
 
-```{figure} images/09-r.png
+```{figure} 09-r.png
 ```
 
-```{figure} images/10-l.png
+```{figure} 10-l.png
 ```
 
 09 vert text
 
-```{figure} images/11.png
+```{figure} 11.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

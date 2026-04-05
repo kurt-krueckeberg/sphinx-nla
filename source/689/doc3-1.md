@@ -1,14 +1,10 @@
 # Docket Item 3
 
-(_summary)=
-
 ## Summary
 
 On 11 November 1841, Colon Krückeberg of Berenbusch submitted a petition to
 the Princely Rentcammer requesting a loan of 200 Reichsthaler from the
 chamber treasury.
-
-(_images)=
 
 ## Images
 
@@ -42,8 +38,6 @@ chamber treasury.
               
             
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

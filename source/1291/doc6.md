@@ -1,19 +1,15 @@
 # Document 6
 
-(_digital_images)=
-
 ## Digital Images
 
-```{figure} images/12-r.png
+```{figure} 12-r.png
 ```
 
-```{figure} images/13-l.png
+```{figure} 13-l.png
 ```
 
-```{figure} images/12-r-vert-text.png
+```{figure} 12-r-vert-text.png
 ```
-
-(_summary)=
 
 ## Summary
 
@@ -74,8 +70,6 @@ explanation, so translating it descriptively — as you have now done — is
 appropriate.
 
 ::::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -200,8 +194,6 @@ Bückeburg
 Habicht
 Neufsel
 ```
-
-(_notation_about_document)=
 
 ### Notation about Document
 

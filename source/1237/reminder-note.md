@@ -1,18 +1,14 @@
 # Internal Chamber Reminder Note (27 Oct 1800)
 
-(_summary)=
-
 ## Summary
 
 This and document #5 both are "regarding Nro. 322 (ad Nor. 322)". It was written on the same day
 as Document #5. It also references "Nro. 317", **"wie ad Nro. 317"** ("as with No. 317"), and is
 merely a reminder about Berenbusch woodland boundaries.
 
-(_transliteration_and_translation)=
-
 ## Transliteration and Translation
 
-```{figure} images/07-right-page.png
+```{figure} 07-right-page.png
 ```
 
 ::: {list-table}
@@ -44,8 +40,6 @@ Recorded 27 October 1800
     MK.
             
 :::
-
-(_glossary_of_terms)=
 
 ## Glossary of Terms
 

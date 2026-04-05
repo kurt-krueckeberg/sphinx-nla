@@ -27,8 +27,6 @@ chronological order of the dates on those documents nor the events in the
 life of Johann Heinrich Krückeberg that those dates represent. The story
 flow differs from the filing order.
 
-(_timeline_krückeberg_case)=
-
 ## Timeline (Krückeberg case)
 
 ::: {list-table}

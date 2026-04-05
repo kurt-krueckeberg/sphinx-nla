@@ -1,7 +1,5 @@
 # Docket Item 4
 
-(_overview)=
-
 ## Overview
 
 This page contains two administrative dispositions (Verfügungen) written
@@ -31,8 +29,6 @@ After recording his opinion, Reck directed that an official copy
 This second note thus implements administrative follow-up. It doesn’t
 contradict the first; it supplements it by initiating the next procedural
 step.
-
-(_image)=
 
 ## Image
 
@@ -66,8 +62,6 @@ step.
               
             
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

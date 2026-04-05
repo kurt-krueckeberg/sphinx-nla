@@ -1,9 +1,7 @@
 # Case File Cover
 
-```{figure} images/cover.jpg
+```{figure} cover.jpg
 ```
-
-(_translation_and_transliteration)=
 
 ## Translation and Transliteration
 
@@ -20,8 +18,6 @@ Translation
 
 Farm holdings and settlement colonies
 ```
-
-(_terms_explained)=
 
 ### Terms Explained
 

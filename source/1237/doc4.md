@@ -1,7 +1,5 @@
 # Document 4
 
-(_narrative_overview)=
-
 ## Narrative Overview
 
 On **18 October 1800**, the Ämter of Bückeburg and Arensburg sent a
@@ -70,20 +68,14 @@ So the total extension was roughly **¼ of a modern tennis court** in size.
 
 ::::
 
-(_when_is_michaelmas)=
-
 ### When is Michaelmas?
 
 Michaelmas (Michaeli) = Feast of Saint Michael the Archangel, celebrated on 29 September.
 
-(_image_of_document_4)=
-
 ## Image of Document 4
 
-```{figure} images/06-right-page.png
+```{figure} 06-right-page.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -137,8 +129,6 @@ obedient proposal that he be instructed to pay, beginning at Michaelmas of
 this year, an annual fee for the granted land of 2 Reichsthaler 1
 Schilling, exclusive of exchange charges (
 ```
-
-(_glossary_of_terms)=
 
 ## Glossary of Terms
 

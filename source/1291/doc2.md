@@ -1,13 +1,9 @@
 # Document 2
 
-(_digital_image)=
-
 ## Digital Image
 
-```{figure} images/03-r.png
+```{figure} 03-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -75,14 +71,10 @@ Bückeburg 3 February 1817
 MKaas
 ```
 
-(_digital_image_of_rentkammer_response)=
-
 ## Digital Image of Rentkammer Response
 
-```{figure} images/03-r-horz-text.png
+```{figure} 03-r-horz-text.png
 ```
-
-(_transliteration_and_translation_2)=
 
 ## Transliteration and Translation
 
@@ -114,14 +106,10 @@ Bückeburg, 10 February 1817
 T Landesberg
 ```
 
-(_document_2_enclosure_report_of_chief_forester_falkmann)=
-
 ## Document 2 Enclosure: Report of Chief Forester Falkmann
 
-```{figure} images/04-r.png
+```{figure} 04-r.png
 ```
-
-(_transliteration_and_translatin)=
 
 ## Transliteration and Translatin
 
@@ -166,14 +154,10 @@ Baum, 2 February 1817
 Falckmann
 ```
 
-(_document_2_enclosure_survey_drawing)=
-
 ## Document 2 Enclosure: Survey Drawing
 
-```{figure} images/05-r.png
+```{figure} 05-r.png
 ```
-
-(_transliteration_and_translation_3)=
 
 ## Transliteration and Translation
 

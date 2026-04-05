@@ -1,7 +1,5 @@
 # Narrative Timeline
 
-(_compressed_timeline)=
-
 ## Compressed Timeline
 
 ::: {list-table}
@@ -42,8 +40,6 @@ plot.
 acknowledgment of execution.
 :::
 
-(_1_the_petition_is_initiated_at_the_bückeburg_office_29_may_1798)=
-
 ## 1. The Petition is Initiated at the Bückeburg Office (29 May 1798)
 
 On May 29, 1798, *Jobst Heinrich Krückeberg*, a Colonist at No. 10 in *Berenbusch*,
@@ -57,8 +53,6 @@ Krückeberg’s behalf.
 > and which even causes the road to be uneven. Since this corner adjoins
 > my garden, I would like to cultivate it and purchase it.
 
-(_2_the_petition_is_reviewed_by_the_cammer_30_may_1798)=
-
 ## 2. The Petition is Reviewed by the Cammer (30 May 1798)
 
 A cover note for the petition tells us it was forwarded to the Cammer.
@@ -70,8 +64,6 @@ A cover note for the petition tells us it was forwarded to the Cammer.
 > To the
 > Guardianship
 > Rent Chamber
-
-(_3_forestry_assessment_by_mkaas_14_june_1798)=
 
 ## 3. Forestry Assessment by MKaas (14 June 1798)
 
@@ -86,8 +78,6 @@ MKaas concluded that:
 
 - The area in question was near the village and not part of any important forest tract,
 - The land could be cleared, but three saplings should be planted elsewhere as compensation.
-
-(_4_mariginal_note_of_brief_written_order_to_bückeburg_office_18_feb_1799)=
 
 ## 4. Mariginal Note of Brief Written Order to Bückeburg Office (18 Feb. 1799)
 
@@ -105,16 +95,12 @@ Report) are not preserved; only this short reference and the Office’s subseque
 [Desfallsiger Bericht](contents-list.xml#desfallsiger-bericht) in the
 Designatio Actorum (Document No. 2) remain.
 
-(_5_the_report_by_the_officials_at_bückeburg_on_this_matter_27_feb_1799)=
-
 ## 5. The  “Report by the officials at Bückeburg on this matter.” (27 Feb. 1799)
 
 The Offices of Bückeburg and Arensburg prepared Document #2, on February, 27,
 1799, to inform the Cammer that they had reviewed the forestry report, and to
 report that locally only one Berenbusch resident named Weiland raised
 objections — which the Offices dismissed as without merit.
-
-(_6_guardianship_chamber_resolution_approved_allocation_of_parcel_to_krückeberg_10_mar_1799)=
 
 ## 6. Guardianship Chamber Resolution: Approved Allocation of Parcel to Krückeberg (10 Mar. 1799)
 
@@ -124,8 +110,6 @@ the report:
 - The approved the allocation of the parcel (so Krückeberg’s request is likely approved).
 - They instructed the local officials to investigate other possibly unauthorized garden
 expansions in Berenbusch, like those of Weiland, and to report back.
-
-(_7_official_draftdecree_to_the_official_at_bückeburg_of_guardianship_chamber_11_mar_1799)=
 
 ## 7. Official Draft/Decree to the Official at Bückeburg of Guardianship Chamber (11 Mar. 1799)
 
@@ -139,8 +123,6 @@ office
   1. have a sworn surveyor survey the plots, and
   2. report its size back to the Cammer.
 
-(_8_offices_of_bückeburg_and_arensburg_reply_to_guradianship_chamber_decree_18_mar_1800)=
-
 ## 8. Offices of Bückeburg and Arensburg Reply to Guradianship Chamber Decree (18 Mar. 1800)
 
 The survey drawings of the two parcels assigned to Jobst Henrich Krückeberg, No. 10 in Berenbusch,
@@ -149,8 +131,6 @@ show two areas, one of **19 rods 44 feet decimal** and the other of **1 rod 90 f
 
 The Offices propose that Krückeberg pay, beginning at Michaelmas, September 29th, an annual
 fee for the granted land of 2 Reichsthaler 1 Schilling, exclusive of exchange charges (agio).
-
-(_9_draft_of_chambers_official_resolutions_to_the_bückeburg_officials_and_to_the_fiscal_treasurer_stackmann_27_oct_1800)=
 
 ## 9. Draft of Chamber’s Official Resolutions to the Bückeburg Officials, and to the Fiscal Treasurer Stackmann (27 Oct. 1800)
 
@@ -168,8 +148,6 @@ They also issued a directive to o **Cammer Rentmaster Stackmann**, that he:
 - ensure collection of the purchase price from Krückeberg calculated at 14 Reichsthaler, 8 Mariengroschen, 1 Pfennig.
 - Enter the amount under the proper heading in the Cammer accounts.
 - Use of the Official Reply (Rescript) itself as the official accounting justification.
-
-(_10_deed_issued_to_krückeberg_1_dec_800)=
 
 ## 10. Deed Issued to Krückeberg (1 Dec. 800)
 

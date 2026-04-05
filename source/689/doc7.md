@@ -1,7 +1,5 @@
 # Docket Item 7
 
-(doc-index-7-1)=
-
 ::: {list-table}
 :widths: 1 1
 
@@ -21,11 +19,7 @@
   - 
 :::
 
-(_transliteration_and_translation)=
-
 ## Transliteration and Translation
-
-(_explanations_of_abbreviations_and_terms_used)=
 
 ### Explanations of Abbreviations and Terms used:
 

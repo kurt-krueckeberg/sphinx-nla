@@ -1,7 +1,5 @@
 # Docket Item 1
 
-(_overview)=
-
 ## Overview
 
 On **2 October 1841** in Bückeburg, **Johann Heinrich Krückeberg** (Colon No.
@@ -16,8 +14,6 @@ says he has no other way out despite the added interest burden. The
 petition closes with the standard deferential formula. Marginal dockets
 route the matter **to the Amt for a report** (noted **4 Oct 1841**) and show it
 was **drafted by G. W. Fuchs (Conc.)** and registered under **N. C. 4381**.
-
-(_timeline_hempel_söhne_v_krückeberg_1841)=
 
 ### Timeline: Hempel Söhne v. Krückeberg (1841)
 
@@ -45,11 +41,7 @@ Krückeberg is not present and does not know of this filing.
   plaintiffs, **seizure of property (Auspfandung)** will immediately be decreed
   and carried out.  Signed by Amt officials Hauck and Höcker.
 
-(_explanation)=
-
 ## Explanation
-
-(_the_protokollbuch_and_protokoll_number)=
 
 ### The Protokollbuch and Protokoll Number
 
@@ -66,8 +58,6 @@ initial handling in the Protokollbuch under entry 1274.
   anyone later consulted the loose papers, they could look up the
 corresponding **protocol entry** (the official summary) in the ledger.
 
-(_b_m_zum_amtsberichtto_be_attached)=
-
 ### "b.m. zum Amtsbericht” — "to be attached"
 
 **“b.m. zum Amtsbericht”** appears in the Rentcammers’s comment/note
@@ -81,14 +71,10 @@ That’s why in Document 2, the Amt’s report opens with: "Auf Auf die anbei
 zurückerfolgende Bittschrift des Colons Krückeberg…” or “In response to the
 petition of Colon Krückeberg, herewith returned.”
 
-(_case_file_subject_slip)=
-
 ## Case File Subject Slip
 
-```{figure} images/08-l.png
+```{figure} 08-l.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -116,8 +102,6 @@ No. 10 in Berenbusch
 most humble petition
 for loan consent, etc
 ```
-
-(_images)=
 
 ## Images
 
@@ -151,8 +135,6 @@ for loan consent, etc
               
             
 :::
-
-(_transliteration_and_translation_2)=
 
 ## Transliteration and Translation
 

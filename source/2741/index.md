@@ -1,7 +1,5 @@
 # Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey (land measurement). (1743-1744)
 
-(_overview)=
-
 ## Overview
 
 This document has identifier
@@ -12,8 +10,6 @@ information system Niedersachsen and Bremen](https://www.arcinsys.niedersachsen.
 
 Johann Heinrich Krückeberg is one of the respondents, and therefore a
 property holder by 1743-44.
-
-(_replies_of_rural_property_holders)=
 
 ## Replies of Rural Property Holders
 
@@ -43,8 +39,6 @@ Latin terms used
   - like the others
   - Same as other respondents
 :::
-
-(_images_of_johann_heinrich_krückebergs_recorded_answers)=
 
 ## Images of Johann Heinrich Krückeberg’s Recorded Answers
 
@@ -97,8 +91,6 @@ Latin terms used
             
   - 
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

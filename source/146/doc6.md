@@ -1,14 +1,8 @@
 # Document 6
 
-(_todo_provide_a_summaryoverview)=
-
 ## TODO: provide a summary/overview
 
-(_essential_explanations_to_understanding_document_6)=
-
 ## Essential Explanations to Understanding Document 6
-
-(_michaelmas)=
 
 ### Michaelmas
 
@@ -25,8 +19,6 @@ legal and economic term date:
 - administrations used it as a fixed annual reference point
 
 In this document the annual financial fees begin on Michaelmas.
-
-(_meyerbrief)=
 
 ### Meyerbrief
 
@@ -50,8 +42,6 @@ which both the land and buildings are owned outright, termed
 **fee simple** ownership.
 
 ::::
-
-(_annaul_fees_and_obligations_a_hearth_hen_really)=
 
 ### Annaul Fees and Obligations (a Hearth Hen really?)
 
@@ -87,8 +77,6 @@ authority.
 As odd as it may sound, a smoked hen was annaul obligation of a
 someone holding a Meyerbrief, a inheritable tenancy right to land.
 
-(_what_this_document_tells_us_about_jobst_heinrichs_status)=
-
 ## What this Document Tells Us about Jobst Heinrich’s Status
 
 Jobst Heinrich Krückeberg is an Einlieger when he petitions to
@@ -104,8 +92,6 @@ a *Meyerbrief*. At that point:
 - he had **legal permission to build**,
 - but he did **not yet possess a functioning household**,
 - and therefore **his social–fiscal status had not yet changed**.
-
-(_what_changed_his_status)=
 
 ### What changed his status
 
@@ -126,8 +112,6 @@ This is exactly why the document specifies that the obligations **begin
 at Michali 1813**: it presupposes a **transition period** between approval,
 construction, and full fiscal incorporation of the new holding.
 
-(_why_kottzmis_still_appears_here)=
-
 ### Why *Kottzmis* still appears here
 
 The presence of *Kottzmis* (an annual money due) reflects **current or
@@ -140,8 +124,6 @@ Early modern administrations were **status-sensitive**, not abstractly
 contractual. Obligations followed *who you were* and *how you lived*,
 not just what you had permission to do.
 
-(_bottom_line)=
-
 ### Bottom line
 
 - ✔ Kottzmis is a cottager-level monetary due, and in this document it
@@ -152,14 +134,10 @@ eventual status.
 - ✔ The document reflects a **process**, not an instantaneous
 transformation in status,
 
-(_image)=
-
 ## Image
 
-```{figure} images/07-r.png
+```{figure} 07-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

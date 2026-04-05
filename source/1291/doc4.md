@@ -1,13 +1,9 @@
 # Document 4
 
-(_petition_docket_page)=
-
 ## Petition Docket Page
 
-```{figure} images/11-l.png
+```{figure} 11-l.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -21,20 +17,16 @@ Untertänigste Vorstellung Bitte:
 Um Platz zum Hausbau
 ```
 
-(_petition_of_the_lodger_vogt_at_evesen)=
-
 ## Petition of the lodger Vogt at Evesen
 
-```{figure} images/07-r.png
+```{figure} 07-r.png
 ```
 
-```{figure} images/08-l.png
+```{figure} 08-l.png
 ```
 
-```{figure} images/07-r-vertical-text.png
+```{figure} 07-r-vertical-text.png
 ```
-
-(_transliteration_and_translation_2)=
 
 ## Transliteration and Translation
 
@@ -100,8 +92,6 @@ Most Serene Prince!
 Most gracious reigning
 Prince and Lord!
 ```
-
-(_chamber_resolution_vertical_text)=
 
 ## Chamber Resolution (vertical text)
 

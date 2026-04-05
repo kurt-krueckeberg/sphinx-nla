@@ -1,7 +1,5 @@
 # Docket Item 5
 
-(_images)=
-
 ## Images
 
 ::: {list-table}
@@ -66,10 +64,8 @@
             
 :::
 
-```{figure} images/14-r.png
+```{figure} 14-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

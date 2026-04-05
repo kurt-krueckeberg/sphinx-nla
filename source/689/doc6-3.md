@@ -1,7 +1,5 @@
 # Docket Item 6
 
-(_images)=
-
 ## Images
 
 ::: {list-table}
@@ -125,8 +123,6 @@ Reck
             
 :::
 
-(_left_margin_text_in_parentheses)=
-
 ### Left Margin Text in Parentheses
 
 ::: {list-table}
@@ -142,8 +138,6 @@ Reck
                 (However, the appraisal/valuation will likely be somewhat low.)
               
 :::
-
-(_prince_of_schaumburg_lippe_georg_wilhelms_decision_and_signature)=
 
 ### Prince of Schaumburg-Lippe Georg Wilhelm’s Decision and Signature.
 

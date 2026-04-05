@@ -1,7 +1,5 @@
 # Docket Item 2
 
-(_summary)=
-
 ## Summary
 
 This cover slip records the Rentkammer’s resolution of 14 October 1841: the
@@ -9,14 +7,10 @@ Amt is instructed to notify Krückeberg in line with its 7 October report.
 The initials mark the concurrence of Kammer officials, and the expedition
 note shows clerk Holste dispatched the decision on 17 November 1841.
 
-(_image_of_official_order)=
-
 ## Image of Official Order
 
-```{figure} images/06-l.png
+```{figure} 06-l.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -74,8 +68,6 @@ This document has been officially recorded and put on file
             
 :::
 
-(doc-index-2-3)=
-
 ## Billing Note
 
 The image below is a postscript accounting note made after the decision had
@@ -121,10 +113,8 @@ Here is what each of them means:
   - Per-folio (per page) fee
 :::
 
-```{figure} images/07-l.png
+```{figure} 07-l.png
 ```
-
-(_transliteration_and_translation_2)=
 
 ### Transliteration and Translation
 

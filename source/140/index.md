@@ -1,7 +1,5 @@
 # List of all Kolons in the districts of Bückeburg and Arensburg, with numbering of all houses. (1747)
 
-(_overview)=
-
 ## Overview
 
 The **Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg und
@@ -21,14 +19,10 @@ the text was whitish-yellow).
 While its life span is given as 1740 - 1830,  Dr. Möhle found, however,
 that it covers only the year 1747.
 
-(_image_of_title_page)=
-
 ## Image of Title Page
 
-```{figure} images/title-140.png
+```{figure} title-140.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

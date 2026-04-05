@@ -1,13 +1,9 @@
 # Document 21
 
-(_receipt)=
-
 ## Receipt
 
-```{figure} images/38-r.png
+```{figure} 38-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

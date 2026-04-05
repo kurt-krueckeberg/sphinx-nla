@@ -1,13 +1,9 @@
 # Document 3
 
-(_digital_image)=
-
 ## Digital Image
 
-```{figure} images/06-r.png
+```{figure} 06-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

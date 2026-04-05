@@ -1,10 +1,6 @@
 # Document 2
 
-(_document_2_narrative_overview)=
-
 ## Document 2: Narrative Overview
-
-(_1_ämter_compose_the_land_assignment_report_document_2_27_feb_1799)=
 
 ### 
         **1. Ämter Compose the Land Assignment Report: Document 2 (27 Feb 1799)**
@@ -18,8 +14,6 @@ objections — which the Ämter dismissed as without merit.
 The "main text", the larger text on the page, is the **The Land Assignment
 Report** issued by the **Ämter Bückeburg und Arensburg** (local adminstrative
 offices of Bückeburg and Arenburg).
-
-(_2_cammers_reaction_to_document_2_10_mar_1799)=
 
 ### 
         **2. Cammer’s Reaction to Document 2 (10 Mar 1799)**
@@ -35,8 +29,6 @@ Kammer), giving administrative directives:
 approved).
 - Instructing the local officials to investigate other possibly unauthorized
 garden expansions in Berenbusch and to report back.
-
-(doc-index-2-1)=
 
 ## Images of the Land Assignment Report
 
@@ -70,8 +62,6 @@ garden expansions in Berenbusch and to report back.
               
             
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -149,8 +139,6 @@ Bückeburg, February 27,
 1799
 H. Habicht.     Stölting
 ```
-
-(_official_reaction_to_petition_and_land_assignment_report_10_mar_1799)=
 
 ## Official Reaction to Petition and Land Assignment Report (10 Mar. 1799)
 

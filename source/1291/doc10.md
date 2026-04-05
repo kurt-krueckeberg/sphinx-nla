@@ -1,13 +1,9 @@
 # Document 10
 
-(_petition_docket_page)=
-
 ## Petition Docket Page
 
-```{figure} images/20-l.png
+```{figure} 20-l.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -41,23 +37,19 @@ To the
 Princely Rent Chamber
 ```
 
-(_petition_of_vogt)=
-
 ## Petition of Vogt
 
-```{figure} images/17-r.png
+```{figure} 17-r.png
 ```
 
-```{figure} images/18-l.png
+```{figure} 18-l.png
 ```
 
-```{figure} images/19-r.png
+```{figure} 19-r.png
 ```
 
-```{figure} images/18-r.png
+```{figure} 18-r.png
 ```
-
-(_transliteration_and_translation_2)=
 
 ## Transliteration and Translation
 

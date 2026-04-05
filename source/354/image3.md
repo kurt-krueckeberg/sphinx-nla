@@ -1,9 +1,7 @@
 # Image 3
 
-```{figure} images/003.png
+```{figure} 003.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

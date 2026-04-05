@@ -1,6 +1,6 @@
 # Case File Cover
 
-```{figure} images/cover-orig.png
+```{figure} cover-orig.png
 ```
 
 ::: {list-table}
@@ -51,8 +51,6 @@ B. in the Amt of Bückeburg
 B. 32.
           
 :::
-
-(_glossary_of_terms)=
 
 ## Glossary of Terms
 

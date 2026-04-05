@@ -1,6 +1,6 @@
 # Cover
 
-```{figure} images/cover.png
+```{figure} cover.png
 ```
 
 

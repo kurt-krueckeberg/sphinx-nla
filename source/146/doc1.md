@@ -1,7 +1,5 @@
 # Document 1
 
-(_overview)=
-
 ## Overview
 
 This is Schneider Krückeberg’s petition to purchase a tenancy holding on land
@@ -9,8 +7,6 @@ where he can build a future home that was presented to the Rentkammer on 30
 September 1808.
 
 The Rentkammer’s response is written just below the petition’s salutation.
-
-(_hans_heinrich_wilharm_was_one_of_carl_friedrich_born_1807_baptismal_sponsors)=
 
 ### Hans Heinrich Wilharm was one of Carl Friedrich (born 1807) Baptismal Sponsors
 
@@ -37,18 +33,14 @@ show the family:
 - Hans Heinrich was the Colon (Stätte holder) of no. 11 Evesen
 - He worked as an Ackermann (farmer) in 1810.
 
-(_response)=
-
 ## Response
 
 The Rentkammer asked the Bückeburg Amt (administrative office) to report on
 the " financial circumstances and on the personal qualities of the petitioner."
 
-(_petition_cover_page)=
-
 ## Petition Cover Page
 
-```{figure} images/05-l.png
+```{figure} 05-l.png
 ```
 
 ```{note}
@@ -61,8 +53,6 @@ itself establish domicile there. Consistent church records identifying
 Krückeberg as resident at Berenbusch No. 10 carry greater evidentiary
 weight for determining residence.
 ```
-
-(_transliteration_and_translation_of_petition_cover_page)=
 
 ## Transliteration and Translation of Petition Cover Page
 
@@ -99,19 +89,15 @@ for the gracious granting
 of a plot of land for the construction of a house
 ```
 
-(_images_for_petition_submitted_by_the_tailor_krückeberg_in_evesen)=
-
 ## Images for Petition submitted by the tailor Krückeberg in Evesen
 
-```{figure} images/02-r.png
+```{figure} 02-r.png
 ```
 
-```{figure} images/03-l.png
+```{figure} 03-l.png
 ```
 
 See [Corrections to Text](https://chatgpt.com/share/694485ae-3bec-8004-961e-67d320e050d3)
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -174,8 +160,6 @@ Most Serene Prince,
 Most Graciously Reigning Prince
 and Lord!
 ```
-
-(_translation_notes)=
 
 ### Translation Notes
 

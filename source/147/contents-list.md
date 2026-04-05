@@ -1,13 +1,9 @@
 # Contents List
 
-(_image)=
-
 ## Image
 
-```{figure} images/01-r.png
+```{figure} 01-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

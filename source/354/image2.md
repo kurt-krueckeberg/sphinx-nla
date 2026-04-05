@@ -1,13 +1,9 @@
 # Image 2
 
-```{figure} images/002.png
+```{figure} 002.png
 ```
 
-(_transliteration_and_translation)=
-
 ## Transliteration and Translation
-
-(_actum_d_24_9br_1725_or_held_on_the_24th_of_november_1725)=
 
 ### Actum d. 24. 9br. 1725 or Held on the 24th of November 1725
 
@@ -74,8 +70,6 @@ month of December of this year.
                 
               
 :::
-
-(_glossary_of_terms)=
 
 ## Glossary of Terms
 

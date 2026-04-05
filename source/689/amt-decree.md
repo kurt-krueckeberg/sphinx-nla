@@ -1,7 +1,5 @@
 # Background
 
-(_overview_and_summary)=
-
 ## Overview and Summary
 
 On **10 July 1841** at the **Amt Bückeburg**, the creditor **Hempel & Söhne of Minden** pressed their case against
@@ -20,8 +18,6 @@ In short, this document records the **turn from warning to active enforcement**:
 proceed, sets the exact **sum and interest**, and puts Krückeberg on a **14-day clock** toward seizure if he does
 not pay.
 
-(_terms)=
-
 ### Terms
 
 **distraint** in the text means the legal seizure of property to compel payment.
@@ -37,8 +33,6 @@ In older German legal language (in contumaciam), it meant:
 
 So in your Krückeberg document, when the clerk writes *contum.*, he’s noting that the judgment was rendered
 because of **Krückeberg’s non-appearance (or non-response)**, not after a contested hearing.
-
-(_images)=
 
 ## Images
 
@@ -72,8 +66,6 @@ because of **Krückeberg’s non-appearance (or non-response)**, not after a con
               
             
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

@@ -2,8 +2,6 @@
 
 This is the typical Rentkammer workflow.
 
-(_1_main_kinds_of_numbers)=
-
 ## 1. Main kinds of numbers
 
 N. or Num: Cam:
@@ -14,8 +12,6 @@ Num: Pr: or N: pr.
 
 ad N: C. …​ anni …​
 : A cross-reference to another Kammer file. It means that the present document is to be associated with, compared with, or filed in relation to that earlier or related case.
-
-(_2_documents_that_received_num_pr)=
 
 ## 2. Documents that received Num: Pr:
 
@@ -30,8 +26,6 @@ Typical examples:
 
 These were entered in the Kammer’s register of documents, so they received a Pr: number.
 
-(_3_documents_that_do_not_have_num_pr)=
-
 ## 3. Documents that do not have Num: Pr:
 
 These are usually working papers inside the Kammer.
@@ -44,8 +38,6 @@ Examples:
 - copies placed in the file
 
 These were never sent or received as separate documents, so they were not entered in the register and therefore have no Pr: number.
-
-(_4_meaning_of_the_ad_notations)=
 
 ## 4. Meaning of the ad …​ notations
 
@@ -61,8 +53,6 @@ ad N: C. 168 & 101 anni 1818
 
 These notes mean that the present paper is connected with those other Kammer files. They were usually added as filing or routing notes, often in a smaller or different hand.
 
-(_5_how_a_typical_case_moved)=
-
 ## 5. How a typical case moved
 
 Very simplified:
@@ -73,8 +63,6 @@ Very simplified:
 4. Amt sends back a report (Bericht) → registered → Pr:
 5. Internal calculations or notes → not registered
 6. Clerks add cross-references such as ad N: C. …​ to connect the paper with related Kammer files
-
-(_6_meaning_of_the_main_terms)=
 
 ## 6. Meaning of the main terms
 
@@ -92,8 +80,6 @@ So the main distinction is this:
 - N. / Num: Cam: = the Kammer file number of the present case
 - Num: Pr: = the register-entry number of the present document
 - ad N: C. …​ = references to other related Kammer files
-
-(_terminology_clarification)=
 
 ### Terminology Clarification
 

@@ -1,19 +1,15 @@
 # Document 8
 
-(_digital_images)=
-
 ## Digital Images
 
-```{figure} images/14-r.png
+```{figure} 14-r.png
 ```
 
-```{figure} images/15-l.png
+```{figure} 15-l.png
 ```
 
-```{figure} images/15-r.png
+```{figure} 15-r.png
 ```
-
-(_translation_and_transliteration)=
 
 ## Translation and Transliteration
 
@@ -122,8 +118,6 @@ of this so that they may plan accordingly.
 Bückeburg, 23 February 1818.
 M. Kaas
 ```
-
-(_drawing_legend)=
 
 ### Drawing Legend
 

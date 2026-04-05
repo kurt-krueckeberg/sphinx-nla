@@ -1,7 +1,5 @@
 # Analysis of Documents #1 and  #2
 
-(_1_what_document_1_petition_shows)=
-
 ## 1. What Document 1 (petition) shows
 
 - **Document type**: It’s Krückeberg’s **petition** (*Gesuch / Vorstellung*)
@@ -29,8 +27,6 @@ case orally, and the Rentkammer scribe wrote the formal petition.
 installment repayment. It was received 2 Oct 1841, docketed as NC 4381,
 protocolled as Nr pr. 1274, and sent b.m. zum Amtsbericht to Amt
 Bückeburg.**
-
-(_2_what_document_2_amt_bückeburgs_report_shows)=
 
 ## 2. What Document 2 (Amt Bückeburg’s report) shows
 
@@ -66,8 +62,6 @@ is to decide/respond to Krückeberg as proposed.
 as a reply to NC 4381, given its own docket NC 4487, and resulting in an
 RC Rescript (official order) on 14 Oct 1841.**
 
-(_3_clarifications_of_terms)=
-
 ## 3. Clarifications of terms
 
 - **NC number (e.g. NC 4381, NC 4487)** = **Chamber docket/expedition
@@ -98,15 +92,9 @@ issued 14 Oct.
 Together, they show the early flow of the case: petition → Amt’s report
 → Rentkammer’s rescript.
 
-(_comments_on_the_nc_and_nr_pr_numbering_systems)=
-
 ## Comments on the **NC** and **"Nr Pr"** numbering systems.
 
-(_the_numbering_systems)=
-
 ## The Numbering Systems
-
-(_1_why_two_numbering_systems)=
 
 ### 1. Why **two** numbering systems?
 
@@ -126,8 +114,6 @@ So:
 - NC = **document traffic control** (don’t lose the paper).
 - Nr pr. = **decision log** (don’t lose the institutional memory).
 
-(_2_why_wasnt_one_number_enough)=
-
 ### 2. Why wasn’t one number enough?
 
 Because the Rentkammer had **two separate risks** to manage:
@@ -136,8 +122,6 @@ Because the Rentkammer had **two separate risks** to manage:
 - **Future clerks might need to know what decision was taken without digging through piles of petitions.** (solved by protocol book entries).
 
 In other words, NC was “we saw this on 2 October and put it in the stack,” while Nr pr. was “this was formally decided as item 1274 in our book of official actions.”
-
-(_3_what_was_a_protocol_book)=
 
 ### 3. What was a protocol book?
 
@@ -156,8 +140,6 @@ The Rentkammer had to cover its back: decades later, if there was a dispute over
 
 Would you like me to show you a **mock example entry** (how Nr pr. 1274 might have looked in the actual protocol book, reconstructed from your documents), so you can see what clerks would have recorded there?
 
-(_why_was_there_only_one_nr_pr_number_in_the_case_file)=
-
 ## Why was there only one "Nr pr" Number in the Case File?
 
 Only one document in the case file, document 1, has a "Nr pr" number on it.
@@ -165,8 +147,6 @@ There isn’t any other document with a "Nr pr" number on it, despite the fact
 that "KRes" or "Rescr.", both meaning Kammer Rescript, appear seven times
 in the Acten Designation. "KRes" appears four times and "Rescr." appears
 three times.
-
-(_1_why_only_one_nr_pr_in_the_surviving_file)=
 
 ### 1. Why only *one*Nr pr. in the surviving file?
 
@@ -180,8 +160,6 @@ Krückeberg loan matter was logged in the protocol book.
 
 That’s why you see it on Document 1 (the petition) but not again: it was
 the **anchor document** of the protocol entry.
-
-(_2_then_why_so_many_kres_and_rescr_notes)=
 
 ### 2. Then why so many KRes. and Rescr. notes?
 
@@ -198,8 +176,6 @@ So:
 - Nr pr. = the umbrella case entry.
 - KRes./Rescr. = individual executive actions, which were linked back to
 that one protocol number.
-
-(_3_why_dont_we_see_the_protocol_number_on_each_reskript)=
 
 ### 3. Why don’t we see the protocol number on each Reskript?
 

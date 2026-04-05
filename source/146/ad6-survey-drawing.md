@@ -1,7 +1,5 @@
 # Document 6
 
-(_survey_drawing_accompanying_document_6)=
-
 ## Survey drawing accompanying Document 6
 
 This geometric sketch shows the shape and measured dimensions of the **Hofstelle**
@@ -38,18 +36,12 @@ indicates a formally executed and validated survey rather than an approximate
 estimation.
 ```
 
-(_image)=
-
 ## Image
 
-```{figure} images/08-r.png
+```{figure} 08-r.png
 ```
 
-(_transliteration_and_translation)=
-
 ## Transliteration and Translation
-
-(_survey_text)=
 
 ### Survey Text
 
@@ -88,8 +80,6 @@ Bückeburg, the 5th of March 1809.
 
 L. Stille
 ```
-
-(_boundary_labels)=
 
 ### Boundary Labels
 

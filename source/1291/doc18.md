@@ -1,13 +1,9 @@
 # Document 18
 
-(_chamber_treausry_recept)=
-
 ## Chamber Treausry Recept
 
-```{figure} images/33-r.png
+```{figure} 33-r.png
 ```
-
-(_transliteration_and_translation_of_outer_address_page)=
 
 ## Transliteration and Translation of Outer Address Page
 

@@ -1,7 +1,5 @@
 # Document 8
 
-(_summary)=
-
 ## Summary
 
 **Why this document uses 394 F.S. instead of N.C. like most doccuments?**
@@ -21,14 +19,10 @@ The difference is:
 - **N.C.** = “decision number”
 - **F.S.** = “folder number”
 
-(_image)=
-
 ## Image
 
-```{figure} images/10-r.png
+```{figure} 10-r.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

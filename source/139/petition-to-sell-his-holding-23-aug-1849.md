@@ -1,7 +1,5 @@
 # Petition of Colon Krückeberg for Permission to Sell his Farmstead (23 Aug. 1849)
 
-(_document_summary)=
-
 ## Document Summary
 
 This document is the formal approval for the sale of Stätte (holding)
@@ -12,14 +10,10 @@ sale. The approval is issued at Bückeburg on 23 August 1849 and is signed
 by the Rentkammer official Spreng. Further clerical notations indicate
 internal processing and routing (including “Exp” for dispatch).
 
-(_image)=
-
 ## Image
 
-```{figure} images/11-l.png
+```{figure} 11-l.png
 ```
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 

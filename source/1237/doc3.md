@@ -1,10 +1,6 @@
 # Document 3
 
-(_narrative_overview)=
-
 ## Narrative Overview
-
-(_recapitulation_cammer_reaction_to_document_2_10_march_1799)=
 
 ### 
         **Recapitulation: Cammer Reaction to Document 2 (10 March 1799)**
@@ -13,8 +9,6 @@
 After first reviewing Document 2 on March 6, 1799, the Cammer noted, on
 March 10, 1799, their intention to approve Jobst Heinrich’s request and to
 allocated land for him to purchase.
-
-(_offical_directive_11_march_1799_from_cammer_to_ämter)=
 
 ### 
         **Offical Directive (11 March 1799) from Cammer to Ämter**
@@ -35,8 +29,6 @@ felled and sold by the forestry office
 - If Krückeberg agrees to these conditions, the Amt is to:
 - have the plot surveyed by a sworn surveyor
 - and report its size back to the Cammer.
-
-(_images)=
 
 ## Images
 
@@ -70,8 +62,6 @@ felled and sold by the forestry office
               
             
 :::
-
-(_transliteration_and_translation)=
 
 ## Transliteration and Translation
 
@@ -159,8 +149,6 @@ Wippermann
 
 **In place of "per procurationem"** means: signed on behalf of the authority by delegated officials, in lieu of the
 principal’s own signature.
-
-(_glossary_of_terms)=
 
 ## Glossary of Terms
 

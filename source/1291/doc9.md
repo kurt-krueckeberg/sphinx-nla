@@ -1,16 +1,12 @@
 # Document 9
 
-(_digital_images)=
-
 ## Digital Images
 
-```{figure} images/16-r.png
+```{figure} 16-r.png
 ```
 
-```{figure} images/17-l.png
+```{figure} 17-l.png
 ```
-
-(_translation_and_transliteration)=
 
 ## Translation and Transliteration
 
