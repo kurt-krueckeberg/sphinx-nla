@@ -41,7 +41,6 @@ source_suffix = {
 }
 
 master_doc = "index"
-myst_heading_anchors = 3
 nitpicky = True
 
 templates_path = ['_templates']
