@@ -18,6 +18,7 @@ extensions = [
     'myst_parser',        # Enables Markdown support
     'sphinx_inline_tabs',  # Enables tabbed content
     "linuxdoc.rstFlatTable",
+    'sphinx_external_toc',
 ]
 
 # Add this to enable colon-fences (useful for the :::figure::: syntax)

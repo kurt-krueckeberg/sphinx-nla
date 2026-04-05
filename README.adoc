@@ -32,7 +32,8 @@ release = '0.8'
 extensions = [
     'myst_parser',        # Enables Markdown support
     'sphinx_inline_tabs',  # Enables tabbed content
-    "linuxdoc.rstFlatTable",
+    'linuxdoc.rstFlatTable',
+    'sphinx_externalOtoc',
 ]
 
 # Add this to enable colon-fences (useful for the :::figure::: syntax)
