@@ -1,6 +1,5 @@
 root: ROOT/index
 entries:
-  - file: ROOT/index
   - file: 2728/survey-1737
   - file: 2741/index
   - file: 2713/index
