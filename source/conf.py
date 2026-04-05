@@ -22,6 +22,8 @@ extensions = [
     'sphinx.ext.intersphinx',
 ]
 
+external_toc_exclude_missing = True # exclude .md files not listing in the _toc.yml file.
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3', None),
 }
