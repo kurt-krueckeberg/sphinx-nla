@@ -2,13 +2,13 @@
 
 ## Digital Images
 
-```{figure} 12-r.png
+```{figure} images/12-r.png
 ```
 
-```{figure} 13-l.png
+```{figure} images/13-l.png
 ```
 
-```{figure} 12-r-vert-text.png
+```{figure} images/12-r-vert-text.png
 ```
 
 ## Summary

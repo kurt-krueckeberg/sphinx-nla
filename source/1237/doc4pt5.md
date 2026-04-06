@@ -17,7 +17,7 @@ earlier.
 
 ## Transliteration and Translation
 
-```{figure} 08-right-page.png
+```{figure} images/08-right-page.png
 ```
 
 ### Transliteration of Diagram Text

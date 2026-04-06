@@ -198,7 +198,7 @@ Mark of + + + of Wilhelm
 
 ## Cover Note to the Document
 
-```{figure} 10-l.png
+```{figure} images/10-l.png
 ```
 
 ### Transliteration and Translation

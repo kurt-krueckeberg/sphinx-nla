@@ -2,7 +2,7 @@
 
 ## Digital Image
 
-```{figure} 26-r.png
+```{figure} images/26-r.png
 ```
 
 ## Transliteration and Translation

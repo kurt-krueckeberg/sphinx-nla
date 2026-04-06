@@ -7,7 +7,7 @@ forester Falkmann" mean?
 
 ## Image
 
-```{figure} 05-r-alternate.png
+```{figure} images/05-r-alternate.png
 ```
 
 ## Transliateration and Translation

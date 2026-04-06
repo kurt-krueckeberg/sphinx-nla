@@ -38,7 +38,7 @@ estimation.
 
 ## Image
 
-```{figure} 08-r.png
+```{figure} images/08-r.png
 ```
 
 ## Transliteration and Translation

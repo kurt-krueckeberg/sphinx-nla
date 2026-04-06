@@ -2,7 +2,7 @@
 
 ## Image
 
-```{figure} cover.png
+```{figure} images/cover.png
 ```
 
 ## Transliteration and Translation

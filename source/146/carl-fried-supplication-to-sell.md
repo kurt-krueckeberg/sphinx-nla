@@ -61,7 +61,7 @@ settlement lands.
 
 ## Image
 
-```{figure} 21-r.png
+```{figure} images/21-r.png
 ```
 
 ## Transliteration and Translation

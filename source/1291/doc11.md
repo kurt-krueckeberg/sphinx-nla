@@ -2,16 +2,16 @@
 
 ## Digital Image
 
-```{figure} 21-r.png
+```{figure} images/21-r.png
 ```
 
-```{figure} 22-l.png
+```{figure} images/22-l.png
 ```
 
-```{figure} 21-r-vert-text.png
+```{figure} images/21-r-vert-text.png
 ```
 
-```{figure} 23-l.png
+```{figure} images/23-l.png
 ```
 
 Definitions of Map Terms
@@ -38,7 +38,7 @@ geographic feature used as a point of orientation.
 or access and often forms the boundary between adjoining parcels of land.
 :::
 
-```{figure} 23-r.png
+```{figure} images/23-r.png
 ```
 
 ## Transliteration

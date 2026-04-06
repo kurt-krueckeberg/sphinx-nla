@@ -2,7 +2,7 @@
 
 ## Images
 
-```{figure} 16-l.png
+```{figure} images/16-l.png
 ```
 
 ## Transliteration and Translation

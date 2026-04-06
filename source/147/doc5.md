@@ -2,15 +2,15 @@
 
 ## Images
 
-```{figure} 09-r.png
+```{figure} images/09-r.png
 ```
 
-```{figure} 10-l.png
+```{figure} images/10-l.png
 ```
 
 09 vert text
 
-```{figure} 11.png
+```{figure} images/11.png
 ```
 
 ## Transliteration and Translation

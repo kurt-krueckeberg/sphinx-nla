@@ -64,7 +64,7 @@
             
 :::
 
-```{figure} 14-r.png
+```{figure} images/14-r.png
 ```
 
 ## Transliteration and Translation

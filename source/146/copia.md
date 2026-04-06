@@ -17,16 +17,16 @@ submitted to the Princely Rent Chamber for final approval.
 
 ## Images
 
-```{figure} 22-r.png
+```{figure} images/22-r.png
 ```
 
-```{figure} 23-l.png
+```{figure} images/23-l.png
 ```
 
-```{figure} 23-r.png
+```{figure} images/23-r.png
 ```
 
-```{figure} 24-l.png
+```{figure} images/24-l.png
 ```
 
 ## Transliteration and Translation

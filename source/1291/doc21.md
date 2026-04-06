@@ -2,7 +2,7 @@
 
 ## Receipt
 
-```{figure} 38-r.png
+```{figure} images/38-r.png
 ```
 
 ## Transliteration and Translation

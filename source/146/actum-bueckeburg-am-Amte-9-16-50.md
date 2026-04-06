@@ -2,10 +2,10 @@
 
 ## Image
 
-```{figure} 19-r.png
+```{figure} images/19-r.png
 ```
 
-```{figure} 20-l.png
+```{figure} images/20-l.png
 ```
 
 ## Transliteration and Translation

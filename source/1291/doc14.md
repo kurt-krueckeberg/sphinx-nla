@@ -4,7 +4,7 @@
 
 ## Petition Docket Page
 
-```{figure} 29-l.png
+```{figure} images/29-l.png
 ```
 
 ### Transliteration and Translation of Outer Address Page
@@ -40,13 +40,13 @@ be most graciously granted to me.
 
 ### Image
 
-```{figure} 27-l.png
+```{figure} images/27-l.png
 ```
 
-```{figure} 28-l.png
+```{figure} images/28-l.png
 ```
 
-```{figure} 28-r.png
+```{figure} images/28-r.png
 ```
 
 ## Transliteration and Translation

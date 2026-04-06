@@ -2,7 +2,7 @@
 
 ## Images
 
-```{figure} 03-r.png
+```{figure} images/03-r.png
 ```
 
 ## Transliteration and Translation

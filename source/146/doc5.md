@@ -7,7 +7,7 @@ document 4?
 
 ## Image
 
-```{figure} 06-r.png
+```{figure} images/06-r.png
 ```
 
 ## Transliateration and Translation

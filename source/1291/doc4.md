@@ -2,7 +2,7 @@
 
 ## Petition Docket Page
 
-```{figure} 11-l.png
+```{figure} images/11-l.png
 ```
 
 ## Transliteration and Translation
@@ -19,13 +19,13 @@ Um Platz zum Hausbau
 
 ## Petition of the lodger Vogt at Evesen
 
-```{figure} 07-r.png
+```{figure} images/07-r.png
 ```
 
-```{figure} 08-l.png
+```{figure} images/08-l.png
 ```
 
-```{figure} 07-r-vertical-text.png
+```{figure} images/07-r-vertical-text.png
 ```
 
 ## Transliteration and Translation

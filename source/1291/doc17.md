@@ -2,7 +2,7 @@
 
 ## Chancery Resolution
 
-```{figure} 32-r.png
+```{figure} images/32-r.png
 ```
 
 ## Transliteration and Translation of Outer Address Page

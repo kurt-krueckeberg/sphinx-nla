@@ -2,13 +2,13 @@
 
 ## Digital Images
 
-```{figure} 14-r.png
+```{figure} images/14-r.png
 ```
 
-```{figure} 15-l.png
+```{figure} images/15-l.png
 ```
 
-```{figure} 15-r.png
+```{figure} images/15-r.png
 ```
 
 ## Translation and Transliteration

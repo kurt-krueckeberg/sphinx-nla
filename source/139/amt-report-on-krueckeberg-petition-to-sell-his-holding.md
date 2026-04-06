@@ -17,7 +17,7 @@ attached to the property is to be provided.
 
 ## Transliteration and Translation
 
-```{figure} 05-r.png
+```{figure} images/05-r.png
 ```
 
 ```{code-block} text

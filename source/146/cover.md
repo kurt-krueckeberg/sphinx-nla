@@ -10,7 +10,7 @@ office.
 
 ## Image
 
-```{figure} cover-top.jpg
+```{figure} images/cover-top.jpg
 ```
 
 ## Transliteration and Translation

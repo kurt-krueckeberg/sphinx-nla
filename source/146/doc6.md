@@ -136,7 +136,7 @@ transformation in status,
 
 ## Image
 
-```{figure} 07-r.png
+```{figure} images/07-r.png
 ```
 
 ## Transliteration and Translation

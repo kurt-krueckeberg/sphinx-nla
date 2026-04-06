@@ -1,6 +1,6 @@
 # Case File Cover
 
-```{figure} cover-orig.png
+```{figure} images/cover-orig.png
 ```
 
 ::: {list-table}

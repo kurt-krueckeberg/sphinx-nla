@@ -2,7 +2,7 @@
 
 ## Image of page 110
 
-```{figure} 2713-24.png
+```{figure} images/2713-24.png
 ```
 
 ## Transliteration and Translation

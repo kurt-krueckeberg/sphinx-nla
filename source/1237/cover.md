@@ -2,7 +2,7 @@
 
 ## Image
 
-```{figure} 1237-cover.png
+```{figure} images/1237-cover.png
 ```
 
 ## Translation and Translation

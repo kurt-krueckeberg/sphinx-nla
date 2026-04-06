@@ -7,7 +7,7 @@ The **Designation Actorum** is the table of contents for the time period of
 contents that concern the sale of no. 18 Berenbusch. They all only from
 September of 1850.
 
-```{figure} 01-r.png
+```{figure} images/01-r.png
 ```
 
 ## Transliteration and Translation

@@ -2,7 +2,7 @@
 
 ## Image
 
-```{figure} 22-l.png
+```{figure} images/22-l.png
 ```
 
 ## Transliteration and Translation

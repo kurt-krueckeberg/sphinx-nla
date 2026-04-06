@@ -2,7 +2,7 @@
 
 ## Digital Image
 
-```{figure} 03-r.png
+```{figure} images/03-r.png
 ```
 
 ## Transliteration and Translation
@@ -73,7 +73,7 @@ MKaas
 
 ## Digital Image of Rentkammer Response
 
-```{figure} 03-r-horz-text.png
+```{figure} images/03-r-horz-text.png
 ```
 
 ## Transliteration and Translation
@@ -108,7 +108,7 @@ T Landesberg
 
 ## Document 2 Enclosure: Report of Chief Forester Falkmann
 
-```{figure} 04-r.png
+```{figure} images/04-r.png
 ```
 
 ## Transliteration and Translatin
@@ -156,7 +156,7 @@ Falckmann
 
 ## Document 2 Enclosure: Survey Drawing
 
-```{figure} 05-r.png
+```{figure} images/05-r.png
 ```
 
 ## Transliteration and Translation

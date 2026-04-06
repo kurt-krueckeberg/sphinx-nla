@@ -125,7 +125,7 @@ G. Schultze
 The report of the Bückeburg local government office appears on the left side of the first page opposite the
 petition of the widow Krückeberg.
 
-```{figure} 02-left-side-of-page.png
+```{figure} images/02-left-side-of-page.png
 ```
 
 ### Translation and Transliteration
@@ -203,7 +203,7 @@ request in the Amt report.
 
 ### Transliteration and Translation
 
-```{figure} 03-left-side-of-page.png
+```{figure} images/03-left-side-of-page.png
 ```
 
 Transliteration
@@ -261,7 +261,7 @@ same **N.C. 2816** and **N.P. 602** identifiers to the entire page.
 
 ### Rought Draft of the Official Reply to the Widow Krückeberg (4 Aug. 1824)
 
-```{figure} 03-r.png
+```{figure} images/03-r.png
 ```
 
 ::: {list-table}

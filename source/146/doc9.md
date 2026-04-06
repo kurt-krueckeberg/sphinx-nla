@@ -16,7 +16,7 @@ remained with the territorial authority.
 
 ## Image
 
-```{figure} 11-r.png
+```{figure} images/11-r.png
 ```
 
 ## Transliteration and Translation

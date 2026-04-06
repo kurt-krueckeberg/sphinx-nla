@@ -1,6 +1,6 @@
 # Index
 
-```{figure} 01-r.png
+```{figure} images/01-r.png
 ```
 
 ## Under Development

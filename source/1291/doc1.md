@@ -2,7 +2,7 @@
 
 ## Digital Image
 
-```{figure} 02-r.jpg
+```{figure} images/02-r.jpg
 ```
 
 ## Transliteration and Translation

@@ -9,7 +9,7 @@ office appears.
 
 ## Image of Report from Bückeburg Office
 
-```{figure} 02-left-side-of-page.png
+```{figure} images/02-left-side-of-page.png
 ```
 
 ## Translation and Transliteration
@@ -87,7 +87,7 @@ request in the Amt report.
 
 ### Transliteration and Translation
 
-```{figure} 03-left-side-of-page.png
+```{figure} images/03-left-side-of-page.png
 ```
 
 Transliteration

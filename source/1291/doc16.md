@@ -2,13 +2,13 @@
 
 ## Petition
 
-```{figure} 31-r.png
+```{figure} images/31-r.png
 ```
 
-```{figure} 32-l.png
+```{figure} images/32-l.png
 ```
 
-```{figure} 31-r-vert-text.png
+```{figure} images/31-r-vert-text.png
 ```
 
 ## Transliteration and Translation

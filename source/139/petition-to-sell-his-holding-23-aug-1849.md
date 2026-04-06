@@ -12,7 +12,7 @@ internal processing and routing (including “Exp” for dispatch).
 
 ## Image
 
-```{figure} 11-l.png
+```{figure} images/11-l.png
 ```
 
 ## Transliteration and Translation

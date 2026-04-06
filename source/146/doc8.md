@@ -21,7 +21,7 @@ The difference is:
 
 ## Image
 
-```{figure} 10-r.png
+```{figure} images/10-r.png
 ```
 
 ## Transliteration and Translation

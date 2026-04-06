@@ -2,10 +2,10 @@
 
 ## Image
 
-```{figure} 17-r-alternate.png
+```{figure} images/17-r-alternate.png
 ```
 
-```{figure} 17-r-small-text.png
+```{figure} images/17-r-small-text.png
 ```
 
 ## Transliteration and Translation

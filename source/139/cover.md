@@ -1,6 +1,6 @@
 # Case File Cover
 
-```{figure} cover.jpg
+```{figure} images/cover.jpg
 ```
 
 ## Translation and Transliteration

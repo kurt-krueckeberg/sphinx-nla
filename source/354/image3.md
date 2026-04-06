@@ -1,6 +1,6 @@
 # Image 3
 
-```{figure} 003.png
+```{figure} images/003.png
 ```
 
 ## Transliteration and Translation

@@ -12,7 +12,7 @@ three lines of text) and on the top right of the image.
 
 ## Image
 
-```{figure} 03-r.png
+```{figure} images/03-r.png
 ```
 
 ## Transliteration and Translation

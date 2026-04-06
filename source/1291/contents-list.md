@@ -6,10 +6,10 @@ third column.
 
 ## Digital Images
 
-```{figure} 01-r.jpg
+```{figure} images/01-r.jpg
 ```
 
-```{figure} 02-l.jpg
+```{figure} images/02-l.jpg
 ```
 
 ## Designation Actorum

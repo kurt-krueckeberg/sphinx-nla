@@ -2,7 +2,7 @@
 
 ## Digital Image
 
-```{figure} 13-r.png
+```{figure} images/13-r.png
 ```
 
 ## Tramsliteration and Translation
