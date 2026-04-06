@@ -26,39 +26,17 @@ Amt official Höcker.
 
 ## Transliteration and Translation
 
-::::{grid} 1 1 2 2
-:gutter: 2
-
-:::{grid-item}
-
 ```{image} images/08-r.png
 :class: antora-self-link
 ```
-
-:::
-
-:::{grid-item}
 
 ```{image} images/09-l.png
 :class: antora-self-link
 ```
 
-:::
-
-::::
-
-::::{grid} 1 1 2 2
-:gutter: 2
-
-:::{grid-item}
-
 ```{image} images/09-r.png
 :class: antora-self-link
 ```
-
-:::
-
-::::
 
 ```{code-block} text
 :class: bordered

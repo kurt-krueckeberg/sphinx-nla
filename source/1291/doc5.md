@@ -8,6 +8,11 @@
 
 ## Transliteration and Translation
 
+::::{grid} 1 1 2 2
+:gutter: 2
+
+:::{grid-item}
+
 ```{code-block} text
 :class: bordered
 
@@ -24,6 +29,10 @@ gnädigste Answeisung eines
 Platzes zum Hausbau mit Garten
 ```
 
+:::
+
+:::{grid-item}
+
 ```{code-block} text
 :class: bordered
 
@@ -39,6 +48,10 @@ and request:
 Gracious assignment of
 a plot of land for the construction of a house with a garden.
 ```
+
+:::
+
+::::
 
 ## Citation
 

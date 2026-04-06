@@ -32,26 +32,13 @@ felled and sold by the forestry office
 
 ## Images
 
-::::{grid} 1 1 2 2
-:gutter: 2
-
-:::{grid-item}
-
 ```{image} images/05-right-page.png
 :class: antora-self-link
 ```
 
-:::
-
-:::{grid-item}
-
 ```{image} images/06-left-page.png
 :class: antora-self-link
 ```
-
-:::
-
-::::
 
 ## Transliteration and Translation
 

@@ -2,47 +2,21 @@
 
 ## Images
 
-::::{grid} 1 1 2 2
-:gutter: 2
-
-:::{grid-item}
-
 ```{image} images/12-r.png
 :class: antora-self-link
 ```
-
-:::
-
-:::{grid-item}
 
 ```{image} images/13-l.png
 :class: antora-self-link
 ```
 
-:::
-
-::::
-
-::::{grid} 1 1 2 2
-:gutter: 2
-
-:::{grid-item}
-
 ```{image} images/13-r.png
 :class: antora-self-link
 ```
 
-:::
-
-:::{grid-item}
-
 ```{image} images/14-l.png
 :class: antora-self-link
 ```
-
-:::
-
-::::
 
 ```{image} images/14-r.png
 :class: antora-self-link

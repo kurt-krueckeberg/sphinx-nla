@@ -42,26 +42,13 @@ Latin terms used
 
 ## Images of Johann Heinrich Krückeberg’s Recorded Answers
 
-::::{grid} 1 1 2 2
-:gutter: 2
-
-:::{grid-item}
-
 ```{image} images/2741-1.jpg
 :class: antora-self-link
 ```
 
-:::
-
-:::{grid-item}
-
 ```{image} images/2741-2.jpg
 :class: antora-self-link
 ```
-
-:::
-
-::::
 
 ::::{grid} 1 1 2 2
 :gutter: 2

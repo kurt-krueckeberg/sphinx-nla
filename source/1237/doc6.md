@@ -35,26 +35,13 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 
 ## Images
 
-::::{grid} 1 1 2 2
-:gutter: 2
-
-:::{grid-item}
-
 ```{image} images/11.png
 :class: antora-self-link
 ```
 
-:::
-
-:::{grid-item}
-
 ```{image} images/12.png
 :class: antora-self-link
 ```
-
-:::
-
-::::
 
 ## Transliteration and Translation
 

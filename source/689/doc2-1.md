@@ -52,39 +52,17 @@ that it had temporarily suspended the distraint order.
 
 ## Images
 
-::::{grid} 1 1 2 2
-:gutter: 2
-
-:::{grid-item}
-
 ```{image} images/04-r-original.png
 :class: antora-self-link
 ```
-
-:::
-
-:::{grid-item}
 
 ```{image} images/05-l.png
 :class: antora-self-link
 ```
 
-:::
-
-::::
-
-::::{grid} 1 1 2 2
-:gutter: 2
-
-:::{grid-item}
-
 ```{image} images/05-r.png
 :class: antora-self-link
 ```
-
-:::
-
-::::
 
 ## Transliteration and Translation
 
