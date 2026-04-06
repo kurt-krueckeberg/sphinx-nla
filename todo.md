@@ -1,17 +1,16 @@
 # todo
 
-== Work on the remaining build errors.
+## Work on the remaining build errors.
 
-== Get rid of side-by-sdie image entirely. 
+## Get rid of side-by-sdie image entirely. 
 
-These are the nla .adoc files with side by side image:
+Command used to find .adoc files with side by side images:
 
-Command used to find them:
-
-[code,bash]
-----
+```regex
 ~/nla/m main ❯ rg -l -U '\[cols="[^"]*1a,[^"]*1a[^"]*"[^\]]*\][\s\S]*?\|===\n\|image::[^\n]*\n\|image::[^\n]*\n\|===' ~/antora-nla/modules/*/pages | sort                                         sphinx-nla
-----
+```
+
+**Results:**
 
 /home/kurt/antora-nla/modules/1237/pages/doc3.adoc
 /home/kurt/antora-nla/modules/1237/pages/doc5.adoc
@@ -29,4 +28,4 @@ Command used to find them:
 /home/kurt/antora-nla/modules/689/pages/doc8-3.adoc
 
 
-ChatGPT linbk: https://chatgpt.com/share/69d41db3-02b4-832d-9145-4a80dae325ad
+[ChatGPT link++](https://chatgpt.com/share/69d41db3-02b4-832d-9145-4a80dae325ad)
