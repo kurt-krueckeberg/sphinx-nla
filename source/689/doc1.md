@@ -74,6 +74,7 @@ petition of Colon Krückeberg, herewith returned.”
 ## Case File Subject Slip
 
 ```{figure} images/08-l.png
+:target: images/08-l.png
 ```
 
 ## Transliteration and Translation
@@ -111,6 +112,7 @@ for loan consent, etc
 :::{grid-item}
 
 ```{figure} images/02-r.png
+:target: images/02-r.png
 ```
 
 :::
@@ -118,6 +120,7 @@ for loan consent, etc
 :::{grid-item}
 
 ```{figure} images/03-l-original.png
+:target: images/03-l-original.png
 ```
 
 :::

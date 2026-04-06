@@ -1,6 +1,7 @@
 # Case File Cover
 
 ```{figure} images/cover-orig.png
+:target: images/cover-orig.png
 ```
 
 ::::{grid} 1 1 2 2

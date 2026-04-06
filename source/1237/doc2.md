@@ -38,6 +38,7 @@ garden expansions in Berenbusch and to report back.
 :::{grid-item}
 
 ```{figure} images/03-right-page.png
+:target: images/03-right-page.png
 ```
 
 :::
@@ -45,6 +46,7 @@ garden expansions in Berenbusch and to report back.
 :::{grid-item}
 
 ```{figure} images/04-left-page.png
+:target: images/04-left-page.png
 ```
 
 :::

@@ -8,6 +8,7 @@
 :::{grid-item}
 
 ```{figure} images/19-l.png
+:target: images/19-l.png
 ```
 
 :::
@@ -15,6 +16,7 @@
 :::{grid-item}
 
 ```{figure} images/19-r.png
+:target: images/19-r.png
 ```
 
 :::

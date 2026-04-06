@@ -39,6 +39,7 @@ estimation.
 ## Image
 
 ```{figure} images/08-r.png
+:target: images/08-r.png
 ```
 
 ## Transliteration and Translation

@@ -3,6 +3,7 @@
 ## Digital Image
 
 ```{figure} images/02-r.jpg
+:target: images/02-r.jpg
 ```
 
 ## Transliteration and Translation

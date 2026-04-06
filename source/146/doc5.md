@@ -8,6 +8,7 @@ document 4?
 ## Image
 
 ```{figure} images/06-r.png
+:target: images/06-r.png
 ```
 
 ## Transliateration and Translation

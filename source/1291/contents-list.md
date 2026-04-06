@@ -7,9 +7,11 @@ third column.
 ## Digital Images
 
 ```{figure} images/01-r.jpg
+:target: images/01-r.jpg
 ```
 
 ```{figure} images/02-l.jpg
+:target: images/02-l.jpg
 ```
 
 ## Designation Actorum

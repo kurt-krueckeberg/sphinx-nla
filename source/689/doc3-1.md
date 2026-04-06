@@ -14,6 +14,7 @@ chamber treasury.
 :::{grid-item}
 
 ```{figure} images/08-r.png
+:target: images/08-r.png
 ```
 
 :::
@@ -21,6 +22,7 @@ chamber treasury.
 :::{grid-item}
 
 ```{figure} images/09-l.png
+:target: images/09-l.png
 ```
 
 :::

@@ -1,6 +1,7 @@
 # Image 2
 
 ```{figure} images/002.png
+:target: images/002.png
 ```
 
 ## Transliteration and Translation

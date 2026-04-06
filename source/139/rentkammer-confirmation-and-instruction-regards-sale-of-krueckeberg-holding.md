@@ -25,6 +25,7 @@ September 1849 and signed by Spreng and other clerical officials.
 :::{grid-item}
 
 ```{figure} images/06-l.png
+:target: images/06-l.png
 ```
 
 :::
@@ -32,6 +33,7 @@ September 1849 and signed by Spreng and other clerical officials.
 :::{grid-item}
 
 ```{figure} images/06-r.png
+:target: images/06-r.png
 ```
 
 :::

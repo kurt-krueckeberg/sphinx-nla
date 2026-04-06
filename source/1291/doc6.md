@@ -3,12 +3,15 @@
 ## Digital Images
 
 ```{figure} images/12-r.png
+:target: images/12-r.png
 ```
 
 ```{figure} images/13-l.png
+:target: images/13-l.png
 ```
 
 ```{figure} images/12-r-vert-text.png
+:target: images/12-r-vert-text.png
 ```
 
 ## Summary

@@ -3,6 +3,7 @@
 ## Receipt
 
 ```{figure} images/38-r.png
+:target: images/38-r.png
 ```
 
 ## Transliteration and Translation

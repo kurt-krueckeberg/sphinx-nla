@@ -44,6 +44,7 @@ into the case file.
 :::{grid-item}
 
 ```{figure} images/10-r.png
+:target: images/10-r.png
 ```
 
 :::
@@ -51,6 +52,7 @@ into the case file.
 :::{grid-item}
 
 ```{figure} images/11-l.png
+:target: images/11-l.png
 ```
 
 :::

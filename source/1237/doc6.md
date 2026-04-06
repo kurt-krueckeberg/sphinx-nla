@@ -41,6 +41,7 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 :::{grid-item}
 
 ```{figure} images/11.png
+:target: images/11.png
 ```
 
 :::
@@ -48,6 +49,7 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 :::{grid-item}
 
 ```{figure} images/12.png
+:target: images/12.png
 ```
 
 :::

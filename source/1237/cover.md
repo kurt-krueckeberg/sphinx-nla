@@ -3,6 +3,7 @@
 ## Image
 
 ```{figure} images/1237-cover.png
+:target: images/1237-cover.png
 ```
 
 ## Translation and Translation

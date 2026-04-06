@@ -106,9 +106,11 @@ Krückeberg’s secure and heritable right to the holding.
 ## Image
 
 ```{figure} images/13-r.png
+:target: images/13-r.png
 ```
 
 ```{figure} images/14-l.png
+:target: images/14-l.png
 ```
 
 ## Transliteration and Translation

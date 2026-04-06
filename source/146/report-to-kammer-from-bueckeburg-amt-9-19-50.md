@@ -3,9 +3,11 @@
 ## Image
 
 ```{figure} images/17-r-alternate.png
+:target: images/17-r-alternate.png
 ```
 
 ```{figure} images/17-r-small-text.png
+:target: images/17-r-small-text.png
 ```
 
 ## Transliteration and Translation

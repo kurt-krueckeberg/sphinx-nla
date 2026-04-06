@@ -17,6 +17,7 @@ remained with the territorial authority.
 ## Image
 
 ```{figure} images/11-r.png
+:target: images/11-r.png
 ```
 
 ## Transliteration and Translation

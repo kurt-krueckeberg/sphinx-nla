@@ -11,6 +11,7 @@ office.
 ## Image
 
 ```{figure} images/cover-top.jpg
+:target: images/cover-top.jpg
 ```
 
 ## Transliteration and Translation

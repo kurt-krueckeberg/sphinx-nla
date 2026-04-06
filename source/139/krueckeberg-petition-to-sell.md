@@ -17,6 +17,7 @@ be collected and remitted.
 ## Image
 
 ```{figure} images/07-r.png
+:target: images/07-r.png
 ```
 
 ## Transliteration and Translation
@@ -87,6 +88,7 @@ Barkhausen.
 ## Cover Note
 
 ```{figure} images/10-l.png
+:target: images/10-l.png
 ```
 
 ## Transliteration

@@ -11,6 +11,7 @@ Berenbusch”, showing that a copy of the decision was dispatched to him.
 ## Image
 
 ```{figure} images/10-l.png
+:target: images/10-l.png
 ```
 
 ## Transliteration and Translation

@@ -3,6 +3,7 @@
 ## Image
 
 ```{figure} images/16-l-alternate.png
+:target: images/16-l-alternate.png
 ```
 
 ## Transliteration and Translation

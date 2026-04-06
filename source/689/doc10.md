@@ -8,6 +8,7 @@
 :::{grid-item}
 
 ```{figure} images/21-r.png
+:target: images/21-r.png
 ```
 
 :::
@@ -15,6 +16,7 @@
 :::{grid-item}
 
 ```{figure} images/22.png
+:target: images/22.png
 ```
 
 :::
@@ -155,6 +157,7 @@ receipt.
 :::{grid-item}
 
 ```{figure} images/23-r.png
+:target: images/23-r.png
 ```
 
 :::
@@ -192,6 +195,7 @@ receipt.
 :::{grid-item}
 
 ```{figure} images/24-l.png
+:target: images/24-l.png
 ```
 
 :::
@@ -293,6 +297,7 @@ Poppelbaum.
 :::{grid-item}
 
 ```{figure} images/24-r.png
+:target: images/24-r.png
 ```
 
 :::

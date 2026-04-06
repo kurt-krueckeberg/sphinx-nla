@@ -18,6 +18,7 @@ as a petition, reports, draft replies, and the final resolution—but is
 treated by the authorities as one coherent administrative unit.
 
 ```{figure} images/01.png
+:target: images/01.png
 ```
 
 ```{note}

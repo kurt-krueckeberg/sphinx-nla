@@ -6,6 +6,7 @@
 :::{grid-item}
 
 ```{figure} images/20-r.png
+:target: images/20-r.png
 ```
 
 :::

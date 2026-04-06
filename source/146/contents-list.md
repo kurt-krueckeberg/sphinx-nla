@@ -8,6 +8,7 @@ contents that concern the sale of no. 18 Berenbusch. They all only from
 September of 1850.
 
 ```{figure} images/01-r.png
+:target: images/01-r.png
 ```
 
 ## Transliteration and Translation

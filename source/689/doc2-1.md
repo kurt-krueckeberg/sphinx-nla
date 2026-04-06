@@ -58,6 +58,7 @@ that it had temporarily suspended the distraint order.
 :::{grid-item}
 
 ```{figure} images/04-r-original.png
+:target: images/04-r-original.png
 ```
 
 :::
@@ -65,6 +66,7 @@ that it had temporarily suspended the distraint order.
 :::{grid-item}
 
 ```{figure} images/05-l.png
+:target: images/05-l.png
 ```
 
 :::
@@ -77,6 +79,7 @@ that it had temporarily suspended the distraint order.
 :::{grid-item}
 
 ```{figure} images/05-r.png
+:target: images/05-r.png
 ```
 
 :::

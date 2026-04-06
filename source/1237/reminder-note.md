@@ -9,6 +9,7 @@ merely a reminder about Berenbusch woodland boundaries.
 ## Transliteration and Translation
 
 ```{figure} images/07-right-page.png
+:target: images/07-right-page.png
 ```
 
 ::::{grid} 1 1 2 2

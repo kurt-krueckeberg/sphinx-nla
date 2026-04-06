@@ -18,6 +18,7 @@ convince the authorities that a rescue loan was secure, and the risk of a
 forced sale remaimed imminent.
 
 ```{figure} images/09-r.png
+:target: images/09-r.png
 ```
 
 ## Transliteration and Translation

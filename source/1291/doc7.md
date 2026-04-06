@@ -3,6 +3,7 @@
 ## Digital Image
 
 ```{figure} images/13-r.png
+:target: images/13-r.png
 ```
 
 ## Tramsliteration and Translation

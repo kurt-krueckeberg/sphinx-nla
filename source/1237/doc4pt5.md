@@ -18,6 +18,7 @@ earlier.
 ## Transliteration and Translation
 
 ```{figure} images/08-right-page.png
+:target: images/08-right-page.png
 ```
 
 ### Transliteration of Diagram Text

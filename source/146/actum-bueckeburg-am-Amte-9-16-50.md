@@ -3,9 +3,11 @@
 ## Image
 
 ```{figure} images/19-r.png
+:target: images/19-r.png
 ```
 
 ```{figure} images/20-l.png
+:target: images/20-l.png
 ```
 
 ## Transliteration and Translation

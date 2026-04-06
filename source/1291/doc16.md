@@ -3,12 +3,15 @@
 ## Petition
 
 ```{figure} images/31-r.png
+:target: images/31-r.png
 ```
 
 ```{figure} images/32-l.png
+:target: images/32-l.png
 ```
 
 ```{figure} images/31-r-vert-text.png
+:target: images/31-r-vert-text.png
 ```
 
 ## Transliteration and Translation

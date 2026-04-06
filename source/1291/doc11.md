@@ -3,15 +3,19 @@
 ## Digital Image
 
 ```{figure} images/21-r.png
+:target: images/21-r.png
 ```
 
 ```{figure} images/22-l.png
+:target: images/22-l.png
 ```
 
 ```{figure} images/21-r-vert-text.png
+:target: images/21-r-vert-text.png
 ```
 
 ```{figure} images/23-l.png
+:target: images/23-l.png
 ```
 
 Definitions of Map Terms
@@ -39,6 +43,7 @@ or access and often forms the boundary between adjoining parcels of land.
 :::
 
 ```{figure} images/23-r.png
+:target: images/23-r.png
 ```
 
 ## Transliteration

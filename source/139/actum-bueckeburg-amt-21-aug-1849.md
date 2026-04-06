@@ -32,6 +32,7 @@ Amt official Höcker.
 :::{grid-item}
 
 ```{figure} images/08-r.png
+:target: images/08-r.png
 ```
 
 :::
@@ -39,6 +40,7 @@ Amt official Höcker.
 :::{grid-item}
 
 ```{figure} images/09-l.png
+:target: images/09-l.png
 ```
 
 :::
@@ -51,6 +53,7 @@ Amt official Höcker.
 :::{grid-item}
 
 ```{figure} images/09-r.png
+:target: images/09-r.png
 ```
 
 :::
@@ -180,6 +183,7 @@ Mark of + + + of Wilhelm
 ## Cover Note to the Document
 
 ```{figure} images/10-l.png
+:target: images/10-l.png
 ```
 
 ### Transliteration and Translation

@@ -8,6 +8,7 @@ forester Falkmann" mean?
 ## Image
 
 ```{figure} images/05-r-alternate.png
+:target: images/05-r-alternate.png
 ```
 
 ## Transliateration and Translation

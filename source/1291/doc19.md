@@ -3,12 +3,15 @@
 ## Purchase Contract
 
 ```{figure} images/34-r.png
+:target: images/34-r.png
 ```
 
 ```{figure} images/35-l.png
+:target: images/35-l.png
 ```
 
 ```{figure} images/35-r.png
+:target: images/35-r.png
 ```
 
 ## Transliteration and Translation

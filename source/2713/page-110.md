@@ -3,6 +3,7 @@
 ## Image of page 110
 
 ```{figure} images/2713-24.png
+:target: images/2713-24.png
 ```
 
 ## Transliteration and Translation

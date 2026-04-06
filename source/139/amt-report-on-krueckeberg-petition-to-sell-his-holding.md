@@ -18,6 +18,7 @@ attached to the property is to be provided.
 ## Transliteration and Translation
 
 ```{figure} images/05-r.png
+:target: images/05-r.png
 ```
 
 ```{code-block} text

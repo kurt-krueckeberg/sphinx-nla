@@ -137,6 +137,7 @@ transformation in status,
 ## Image
 
 ```{figure} images/07-r.png
+:target: images/07-r.png
 ```
 
 ## Transliteration and Translation

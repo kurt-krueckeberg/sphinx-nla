@@ -1,6 +1,7 @@
 # Case File Cover
 
 ```{figure} images/cover.jpg
+:target: images/cover.jpg
 ```
 
 ## Translation and Transliteration

@@ -3,6 +3,7 @@
 ## Chamber Treausry Recept
 
 ```{figure} images/33-r.png
+:target: images/33-r.png
 ```
 
 ## Transliteration and Translation of Outer Address Page

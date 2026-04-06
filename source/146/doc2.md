@@ -44,15 +44,19 @@ Rentkammer to expands his grounds and garden, is called
 ## Images for Document #1
 
 ```{figure} images/03-r.png
+:target: images/03-r.png
 ```
 
 ```{figure} images/04-l.png
+:target: images/04-l.png
 ```
 
 ```{figure} images/03-r-side-text.png
+:target: images/03-r-side-text.png
 ```
 
 ```{figure} images/03-r-bot-res-cam.png
+:target: images/03-r-bot-res-cam.png
 ```
 
 ## Transliteration and Translation

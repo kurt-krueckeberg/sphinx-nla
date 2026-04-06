@@ -3,6 +3,7 @@
 ## Petition Docket Page
 
 ```{figure} images/10-l.png
+:target: images/10-l.png
 ```
 
 ## Transliteration and Translation
@@ -57,12 +58,15 @@ a plot of land for the construction of a house with a garden.
 ## Document 5
 
 ```{figure} images/08-r.png
+:target: images/08-r.png
 ```
 
 ```{figure} images/09-l.png
+:target: images/09-l.png
 ```
 
 ```{figure} images/08-r-vert-text.png
+:target: images/08-r-vert-text.png
 ```
 
 ## Transliteration and Translation

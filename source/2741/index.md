@@ -48,6 +48,7 @@ Latin terms used
 :::{grid-item}
 
 ```{figure} images/2741-1.jpg
+:target: images/2741-1.jpg
 ```
 
 :::
@@ -55,6 +56,7 @@ Latin terms used
 :::{grid-item}
 
 ```{figure} images/2741-2.jpg
+:target: images/2741-2.jpg
 ```
 
 :::
@@ -67,6 +69,7 @@ Latin terms used
 :::{grid-item}
 
 ```{figure} images/2741-3.jpg
+:target: images/2741-3.jpg
 ```
 
 :::

@@ -3,6 +3,7 @@
 ## The Designatio Actorum (Table of Contents)
 
 ```{figure} images/01.png
+:target: images/01.png
 ```
 
 ### Transliteration and Translation

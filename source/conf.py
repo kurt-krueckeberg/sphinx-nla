@@ -48,7 +48,6 @@ templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
-
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
@@ -58,6 +57,9 @@ html_static_path = ['_static']
 html_css_files = [
     'custom.css',
 ]
+
+html_js_files = ['antora-self-link.js']
+
 html_theme_options = {
     "show_navbar_depth": 2,
     "home_page_in_toc": True,

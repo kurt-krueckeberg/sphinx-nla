@@ -17,6 +17,7 @@ They are to inform Jobst Heinrich of these conditions and terms.
 ## Image of Document 3
 
 ```{figure} images/04-r.png
+:target: images/04-r.png
 ```
 
 ## Transliateration and Translation

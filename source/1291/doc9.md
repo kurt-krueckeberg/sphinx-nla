@@ -3,9 +3,11 @@
 ## Digital Images
 
 ```{figure} images/16-r.png
+:target: images/16-r.png
 ```
 
 ```{figure} images/17-l.png
+:target: images/17-l.png
 ```
 
 ## Translation and Transliteration

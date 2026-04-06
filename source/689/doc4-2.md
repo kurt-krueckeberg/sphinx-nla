@@ -38,6 +38,7 @@ step.
 :::{grid-item}
 
 ```{figure} images/11-r.png
+:target: images/11-r.png
 ```
 
 :::
@@ -45,6 +46,7 @@ step.
 :::{grid-item}
 
 ```{figure} images/12-l.png
+:target: images/12-l.png
 ```
 
 :::

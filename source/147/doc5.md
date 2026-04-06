@@ -3,14 +3,17 @@
 ## Images
 
 ```{figure} images/09-r.png
+:target: images/09-r.png
 ```
 
 ```{figure} images/10-l.png
+:target: images/10-l.png
 ```
 
 09 vert text
 
 ```{figure} images/11.png
+:target: images/11.png
 ```
 
 ## Transliteration and Translation

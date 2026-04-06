@@ -9,6 +9,26 @@ linuxdoc -- for falTable that supports cells that span columns
 sphinx-book-theme
 sphinx-external-toc that allows easier conversion of Antora navigation.
 
+== Custom Javascript Needed
+
+In source/static, create antora-self-link.js:
+
+[source,js]
+----
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".antora-self-link img, img.antora-self-link").forEach(function (img) {
+    if (img.closest("a")) return;
+
+    const link = document.createElement("a");
+    link.href = img.currentSrc || img.getAttribute("src");
+    link.className = "image-reference antora-self-link-reference";
+
+    img.parentNode.insertBefore(link, img);
+    link.appendChild(img);
+  });
+});
+----
+
 == Current conf.py
 
 [source,py]
@@ -35,6 +55,7 @@ extensions = [
     'linuxdoc.rstFlatTable',
     'sphinx_external_toc',
     'sphinx.ext.intersphinx',
+    'sphinx_design',
 ]
 
 external_toc_exclude_missing = True # exclude .md files not listing in the _toc.yml file.
@@ -56,12 +77,10 @@ source_suffix = {
 }
 
 master_doc = "index"
-myst_heading_anchors = 3
 nitpicky = True
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -73,6 +92,9 @@ html_static_path = ['_static']
 html_css_files = [
     'custom.css',
 ]
+
+html_js_files = ['antora-self-link.js']
+
 html_theme_options = {
     "show_navbar_depth": 2,
     "home_page_in_toc": True,
