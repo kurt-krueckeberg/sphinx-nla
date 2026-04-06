@@ -105,57 +105,46 @@ for loan consent, etc
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    02 r
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    03 l original
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/02-r.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/03-l-original.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              NC 4381                             pr. in Cam 2 Oct 1841
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC 4381                             pr. in Cam 2 Oct 1841
 
 
                      Durchlauchtigster Fürst,
                      Gnädigst regierender Fürst
 D[initial]           und Herr!
 
-*RC.
+RC.
 b.m. [beizumachen] zum Amtsbericht
 B. 4 Oct 41
-Spreng*
+Spreng
 
 Mein verstorbener Vater und nach dessen Tode auch meine Mutter,
 die das Handwerk meines Vaters, eines Schuhmachers, fortsetzte,
@@ -189,17 +178,24 @@ Buckeburg                              unterthänigster,
 d. 2ten Ditto. 1841.                   Colon Krückeberg
 Conc[ipist]. GWFuchs.                  Nr 10 in Berenbusch.
 progg[short for:protokollieren].
-            
-  - 
-              NC 4381                   presented in Cammer 2 Oct 1841
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC 4381                   presented in Cammer 2 Oct 1841
 
 
 Most Serene Prince, gracious reigning Prince and Lord,
 
-*Rent Chamber
+Rent Chamber
 to be attached to the Amt’s report.
 Bückeburg, 4 October 1841
-Spreng*
+Spreng
 
 My late father—and, after his death, my mother, who continued my
 father’s trade as a shoemaker—incurred a substantial leather
@@ -235,7 +231,10 @@ Bückeburg, the 2nd (of the same month), 1841.    Your Serene Highness’s
 drafted by G. W. Fuchs                           most humble servant,
 with fee                                         Colon Krückeberg
 filed                                            No. 10 in Berenbusch.
-            
+```
+
 :::
+
+::::
 
 

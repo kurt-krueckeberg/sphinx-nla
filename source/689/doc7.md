@@ -1,23 +1,16 @@
 # Docket Item 7
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-            
-              Click to Enlarge
-              
-                
-                  
-                
-                
-                  17 r
-                
-              
-            
-          
-  - 
+:::{grid-item}
+
+```{figure} images/17-r.png
+```
+
 :::
+
+::::
 
 ## Transliteration and Translation
 
@@ -27,14 +20,15 @@
 - **behufliche Obligation** = the requisite promissory note (i.e., the note required for this purpose).
 - **Amt** = district office.
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-                Stpl: 3 g         N. C. 5702.
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Stpl: 3 g         N. C. 5702.
 
 Concept an das Amt Bückeburg
 
@@ -59,9 +53,16 @@ Fürstl: p.
 
 
 [clerical initials:] Lm   L
-              
-  - 
-                Stpl: 3 g            N. C. 5702.
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Stpl: 3 g            N. C. 5702.
 
 Office Draft to the Amt Bückeburg
 
@@ -69,23 +70,26 @@ Office Draft to the Amt Bückeburg
 
 [cap Bhösselnd 29/12]
 
-**Re: Loan for Colon Krückeberg, No. 10 in Berenbusch**
+Re: Loan for Colon Krückeberg, No. 10 in Berenbusch
 
 To assist Colon Krückeberg, No. 10 in Berenbusch, with the debts
 payable to Hempel & Sons in Minden, His Serene Highness, the
-Regent, has been pleased to approve for him a loan of **200
-Reichstaler** at **4% interest**, with **semiannual installments**, to
-be granted from the **chamber treasury**. The office is therefore
-instructed to submit the **loan agreement** (setting out in detail
-the **collateral** securing the loan); thereafter the **disbursement
-of the 200 Reichstaler by the office** is to be ordered, and the
-money is to be applied properly to its purpose. The **petitioner
-is to be informed** of this.
-**Bückeburg, 24 December 1841.****By order of the Prince.**
+Regent, has been pleased to approve for him a loan of 200
+Reichstaler at 4% interest, with semiannual installments, to
+be granted from the chamber treasury. The office is therefore
+instructed to submit the loan agreement (setting out in detail
+the collateral securing the loan); thereafter the disbursement
+of the 200 Reichstaler by the office is to be ordered, and the
+money is to be applied properly to its purpose. The petitioner
+is to be informed of this.
+Bückeburg, 24 December 1841.By order of the Prince.
 
 
 [clerical initials:] Lm  L
-              
+```
+
 :::
+
+::::
 
 

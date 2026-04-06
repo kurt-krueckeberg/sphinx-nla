@@ -26,55 +26,36 @@ Amt official Höcker.
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    08 r
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    09 l
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/08-r.png
+```
+
 :::
 
-::: {list-table}
-:widths: 1 1
+:::{grid-item}
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    09 r
-                  
-                
-              
-            
-  - 
+```{figure} images/09-l.png
+```
+
 :::
+
+::::
+
+::::{grid} 1 1 2 2
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} images/09-r.png
+```
+
+:::
+
+::::
 
 ```{code-block} text
 :class: bordered
@@ -203,15 +184,29 @@ Mark of + + + of Wilhelm
 
 ### Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-                An Hochfürstliche Renntkammer Bückeburg
-              
-  - 
-                To the Princely Fiscal Chamber in Bückeburg
-              
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+An Hochfürstliche Renntkammer Bückeburg
+```
+
 :::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+To the Princely Fiscal Chamber in Bückeburg
+```
+
+:::
+
+::::
 
 

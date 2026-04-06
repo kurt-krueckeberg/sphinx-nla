@@ -1,32 +1,26 @@
 # Docket Item 9
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-            
-              Click to Enlarge
-              
-                
-                  
-                
-                
-                  20 r
-                
-              
-            
-          
-  - 
+:::{grid-item}
+
+```{figure} images/20-r.png
+```
+
 :::
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::
 
-* - Transliteration
-  - Translation
-* - 
-            NC 818                          pr. im Cam 15 Febr 42
+::::{grid} 1 1 2 2
+:gutter: 2
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC 818                          pr. im Cam 15 Febr 42
 
 [H]
 
@@ -64,9 +58,16 @@ Nr. 2696, dem KRm. [Kammerrat] Berger
 quittirt zur Retradition [Rückgabe]
 an Krückeberg zugestellt.
 Schtt.
-          
-  - 
-            NC 818 – Presented in the Chamber, 15 February 1842
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC 818 – Presented in the Chamber, 15 February 1842
 
 To the Princely Rent Chamber
 Report from the Bückeburg district office
@@ -95,7 +96,10 @@ By order of 5 May 1845, no. 2696, the enclosed promissory note
 has been acknowledged by receipt and delivered to chamber
 treasurer Berger for return to Krückeberg.
 [signed: Schtt.]
-          
+```
+
 :::
+
+::::
 
 

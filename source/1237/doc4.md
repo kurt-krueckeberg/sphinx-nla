@@ -127,7 +127,11 @@ enlargement of his garden and homestead yard—-amounting to 19 rods 44 feet
 decimal and 1 rod 90 feet of surface area—-we respectfully submit the
 obedient proposal that he be instructed to pay, beginning at Michaelmas of
 this year, an annual fee for the granted land of 2 Reichsthaler 1
-Schilling, exclusive of exchange charges (
+Schilling, exclusive of exchange charges (agio).
+
+Bückeburg, 18 October 1800.
+
+J. H. Hablick  Stöling
 ```
 
 ## Glossary of Terms

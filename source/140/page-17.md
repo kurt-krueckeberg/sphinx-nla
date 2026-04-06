@@ -38,7 +38,17 @@ in 1728. See [genealogy:petzen:PET-B-1728a.xml](genealogy:petzen:PET-B-1728a.md)
 
 Joh. Heinr. Kreutler modo Daniel Steding
 
-     
+     Brinksitzer
+
+5.) Joh. Kohlmeier modo Joh. Friedr. Kohlmeier
+6.) Jobst Heinr Jacob modo Jobst Jacob.
+7.) Anthon Heinr. Bornemann modo Joh. Jobst Most.
+8.) Ahrend Heinr. Ostermeier modo Joh. Heinr: Bornemann
+9.) Cord Heinr. Wilharm modo Joh. Heinr. Schmön
+10.) Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
+11.) Hans Heinr. Riensche und ein neuer Anbauen
+
+         Dorf Nodholz
 ```
 
 **modo** is Latin for "presently,lately now". Thus, this shows the

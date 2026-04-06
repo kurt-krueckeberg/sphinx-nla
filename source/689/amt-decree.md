@@ -36,47 +36,36 @@ because of **Krückeberg’s non-appearance (or non-response)**, not after a con
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    03 r
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    04 l
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/03-r.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/04-l.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-                                           corner folio:11
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+                             corner folio:11
 
 
 Actum Bückeburg am Amte
@@ -115,9 +104,16 @@ vollzogen werde.
   Fürstlich Schaumburg Upp. Amt.
 
      Hauck   Höcker
-            
-  - 
-              [11/1i]
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+[11/1i]
 
 Done at Bückeburg, at the Amt
 on the 10th of July 1841
@@ -137,7 +133,7 @@ requested that, since the defendant Krückeberg has still not—
 as was ordered to him by decree of the 29th of May and 6th of
 June of last year—paid the sum of 133 Reichsthaler 7 Groschen
 together with 5 percent annual interest from the 9th of April
-1833, the threatened **enforcement of judgment**, with warning
+1833, the threatened enforcement of judgment, with warning
 of distraint [seizure of property], now be decreed.
 
 Entered and issued as a default judgment, in witness thereof.
@@ -159,8 +155,11 @@ Decreed at Bückeburg, the 13th of July 1841.
 Princely Schaumburg District Office.
 
      Hauck      Höcker
-            
+```
+
 :::
+
+::::
 
 ```{note}
 A **default judgment** means a court decision that is entered against a party who fails to take part in the case

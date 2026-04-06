@@ -21,7 +21,35 @@ Expd. Schwarze
 V.G.G.
 
 Die Ausweisung an den Einlieger Jobst Heinrich Krückeberg No 18 zu Bärenbusch,
-so wie auch die von Euch in Vorschlag gebrachten Prästanden 
+so wie auch die von Euch in Vorschlag gebrachten Prästanden †, sind genehmigt
+worden. Wir pp
+
+Buckeburg d[en] 15ten Novemb. 1809.
+
+†—welche zu Michaeli 1813
+zum ersten male zu entrichtet werden müssen
+
+Anstatt
+v. [W]ackelwer[t] v. Lindesberg
+MKaas
+
+
+K[ammer]-Anweisung an den Kammerrentmeister Staackmann.
+
+Expd.
+
+Dem Neubauer Joht Heinrich Krückeberg No 18 zum Bärenbusch sind
+102 Quadrat-R[uthen]. 51 Quadrat Fuß und Hausbau ausgeweisen
+worden. Der Kammerrentmeister wird hie[r]durch angewiesen die
+Kaufgelder dießt ausgewiesenen Platzes und zwar die Quadrat R[uthen]
+mit 6 mgl ‡ zu erheben u[nd] gehörigen Orts zu vorminnahmen.
+Bburg d 15 1/2 Nov. 1809
+                  F S L Uz
+v. Danckwertz v. Lindesberg
+MKaas
+
+
+‡—also in Sa: mit 17 [Reichsthaler-symbol] 3 gl d
 ```
 
 Translation

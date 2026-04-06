@@ -23,14 +23,15 @@
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              Ad NC 5587                   6
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Ad NC 5587                   6
 
 Da nach dem Bericht des O. f. Kreuzingers das Land des
 Krückeberg weder durch Lage noch durch Qualität sich zum Ankauf
@@ -45,9 +46,16 @@ p Kreutzinger eingegebnen Werthe.
 Bbg 16. Decbr 41
           Reck
 Verte
-            
-  - 
-              regarding NC 5587 [which is document 5]                   6
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+regarding NC 5587 [which is document 5]                   6
 
 
 Since, according to Head Forester Kreuzinger’s report,
@@ -63,46 +71,71 @@ Bückeburg 16. December 41
              Reck
 
 turn the page
-            
+```
+
 :::
+
+::::
 
 Text in parenthesis in the left margin
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              ( 8 M. 90 QR für 835 r
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+( 8 M. 90 QR für 835 r
 8 M. à 50 r —— 400 r)
-            
-  - 
-              8 Morgen 90 square-Ruthen for 835 Reichthalers;
-8 Morgen at 50 Reichthalers per Morgen = 400 Reichthalers.
-            
+```
+
 :::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+8 Morgen 90 square-Ruthen for 835 Reichthalers;
+8 Morgen at 50 Reichthalers per Morgen = 400 Reichthalers.
+```
+
+:::
+
+::::
 
 Decision of Rentcammer
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              RC[Rentcammer] der p Krückeberg müsse abschläg[ig] bescheiden seÿn.
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+RC[Rentcammer] der p Krückeberg müsse abschläg[ig] bescheiden seÿn.
 Bbg 16. Dec. 41
 (vid in fine           Reck
     signed )
-            
-  - 
-              Decision: petitioner Krückeberg is to be denied.
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Decision: petitioner Krückeberg is to be denied.
 Bückeburg 16 Dec. 41
 (see at the end) sgined       Reck
-            
+```
+
 :::
+
+::::
 
 

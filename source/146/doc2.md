@@ -117,7 +117,11 @@ Res: Cam: Die Ausweisung des Platzes, von etwa ½ to ¾ Morgen, in
 derjenigen Grenzen, welche von der Forst-Direction dem Oberförster
 Falkmann angegeben sind, wird unter der Voraussetzung bewilliget, daß
 keine gegründete Widersprüche von Seiten der Hudeberechtigten
-eintreten, und 2., dasß der Supplicant ein Vermögen von wenigstens 
+eintreten, und 2., dasß der Supplicant ein Vermögen von wenigstens ‡‡ 150 Rtr[Reichtsthaler] nachweisen könne.
+Der Grund und Boden wird mit 6. Mg[Mariengroschen] p[er]. Quadratrute
+baar bezahlt.
+	B[ückeburg]. 31. Octbr 1808
+                             MKaas
 ```
 
 ### Translation

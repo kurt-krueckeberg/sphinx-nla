@@ -12,6 +12,22 @@ Transliteration
 ```{code-block} text
 
 Bauerguter & Colonien
+Special                       Rep: II
+Amt Bückeburg
+B.
+Bärenbusch
+
+No. 19
+
+                      ACTA
+
+Bauergüter und Colonien im Fürstenthum Schaumburg
+1819-1820
+
+
+
+in specie
+die Neubauer-Stätte des Triftmeyer N. 19 zu Bärenbusch betr.
 ```
 
 Translation

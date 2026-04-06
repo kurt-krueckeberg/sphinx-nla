@@ -18,9 +18,9 @@ September of 1850.
 
    * - Nr
      - Designatio Actorum
-(left)
+       (left)
      - Thema/Gegenstand
-(right)
+       (right)
      - Ort
      - Jahr
      - Monat
@@ -58,8 +58,8 @@ September of 1850.
        
        [Bericht der Aemter Bückeburg u. Arensburg](146:doc4.md)
      - Because of his financial circumstances and personal qualities,
-and also on account of the satisfaction of the common-pasture
-stakeholders.
+       and also on account of the satisfaction of the common-pasture
+       stakeholders.
        
        Wegen seiner Vermögens Umstände und persönlichten Eigenschaften auch wegen Zufriendenheit der
        Hude-Interessenten.
@@ -77,7 +77,7 @@ stakeholders.
      - __
      - 23
    * - 6
-ad 6
+       ad 6
      - [Report of the aforementioned administrative offices](146:doc6.md),[together with a geometrical (survey) drawing by Stille](146:ad6-survey-drawing.md)
        
        [Bericht gedachter Aemter](146:doc6.md)
@@ -89,11 +89,11 @@ ad 6
      - 28
    * - 7
      - [Drafts of Cameral rescripts from the Office of Bückeburg,
-also draft of a Cameral instruction to the Chamber Rent-Master Staackmann](146:doc7.md)
+       also draft of a Cameral instruction to the Chamber Rent-Master Staackmann](146:doc7.md)
        
        [Concept Camr Rescripts ans Amt Bückeburg](146:doc7.md)
      - Concerning the Cameral approval of the payment monies
-and the execution of the purchase deed.
+       and the execution of the purchase deed.
        
        pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
        :rspan: 5
@@ -109,7 +109,7 @@ and the execution of the purchase deed.
      - 15
    * - 8
      - [Petition of the wife of the new settler Krückeberg,
-No. 18, in Berenbusch](146:doc8.md)
+       No. 18, in Berenbusch](146:doc8.md)
        
        [Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch](146:doc8.md)
      - __
@@ -126,7 +126,7 @@ No. 18, in Berenbusch](146:doc8.md)
      - 12
    * - 10
      - [Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid
-by the aforementioned Krückeberg](146:doc10.md)
+       by the aforementioned Krückeberg](146:doc10.md)
        
        [Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
        gedachten Krückeberg](146:doc10.md)
@@ -136,7 +136,7 @@ by the aforementioned Krückeberg](146:doc10.md)
      - __
    * - 11
      - [Draft purchase deed for this Krückeberg, No. 18, in Berenbusch,
-concerning a building site for house construction and garden](146:doc10.md)
+       concerning a building site for house construction and garden](146:doc10.md)
        
        [Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau
        und Garten](146:doc10.md)

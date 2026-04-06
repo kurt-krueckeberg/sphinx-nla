@@ -2,42 +2,34 @@
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    19 l
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    19 r
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/19-l.png
+```
+
 :::
 
-::: {list-table}
-:widths: 1 1
+:::{grid-item}
 
-* - 
-              Stpl. 3g               ad N. C. 274.
+```{figure} images/19-r.png
+```
+
+:::
+
+::::
+
+::::{grid} 1 1 2 2
+:gutter: 2
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Stpl. 3g               ad N. C. 274.
 
 Concept an das Amt Bückeburg
 
@@ -63,22 +55,29 @@ nach geschehener Bezahlung d. 200 D. darunter das Erforderliche
 zu bemerken, die Eintragung in das Hypothekenbuch zu beschaffen,
 und in der Obligation das Nothig zu Verfügung und solche
 demnächst an der Kammer zu senden.
-            
-  - 
-              **Stamp:** 3 groschen — **re:** Chamber file no. 274.
+```
 
-**Office Draft to the Amt Bückeburg****Re:** Loan for Colon Krückeberg, No. 10 in Berenbusch
+:::
 
-With reference to the rescript of **24 December of last year**, the
-**office is instructed** to **collect**, against receipt, the **200
-Reichstaler (courant)** loaned to the said **Krückeberg** from the
-chamber treasury and to **apply** them to the **purpose specified in
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Stamp: 3 groschen — re: Chamber file no. 274.
+
+Office Draft to the Amt BückeburgRe: Loan for Colon Krückeberg, No. 10 in Berenbusch
+
+With reference to the rescript of 24 December of last year, the
+office is instructed to collect, against receipt, the 200
+Reichstaler (courant) loaned to the said Krückeberg from the
+chamber treasury and to apply them to the purpose specified in
 the above rescript†.
 Bückeburg, 20 January 1842
 This document has been officially recorded and put on file
 [clerical initials:] Lm        L
 
-*[margin: R.; Wh.; Dispatched: Strauk, 22 Jan.]**
+*[margin: R.; Wh.; Dispatched: Strauk, 22 Jan.]
 [margin, small hand] v. d. d. 12. Jan. 1842 — file note repeating the
 date of the attached report.
 
@@ -88,7 +87,10 @@ notation can be entered beneath it, the entry in the mortgage
 register can be obtained, and the necessary endorsements recorded
 in the promissory note; thereafter, please send it to the
 Chamber.
-            
+```
+
 :::
+
+::::
 
 

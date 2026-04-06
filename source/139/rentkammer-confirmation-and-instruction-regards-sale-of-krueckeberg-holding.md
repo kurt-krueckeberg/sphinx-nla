@@ -19,36 +19,24 @@ September 1849 and signed by Spreng and other clerical officials.
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    06 l
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    06 r
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/06-l.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/06-r.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 

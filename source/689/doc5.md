@@ -2,81 +2,58 @@
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    12 r
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    13 l
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/12-r.png
+```
+
 :::
 
-::: {list-table}
-:widths: 1 1
+:::{grid-item}
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    13 r
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    14 l
-                  
-                
-              
-            
+```{figure} images/13-l.png
+```
+
 :::
+
+::::
+
+::::{grid} 1 1 2 2
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} images/13-r.png
+```
+
+:::
+
+:::{grid-item}
+
+```{figure} images/14-l.png
+```
+
+:::
+
+::::
 
 ```{figure} images/14-r.png
 ```
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              NC. 5587                    pr in Cam 11 Dec 1841
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC. 5587                    pr in Cam 11 Dec 1841
 
                     An
                     Fürstliche Rentkammer
@@ -161,9 +138,16 @@ befreien.
 Baum d 10ten Decbr 1841.
 
 [Creuzinger]
-            
-  - 
-              NC. 5587
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC. 5587
 presented in Cam[mer] 11 Dec 1841
 
 To the Princely Chamber of Revenues, Most Humble Report of the
@@ -226,7 +210,10 @@ petitioner from his difficult situation.
 Baum Dec. 10, 1841.
 
 [Creuzinger]
-            
+```
+
 :::
+
+::::
 
 

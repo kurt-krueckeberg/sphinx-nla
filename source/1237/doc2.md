@@ -32,36 +32,24 @@ garden expansions in Berenbusch and to report back.
 
 ## Images of the Land Assignment Report
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Land Assignment Report
-                
-                  
-                    
-                  
-                  
-                    03 right page
-                  
-                
-              
-            
-  - 
-              
-                Land Assignment Report
-                
-                  
-                    
-                  
-                  
-                    04 left page
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/03-right-page.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/04-left-page.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 

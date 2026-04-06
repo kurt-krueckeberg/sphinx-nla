@@ -91,6 +91,36 @@ Presented 3 Nov. 1817
 Most Serene Prince!
 Most gracious reigning
 Prince and Lord!
+
+Note. The place in question could well be spared from the forest. It lies
+in the Petzen mast forest. Bückeburg, 9 Nov. 1817. MKaas.
+
+Until now I have lived as a lodger with my brother-in-law No. 11 in Evesen,
+but must now move out because his daughter is getting married.
+
+Since it is now so difficult to obtain a dwelling to rent, I have resolved
+to build a house of my own.
+
+As I have some money available for this purpose and, as a carpenter and
+joiner, can myself take part in the work, I shall be able to carry out my
+plan if Your Serene Highness will graciously grant me a small place on
+which to build a house, for a reasonable payment. Such a place lies near
+Nordholz, in the neighborhood of the Neubauer Bruns. I have been told that
+this place could be spared from the forest. Therefore my most humble
+petition to Your Serene Highness is:
+
+That Your Serene Highness may graciously assign to me that site for the
+building of a house, together with some yard space and garden land.
+
+In deepest reverence I remain unto Your Serene Highness
+
+your most humble servant,
+Einlieger (lodger) Voigt of Evesen
+
+Suppl. Bückeburg
+3 Nov. 1817
+
+[various initials]
 ```
 
 ## Chamber Resolution (vertical text)

@@ -108,7 +108,7 @@ Transliteration
      - 19
    * - 〃
      - [P. V. des H odReck u. Höchstes
-Rescr. Sr. Durchlaucht](doc6-3.md)
+       Rescr. Sr. Durchlaucht](doc6-3.md)
      - 
      - 〃
      - 〃

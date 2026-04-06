@@ -2,44 +2,36 @@
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    19 l
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    19 r
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/19-l.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/19-r.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              Concept an den Kammerrentmeister Berger
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Concept an den Kammerrentmeister Berger
 
 Dem Colonn Krückeberg No 10 in Berenbusch ist ein Kapital von
 Zweihundert Rthl Courant und Kammerkasse genädigst
@@ -58,9 +50,16 @@ Krückeberg zu erheben u[nd] zu vernehmen.
 
 P.n.
 Das Capital ist am 25. Jan. 1842 ausgezahlt
-            
-  - 
-              Office Draft to the Treasurer Berger
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Office Draft to the Treasurer Berger
 
 To Colon Krückeberg, No. 10 in Berenbusch, a capital sum of two
 hundred Reichsthaler in current money at face value from the
@@ -81,7 +80,10 @@ collected annually from Krückeberg and credited to the Treasury.
 P.N.
 The capital was paid out on 25 Jan. 1842.
 [Poppelbaum]
-            
+```
+
 :::
+
+::::
 
 

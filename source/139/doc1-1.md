@@ -25,36 +25,24 @@ of her holding.
 
 ## Images of Petition of the widow Krückeberg
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    02
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    03 l
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/02.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/03-l.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 
@@ -264,14 +252,15 @@ same **N.C. 2816** and **N.P. 602** identifiers to the entire page.
 ```{figure} images/03-r.png
 ```
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-                Concept An die Witwe Krückeberg Nro. 10 in Bärenbusch.
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Concept An die Witwe Krückeberg Nro. 10 in Bärenbusch.
 
 Höchsten Orts ist der Witwe Krückeberg Nro. 10 in Bärenbusch auf dreÿ
 Jahre Freÿheit von Burgrest- und Forstdeinst genädigst bewilligt
@@ -279,9 +268,16 @@ Bbg. 4. Aug. 1824.
 F.p.
 
 AKaas.
-              
-  - 
-                Concept
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Concept
 
 To the widow Krückeberg No. 10 in Bärenbusch.
 
@@ -292,19 +288,23 @@ for three years.
 Bückeburg, 4 August 1824.
 For the record.
 A. Kaas
-              
+```
+
 :::
+
+::::
 
 ### Likewise: Sealed (with the official seal) and Signed by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-                Conc. in extracten dem Gehülfsschreiber Schmöe dem Amte Bückeburg
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Conc. in extracten dem Gehülfsschreiber Schmöe dem Amte Bückeburg
 Verwalter Stahlhuth u[nd]. Oberförster Creuzinger [zu]  Baum.
 
 Exp. Alveÿ
@@ -316,9 +316,16 @@ Tamerlin
 
 N.C. 2816
 N.P. 602
-              
-  - 
-                Concept, in extract, to the assistant clerk Schmöe, to the Office of
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Concept, in extract, to the assistant clerk Schmöe, to the Office of
 Bückeburg, administrator Stahlhuth, and chief forester Creuzinger at
 Baum.
 
@@ -331,8 +338,11 @@ Tamerlin
 
 N.C. 2816
 N.P. 602
-              
+```
+
 :::
+
+::::
 
 ```{note}
 - **“in extract”** = “as official copies (extracts)”
@@ -346,14 +356,15 @@ Alvei, who mailed it (or logged its mailing).
 
 ### Rough Draft of the Official Reply originating from the Office of Bückeberg (24 Aug. 1824)
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-                Boines
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Boines
 Sp.
 Tamerlin
 
@@ -371,9 +382,16 @@ F. p.
 
 
 A Kaas
-              
-  - 
-                Boines
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Boines
 Sp.
 Tamerlin
 
@@ -391,8 +409,11 @@ For the record.
 
 
 A. Kaas
-              
+```
+
 :::
+
+::::
 
 ```{note}
 - **"26. v. M."** — stands for **"26. vorigen Monats" (of the previous month)**

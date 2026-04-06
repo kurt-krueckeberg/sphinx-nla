@@ -15,14 +15,15 @@ Berenbusch”, showing that a copy of the decision was dispatched to him.
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              St. 3gl.                              N. C. 5038.
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+St. 3gl.                              N. C. 5038.
 
 Copt
 an den Colon Krück-
@@ -36,12 +37,12 @@ Bbg. 15 Nov. 1841.
 
 F.p.[Für protokoll]
 
-[clerical initials:] *Lm**L*
+[clerical initials:] LmL
 
 [initials of other Rentcammer officials]
-*Fr.**R.**Wh**Expedirt
+Fr.R.WhExpedirt
 Holste
-17/11*.
+17/11.
 
 
 [text in bottom right]
@@ -53,9 +54,16 @@ unterthänigstes Gesuch
 um Bewilligung
 eines Darlehns aus
 Kammerkasse.
-            
-  - 
-              Stamped 3 Groschen.
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Stamped 3 Groschen.
 N. C. 5038.
 
 
@@ -68,17 +76,20 @@ Bückeburg. 15 Nov. 1841.
 
 This document has been officially recorded and put on file
 
-[clerical initials:] *Lm**L*
+[clerical initials:] LmL
 
 [initials of other Rentcammer officials]
-*Fr.**R.**Wh**logged as dispatched by clerk Holste on 17 November 1841*
+Fr.R.Whlogged as dispatched by clerk Holste on 17 November 1841
 
 
 [text in bottom right]
 To the Princely Rentkammer.
 The most humble petition of Colon Krückeberg, No. 10 in Berenbusch,
 for the granting of a loan from the chamber treasury.
-            
+```
+
 :::
+
+::::
 
 

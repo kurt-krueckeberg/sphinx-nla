@@ -52,66 +52,48 @@ that it had temporarily suspended the distraint order.
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    04 r original
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    05 l
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/04-r-original.png
+```
+
 :::
 
-::: {list-table}
-:widths: 1 1
+:::{grid-item}
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    05 r
-                  
-                
-              
-            
-  - 
+```{figure} images/05-l.png
+```
+
 :::
+
+::::
+
+::::{grid} 1 1 2 2
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} images/05-r.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              N. C. 4487                        pr. in Cam 11 Oct 1841
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+N. C. 4487                        pr. in Cam 11 Oct 1841
 
 
 
@@ -180,18 +162,25 @@ Bückeburg den 7t October 1841.
 
 Hauck Dr Neuhsel, Höcker
 
-*RC. rescrib: Das Amt habe
+RC. rescrib: Das Amt habe
 wie angetragen den
 Krückeberg zu bescheiden.
 B. 14. Oct. 1841
 
-Spreng*
+Spreng
 
 
     vert.
-            
-  - 
-              Chamber registry no. 4487; presented in the Chamber on 11 Oct 1841.
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Chamber registry no. 4487; presented in the Chamber on 11 Oct 1841.
 
 D.
 
@@ -251,13 +240,16 @@ distraint ordered against Krückeberg.  Bückeburg, 7 October 1841.
 
 Hauck Dr Neuhsel Höcker
 
-*Rentcammer Rescript: The Amt shall, as requested, notify Krückeberg.
+Rentcammer Rescript: The Amt shall, as requested, notify Krückeberg.
 B[ückeburg], 14 Oct. 1841.
-Spreng*
+Spreng
 
 
 turn the page.
-            
+```
+
 :::
+
+::::
 
 

@@ -10,6 +10,24 @@ Transliteration
 ```{code-block} text
 
 Bauerngüter und Colonien
+[struck-through: Special]                    Rep:II
+B. Amt Bückeburg
+II Berenbusch [struck-through: No. 10]
+
+
+
+                 ACTA
+Bauergüter und Colonien im
+Fürstenthume Schaumburg
+
+                       in specie
+1824-               Stätte No. 10 zu
+                    Berenbusch Amts
+                    Bückeburg
+
+
+
+Berenbusch No. 10
 ```
 
 Translation
@@ -17,6 +35,24 @@ Translation
 ```{code-block} text
 
 Farm holdings and settlement colonies
+[struck-through: Special]                       File: II
+Office of Bückeburg
+II  Berenbusch  [struck-through: No. 10]
+
+
+
+                 RECORDS
+Farm holdings and settlement colonies in
+the Principality of Schaumburg
+
+                    Regarding the matter of
+1824–               Farmstead (Site) No. 10 in
+                    Berenbusch, Office of
+                    Bückeburg
+
+
+
+Berenbusch No. 10
 ```
 
 ### Terms Explained

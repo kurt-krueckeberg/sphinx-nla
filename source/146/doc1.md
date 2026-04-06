@@ -159,6 +159,45 @@ No. Cam. 260.                         presented 30 Sept. 1808.
 Most Serene Prince,
 Most Graciously Reigning Prince
 and Lord!
+
+For ordinary handling by the Princely Rent Chamber.
+
+Resolution of the Chamber:
+To the District Office, by brief referral, for a report
+on the financial circumstances and on the personal qualities
+of the petitioner. 2 Oct. 1808.
+MKaas
+
+Up to now I have lived as an Einlieger (lodger) with Wilharm No. 11 in
+Evesen, but I now wish to establish myself independently.  In front of
+Bärenbusch there lies a plot of land which had previously already been
+inspected by the Forestry Office, on the occasion that another person
+wished to build there, but who was unable to pay for the plot.
+
+This plot, however, is indeed very inconvenient for house construction,
+since it consists entirely of uneven ground, the filling and leveling of
+which will require much effort. Nevertheless, it is suitable for me for the
+reason that it is not too far removed from people, a circumstance to which
+I must pay particular attention on account of my profession as a tailor.
+
+Since I now hope that Your Serene Highness, in consideration of the great
+effort which the leveling of this place will require, will not set the
+price of it too high, there thus proceeds to Your Serene Highness my most
+humble petition:
+
+that that place be graciously granted to me for house construction at a
+reasonable price.
+
+I remain in deepest reverence
+Your Serene Highness’
+
+Most humble servant,
+Tailor Krückeberg in Evesen
+
+Sept.
+Submitted on the 29th of September
+1808.
+H. Swellmann
 ```
 
 ### Translation Notes

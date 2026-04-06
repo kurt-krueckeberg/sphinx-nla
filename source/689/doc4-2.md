@@ -32,47 +32,36 @@ step.
 
 ## Image
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    11 r
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    12 l
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/11-r.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/12-l.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              So traurig die Lage des Krückeberg seÿn mag, da sehe ich doch
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+So traurig die Lage des Krückeberg seÿn mag, da sehe ich doch
 nicht ein, wie ihm zu helfen. Ein Darlehn zu bewilligen, wo die
 Sicherheit so unzureichend, geht nicht an. Eben so unerfreulich
 erscheint es mir, daß das angekaufte Land in der Söhre wieder
@@ -119,9 +108,16 @@ F.p.[Für protokoll]
 [bottom right]
 An den Durchlauchtigsten Gnädigsten Regierenden Fürst
 und Landes Herren
-            
-  - 
-              So sad as Krückeberg’s situation may be, I still do not see how he
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+So sad as Krückeberg’s situation may be, I still do not see how he
 can be helped. To approve a loan where the security is so
 insufficient is not possible. Just as unwelcome does it seem to me
 that the land in the Söhre which he purchased be bought back. If
@@ -166,7 +162,10 @@ This document has been officially recorded and put on file
 
 To the Most Serene,
 Most Gracious Reigning Prince and Lord of the Land
-            
+```
+
 :::
+
+::::
 
 

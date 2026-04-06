@@ -15,11 +15,15 @@
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              N. 431                                                     5.)
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+N. 431                                                     5.)
 
 [3GR]
 
@@ -75,10 +79,20 @@ Res: Cam: Genehmiget nach dem Amts-Vorschlage,
 wornach das Nöthige an das Amt u. an
 Kam: Rentmeister zu erlassen ist. B 22 Nov. 1819
 MKaas
-            
-  - 
-              TODO
-            
+```
+
 :::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+TODO
+```
+
+:::
+
+::::
 
 

@@ -38,47 +38,36 @@ into the case file.
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    10 r
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    11 l
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/10-r.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/11-l.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation of Krückeberg’s Petition (21 Nov 1841)
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              NC. 5203                               pr. in Cam 24 Nov.
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC. 5203                               pr. in Cam 24 Nov.
 
 3 gl. Sthl[Stempelsteuer]
 
@@ -126,9 +115,16 @@ Untertänigster Colon Krückeberg
 Nro 10 in Berenbusch
 d 21ten November
 1841
-            
-  - 
-              NC. 5203             presented in the Chamber on 24 November 1841
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC. 5203             presented in the Chamber on 24 November 1841
 
 3 gr. stamp duty
 
@@ -175,7 +171,10 @@ Your most humble servant,
 Colon Krückeberg
 No. 10 in Berenbusch
 21 November 1841
-            
+```
+
 :::
+
+::::
 
 

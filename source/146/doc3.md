@@ -34,7 +34,28 @@ Beyer
 V. G. G.[Von Gottes Gnaden]
 
 Auf Euren Bericht vom 21ten d.
-M. die Neubauerung 
+M. die Neubauerung †  betr:, unverhalten wir, daß die Ausweisung des
+Platzes quaestionis von etwa 1/2 - 3/4 Morgen, in denjenigen
+Grenzen, welche von der Forstdirection dem Oberförster Falkmann
+angegeben sind, bewilligt worden ist, unter der Voraussetzung,
+
+1.) daß keine gegründete Widersprüche von Seiten der
+Hudeberechtigten eintreten und
+
+2.) daß der Supplikant ein Vermögen von wenigstens 150
+Rthl. nachweisen kann.
+
+Der Grund u. Boden wird mit 6 mg p. Quadratrute bezahlt.
+
+Solches habt Ihr dem Supplikanten zu eröffnen.
+
+† des Schneiders Krückeberg in Evesen
+
+Wie         [S.S.]
+Bburg d. 31 Oct 1808
+Anstatt[??]
+Wine
+[???] [D/W/H]anckwertz Windt
 ```
 
 ```{note}

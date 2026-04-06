@@ -14,6 +14,28 @@ Transliteration
 Ausweisungen & Rottländereien
 Specia
 bim Amt Bückeburg
+
+[struck-through: Berenbusch no. 10]
+
+AB                         Rep: II
+
+                 ACTA
+               Ausweisung
+          und Rotländereÿ
+                           in specie
+                    die dem Colon Krückeberg
+                    Nr: 10, zu Berenbusch aus-
+                    gewiesenen Plätze zur
+                    Vergrößerung seines
+                    Hofraums und Gartens,
+                    betreffend
+1798-1800
+                    Amt Buckeburg
+
+
+
+
+C. 67
 ```
 
 Transliteration

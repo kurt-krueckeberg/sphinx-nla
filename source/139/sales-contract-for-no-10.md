@@ -65,67 +65,43 @@ holder—a significant upward shift in rural status and responsibility.
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                page 1 (Click to Enlarge)
-                
-                  
-                    
-                  
-                  
-                    11 r
-                  
-                
-              
-            
-  - 
-              
-                page 2 (Click to Enlarge)
-                
-                  
-                    
-                  
-                  
-                    12 l
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/11-r.png
+```
+
 :::
 
-::: {list-table}
-:widths: 1 1
+:::{grid-item}
 
-* - 
-              
-                page 3 (Click to Enlarge)
-                
-                  
-                    
-                  
-                  
-                    12 r
-                  
-                
-              
-            
-  - 
-              
-                page 4 (Click to Enlarge)
-                
-                  
-                    
-                  
-                  
-                    13 l
-                  
-                
-              
-            
+```{figure} images/12-l.png
+```
+
 :::
+
+::::
+
+::::{grid} 1 1 2 2
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} images/12-r.png
+```
+
+:::
+
+:::{grid-item}
+
+```{figure} images/13-l.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 

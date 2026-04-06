@@ -42,55 +42,36 @@ Latin terms used
 
 ## Images of Johann Heinrich Krückeberg’s Recorded Answers
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                First page (Click to Enlarge)
-                
-                  
-                    
-                  
-                  
-                    2741 1
-                  
-                
-              
-            
-  - 
-              
-                First page (Click to Enlarge)
-                
-                  
-                    
-                  
-                  
-                    2741 2
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/2741-1.jpg
+```
+
 :::
 
-::: {list-table}
-:widths: 1 1
+:::{grid-item}
 
-* - 
-              
-                First page (Click to Enlarge)
-                
-                  
-                    
-                  
-                  
-                    2741 3
-                  
-                
-              
-            
-  - 
+```{figure} images/2741-2.jpg
+```
+
 :::
+
+::::
+
+::::{grid} 1 1 2 2
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} images/2741-3.jpg
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 
@@ -236,6 +217,20 @@ habe, solche nicht
 schuldig zu seyn
 
 35. nein
+
+36., 37. cessat
+
+38. nein
+
+39. ut reliqui
+
+40. Er samle
+
+das Holtz in
+
+der Waldung
+
+oder kauffe es.
 ```
 
 ```{important}

@@ -14,14 +14,15 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              N. 3/6                            N.C. 4487
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+N. 3/6                            N.C. 4487
 C. 1/                              N.P. 1274
 ------
 = 4/6.
@@ -43,9 +44,16 @@ Holste             bescheiden.
                      F. p.[Für protokoll]
 
                      [clerial initials:] Lm        L
-            
-  - 
-              N. 3/6                            N.C. 4487
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+N. 3/6                            N.C. 4487
 C. 1/                              N.P. 1274
 ------
 = 4/6.
@@ -65,8 +73,11 @@ Bückeburg, 14 October 1841.
 
 This document has been officially recorded and put on file
 [clerial initials:] Lm        L
-            
+```
+
 :::
+
+::::
 
 ## Billing Note
 
@@ -118,14 +129,15 @@ Here is what each of them means:
 
 ### Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-                Colon Krückeberg N 10 in Berenbusch
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Colon Krückeberg N 10 in Berenbusch
 
 
 Decr ....... 6½
@@ -139,21 +151,31 @@ Fol ........ 4
 Das Gleichlautende gegen Bescheid ist
 Insinuirt den 27ten July 1841
 Möller Amtsdiener
-              
-  - 
-                Colon Krückeberg N 10 in Berenbusch
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Colon Krückeberg N 10 in Berenbusch
 
 
-Decr **** 6½
-Exp ****_ 6
-Mem ***** 2
-Act ***** 4
-Fol ***** 4
-        *****
+Decr *** 6½
+Exp ***_ 6
+Mem **** 2
+Act ** 4
+Fol **** 4
+        **
             22½
 The identical counterpart of the decision was served on 27 July 1841.
 Möller, office servant.
-              
+```
+
 :::
+
+::::
 
 

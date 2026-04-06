@@ -35,36 +35,24 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Decision on Jobst Heinrich Krückeberg’s Petition
-                
-                  
-                    
-                  
-                  
-                    11
-                  
-                
-              
-            
-  - 
-              
-                Decision on Jobst Heinrich Krückeberg’s Petition
-                
-                  
-                    
-                  
-                  
-                    12
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/11.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/12.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 

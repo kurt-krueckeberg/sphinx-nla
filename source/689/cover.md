@@ -3,15 +3,15 @@
 ```{figure} images/cover-orig.png
 ```
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-            Activa
-II. Currente2 Privat Personenim Fürstenthum Schaumburg-Lippe
+:::{grid-item}
+
+```{code-block} text
+
+Activa
+[struck-through: II. Currente][struck-through: 2 Privat Personen][struck-through: im Fürstenthum Schaumburg-Lippe]
 B. im Amte Bückeburg
 
               Acta
@@ -29,10 +29,16 @@ B. im Amte Bückeburg
 
 
 B32.
-          
-  - 
-            Activa
-II. Current (series)2 Private personsin the Principality of Schaumburg-Lippe
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+
+Activa
+[struck-through: II. Current (series)][struck-through: 2 Private persons][struck-through: in the Principality of Schaumburg-Lippe]
 B. in the Amt of Bückeburg
 
                    Files
@@ -49,8 +55,11 @@ B. in the Amt of Bückeburg
 
 
 B. 32.
-          
+```
+
 :::
+
+::::
 
 ## Glossary of Terms
 

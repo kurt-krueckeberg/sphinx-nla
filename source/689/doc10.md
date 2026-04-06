@@ -2,36 +2,24 @@
 
 ## NC 2422 — Follow-up to Prommissory Note for 200 Reichsthaler, of 12 Jan 1842) — liquidation/crediting of interest
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    21 r
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    22
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/21-r.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/22.png
+```
+
+:::
+
+::::
 
 ### Transliteration and Translation
 
@@ -94,24 +82,25 @@ There are numerous abbrevations used in **NC 2422**. This table summarizes them.
    :header-rows: 1
 
    * - 
-                **Docketing marks**
-              
+                       **Docketing marks**
+                     
    * - NC. 2696.
      - **Placement:** Top-left header.
-**Meaning:** Rentkammer registry/file number (NC-series).
-**When/By whom:** Clerk at registration (after the letter was received).
+       **Meaning:** Rentkammer registry/file number (NC-series).
+       **When/By whom:** Clerk at registration (after the letter was received).
 ```
 
 **TODO**: Add explantory sentence before text like above.
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-                Abschrift Anweisung der Kammer
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Abschrift Anweisung der Kammer
 für den Kammerrentmeister Berger
 d. d. Bückeb. d. 21. April 1845
 
@@ -127,9 +116,16 @@ Darlehn von 200 Rthlr Cour. nebst Zinsen zurückzubehalten ist,
 dem Verkäufer gegen Quittung auszuzahlen, in Kammerrechnung
 gehörigen Orts zu verausgeben und diese Ausgabe mit dieser
 Quittung zu belegen.
-              
-  - 
-                Copy. Order of the Chamber for the chamber treasurer Berger.
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Copy. Order of the Chamber for the chamber treasurer Berger.
 Dated: Bückeburg, 21 April 1845
 
 The Princely Chamber of Revenues, pursuant to the deed of sale of 17
@@ -145,37 +141,33 @@ pursuant to the promissory note of 12 January 1842, from the chamber
 treasury, together with interest—to record the disbursement at the proper
 place in the chamber accounts and to support this expenditure with that
 receipt.
-              
+```
+
 :::
+
+::::
 
 ## Follow-up delivery/receipt; mortgage cancellation approved
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    23 r
-                  
-                
-              
-            
-  - 
+:::{grid-item}
+
+```{figure} images/23-r.png
+```
+
 :::
+
+::::
 
 ```{eval-rst}
 .. flat-table::
    :header-rows: 1
 
    * - 
-              **Docketing marks**
-            
+                     **Docketing marks**
+                   
    * - NC. 2696.
      - **Placement:** Top-left header.**Meaning:** Rentkammer registry/file number (NC-series).**When/By whom:** Clerk at registration (after the letter was received).
    * - pr. in C. 29/4 45
@@ -194,24 +186,17 @@ receipt.
   - **Left-side minute/response (small hand; Rentkammer; signed Reck)**
 :::
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    24 l
-                  
-                
-              
-            
-  - 
+:::{grid-item}
+
+```{figure} images/24-l.png
+```
+
 :::
+
+::::
 
 ## NC 2696
 
@@ -302,24 +287,17 @@ Poppelbaum.
 
 ## Concept Quittung
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    24 r
-                  
-                
-              
-            
-  - 
+:::{grid-item}
+
+```{figure} images/24-r.png
+```
+
 :::
+
+::::
 
 ::: {list-table}
 :width: 60%
@@ -342,14 +320,15 @@ Poppelbaum.
   - **Meaning:** "Dispatched/expedited" by Schöttd., dated 8 May (1845). A routing/handling note.**Placement:** TODO**Who / When:**
 :::
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - English translation & notes
-* - 
-              Concept Quittung.
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Concept Quittung.
 
 Da der Colon Krückeberg das in vorstehender Obligation vom 12.
 Januar 1842 verbriefte Kapital ad 200 Rthlr. Cour[ant]. nebst
@@ -361,22 +340,32 @@ Bburg 5. Mai 1845.
 
 
 L
-            
-  - 
-              Official Draft.
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Official Draft.
 
 Since Colon Krückeberg has repaid to the Chamber cash office, by
-crediting/set-off (**Zurechnung**), the principal recorded in the
-foregoing obligation of 12 January 1842—amounting to **200
-Reichsthaler Courant**—together with arrears and current interest,
-**he is hereby receipted for it** and **the cancellation of the
-mortgage is approved**.
+crediting/set-off (Zurechnung), the principal recorded in the
+foregoing obligation of 12 January 1842—amounting to 200
+Reichsthaler Courant—together with arrears and current interest,
+he is hereby receipted for it and the cancellation of the
+mortgage is approved.
 
 Bückeburg, 5 May 1845.
 (“place of the seal”). This document has been officially recorded and put on file.
 
 L (routing/initial mark).
-            
+```
+
 :::
+
+::::
 
 

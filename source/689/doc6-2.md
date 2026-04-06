@@ -7,14 +7,15 @@
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              NC 5702
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC 5702
 
 [rok]
 
@@ -35,9 +36,16 @@ erbetenen 200 Rthl zu leihen?
 Bbg 19 Dec 1841.
 
 Georg Wilhelm
-            
-  - 
-              NC 5702
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC 5702
 
 [rok]
           Received in the Chamber, 21 Dec 1841.
@@ -57,7 +65,10 @@ Chamber should for the time being lend Krückeberg the requested
 Bückeburg, 19 Dec 1841.
 
 Georg Wilhelm
-            
+```
+
 :::
+
+::::
 
 

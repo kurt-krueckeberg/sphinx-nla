@@ -113,7 +113,62 @@ Adb. Weissich pr. Gn
 ```{code-block} text
 :class: bordered
 
+No. 237                                                         10.)
 
+[3 Gr stamp]
+
+presented 25 May 1818
+
+Dispatched: p. Schultze.
+
+[routing notation]
+
+Res.: Cam. The supplicant is to be permitted to place the colony house in
+such a way that the gable side is directed toward the forest; however, both
+colony houses of Vogt and Brüggemann are to be placed in a completely
+straight line.  Bückeburg, 25 May 1818.
+M. Kaas
+
+Most Serene Prince, Most Gracious Reigning Prince and Lord!
+
+I have progressed so far with the construction of my new house that the
+house can be raised on Wednesday, and I have been instructed by the
+Princely Office that the house is to be built according to the direction
+indicated in the plan by black lines, since the house of Bruns No. 12 also
+has this direction. The end of the living room would then be at A, and this
+would be an inconvenience because the living room would be exposed to the
+east winds, while the back door would be exposed to the west winds. Nor
+would the village gain anything from this position, for whoever then passes
+along the village street will see nothing of the house except the large
+door and the manure heaps located in front of it. Moreover I would thereby
+suffer a considerable loss, because the end of the living room would lie
+where there is a hollow from former clay digging, which I would have to
+fill at the greatest expense.
+
+I therefore wish to build the house in the direction indicated by red
+lines, so that the end of the living room would face south and receive the
+midday sun and would present a friendly appearance to anyone coming from
+the village. In this direction I would also gain a quantity of foundation
+stones, and since Brüggemann also wishes to build in this direction, the
+orderly alignment would thereby be promoted rather than disturbed.
+
+Thus my most humble petition to Your Serene Highness is:
+
+most graciously to permit that I may build the house in the desired
+direction, and to decide upon this still tomorrow, since, as already
+stated, the raising is to take place on Wednesday.
+
+In deepest reverence I remain before Your Serene Highness,
+
+Most humble
+Vogt
+in Nordholz
+
+Supplicant.
+
+Bückeburg, 24 May 1818.
+
+[routing note]
 ```
 
 

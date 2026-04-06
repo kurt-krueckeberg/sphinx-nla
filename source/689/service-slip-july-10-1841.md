@@ -11,14 +11,14 @@ Möller, Amtsdiener, and refers to the insinuation (formal service) of the “gl
 standard fee-book abbreviations for decree/dispatch/notification at the Amt. They’re the costs of preparing and
 serving that notice, typically chargeable to the party.
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              Colon Krückeberg N 10 in
+:::{grid-item}
+
+```{code-block} text
+
+Colon Krückeberg N 10 in
 Berenbusch
 Decr_____________6
 ej_______________6
@@ -30,9 +30,15 @@ Fr_______________4
 Das Gleichlautner gegen Bescheid ist
 Insinuirt den 27ten July 1841
 Möller Amtsdiener
-            
-  - 
-              Colon Krückeberg N 10 in
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+
+Colon Krückeberg N 10 in
 Berenbusch
 Decr_____________6
 ej_______________6
@@ -44,7 +50,10 @@ Fr_______________4
 The identically worded counterpart
 of the notice was formally served on
 27 July 1841.
-            
+```
+
 :::
+
+::::
 
 

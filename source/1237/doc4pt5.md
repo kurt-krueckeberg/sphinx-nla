@@ -41,11 +41,15 @@ earlier.
 
 ### Main Text
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-                Den Colonus Krückeberg Nro 10. in Beren- busch ist zur Vergrösserung
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Den Colonus Krückeberg Nro 10. in Beren- busch ist zur Vergrösserung
 seines Hofraums und Gartens ein Platz daselbst wie Figur a zeiget[,]
 ausgewiesen und vermessen zu
 
@@ -60,9 +64,16 @@ Bückeburg d. 30ten Märtz 1799.
 
                         Funck
                         beeidigter Landmesser
-              
-  - 
-                To Colonus Krückeberg, No. 10, in Berenbusch, a plot has been assigned
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+To Colonus Krückeberg, No. 10, in Berenbusch, a plot has been assigned
 and measured on the site for the enlargement of his yard and garden, as
 shown in figure a, measuring
 
@@ -77,8 +88,11 @@ Bückeburg, the 30th of March 1799.
 
                      Funck
                 sworn surveyor
-              
+```
+
 :::
+
+::::
 
 The phrase "we make the proposal, without further negotiation, that he be
 assigned this land…​" should be interpreted as:

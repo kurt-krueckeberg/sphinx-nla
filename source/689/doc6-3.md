@@ -2,64 +2,46 @@
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    16 l
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    16 r
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/16-l.png
+```
+
 :::
 
-::: {list-table}
-:widths: 1 1
+:::{grid-item}
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    17 l
-                  
-                
-              
-            
-  - 
+```{figure} images/16-r.png
+```
+
 :::
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::
 
-* - Transliteration
-  - Translation
-* - 
-              P.V.
+::::{grid} 1 1 2 2
+:gutter: 2
+
+:::{grid-item}
+
+```{figure} images/17-l.png
+```
+
+:::
+
+::::
+
+::::{grid} 1 1 2 2
+:gutter: 2
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+P.V.
 Soll dem p Krückeberg gründlich gehelfen werden, so müsste
 diess wohl am sichersten dadurch geschehe, wenn demselben das
 fragliche Land zu dem Preise, des Supplicanten Vater der Kammer
@@ -90,9 +72,16 @@ rtn wiedergekauft wurde.
 Bbg. 23. Decbr.
 
 Reck
-            
-  - 
-              per Vorstehung (by the authority of)
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+per Vorstehung (by the authority of)
 If thorough assistance is to be given to Mr. Krückeberg, this
 would most likely be best achieved by taking back the disputed
 land at the price paid by the petitioner’s father to the chamber,
@@ -120,24 +109,38 @@ use and appraised by Kreutzinger at 400 rt—were bought back for
 more than 800 rt.
 Bbg., 23 Dec. 1841.
 Reck
-            
+```
+
 :::
+
+::::
 
 ### Left Margin Text in Parentheses
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-                (Die Taxe wird indes wohl etwas niedrig seÿn.)
-              
-  - 
-                (However, the appraisal/valuation will likely be somewhat low.)
-              
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+(Die Taxe wird indes wohl etwas niedrig seÿn.)
+```
+
 :::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+(However, the appraisal/valuation will likely be somewhat low.)
+```
+
+:::
+
+::::
 
 ### Prince of Schaumburg-Lippe Georg Wilhelm’s Decision and Signature.
 
@@ -145,45 +148,49 @@ On the last page, written vertically in the left margin—​rotated below so
 one can read it—​is the decision of the Sovereign ruler of
 Schaumburg-Lippe, Georg Wilhelm, Prince of Schaumburg-Lippe.
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-                
-                  Click to Enlarge
-                  
-                    
-                      
-                    
-                    
-                      17 l vertical text
-                    
-                  
-                
-              
-  - 
+:::{grid-item}
+
+```{figure} images/17-l-vertical-text.png
+```
+
 :::
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::
 
-* - Transliteration
-  - Translation
-* - 
-                Ich bewilligt nach dem Antrage der Kammer des Dorlichen von 200
+::::{grid} 1 1 2 2
+:gutter: 2
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Ich bewilligt nach dem Antrage der Kammer des Dorlichen von 200
 rtl dem Krückeberg, indem es auch künftig immer noch Zeit seyn
 würde, des Land anzunehmen und die Schuld darauf zu liquidiren.
 Bb 23 Dec.
 Georg Wilhelm
-              
-  - 
-                I approve, in accordance with the chamber’s petition, the loan of
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+I approve, in accordance with the chamber’s petition, the loan of
 200 rt to Krückeberg, since there will still be time in future to
 accept the land and settle the debt upon it.
 Bückeburg, 23 Dec.
 Georg Wilhelm
-              
+```
+
 :::
+
+::::
 
 

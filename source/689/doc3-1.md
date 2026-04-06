@@ -8,47 +8,36 @@ chamber treasury.
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    08 r
-                  
-                
-              
-            
-  - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    09 l
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/08-r.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/09-l.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              NC. 5038                             pr. in Cam 12 Nov. 41
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC. 5038                             pr. in Cam 12 Nov. 41
 
 [Fiscal oval hand-stamp]
 FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
@@ -59,7 +48,7 @@ Durchlauchtigster Fürst, Gnädigst regierender Fürst und Herr!
 [rok](clerk's initials)
 
 
-*RC. Seite 3.*
+RC. Seite 3.
 
 
 Zur völligen Bezahlung der Schuld an die Hempel Söhne
@@ -99,9 +88,16 @@ Bückeburg                              unterthänigster,
 Den 11. Nov. 1841.                     Colon Krückeberg
 Conc[ipist]. GW Fuchs.                No 10 in Berenbusch.
 progg[short for:protokollieren].
-            
-  - 
-              NC. 5038            presented in the Chamber 12 Nov. [18]41
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+NC. 5038            presented in the Chamber 12 Nov. [18]41
 
 [Fiscal oval hand-stamp]
 FÜRSTL: SCHAUMBG: LIPPE: STEMPEL-TAXE
@@ -112,7 +108,7 @@ Most Serene Prince, Gracious reigning Prince and Lord!
 
 [rok](clerk's initials)
 
-*RC. page 3*
+RC. page 3
 
 For the complete payment of the debt to the Hempel sons
 in Minden, I have been granted the consent for a loan
@@ -149,8 +145,11 @@ Bückeburg                     Your most humble servant,
 11th  Nov 1841.                        Colon Krückeberg
 Drafted by GW Fuchs.               No 10 in Berenbusch.
 filed.
-            
+```
+
 :::
+
+::::
 
 The note *RC. Seite 3* (Rentcammer page 3) refers to the third page in the
 set of three documents comprising docket item #3 in the Acten Designation,

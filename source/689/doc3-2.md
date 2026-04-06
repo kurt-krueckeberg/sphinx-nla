@@ -31,14 +31,15 @@ holding of a numbered Colon (tenant holder), comprising land and buildings."**
 
 ::::
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - Transliteration
-  - Translation
-* - 
-              Die Stelle des Krückeberg besteht
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Die Stelle des Krückeberg besteht
 
 aus 10 Morgen a 100 rt.......1000 rt
 Catasterwerth der Gebäude.....525 rt
@@ -58,13 +59,20 @@ lediglich dem Ermessen der Cammer anheimgeben.
 Bbg 15. Novbr 41.
               Reck
 
-*RC. das Gesuch wäre abzuschlagen.
+RC. das Gesuch wäre abzuschlagen.
 Bbg 15. Nov. 41.
-        Reck*
+        Reck
                   vert
-            
-  - 
-              The holding of Krückeberg consists of
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+The holding of Krückeberg consists of
 
 10 Morgen at 100 rt each ........... 1000 rt
 Cadastral value of the buildings .... 525 rt
@@ -84,12 +92,15 @@ Bbg., 15 Nov. 1841.
 
 Reck
 
-*RC. The petition should be rejected.
+RC. The petition should be rejected.
 Bückeberg 15. Nov. 41.
-              Reck*
+              Reck
 
                turn the page
-            
+```
+
 :::
+
+::::
 
 

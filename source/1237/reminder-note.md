@@ -11,11 +11,15 @@ merely a reminder about Berenbusch woodland boundaries.
 ```{figure} images/07-right-page.png
 ```
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              ad Nro. 322
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+ad Nro. 322
 Res Cam.
 wie ad Nro. 317.
 
@@ -25,9 +29,16 @@ Berenbusch zu erinnern.
 B. 27. Octbr 1800
 
     MK.
-            
-  - 
-              Re: No. 322
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+Re: No. 322
 Chamber Resolution
 as in No. 317.
 
@@ -38,8 +49,11 @@ still apply.
 Recorded 27 October 1800
 
     MK.
-            
+```
+
 :::
+
+::::
 
 ## Glossary of Terms
 

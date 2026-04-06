@@ -7,11 +7,15 @@
 
 ## Transliteration and Translation
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              An
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+An
 fürstl. Rentkammer
 
 des Soldaten Brüggeman
@@ -22,9 +26,16 @@ und Bitte:
 
 gnädigste Answeisung eines
 Platzes zum Hausbau mit Garten
-            
-  - 
-              To the
+```
+
+:::
+
+:::{grid-item}
+
+```{code-block} text
+:class: bordered
+
+To the
 Princely Rent Chamber
 
 [from] the soldier Brüggemann
@@ -35,8 +46,11 @@ and request:
 
 Gracious assignment of
 a plot of land for the construction of a house with a garden.
-            
+```
+
 :::
+
+::::
 
 ## Citation
 

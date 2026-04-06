@@ -32,36 +32,24 @@ felled and sold by the forestry office
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Document 2(Click to Enlarge)
-                
-                  
-                    
-                  
-                  
-                    05 right page
-                  
-                
-              
-            
-  - 
-              
-                Document 3(Click to Enlarge)
-                
-                  
-                    
-                  
-                  
-                    06 left page
-                  
-                
-              
-            
+:::{grid-item}
+
+```{figure} images/05-right-page.png
+```
+
 :::
+
+:::{grid-item}
+
+```{figure} images/06-left-page.png
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 
