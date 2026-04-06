@@ -40,8 +40,8 @@ the " financial circumstances and on the personal qualities of the petitioner."
 
 ## Petition Cover Page
 
-```{figure} images/05-l.png
-:target: images/05-l.png
+```{image} images/05-l.png
+:class: antora-self-link
 ```
 
 ```{note}
@@ -92,12 +92,12 @@ of a plot of land for the construction of a house
 
 ## Images for Petition submitted by the tailor Krückeberg in Evesen
 
-```{figure} images/02-r.png
-:target: images/02-r.png
+```{image} images/02-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/03-l.png
-:target: images/03-l.png
+```{image} images/03-l.png
+:class: antora-self-link
 ```
 
 See [Corrections to Text](https://chatgpt.com/share/694485ae-3bec-8004-961e-67d320e050d3)

@@ -9,8 +9,8 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 
 ## Image of Official Order
 
-```{figure} images/06-l.png
-:target: images/06-l.png
+```{image} images/06-l.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation
@@ -125,8 +125,8 @@ Here is what each of them means:
   - Per-folio (per page) fee
 :::
 
-```{figure} images/07-l.png
-:target: images/07-l.png
+```{image} images/07-l.png
+:class: antora-self-link
 ```
 
 ### Transliteration and Translation

@@ -2,18 +2,18 @@
 
 ## Images
 
-```{figure} images/09-r.png
-:target: images/09-r.png
+```{image} images/09-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/10-l.png
-:target: images/10-l.png
+```{image} images/10-l.png
+:class: antora-self-link
 ```
 
 09 vert text
 
-```{figure} images/11.png
-:target: images/11.png
+```{image} images/11.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

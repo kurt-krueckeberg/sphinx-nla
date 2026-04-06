@@ -1,7 +1,7 @@
 # Cover
 
-```{figure} images/cover.png
-:target: images/cover.png
+```{image} images/cover.png
+:class: antora-self-link
 ```
 
 

@@ -17,8 +17,8 @@ unit (e.g., “Nr. 1,” “Nr. 2”) that may contain multiple internal texts�
 as a petition, reports, draft replies, and the final resolution—but is
 treated by the authorities as one coherent administrative unit.
 
-```{figure} images/01.png
-:target: images/01.png
+```{image} images/01.png
+:class: antora-self-link
 ```
 
 ```{note}

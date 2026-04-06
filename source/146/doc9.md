@@ -16,8 +16,8 @@ remained with the territorial authority.
 
 ## Image
 
-```{figure} images/11-r.png
-:target: images/11-r.png
+```{image} images/11-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

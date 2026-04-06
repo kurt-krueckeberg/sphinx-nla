@@ -2,8 +2,8 @@
 
 ## Image
 
-```{figure} images/15-r.png
-:target: images/15-r.png
+```{image} images/15-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

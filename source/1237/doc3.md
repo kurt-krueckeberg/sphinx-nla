@@ -37,16 +37,16 @@ felled and sold by the forestry office
 
 :::{grid-item}
 
-```{figure} images/05-right-page.png
-:target: images/05-right-page.png
+```{image} images/05-right-page.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/06-left-page.png
-:target: images/06-left-page.png
+```{image} images/06-left-page.png
+:class: antora-self-link
 ```
 
 :::

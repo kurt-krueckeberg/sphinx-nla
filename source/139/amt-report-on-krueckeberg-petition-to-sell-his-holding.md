@@ -17,8 +17,8 @@ attached to the property is to be provided.
 
 ## Transliteration and Translation
 
-```{figure} images/05-r.png
-:target: images/05-r.png
+```{image} images/05-r.png
+:class: antora-self-link
 ```
 
 ```{code-block} text

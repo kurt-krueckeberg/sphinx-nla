@@ -47,16 +47,16 @@ Latin terms used
 
 :::{grid-item}
 
-```{figure} images/2741-1.jpg
-:target: images/2741-1.jpg
+```{image} images/2741-1.jpg
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/2741-2.jpg
-:target: images/2741-2.jpg
+```{image} images/2741-2.jpg
+:class: antora-self-link
 ```
 
 :::
@@ -68,8 +68,8 @@ Latin terms used
 
 :::{grid-item}
 
-```{figure} images/2741-3.jpg
-:target: images/2741-3.jpg
+```{image} images/2741-3.jpg
+:class: antora-self-link
 ```
 
 :::

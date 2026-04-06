@@ -1,7 +1,7 @@
 # Index
 
-```{figure} images/01-r.png
-:target: images/01-r.png
+```{image} images/01-r.png
+:class: antora-self-link
 ```
 
 ## Under Development

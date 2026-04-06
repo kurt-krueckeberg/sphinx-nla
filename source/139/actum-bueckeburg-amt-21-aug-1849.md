@@ -31,16 +31,16 @@ Amt official Höcker.
 
 :::{grid-item}
 
-```{figure} images/08-r.png
-:target: images/08-r.png
+```{image} images/08-r.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/09-l.png
-:target: images/09-l.png
+```{image} images/09-l.png
+:class: antora-self-link
 ```
 
 :::
@@ -52,8 +52,8 @@ Amt official Höcker.
 
 :::{grid-item}
 
-```{figure} images/09-r.png
-:target: images/09-r.png
+```{image} images/09-r.png
+:class: antora-self-link
 ```
 
 :::
@@ -182,8 +182,8 @@ Mark of + + + of Wilhelm
 
 ## Cover Note to the Document
 
-```{figure} images/10-l.png
-:target: images/10-l.png
+```{image} images/10-l.png
+:class: antora-self-link
 ```
 
 ### Transliteration and Translation

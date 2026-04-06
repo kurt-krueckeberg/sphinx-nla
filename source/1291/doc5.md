@@ -2,8 +2,8 @@
 
 ## Petition Docket Page
 
-```{figure} images/10-l.png
-:target: images/10-l.png
+```{image} images/10-l.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation
@@ -57,16 +57,16 @@ a plot of land for the construction of a house with a garden.
 
 ## Document 5
 
-```{figure} images/08-r.png
-:target: images/08-r.png
+```{image} images/08-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/09-l.png
-:target: images/09-l.png
+```{image} images/09-l.png
+:class: antora-self-link
 ```
 
-```{figure} images/08-r-vert-text.png
-:target: images/08-r-vert-text.png
+```{image} images/08-r-vert-text.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

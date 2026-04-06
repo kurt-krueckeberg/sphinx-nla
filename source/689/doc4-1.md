@@ -43,16 +43,16 @@ into the case file.
 
 :::{grid-item}
 
-```{figure} images/10-r.png
-:target: images/10-r.png
+```{image} images/10-r.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/11-l.png
-:target: images/11-l.png
+```{image} images/11-l.png
+:class: antora-self-link
 ```
 
 :::

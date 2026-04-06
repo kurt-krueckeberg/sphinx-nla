@@ -2,8 +2,8 @@
 
 ## Digital Image
 
-```{figure} images/02-r.jpg
-:target: images/02-r.jpg
+```{image} images/02-r.jpg
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

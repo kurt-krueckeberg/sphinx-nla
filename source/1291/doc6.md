@@ -2,16 +2,16 @@
 
 ## Digital Images
 
-```{figure} images/12-r.png
-:target: images/12-r.png
+```{image} images/12-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/13-l.png
-:target: images/13-l.png
+```{image} images/13-l.png
+:class: antora-self-link
 ```
 
-```{figure} images/12-r-vert-text.png
-:target: images/12-r-vert-text.png
+```{image} images/12-r-vert-text.png
+:class: antora-self-link
 ```
 
 ## Summary

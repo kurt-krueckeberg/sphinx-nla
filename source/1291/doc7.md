@@ -2,8 +2,8 @@
 
 ## Digital Image
 
-```{figure} images/13-r.png
-:target: images/13-r.png
+```{image} images/13-r.png
+:class: antora-self-link
 ```
 
 ## Tramsliteration and Translation

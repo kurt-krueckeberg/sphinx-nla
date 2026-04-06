@@ -68,16 +68,16 @@ With these actions, the land enlargement for Krückeberg moved from
 
 :::{grid-item}
 
-```{figure} images/09-right-page.png
-:target: images/09-right-page.png
+```{image} images/09-right-page.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/10-left-page.png
-:target: images/10-left-page.png
+```{image} images/10-left-page.png
+:class: antora-self-link
 ```
 
 :::

@@ -7,16 +7,16 @@
 
 :::{grid-item}
 
-```{figure} images/16-l.png
-:target: images/16-l.png
+```{image} images/16-l.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/16-r.png
-:target: images/16-r.png
+```{image} images/16-r.png
+:class: antora-self-link
 ```
 
 :::
@@ -28,8 +28,8 @@
 
 :::{grid-item}
 
-```{figure} images/17-l.png
-:target: images/17-l.png
+```{image} images/17-l.png
+:class: antora-self-link
 ```
 
 :::
@@ -156,8 +156,8 @@ Schaumburg-Lippe, Georg Wilhelm, Prince of Schaumburg-Lippe.
 
 :::{grid-item}
 
-```{figure} images/17-l-vertical-text.png
-:target: images/17-l-vertical-text.png
+```{image} images/17-l-vertical-text.png
+:class: antora-self-link
 ```
 
 :::

@@ -7,8 +7,8 @@ forester Falkmann" mean?
 
 ## Image
 
-```{figure} images/05-r-alternate.png
-:target: images/05-r-alternate.png
+```{image} images/05-r-alternate.png
+:class: antora-self-link
 ```
 
 ## Transliateration and Translation

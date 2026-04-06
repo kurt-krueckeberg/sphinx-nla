@@ -17,20 +17,20 @@ submitted to the Princely Rent Chamber for final approval.
 
 ## Images
 
-```{figure} images/22-r.png
-:target: images/22-r.png
+```{image} images/22-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/23-l.png
-:target: images/23-l.png
+```{image} images/23-l.png
+:class: antora-self-link
 ```
 
-```{figure} images/23-r.png
-:target: images/23-r.png
+```{image} images/23-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/24-l.png
-:target: images/24-l.png
+```{image} images/24-l.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

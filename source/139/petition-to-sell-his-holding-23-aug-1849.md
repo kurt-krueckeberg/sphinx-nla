@@ -12,8 +12,8 @@ internal processing and routing (including “Exp” for dispatch).
 
 ## Image
 
-```{figure} images/11-l.png
-:target: images/11-l.png
+```{image} images/11-l.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

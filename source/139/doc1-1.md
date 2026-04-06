@@ -30,16 +30,16 @@ of her holding.
 
 :::{grid-item}
 
-```{figure} images/02.png
-:target: images/02.png
+```{image} images/02.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/03-l.png
-:target: images/03-l.png
+```{image} images/03-l.png
+:class: antora-self-link
 ```
 
 :::
@@ -115,8 +115,8 @@ G. Schultze
 The report of the Bückeburg local government office appears on the left side of the first page opposite the
 petition of the widow Krückeberg.
 
-```{figure} images/02-left-side-of-page.png
-:target: images/02-left-side-of-page.png
+```{image} images/02-left-side-of-page.png
+:class: antora-self-link
 ```
 
 ### Translation and Transliteration
@@ -194,8 +194,8 @@ request in the Amt report.
 
 ### Transliteration and Translation
 
-```{figure} images/03-left-side-of-page.png
-:target: images/03-left-side-of-page.png
+```{image} images/03-left-side-of-page.png
+:class: antora-self-link
 ```
 
 Transliteration
@@ -253,8 +253,8 @@ same **N.C. 2816** and **N.P. 602** identifiers to the entire page.
 
 ### Rought Draft of the Official Reply to the Widow Krückeberg (4 Aug. 1824)
 
-```{figure} images/03-r.png
-:target: images/03-r.png
+```{image} images/03-r.png
+:class: antora-self-link
 ```
 
 ::::{grid} 1 1 2 2

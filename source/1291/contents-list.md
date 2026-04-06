@@ -6,12 +6,12 @@ third column.
 
 ## Digital Images
 
-```{figure} images/01-r.jpg
-:target: images/01-r.jpg
+```{image} images/01-r.jpg
+:class: antora-self-link
 ```
 
-```{figure} images/02-l.jpg
-:target: images/02-l.jpg
+```{image} images/02-l.jpg
+:class: antora-self-link
 ```
 
 ## Designation Actorum

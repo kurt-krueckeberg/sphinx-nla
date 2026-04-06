@@ -4,8 +4,8 @@
 
 ## Petition Docket Page
 
-```{figure} images/29-l.png
-:target: images/29-l.png
+```{image} images/29-l.png
+:class: antora-self-link
 ```
 
 ### Transliteration and Translation of Outer Address Page
@@ -55,16 +55,16 @@ be most graciously granted to me.
 
 ### Image
 
-```{figure} images/27-l.png
-:target: images/27-l.png
+```{image} images/27-l.png
+:class: antora-self-link
 ```
 
-```{figure} images/28-l.png
-:target: images/28-l.png
+```{image} images/28-l.png
+:class: antora-self-link
 ```
 
-```{figure} images/28-r.png
-:target: images/28-r.png
+```{image} images/28-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

@@ -2,16 +2,16 @@
 
 ## Digital Images
 
-```{figure} images/14-r.png
-:target: images/14-r.png
+```{image} images/14-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/15-l.png
-:target: images/15-l.png
+```{image} images/15-l.png
+:class: antora-self-link
 ```
 
-```{figure} images/15-r.png
-:target: images/15-r.png
+```{image} images/15-r.png
+:class: antora-self-link
 ```
 
 ## Translation and Transliteration

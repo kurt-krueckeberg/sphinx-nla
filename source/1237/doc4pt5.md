@@ -17,8 +17,8 @@ earlier.
 
 ## Transliteration and Translation
 
-```{figure} images/08-right-page.png
-:target: images/08-right-page.png
+```{image} images/08-right-page.png
+:class: antora-self-link
 ```
 
 ### Transliteration of Diagram Text

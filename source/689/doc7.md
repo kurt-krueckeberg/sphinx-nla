@@ -5,8 +5,8 @@
 
 :::{grid-item}
 
-```{figure} images/17-r.png
-:target: images/17-r.png
+```{image} images/17-r.png
+:class: antora-self-link
 ```
 
 :::

@@ -57,16 +57,16 @@ that it had temporarily suspended the distraint order.
 
 :::{grid-item}
 
-```{figure} images/04-r-original.png
-:target: images/04-r-original.png
+```{image} images/04-r-original.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/05-l.png
-:target: images/05-l.png
+```{image} images/05-l.png
+:class: antora-self-link
 ```
 
 :::
@@ -78,8 +78,8 @@ that it had temporarily suspended the distraint order.
 
 :::{grid-item}
 
-```{figure} images/05-r.png
-:target: images/05-r.png
+```{image} images/05-r.png
+:class: antora-self-link
 ```
 
 :::

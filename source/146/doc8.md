@@ -21,8 +21,8 @@ The difference is:
 
 ## Image
 
-```{figure} images/10-r.png
-:target: images/10-r.png
+```{image} images/10-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

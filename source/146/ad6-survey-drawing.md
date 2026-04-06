@@ -38,8 +38,8 @@ estimation.
 
 ## Image
 
-```{figure} images/08-r.png
-:target: images/08-r.png
+```{image} images/08-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

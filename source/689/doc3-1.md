@@ -13,16 +13,16 @@ chamber treasury.
 
 :::{grid-item}
 
-```{figure} images/08-r.png
-:target: images/08-r.png
+```{image} images/08-r.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/09-l.png
-:target: images/09-l.png
+```{image} images/09-l.png
+:class: antora-self-link
 ```
 
 :::

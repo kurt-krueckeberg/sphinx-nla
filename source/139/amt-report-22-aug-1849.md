@@ -18,8 +18,8 @@ issued from Bückeburg on 22 August 1849 and signed by Höner.
 
 ## Transliteration and Translation
 
-```{figure} images/10-r.png
-:target: images/10-r.png
+```{image} images/10-r.png
+:class: antora-self-link
 ```
 
 ```{code-block} text

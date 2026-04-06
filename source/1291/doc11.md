@@ -2,20 +2,20 @@
 
 ## Digital Image
 
-```{figure} images/21-r.png
-:target: images/21-r.png
+```{image} images/21-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/22-l.png
-:target: images/22-l.png
+```{image} images/22-l.png
+:class: antora-self-link
 ```
 
-```{figure} images/21-r-vert-text.png
-:target: images/21-r-vert-text.png
+```{image} images/21-r-vert-text.png
+:class: antora-self-link
 ```
 
-```{figure} images/23-l.png
-:target: images/23-l.png
+```{image} images/23-l.png
+:class: antora-self-link
 ```
 
 Definitions of Map Terms
@@ -42,8 +42,8 @@ geographic feature used as a point of orientation.
 or access and often forms the boundary between adjoining parcels of land.
 :::
 
-```{figure} images/23-r.png
-:target: images/23-r.png
+```{image} images/23-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration

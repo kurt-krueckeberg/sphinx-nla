@@ -2,8 +2,8 @@
 
 ## Chancery Resolution
 
-```{figure} images/32-r.png
-:target: images/32-r.png
+```{image} images/32-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation of Outer Address Page

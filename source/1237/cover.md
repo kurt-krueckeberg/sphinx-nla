@@ -2,8 +2,8 @@
 
 ## Image
 
-```{figure} images/1237-cover.png
-:target: images/1237-cover.png
+```{image} images/1237-cover.png
+:class: antora-self-link
 ```
 
 ## Translation and Translation

@@ -39,8 +39,8 @@ this number written in the upper right corner of the first page. This first docu
 **#2** in the able above is the [Bericht Amts Bückeburg](689:amt-decree.md) (Report
 of the Bückeburg Office); in the upper right corner of its first page, **2** is written:
 
-```{figure} images/689:example-entry-num-on-doc.jpg
-:target: images/689:example-entry-num-on-doc.jpg
+```{image} images/689:example-entry-num-on-doc.jpg
+:class: antora-self-link
 ```
 
 ## Numbering Systems of the Rentkammer in Schaumburg-Lippe (Mid-19th Century)
@@ -53,8 +53,8 @@ Each number served a distinct bureaucratic purpose and helps reconstruct the flo
 
 ### The “Nr pr. ####” Numbers — Protocol / Register Numbers
 
-```{figure} images/689:nr-pr.jpg
-:target: images/689:nr-pr.jpg
+```{image} images/689:nr-pr.jpg
+:class: antora-self-link
 ```
 
 - **Definition**: The entry number in the Rentkammer’s **Protokollbuch** (protocol book), a line-by-line ledger
@@ -71,8 +71,8 @@ was logged in the protocol book.
 
 ### The “NC ####” Numbers
 
-```{figure} images/689:nc-xxxx.jpg
-:target: images/689:nc-xxxx.jpg
+```{image} images/689:nc-xxxx.jpg
+:class: antora-self-link
 ```
 
 The **NC  ####** numbers appear in the upper left corner of the first page
@@ -112,8 +112,8 @@ later follow-up document to an earlier one.  In the image below, for example,
 **ad** appears above **Num: Cam: 5702**, and the meaing is: "concerning the
 Rentcammer document numbered 5702".
 
-```{figure} images/689:ad-nc.jpg
-:target: images/689:ad-nc.jpg
+```{image} images/689:ad-nc.jpg
+:class: antora-self-link
 ```
 
 

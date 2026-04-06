@@ -2,12 +2,12 @@
 
 ## Image
 
-```{figure} images/17-r-alternate.png
-:target: images/17-r-alternate.png
+```{image} images/17-r-alternate.png
+:class: antora-self-link
 ```
 
-```{figure} images/17-r-small-text.png
-:target: images/17-r-small-text.png
+```{image} images/17-r-small-text.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

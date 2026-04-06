@@ -41,16 +41,16 @@ because of **Krückeberg’s non-appearance (or non-response)**, not after a con
 
 :::{grid-item}
 
-```{figure} images/03-r.png
-:target: images/03-r.png
+```{image} images/03-r.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/04-l.png
-:target: images/04-l.png
+```{image} images/04-l.png
+:class: antora-self-link
 ```
 
 :::

@@ -2,8 +2,8 @@
 
 ## Petition Docket Page
 
-```{figure} images/20-l.png
-:target: images/20-l.png
+```{image} images/20-l.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation
@@ -40,20 +40,20 @@ Princely Rent Chamber
 
 ## Petition of Vogt
 
-```{figure} images/17-r.png
-:target: images/17-r.png
+```{image} images/17-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/18-l.png
-:target: images/18-l.png
+```{image} images/18-l.png
+:class: antora-self-link
 ```
 
-```{figure} images/19-r.png
-:target: images/19-r.png
+```{image} images/19-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/18-r.png
-:target: images/18-r.png
+```{image} images/18-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

@@ -1,7 +1,7 @@
 # Case File Cover
 
-```{figure} images/cover.jpg
-:target: images/cover.jpg
+```{image} images/cover.jpg
+:class: antora-self-link
 ```
 
 ## Translation and Transliteration

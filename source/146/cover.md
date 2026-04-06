@@ -10,8 +10,8 @@ office.
 
 ## Image
 
-```{figure} images/cover-top.jpg
-:target: images/cover-top.jpg
+```{image} images/cover-top.jpg
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

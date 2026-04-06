@@ -7,16 +7,16 @@
 
 :::{grid-item}
 
-```{figure} images/21-r.png
-:target: images/21-r.png
+```{image} images/21-r.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/22.png
-:target: images/22.png
+```{image} images/22.png
+:class: antora-self-link
 ```
 
 :::
@@ -156,8 +156,8 @@ receipt.
 
 :::{grid-item}
 
-```{figure} images/23-r.png
-:target: images/23-r.png
+```{image} images/23-r.png
+:class: antora-self-link
 ```
 
 :::
@@ -194,8 +194,8 @@ receipt.
 
 :::{grid-item}
 
-```{figure} images/24-l.png
-:target: images/24-l.png
+```{image} images/24-l.png
+:class: antora-self-link
 ```
 
 :::
@@ -296,8 +296,8 @@ Poppelbaum.
 
 :::{grid-item}
 
-```{figure} images/24-r.png
-:target: images/24-r.png
+```{image} images/24-r.png
+:class: antora-self-link
 ```
 
 :::

@@ -2,8 +2,8 @@
 
 ## Receipt
 
-```{figure} images/38-r.png
-:target: images/38-r.png
+```{image} images/38-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

@@ -61,8 +61,8 @@ settlement lands.
 
 ## Image
 
-```{figure} images/21-r.png
-:target: images/21-r.png
+```{image} images/21-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

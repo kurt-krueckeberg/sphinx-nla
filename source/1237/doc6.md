@@ -40,16 +40,16 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 
 :::{grid-item}
 
-```{figure} images/11.png
-:target: images/11.png
+```{image} images/11.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/12.png
-:target: images/12.png
+```{image} images/12.png
+:class: antora-self-link
 ```
 
 :::

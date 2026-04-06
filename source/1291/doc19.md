@@ -2,16 +2,16 @@
 
 ## Purchase Contract
 
-```{figure} images/34-r.png
-:target: images/34-r.png
+```{image} images/34-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/35-l.png
-:target: images/35-l.png
+```{image} images/35-l.png
+:class: antora-self-link
 ```
 
-```{figure} images/35-r.png
-:target: images/35-r.png
+```{image} images/35-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

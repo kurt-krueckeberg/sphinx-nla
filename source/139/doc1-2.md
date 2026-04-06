@@ -9,8 +9,8 @@ office appears.
 
 ## Image of Report from Bückeburg Office
 
-```{figure} images/02-left-side-of-page.png
-:target: images/02-left-side-of-page.png
+```{image} images/02-left-side-of-page.png
+:class: antora-self-link
 ```
 
 ## Translation and Transliteration
@@ -88,8 +88,8 @@ request in the Amt report.
 
 ### Transliteration and Translation
 
-```{figure} images/03-left-side-of-page.png
-:target: images/03-left-side-of-page.png
+```{image} images/03-left-side-of-page.png
+:class: antora-self-link
 ```
 
 Transliteration

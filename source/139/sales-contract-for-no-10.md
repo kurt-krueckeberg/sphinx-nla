@@ -70,16 +70,16 @@ holder—a significant upward shift in rural status and responsibility.
 
 :::{grid-item}
 
-```{figure} images/11-r.png
-:target: images/11-r.png
+```{image} images/11-r.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/12-l.png
-:target: images/12-l.png
+```{image} images/12-l.png
+:class: antora-self-link
 ```
 
 :::
@@ -91,16 +91,16 @@ holder—a significant upward shift in rural status and responsibility.
 
 :::{grid-item}
 
-```{figure} images/12-r.png
-:target: images/12-r.png
+```{image} images/12-r.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/13-l.png
-:target: images/13-l.png
+```{image} images/13-l.png
+:class: antora-self-link
 ```
 
 :::

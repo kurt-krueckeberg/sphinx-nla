@@ -2,16 +2,16 @@
 
 ## Petition
 
-```{figure} images/31-r.png
-:target: images/31-r.png
+```{image} images/31-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/32-l.png
-:target: images/32-l.png
+```{image} images/32-l.png
+:class: antora-self-link
 ```
 
-```{figure} images/31-r-vert-text.png
-:target: images/31-r-vert-text.png
+```{image} images/31-r-vert-text.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

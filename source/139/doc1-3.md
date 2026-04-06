@@ -12,8 +12,8 @@ three lines of text) and on the top right of the image.
 
 ## Image
 
-```{figure} images/03-r.png
-:target: images/03-r.png
+```{image} images/03-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

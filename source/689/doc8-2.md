@@ -7,16 +7,16 @@
 
 :::{grid-item}
 
-```{figure} images/19-l.png
-:target: images/19-l.png
+```{image} images/19-l.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/19-r.png
-:target: images/19-r.png
+```{image} images/19-r.png
+:class: antora-self-link
 ```
 
 :::

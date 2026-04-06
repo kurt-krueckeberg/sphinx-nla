@@ -1,7 +1,7 @@
 # Case File Cover
 
-```{figure} images/cover-orig.png
-:target: images/cover-orig.png
+```{image} images/cover-orig.png
+:class: antora-self-link
 ```
 
 ::::{grid} 1 1 2 2

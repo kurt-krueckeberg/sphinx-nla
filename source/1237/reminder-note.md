@@ -8,8 +8,8 @@ merely a reminder about Berenbusch woodland boundaries.
 
 ## Transliteration and Translation
 
-```{figure} images/07-right-page.png
-:target: images/07-right-page.png
+```{image} images/07-right-page.png
+:class: antora-self-link
 ```
 
 ::::{grid} 1 1 2 2

@@ -24,16 +24,16 @@ September 1849 and signed by Spreng and other clerical officials.
 
 :::{grid-item}
 
-```{figure} images/06-l.png
-:target: images/06-l.png
+```{image} images/06-l.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/06-r.png
-:target: images/06-r.png
+```{image} images/06-r.png
+:class: antora-self-link
 ```
 
 :::

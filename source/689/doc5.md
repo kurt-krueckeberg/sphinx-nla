@@ -7,16 +7,16 @@
 
 :::{grid-item}
 
-```{figure} images/12-r.png
-:target: images/12-r.png
+```{image} images/12-r.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/13-l.png
-:target: images/13-l.png
+```{image} images/13-l.png
+:class: antora-self-link
 ```
 
 :::
@@ -28,24 +28,24 @@
 
 :::{grid-item}
 
-```{figure} images/13-r.png
-:target: images/13-r.png
+```{image} images/13-r.png
+:class: antora-self-link
 ```
 
 :::
 
 :::{grid-item}
 
-```{figure} images/14-l.png
-:target: images/14-l.png
+```{image} images/14-l.png
+:class: antora-self-link
 ```
 
 :::
 
 ::::
 
-```{figure} images/14-r.png
-:target: images/14-r.png
+```{image} images/14-r.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation

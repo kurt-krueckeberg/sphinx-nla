@@ -2,8 +2,8 @@
 
 ## Petition Docket Page
 
-```{figure} images/11-l.png
-:target: images/11-l.png
+```{image} images/11-l.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation
@@ -20,16 +20,16 @@ Um Platz zum Hausbau
 
 ## Petition of the lodger Vogt at Evesen
 
-```{figure} images/07-r.png
-:target: images/07-r.png
+```{image} images/07-r.png
+:class: antora-self-link
 ```
 
-```{figure} images/08-l.png
-:target: images/08-l.png
+```{image} images/08-l.png
+:class: antora-self-link
 ```
 
-```{figure} images/07-r-vertical-text.png
-:target: images/07-r-vertical-text.png
+```{image} images/07-r-vertical-text.png
+:class: antora-self-link
 ```
 
 ## Transliteration and Translation
