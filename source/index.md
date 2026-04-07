@@ -5,7 +5,9 @@
 :caption: Project Overview
 
 ROOT/nav-top
+```
 
+```{toctree}
 :maxdepth: 1
 :caption: Other Archival Documents
 
@@ -13,7 +15,9 @@ ROOT/nav-top
 2741/nav
 2713/nav
 140/nav
+```
 
+```{toctree}
 :maxdepth: 1
 :caption: Rentkammer Case Files
 
@@ -25,3 +29,4 @@ rentkammer/nav
 139/nav
 689/nav
 188/nav
+```
