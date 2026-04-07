@@ -31,7 +31,7 @@ There is an important connection between **Johann Tönnies Eggerding** and
 **Johann Heinrich Krückeberg**. As shown below, not only was Johann Tönnies
 Eggerding the former resident at no. 10 Berenbusch, he was a baptismal
 sponsor of Johann Heinrich Krückeberg’s son, Johann Friedrich, who was born
-in 1728. See [genealogy:petzen:PET-B-1728a.xml](../genealogy/petzen:PET-B-1728a.md).
+in 1728. See [genealogy:PET-B-1728a](../genealogy/petzen:PET-B-1728a.md).
 ```
 
 ```{code-block} text

@@ -12,13 +12,13 @@ Document concerning the sale of Kolonat of Stätte no. 18 Berenbusch
 
 * - Document Heading
   - Date
-* - [report-to-kammer-from-bueckeburg-amt-9-19-50.xml](report-to-kammer-from-bueckeburg-amt-9-19-50.md)
+* - [report-to-kammer-from-bueckeburg-amt-9-19-50](report-to-kammer-from-bueckeburg-amt-9-19-50.md)
   - 19 Sept. 1850
-* - [report-to-kammer-from-bueckeburg-amt-9-26-50.xml](report-to-kammer-from-bueckeburg-amt-9-26-50.md)
+* - [report-to-kammer-from-bueckeburg-amt-9-26-50](report-to-kammer-from-bueckeburg-amt-9-26-50.md)
   - 26 Sept. 1850
-* - [report-to-bueckeburg-amt-9-26-50.xml](report-to-bueckeburg-amt-9-26-50.md)
+* - [report-to-bueckeburg-amt-9-26-50](report-to-bueckeburg-amt-9-26-50.md)
   - 26 Sept. 1850
-* - [carl-fried-supplication-to-sell.xml](carl-fried-supplication-to-sell.md)
+* - [carl-fried-supplication-to-sell](carl-fried-supplication-to-sell.md)
   - 11 Sept. 1850
 :::
 

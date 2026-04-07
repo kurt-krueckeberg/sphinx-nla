@@ -164,18 +164,6 @@ receipt.
      - **Placement:** Top-right header.**Meaning:** “presented in the Chamber” (intake mark).**Date:** 29 Apr 1845.**Sequence:** Written on intake; the minute/response (Reck) follows on 2 May 1845.
 ```
 
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
-
-* - Transliteration
-  - English translation
-* - **Right-side request (large hand; includes heading)**
-  - **Right-side request (large hand; includes heading)**
-* - **Left-side minute/response (small hand; Rentkammer; signed Reck)**
-  - **Left-side minute/response (small hand; Rentkammer; signed Reck)**
-:::
-
 ::::{grid} 1 1 2 2
 :gutter: 2
 
@@ -208,72 +196,6 @@ TODO: Change this table to make it look like the one above with **Meaning**, **P
                 
                 **8/5.**
   - **"Dispatched/expedited"** by Schöttd., dated 8 May (1845). A routing/handling note.
-:::
-
-::: {list-table}
-:widths: 1 1
-:header-rows: 1
-
-* - Transliteration
-  - English translation & notes
-* - 
-                                 N.C. 2696
-
-Cpt an Kammerrentmeister Berger dahier
-
-Die Obligation vom 12. Januar 1842 über die dem Col[on]. Krückeberg
-Nr. 10 in Berenbusch aus Kammerkasse geliehenen 200 x[Rthlr.]
-Cour[ant]. wird mit Quittung versehen dem p[er] Berger unter
-Bezugnahme auf die Anweisung vom 21. pr[aesentis]. (zur Übergabe
-an Krückeberg nach stattgefundener Liquidation) hierneben
-zugestellt, kann cestiren, da die Verrechnung in nebenstehender
-Weise bereits
-
-Fr der Wahlmeckwart [probably: Friederich Wahlmeckwart]
-
-Bburg 5. Mai 1845
-  F.p.[Für protokoll]
-
-Spm       L
-
-                                         verte
-            
-  - 
-                                 N.C. 2696
-
-Draft of a letter to Chamber Rentmaster Berger here [in Bückeburg].
-
-The obligation dated 12 January 1842 concerning the **200
-Reichsthaler Courant** loaned from the Chamber cash to Colonus
-Krückeberg No. 10 in Berenbusch is, with receipt, **hereby
-delivered** through Berger, with reference to the instruction of
-the 21st of the present month **(for delivery to Kruckeberg after
-liquidation has taken place)**; **he can attest, since** the
-set-off has already **[been carried out]** in the manner shown
-alongside.
-
-Signature: **Fr der Wahlmeckwart** [probably: **Friederich Wahlmeckwart**].
-
-Bückeburg 5. May 1845
-This document has been officially recorded and put on file
-
-Spm       L
-
-                            turn the page
-            
-* - 
-              Probatur.
-Eingetragen. Die Stückzinsen
-sind v. 12./1 bis 28/4 1845 (3 1/2 Mt.)
-gezahlt mit [initialed: DH] 2 rt 12 gr
-Poppelbaum
-            
-  - 
-              Approved.
-Entered. The accrued interest from **12 Jan to 28 Apr 1845 (3½ months)**,
-paid — **[initialed: DH]** — **2 Reichthalers 12 groschen**.
-Poppelbaum.
-            
 :::
 
 ## Concept Quittung

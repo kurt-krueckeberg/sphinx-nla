@@ -85,7 +85,7 @@ succession of holders for Haus Nr. 10 in Berenbusch: Johann Tönnies
 Eggerding, followed by **Friedrich Kuhlmann**, and then Johann Heinrich
 Krückeberg, who acquired the holding through marriage.
 
-None of these individuals appears in the 1737 [2728:survey-1737.xml](../2728/survey-1737.md),
+None of these individuals appears in the 1737 [Survey of House and Property Holders in the District of Bückeburg as Part of a General Land Survey (1737)](../2728/survey-1737.md),
 likely because they did not meet the criteria of property holders.
 ```
 

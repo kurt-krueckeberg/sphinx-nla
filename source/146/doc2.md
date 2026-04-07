@@ -36,9 +36,9 @@ holder in May of 1798 because his son Jobst Heinrich, when he petitions the
 Rentkammer to expands his grounds and garden, is called
 [Colon Krückeberg](../1237/cover.md). See references to Jobst Heinrich:
 
-- [1237:doc2.xml](../1237/doc2.md)
-- [1237:doc4.xml](../1237/doc4.md)
-- [1237:doc6.xml](../1237/doc6.md)
+- [Document 2: Land Assignment Report and Its Offical Response (27 Feb. 1799)](../1237/doc2.md)
+- [Document 4: Submission of Geometric Drawing of Proposed Parcels to be Allocated (18 Oct. 1800)](../1237/doc4.md)
+- [Document 6: Deed Issued (1 Dec. 1800)](../1237/doc6.md)
 ```
 
 ## Images for Document #1
