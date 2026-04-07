@@ -6,12 +6,12 @@ different from the Jobst Heinrich Krückeberg living at no. 10 Berebusch.
 The **Jobst Heinrich Krückeberg of Nr. 10 Berenbusch** is already a settled
 holder by 1798. We see this in the Rentkammer records of 1798-1800, when
 [he petitions the Rentkammer to enlarge the yard and
-garden of no. 10 Berenbusch](1237:doc1.md).
+garden of no. 10 Berenbusch](../1237/doc1.md).
 
 While he is only identified as "Col. Krückeberg N. 10 zu Berenbusch" (Colon
 Krückeberg no. 10 at Berenbusch) in the first document, his request, in the
 second document he is identified as [Brinksitzers Jobst
-Heinr: Krückeberg N 10 zu Berenbusch](1237:doc2.md).
+Heinr: Krückeberg N 10 zu Berenbusch](../1237/doc2.md).
 
 We know that the **occupation** of Jobst Heinrich Krückeberg (17665-18222) is
 consistently given as **Schuster / Schusteramtsmeister** (shoemaker and guild

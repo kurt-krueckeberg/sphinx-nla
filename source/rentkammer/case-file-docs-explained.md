@@ -19,24 +19,24 @@ for example, the contents list has these two documents listed under entries #2 a
 * - Number
   - Documents
 * - 1.
-  - [Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.](689:doc1.md)
+  - [Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.](../689/doc1.md)
 * - 2.
-  - [Bericht Amts Bückeburg](689:doc2-1.md)
+  - [Bericht Amts Bückeburg](../689/doc2-1.md)
 * - 〃
-  - [Cpt. KRes. an dasselbe](689:doc2-2.md)
+  - [Cpt. KRes. an dasselbe](../689/doc2-2.md)
 * - 3.
-  - [Vorst. des Colons Krückeberg](689:doc3-1.md)
+  - [Vorst. des Colons Krückeberg](../689/doc3-1.md)
 * - 〃
-  - [Vortrag des GKR od Reck](689:doc3-2.md)
+  - [Vortrag des GKR od Reck](../689/doc3-2.md)
 * - 〃
-  - [Cpt. KRes. an p Krückeberg](689:doc3-3.md)
+  - [Cpt. KRes. an p Krückeberg](../689/doc3-3.md)
 :::
 
 ### Cross-Referencing the Contents List to Its Documents
 
 For each number in column one of the contents list, the first document listed will have
 this number written in the upper right corner of the first page. This first document for
-**#2** in the able above is the [Bericht Amts Bückeburg](689:amt-decree.md) (Report
+**#2** in the able above is the [Bericht Amts Bückeburg](../689/amt-decree.md) (Report
 of the Bückeburg Office); in the upper right corner of its first page, **2** is written:
 
 ```{image} images/689:example-entry-num-on-doc.jpg
@@ -62,7 +62,7 @@ recording decisions and actions.
 
 A protocol number was assigned once when the case was formally undertaken by the Rentkammer. In the case involving
 Johann Heinrich Krückeberg request for a loan, **Nr pr: 1274** was written on the bottom of the first page of the of
-his Octoboer 2, 1841, [Petition](689:doc1.md).  Every subsequent document in the case (reports, cover slips,
+his Octoboer 2, 1841, [Petition](../689/doc1.md).  Every subsequent document in the case (reports, cover slips,
 rescripts, replies) still belonged to that protocol entry — but the number itself didn’t need to be re-written on
 every single sheet.  So, **“Nr pr. 1274”** is the umbrella identifier under which the whole Krückeberg loan matter
 was logged in the protocol book.

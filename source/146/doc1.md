@@ -11,22 +11,22 @@ The Rentkammer’s response is written just below the petition’s salutation.
 ### Hans Heinrich Wilharm was one of Carl Friedrich (born 1807) Baptismal Sponsors
 
 We know that when Carl Friedrich Krückeberg was
-[born in 1807](genealogy:petzen:PET-B-1807a.md), one of his
-[baptismal sponsors](genealogy:petzen:PET-B-1807a.md) was Hans Heinrich
+[born in 1807](../genealogy/petzen:PET-B-1807a.md), one of his
+[baptismal sponsors](../genealogy/petzen:PET-B-1807a.md) was Hans Heinrich
 Wilharm of no. 11 Evesen.
 
 Hans Heinrich Wilharm was [born in
-Berenbusch in 1760](genealogy:petzen:PET-B-1760a.md), and in 1796 he
+Berenbusch in 1760](../genealogy/petzen:PET-B-1760a.md), and in 1796 he
 [married Anne Marie Philippine Blecke
-of no. 11 Evesen](genealogy:petzen:PET-M-1796a.md). She died after giving birth to their son
+of no. 11 Evesen](../genealogy/petzen:PET-M-1796a.md). She died after giving birth to their son
 Hans Heinrich Wilharm], who was [born
-11 April 1797](genealogy:petzen:PET-B-1797a.md) at no. 11 Evesen. Later the same year, her husband
+11 April 1797](../genealogy/petzen:PET-B-1797a.md) at no. 11 Evesen. Later the same year, her husband
 [remarried to Sophie Ernestine
-Blecke](genealogy:petzen:PET-M-1797a.md), who had been living with them already.
+Blecke](../genealogy/petzen:PET-M-1797a.md), who had been living with them already.
 
 The birth records of their daughter Anne Marie
-Christine, [born in 1798](genealogy:petzen:PET-B-1798c.md), and their
-son Carl Heinrich, [born in 1810](genealogy:petzen:PET-B-1810a.md),
+Christine, [born in 1798](../genealogy/petzen:PET-B-1798c.md), and their
+son Carl Heinrich, [born in 1810](../genealogy/petzen:PET-B-1810a.md),
 show the family:
 
 - continued to live a no. 11 Evesen

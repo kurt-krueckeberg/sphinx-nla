@@ -34,11 +34,11 @@ of his own house.
 We know that Jobst Heinrich’s father, Johann Heinrich, was no longer the
 holder in May of 1798 because his son Jobst Heinrich, when he petitions the
 Rentkammer to expands his grounds and garden, is called
-[Colon Krückeberg](1237:cover.md). See references to Jobst Heinrich:
+[Colon Krückeberg](../1237/cover.md). See references to Jobst Heinrich:
 
-- [1237:doc2.xml](1237:doc2.md)
-- [1237:doc4.xml](1237:doc4.md)
-- [1237:doc6.xml](1237:doc6.md)
+- [1237:doc2.xml](../1237/doc2.md)
+- [1237:doc4.xml](../1237/doc4.md)
+- [1237:doc6.xml](../1237/doc6.md)
 ```
 
 ## Images for Document #1
