@@ -3,10 +3,10 @@
 ## Summary
 
 On December 7, 1809, Jobst Heinrich’s wife had [petitioned
-the Rentkammer](doc8.md) to allow two payments instead of one for the plot of ground
-the Rentkammer [had permitted to be alloted to Jobst
-Heinrich](doc7.md), where he could build a house, plant a garden of crops and
-perhaps house a few animals.
+the Rentkammer to allow two payments instead of one for the plot of ground
+the Rentkammer](doc8.md)[had permitted to be alloted to Jobst
+Heinrich, where he could build a house, plant a garden of crops and
+perhaps house a few animals.](doc7.md)
 
 ```{note}
 Payment for the tract of land, the **"erhebliches Kolonat"**, transferred

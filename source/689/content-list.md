@@ -32,126 +32,124 @@ Transliteration
      - Mon
      - Z[ahl].
    * - 1.
-     - [Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.](doc1.md)
+     - :doc:`Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb. <doc1>`
      - Bewilligung eines Darlehens ad 200 r.
      - Bbg.
      - 1841
      - Octob.
      - 2
    * - 2.
-     - [Bericht Amts Bückeburg](doc2-1.md)
-     - Cour. aus Cammer-Casse
-       :rspan: 1
+     - :doc:`Bericht Amts Bückeburg <doc2-1>`
+     - :rspan:`1` Cour. aus Cammer-Casse
      - 〃
      - 〃
      - 〃
      - 7
    * - 〃
-     - [Cpt. KRes. an dasselbe](doc2-2.md)
+     - :doc:`Cpt. KRes. an dasselbe <doc2-2>`
      - 〃
      - 〃
      - 〃
      - 14
    * - 3.
-     - [Vorst\[ellung\]. des Colons Krückeberg](doc3-1.md)
-     - gegen Verpfändung seiner sämmtlichen Ländereien
-       :rspan: 2
+     - :doc:`Vorst[ellung]. des Colons Krückeberg <doc3-1>`
+     - :rspan:`2` gegen Verpfändung seiner sämmtlichen Ländereien
      - Bbg.
      - 1841
      - Nov.
      - 11
    * - 〃
-     - [Vortrag des GKR od Reck](doc3-2.md)
+     - :doc:`Vortrag des GKR od Reck <doc3-2>`
      - 〃
      - 〃
      - 〃
      - 15
    * - 〃
-     - [Cpt. KRes. an p Krückeberg](doc3-3.md)
+     - :doc:`Cpt. KRes. an p Krückeberg <doc3-3>`
      - 〃
      - 〃
      - 〃
      - 
    * - 4.
-     - [Vorst. des p Krückeberg](doc4-1.md)
+     - :doc:`Vorst. des p Krückeberg <doc4-1>`
      - 
      - Bbg.
      - 1841
      - Nov.
      - 21
    * - 〃
-     - [Cpt. KRes. an Of. Creuzinger](doc4-2.md)
+     - :doc:`Cpt. KRes. an Of. Creuzinger <doc4-2>`
      - item Gesuch um Verkauf seiner Ländereien auf der Söhren-Weide betr.
      - 〃
      - 〃
      - 〃
      - 25
    * - 5.
-     - [Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide](doc5.md)
+     - :doc:`Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide <doc5>`
      - 
      - Bbg.
      - 1841
      - Decbr.
      - 10
    * - 6.
-     - [Vortrag des GKR odReck](doc6-1.md)
+     - :doc:`Vortrag des GKR odReck <doc6-1>`
      - 
      - 〃
      - 〃
      - 〃
      - 16
    * - 〃
-     - [Höchstes Rescr. Ser. Reg.](doc6-2.md)
+     - :doc:`Höchstes Rescr. Ser. Reg. <doc6-2>`
      - 
      - 〃
      - 〃
      - 〃
      - 19
    * - 〃
-     - [P. V. des H odReck u. Höchstes
-       Rescr. Sr. Durchlaucht](doc6-3.md)
+     - :doc:`P. V. des H odReck u. Höchstes
+       Rescr. Sr. Durchlaucht <doc6-3>`
      - 
      - 〃
      - 〃
      - 〃
      - 23
    * - 7.
-     - [Cpt. Rescr. aus \[sic: should be an\] Amt Bückeburg](doc7.md)
+     - :doc:`Cpt. Rescr. aus [sic: should be an] Amt Bückeburg Cpt. Rescr. aus [sic: should be <doc7>`
      - 
      - Bbg.
      - 1841
      - Decbr.
      - 24
    * - 8.
-     - [Bericht Amts Bückeburg](doc8-1.md)
+     - :doc:`Bericht Amts Bückeburg <doc8-1>`
      - 
      - Bbg.
      - 1842
      - Jan.
      - 2
    * - 〃
-     - [Cpt. KRes. an dasselbe](doc8-2.md)
+     - :doc:`Cpt. KRes. an dasselbe <doc8-2>`
      - 
      - 〃
      - 〃
      - 〃
      - 20
    * - 〃
-     - [desgl\[eichen\]. an den K. R. Berger](doc8-3.md)
+     - :doc:`desgl[eichen]. an den K. R. Berger <doc8-3>`
      - 
      - 〃
      - 〃
      - 〃
      - 
    * - 9.
-     - [Bericht Amts Bückeburg](doc9.md)
+     - :doc:`Bericht Amts Bückeburg <doc9>`
      - 
      - Bbg.
      - 1842
      - Febr.
      - 8
    * - 10.
-     - [Obligation über aus Fürstl. Kammerkasse geliehene 200 r. Courant](doc10.md)
+     - :doc:`Obligation über aus Fürstl. Kammerkasse geliehene 200 r. Courant <doc10>`
      - Obligation.
      - 
      - 
@@ -200,125 +198,123 @@ Translation (corrected)
      - Mon
      - N.
    * - 1.
-     - [Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure \[to No. 2\]](doc1.md)
+     - :doc:`Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2] <doc1>`
      - Approval of a loan of 200 r.
      - Bbg.
      - 1841
      - Oct.
      - 2
    * - 2.
-     - [Report of the Bückeburg District Office](doc2-1.md)
-     - Funds from the Chamber Treasury
-       :rspan: 1
+     - :doc:`Report of the Bückeburg District Office <doc2-1>`
+     - :rspan:`1` Funds from the Chamber Treasury
      - 〃
      - 〃
      - 〃
      - 7
    * - 〃
-     - [Draft of Official Order of the Chamber to the same \[office\]](doc2-2.md)
+     - :doc:`Draft of Official Order of the Chamber to the same [office] <doc2-2>`
      - 〃
      - 〃
      - 〃
      - 14
    * - 3.
-     - [Petition of Colon Krückeberg](doc3-1.md)
-     - on condition of pledging all of his lands [as collateral].
-       :rspan: 2
+     - :doc:`Petition of Colon Krückeberg <doc3-1>`
+     - :rspan:`2` on condition of pledging all of his lands [as collateral].
      - Bbg.
      - 1841
      - Nov.
      - 11
    * - 〃
-     - [Memorandum of Senior Government Councillor von Reck](doc3-2.md)
+     - :doc:`Memorandum of Senior Government Councillor von Reck <doc3-2>`
      - 〃
      - 〃
      - 〃
      - 15
    * - 〃
-     - [Draft of Official Order of the Chamber to Colon Krückeberg](doc3-3.md)
+     - :doc:`Draft of Official Order of the Chamber to Colon Krückeberg <doc3-3>`
      - 〃
      - 〃
      - 〃
      - 
    * - 4.
-     - [Petition of Colon Krückeberg](doc4-1.md)
+     - :doc:`Petition of Colon Krückeberg <doc4-1>`
      - 
      - Bbg.
      - 1841
      - Nov.
      - 21
    * - 〃
-     - [Draft of Official Order of the Chamber to Officer Creuzinger](doc4-2.md)
+     - :doc:`Draft of Official Order of the Chamber to Officer Creuzinger <doc4-2>`
      - Further petition concerning the sale of his lands on the Söhren pasture
      - 〃
      - 〃
      - 〃
      - 25
    * - 5.
-     - [Report of Officer Creuzinger with attached site plan of the Söhren pasture](doc5.md)
+     - :doc:`Report of Officer Creuzinger with attached site plan of the Söhren pasture <doc5>`
      - 
      - Bbg.
      - 1841
      - Dec.
      - 10
    * - 6.
-     - [Formal advisory submission by Privy Chancery Councillor Reck](doc6-1.md)
+     - :doc:`Formal advisory submission by Privy Chancery Councillor Reck <doc6-1>`
      - 
      - 〃
      - 〃
      - 〃
      - 16
    * - 〃
-     - [Supreme official order of His Serene Highness](doc6-2.md)
+     - :doc:`Supreme official order of His Serene Highness <doc6-2>`
      - 
      - 〃
      - 〃
      - 〃
      - 19
    * - 〃
-     - [Filing note by Councillor Reck and the supreme official order of His Serene Highness](doc6-3.md)
+     - :doc:`Filing note by Councillor Reck and the supreme official order of His Serene Highness <doc6-3>`
      - 
      - 〃
      - 〃
      - 〃
      - 23
    * - 7.
-     - [Draft of Official Order of the Chamber to the Office of Bückeburg](doc7.md)
+     - :doc:`Draft of Official Order of the Chamber to the Office of Bückeburg <doc7>`
      - 
      - Bbg.
      - 1841
      - Dec.
      - 24
    * - 8.
-     - [Report of the Office of Bückeburg](doc8-1.md)
+     - :doc:`Report of the Office of Bückeburg <doc8-1>`
      - 
      - Bbg.
      - 1842
      - Jan.
      - 2
    * - 〃
-     - [Draft of Official Order of the Chamber to the same](doc8-2.md)
+     - :doc:`Draft of Official Order of the Chamber to the same <doc8-2>`
      - 
      - 〃
      - 〃
      - 〃
      - 20
    * - 〃
-     - [likewise to Privy Councillor Berger](doc8-3.md)
+     - :doc:`likewise to Privy Councillor Berger <doc8-3>`
      - 
      - 〃
      - 〃
      - 〃
      - 
    * - 9.
-     - [Report of the Office of Bückeburg](doc9.md)
+     - :doc:`Report of the Office of Bückeburg <doc9>`
      - 
      - Bbg.
      - 1842
      - Feb.
      - 8
    * - 10.
-     - [Bond for 200 r. courant borrowed from the Princely Chamber Treasury](doc10.md)
+     - :doc:`Bond for 200 r. courant borrowed from the Princely Chamber Treasury <doc10>`
      - Obligation.
      - 
      - 

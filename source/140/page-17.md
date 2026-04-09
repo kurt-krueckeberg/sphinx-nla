@@ -3,9 +3,9 @@
 ## Overview
 
 This microfiche image was obtained by commissioned research done by
-[Dr.  Sylvia Möhle](https://www.moehle-research.de/). It has been
+[Dr.  Sylvia Möhle. It has been
 enhanced as best as can be from its virtually unreadable orignal (in which
-the text was whitish-yellow).
+the text was whitish-yellow).](https://www.moehle-research.de/)
 
 Dr. Möhle found that
 
@@ -31,7 +31,7 @@ There is an important connection between **Johann Tönnies Eggerding** and
 **Johann Heinrich Krückeberg**. As shown below, not only was Johann Tönnies
 Eggerding the former resident at no. 10 Berenbusch, he was a baptismal
 sponsor of Johann Heinrich Krückeberg’s son, Johann Friedrich, who was born
-in 1728. See {external+genealogy:doc}`1728 Johann Friedrich Krückeberg Baptized <petzen/PET-B-1728a>`.
+in 1728. See {external+genealogy:doc}`genealogy:petzen:PET-B-1728a.xml. <petzen/PET-B-1728a>`
 ```
 
 ```{code-block} text

@@ -7,8 +7,7 @@ einer Generallandesvisitation (Landesvermessung) ("Registration of house
 and homestead owners in the Bückeburg district as part of a general land survey
 (state land survey)"** has identifier
 [NLA
-BU L 2 L Nr. 27/28](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569) in
-[Arcinsys](https://www.arcinsys.niedersachsen.de/arcinsys/start.action).
+BU L 2 L Nr. 27/28 in](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569)[Arcinsys.](https://www.arcinsys.niedersachsen.de/arcinsys/start.action)
 
 ## No Krückeberg is a Brinksitzer in Berenbusch in 1737
 

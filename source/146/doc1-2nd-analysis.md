@@ -44,7 +44,7 @@ legal-economic status:
 **Source:** Johann Christoph Adelung, *Grammatisch-kritisches Wörterbuch
 der Hochdeutschen Mundart*, s.v. **Inmann / Einlieger** (1793–1801).
 Digitized at Bayerische Staatsbibliothek:
-[bsb00009132_4_0_124](https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_4_0_124)
+[https:bsb00009132_4_0_124](https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_4_0_124)
 
 
 
@@ -59,7 +59,7 @@ define as a subset of Einlieger status:
 
 **Source:** Jacob & Wilhelm Grimm, *Deutsches Wörterbuch*,
 s.v. **Instmann**. (Quoted and summarized in:)
-[Inste](https://de.wikipedia.org/wiki/Inste)
+[https:Inste](https://de.wikipedia.org/wiki/Inste)
 
 
 

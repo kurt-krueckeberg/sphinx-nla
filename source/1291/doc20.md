@@ -71,9 +71,9 @@ v. D. R. u. A
 
 ```{note}
 We know that **1 Morgen = 120 Quadrat-Ruthen** from the
-[specification table](doc11.md) accompanying Document 11; thus 1
+[specification table accompanying Document 11; thus 1
 Morgen 57 Ruthen = 177 Ruthen, matching the pricing breakdown (of 60 + 117
-Ruthen).
+Ruthen).](doc11.md)
 ```
 
 Translation of Purchase Contract

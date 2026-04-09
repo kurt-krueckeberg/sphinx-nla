@@ -11,23 +11,20 @@ The Rentkammer’s response is written just below the petition’s salutation.
 ### Hans Heinrich Wilharm was one of Carl Friedrich (born 1807) Baptismal Sponsors
 
 We know that when Carl Friedrich Krückeberg was
-{external+genealogy:doc}`born in 1807 <petzen/PET-B-1807a>`, one of his
-{external+genealogy:doc}`baptismal sponsors <petzen/PET-B-1807a>` was Hans Heinrich
-Wilharm of no. 11 Evesen.
+{external+genealogy:doc}`born in 1807, one of his <petzen/PET-B-1807a>`{external+genealogy:doc}`baptismal sponsors was Hans Heinrich
+Wilharm of no. 11 Evesen. <petzen/PET-B-1807a>`
 
 Hans Heinrich Wilharm was {external+genealogy:doc}`born in
-Berenbusch in 1760 <petzen/PET-B-1760a>`, and in 1796 he
-{external+genealogy:doc}`married Anne Marie Philippine Blecke
-of no. 11 Evesen <petzen/PET-M-1796a>`. She died after giving birth to their son
-Hans Heinrich Wilharm], who was {external+genealogy:doc}`born
-11 April 1797 <petzen/PET-B-1797a>` at no. 11 Evesen. Later the same year, her husband
-{external+genealogy:doc}`remarried to Sophie Ernestine
-Blecke <petzen/PET-M-1797a>`, who had been living with them already.
+Berenbusch in 1760, and in 1796 he <petzen/PET-B-1760a>`{external+genealogy:doc}`married Anne Marie Philippine Blecke
+of no. 11 Evesen. She died after giving birth to their son
+Hans Heinrich Wilharm\], who was <petzen/PET-M-1796a>`{external+genealogy:doc}`born
+11 April 1797 at no. 11 Evesen. Later the same year, her husband <petzen/PET-B-1797a>`{external+genealogy:doc}`remarried to Sophie Ernestine
+Blecke, who had been living with them already. <petzen/PET-M-1797a>`
 
 The birth records of their daughter Anne Marie
-Christine, {external+genealogy:doc}`born in 1798 <petzen/PET-B-1798c>`, and their
-son Carl Heinrich, {external+genealogy:doc}`born in 1810 <petzen/PET-B-1810a>`,
-show the family:
+Christine, {external+genealogy:doc}`born in 1798, and their
+son Carl Heinrich, <petzen/PET-B-1798c>`{external+genealogy:doc}`born in 1810,
+show the family: <petzen/PET-B-1810a>`
 
 - continued to live a no. 11 Evesen
 - Hans Heinrich was the Colon (Stätte holder) of no. 11 Evesen

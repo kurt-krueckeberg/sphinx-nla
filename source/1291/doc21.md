@@ -11,7 +11,7 @@
 ```{note}
 The clerk incorrectly numbered this document as "20." in the upper
 right corner instead of "21.";however, it is listed as a separate
-document in the [Designatio Actorum](contents-list.md).
+document in the [Designatio Actorum.](contents-list.md)
 ```
 
 Receipt

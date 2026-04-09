@@ -90,7 +90,7 @@ The document identifiers were written by:
 - **N.C. 2816** — written by the *Amt* clerk, repeating the
 Rentkammer’s file number for the ["Petition of the widow
 Krückeberg, holding No.
-10 in Berenbusch"](doc1-1.md).
+10 in Berenbusch".](doc1-1.md)
 - **Nr. pr. 698** — the *Amt*’s own internal protocol number for this
 outgoing report.
 - Both written in the *Amt* hand (Sander’s or his clerk’s).

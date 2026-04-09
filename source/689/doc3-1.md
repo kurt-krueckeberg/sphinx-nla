@@ -156,6 +156,6 @@ filed.
 The note *RC. Seite 3* (Rentcammer page 3) refers to the third page in the
 set of three documents comprising docket item #3 in the Acten Designation,
 the contents list, which is the 2nd document, the
-[Vortrag des GKR od Reck (Memorandum by Government Councillor von Reck)](doc3-2.md).
+[Vortrag des GKR od Reck (Memorandum by Government Councillor von Reck).](doc3-2.md)
 
 

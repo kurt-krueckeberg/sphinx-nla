@@ -5,15 +5,15 @@
 Document 4½ is signed by Lieutenant Funck, a "beeidigter Landmesser" (sworn
 land surveyor). As a technical specialist, Funck was not part of the
 administrative offices (Amt) that issued Document 4. His report was
-therefore [logged](contents-list.md) as an independent piece of
-correspondence, even though it accompanied [document 4](doc4.md).
+therefore [logged as an independent piece of
+correspondence, even though it accompanied](contents-list.md)[document 4.](doc4.md)
 
 He completed his surveyor drawing over a year before it was enclosed in
-[document 4](doc4.md). His drawing is dated March 30, 1799, but
+[document 4. His drawing is dated March 30, 1799, but
 Document 4, which it supplemented, is dated over a year later, October 18,
 1800. The survey wass probably submitted informally and used during
 negotiations, inspections, and back-and-forth between offices.
-earlier.
+earlier.](doc4.md)
 
 ## Transliteration and Translation
 

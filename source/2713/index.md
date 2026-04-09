@@ -7,9 +7,7 @@ der Dörfer Evesen, Berenbusch und Nordholz) is located in the Bückeburg
 regional archive of the Lower Saxony State Archives.
 
 This document has identifier
-[NLA BU L 2 L Nr. 27/13](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533)
-in the [Arcinsys](https://www.arcinsys.niedersachsen.de/arcinsys/start.action)
-Archival information system Niedersachsen and Bremen.
+[NLA BU L 2 L Nr. 27/13 in the](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533)[Arcinsys Archival information system Niedersachsen and Bremen.](https://www.arcinsys.niedersachsen.de/arcinsys/start.action)
 
 On page 110 Berenbusch and Johann Heinrich Krückeberg are mentioned.
 

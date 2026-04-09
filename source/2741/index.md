@@ -4,9 +4,8 @@
 
 This document has identifier
 [NLA BU L 2 L
-Nr. 27/41](file:///home/kurt/antora-nla/public/nla/1.0/index.html) in the
-[Arcinsys Archival
-information system Niedersachsen and Bremen](https://www.arcinsys.niedersachsen.de/arcinsys/start.action).
+Nr. 27/41 in the](file:///home/kurt/antora-nla/public/nla/1.0/index.html)[Arcinsys Archival
+information system Niedersachsen and Bremen.](https://www.arcinsys.niedersachsen.de/arcinsys/start.action)
 
 Johann Heinrich Krückeberg is one of the respondents, and therefore a
 property holder by 1743-44.
@@ -85,8 +84,8 @@ succession of holders for Haus Nr. 10 in Berenbusch: Johann Tönnies
 Eggerding, followed by **Friedrich Kuhlmann**, and then Johann Heinrich
 Krückeberg, who acquired the holding through marriage.
 
-None of these individuals appears in the 1737 [Survey of House and Property Holders in the District of Bückeburg as Part of a General Land Survey (1737)](../2728/survey-1737.md),
-likely because they did not meet the criteria of property holders.
+None of these individuals appears in the 1737 [2728:survey-1737.xml,
+likely because they did not meet the criteria of property holders.](../2728/survey-1737.md)
 ```
 
 Transliteration

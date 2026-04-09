@@ -1,8 +1,7 @@
 # The plots of land designated for Colon Krückeberg No. 10 in Berenbusch for the enlargement of his house lot and garden (1798-1800)
 
 The case file of Jobst Heinrich’s Petition to Enlarge Farmyard and Garden is call number
-[NLA BU, K 2, A Nr. 1237](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766)
-in the Arcinsys online catalog system. It resides in the Bückeburg regional archive.
+[NLA BU, K 2, A Nr. 1237 in the Arcinsys online catalog system. It resides in the Bückeburg regional archive.](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766)
 
 ## The Regency Period and the “vormundschaftliche Rentkammer” in Schaumburg-Lippe
 

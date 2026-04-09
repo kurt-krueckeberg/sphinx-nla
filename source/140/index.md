@@ -7,14 +7,13 @@ Arensburg, mit Nummerierung der sämtlichen Häuser ("List of names of all
 Kolons of the offices of Bückeburg and Arensburg, with numbering of the all
 houses")** has identifier
 [NLA
-BU, L 101a, A Nr. 140](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389) in the online
-[Arcinsys
-system](https://www.arcinsys.niedersachsen.de/arcinsys/start.action) of Niedersachsen and Bremem.
+BU, L 101a, A Nr. 140 in the online](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389)[Arcinsys
+system of Niedersachsen and Bremem.](https://www.arcinsys.niedersachsen.de/arcinsys/start.action)
 
 The microfiche image below was obtained by commissioned research done by
-[Dr. Sylvia Möhle](https://www.moehle-research.de/). It has been
+[Dr. Sylvia Möhle. It has been
 enhanced as best as can be from its virtually unreadable orignal (in which
-the text was whitish-yellow).
+the text was whitish-yellow).](https://www.moehle-research.de/)
 
 While its life span is given as 1740 - 1830,  Dr. Möhle found, however,
 that it covers only the year 1747.

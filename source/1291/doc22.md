@@ -78,9 +78,9 @@ R. n. A.
 
 ```{note}
 We know that **1 Morgen = 120 Quadrat-Ruthen** from the entries for
-Vogt and Brüggemann in the [specification table](doc11.md) accompanying
+Vogt and Brüggemann in the [specification table accompanying
 Document 11; thus 1 Morgen 43 Ruthen 30 Fuß = 163 Ruthen 30 Fuß, matching the
-pricing breakdown (of 60 + 103 Ruthen 30 Fuß) mentioned in this document.
+pricing breakdown (of 60 + 103 Ruthen 30 Fuß) mentioned in this document.](doc11.md)
 ```
 
 Translation

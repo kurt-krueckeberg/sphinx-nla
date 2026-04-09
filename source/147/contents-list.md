@@ -23,10 +23,9 @@
      - Petition of the lodger Driftmeier at No. 5 in Berenbusch, with chamber resolution.
        
        Vorstellung des Einliegers Driftmeier bey No. 5. zu Bernebusch, cum Res. Cam
-     - Concerning the assignment from forest land for the lodger Triftmeier at No. 5 in Berenbusch.
+     - :rspan:`7` Concerning the assignment from forest land for the lodger Triftmeier at No. 5 in Berenbusch.
        
        Ausweisung vom Forstgründe für den Einlieger Triftmeier beÿ No. 5. zu Berenbusch betr.
-       :rspan: 7
      - Bückeburg
        
        Bburg
@@ -88,7 +87,7 @@
        
        14
    * - 5.
-     - [Report of the Bückeburg office together with an attached drawing](doc5.md).
+     - :doc:`Report of the Bückeburg office together with an attached drawing. <doc5>`
        
        Bericht des Amts Bückeburg, samt Anlage einer Zeichnung
      - "
