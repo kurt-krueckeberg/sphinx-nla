@@ -2,24 +2,28 @@
 
 ## Images
 
-::: {list-table}
-:widths: 1 1
+::::{grid} 1 1 2 2
+:gutter: 2
 
-* - 
-              
-                Click to Enlarge
-                
-                  
-                    
-                  
-                  
-                    15 r original
-                  
-                
-              
-            
-  - **Vertical text in prior image rotated right**
+:::{grid-item}
+
+```{image} images/15-r-original.png
+:class: antora-self-link
+```
+
 :::
+
+:::{grid-item}
+
+**Vertical text in prior image rotated right**
+
+```{image} images/15-r-vertical.png
+:class: antora-self-link
+```
+
+:::
+
+::::
 
 ## Transliteration and Translation
 
