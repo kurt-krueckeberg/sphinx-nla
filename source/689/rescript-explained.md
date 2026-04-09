@@ -1,6 +1,7 @@
 # Untitled
 
-::::{sidebar} Rescript Explained
+```{dropdown} Rescript Explained
+:open:
 
 A Rescript is abbreviated in the Acten Desingation, as " “Rescr.” or “KRes.” (Kammer-Rescript). in the Acten
 Designation. It   is a **written official reply or order** issued by a higher authority in response to a petition,
@@ -19,6 +20,6 @@ inherited the term directly from Latin, and it shows up in 18th–19th century f
 Rescr.  Rescript is simply the shortened form of the Latin Rescriptum, borrowed into German (Reskript) and then
 into English.
 
-::::
+```
 
 

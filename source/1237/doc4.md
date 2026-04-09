@@ -23,8 +23,10 @@ Pfennig**, excluding any exchange fees (**agio**).
 
 The letter was signed in Bückeburg by **J. H. Hablick** and **Stöling**.
 
-::::{sidebar} How Large was the Allocated Land
-:subtitle: Meaning of "Ruthe"
+```{dropdown} How Large was the Allocated Land
+:open:
+
+**Meaning of "Ruthe"**
 
 In the report, measurements were given in **Ruther (rod)** and **Fuß (feet)**. A **"Ruther"** is a measure of area — a
 Quadratruthe (square rod).  German officials in the 18th–19th centuries often shortened Quadratruthe (square
@@ -66,7 +68,7 @@ Let’s calculate both parcels:
 
 So the total extension was roughly **¼ of a modern tennis court** in size.
 
-::::
+```
 
 ### When is Michaelmas?
 

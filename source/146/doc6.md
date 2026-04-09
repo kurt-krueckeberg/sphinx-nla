@@ -26,8 +26,10 @@ An understanding of what a **Meyerbrief** (translated as **Meyer letter**) was
 is essential in order to understand how property ownership differed from
 today and the 18th and early-to-mid 19th century in Schaumburg-Lippe.
 
-::::{sidebar} What "Meyerbrief" means?
-:subtitle: Meyerbrief and the Nature of the Purchase
+```{dropdown} What "Meyerbrief" means?
+:open:
+
+**Meyerbrief and the Nature of the Purchase**
 
 The transaction described here did **not** involve the outright
 purchase of land in the modern sense. By means of a **Meyerbrief**
@@ -41,7 +43,7 @@ Chamber. This differs fundamentally from a modern land purchase in
 which both the land and buildings are owned outright, termed
 **fee simple** ownership.
 
-::::
+```
 
 ### Annaul Fees and Obligations (a Hearth Hen really?)
 

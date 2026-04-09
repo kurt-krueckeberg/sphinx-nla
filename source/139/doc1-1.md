@@ -9,7 +9,8 @@ feudal duties of the **Burgrest labor days** and the **forestry services** owed
 to the state of a **Colon** nor can she afford to
 hire someone in her place. She petitions for these duties to be remitted.
 
-::::{sidebar} Explantion of Burgrest labor days and Forest service
+```{dropdown} Explantion of Burgrest labor days and Forest service
+:open:
 
 ```{note}
 - **Burgrest-Handtage** → compulsory labor days (feudal service obligations) owed
@@ -21,7 +22,7 @@ someone to perform certain manual work for the domain because of the tenure
 of her holding.
 ```
 
-::::
+```
 
 ## Images of Petition of the widow Krückeberg
 

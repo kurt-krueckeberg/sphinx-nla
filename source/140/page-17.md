@@ -77,7 +77,8 @@ This means, Johann Heinrich Krückeberg was the successor on this
 property. This passage is a succession list for Brinksitzer holdings,
 showing who previously held each house and who holds it now.
 
-::::{sidebar} What was a Brinksitzer?
+```{dropdown} What was a Brinksitzer?
+:open:
 
 A **Brinksitzer** was a **village-edge cottager**, who lives on the *Brink*(edge of
 the village). He often had a **house + garden** and relied on trades, day
@@ -86,6 +87,6 @@ labor, or side work.
 A **Kötter** was **smallholder** or **small farmer**. He had a cottage (Kotte),
 usually had **some fields**, and could farm on a small scale.
 
-::::
+```
 
 

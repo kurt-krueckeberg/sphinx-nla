@@ -17,7 +17,8 @@ dagger lies at the bottom of the first page.
 
 ## Comments
 
-::::{sidebar} What was an Ackervogt
+```{dropdown} What was an Ackervogt
+:open:
 
 An Ackervogt was a locally appointed agricultural overseer or field
 bailiff responsible for supervising arable land and farming practices.
@@ -28,7 +29,7 @@ likely possessed some means, making it plausible that Jobst Heinrich
 inherited a modest sum and could reasonably finance the construction
 of his own house.
 
-::::
+```
 
 ```{note}
 We know that Jobst Heinrich’s father, Johann Heinrich, was no longer the

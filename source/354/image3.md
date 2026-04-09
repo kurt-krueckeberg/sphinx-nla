@@ -52,7 +52,8 @@ auff
   - 18
 :::
 
-::::{sidebar} Explantion of Table
+```{dropdown} Explantion of Table
+:open:
 
 ```{note}
 The first currency column is labeled "G" in the original, likely short for "Gebot" (bid).
@@ -84,7 +85,7 @@ This currency structure was so common that numeric columns without headers were 
 Groschen, unless otherwise stated.
 ```
 
-::::
+```
 
 ```{code-block} text
 

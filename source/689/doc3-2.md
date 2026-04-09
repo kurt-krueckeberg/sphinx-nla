@@ -23,14 +23,15 @@ forced sale remaimed imminent.
 
 ## Transliteration and Translation
 
-::::{sidebar} "holding" and "vot." Explained
+```{dropdown} "holding" and "vot." Explained
+:open:
 
 ```{note}
 - **"holding"** is translated from "Stelle" (and elsewhere "Stätte"). It refers to the **"leasehold
 holding of a numbered Colon (tenant holder), comprising land and buildings."**
 ```
 
-::::
+```
 
 ::::{grid} 1 1 2 2
 :gutter: 2

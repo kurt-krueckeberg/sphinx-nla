@@ -52,7 +52,8 @@ Bückeburg den 26ten Feb: 1818.
 Furstl: Schaumb: Lipp: Rentkammer
 ```
 
-::::{sidebar} How big is a Rute (rod) and a Morgen?
+```{dropdown} How big is a Rute (rod) and a Morgen?
+:open:
 
 ```{note}
 This table shows how rods related to square feet, and how Morgens relate to
@@ -83,7 +84,7 @@ both square feet and acres.
 :::
 ```
 
-::::
+```
 
 ```{code-block} text
 :class: bordered

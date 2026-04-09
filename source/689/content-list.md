@@ -157,7 +157,8 @@ Transliteration
      - 
 ```
 
-::::{sidebar} Carifications
+```{dropdown} Carifications
+:open:
 
 - **#3**--The **"Acten Designation (right)"** column has "gegen" (in "gegen Verpfändung seiner
   sämmtlichen Ländereien"). **"gegen"** typically means "agasint"; here it menas "on
@@ -175,7 +176,7 @@ after repayment, **returned to the debtor**—so they commonly **don’t carry**
 corner number and may not be physically in the case file anymore.  *That’s why #10 has no
 boxed number in the case file.*
 
-::::
+```
 
 ## English Version
 

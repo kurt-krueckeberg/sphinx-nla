@@ -33,7 +33,8 @@ Bbg. 13 Feb
 Exp: pr: Schultz
 ```
 
-::::{sidebar} Note on the Size of a Morgen
+```{dropdown} Note on the Size of a Morgen
+:open:
 
 ```{note}
 The Morgen was a traditional German unit of land measurement whose exact
@@ -46,7 +47,7 @@ was not a standardized unit, these figures represent approximate modern
 equivalents.
 ```
 
-::::
+```
 
 ```{code-block} text
 :class: bordered

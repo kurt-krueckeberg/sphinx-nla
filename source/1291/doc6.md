@@ -32,7 +32,8 @@ objections arise in the future, he will contest them himself, in and out of
 court, at his own expense, and without any right to legal representation or
 indemnification from the Princely Chamber.
 
-::::{sidebar} What does Hude mean?
+```{dropdown} What does Hude mean?
+:open:
 
 **Hude** is a North German legal term meaning:
 
@@ -72,7 +73,7 @@ A modern English reader would not understand Hude without
 explanation, so translating it descriptively — as you have now done — is
 appropriate.
 
-::::
+```
 
 ## Transliteration and Translation
 
@@ -125,7 +126,8 @@ d. 31. Dez. 1817.
 Habicht Neufsel
 ```
 
-::::{sidebar} What do Meier and Halbmeier mean?
+```{dropdown} What do Meier and Halbmeier mean?
+:open:
 
 The office servant Hartmann asked only the larger Hude-right holders—those
 of the Meier and Halbmeier class—whether they had objections to the
@@ -140,7 +142,7 @@ Smaller right-holders were not consulted beforehand, because they usually
 oppose such allotments. In practice, however, they typically accept the
 decision afterward, especially when the larger farmers support it.
 
-::::
+```
 
 Translation
 
