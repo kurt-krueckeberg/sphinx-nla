@@ -20,7 +20,8 @@ subtrees:
         entries:
           - file: 1237/cover
           - file: 1237/narr-timeline
-          - file: 1237/contents-list
+          - title: Contents List
+            file: 1237/contents-list
             entries:
               - file: 1237/doc1
               - file: 1237/doc2
@@ -34,7 +35,8 @@ subtrees:
       - file: 1291/index
         entries:
           - file: 1291/workflow
-          - file: 1291/contents-list
+          - title: Contents List
+            file: 1291/contents-list
             entries:
               - file: 1291/doc1
               - file: 1291/doc2
@@ -62,7 +64,8 @@ subtrees:
       - file: 146/index
         entries:
           - file: 146/cover
-          - file: 146/contents-list
+          - title: Contents List
+            file: 146/contents-list
             entries:
               - file: 146/doc1
               - file: 146/doc1-analysis
@@ -78,7 +81,8 @@ subtrees:
               - file: 146/doc9
               - file: 146/doc10
               - file: 146/doc11
-          - file: 146/other-docs
+          - title: Other Documents
+            file: 146/other-docs
             entries:
               - file: 146/petition-to-sell-cover-sheet
               - file: 146/carl-fried-supplication-to-sell
@@ -90,7 +94,8 @@ subtrees:
       - file: 147/index
         entries:
           - file: 147/cover
-          - file: 147/contents-list
+          - title: Contents List
+            file: 147/contents-list
             entries:
               - file: 147/doc5
 
@@ -98,7 +103,8 @@ subtrees:
         entries:
           - file: 139/cover
           - file: 139/narr-timeline
-          - file: 139/contents-list
+          - title: Contents List
+            file: 139/contents-list
             entries:
               - file: 139/doc1-1
               - file: 139/doc1-2
