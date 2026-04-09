@@ -35,7 +35,7 @@ Transliteration and Translation of Document Index
   - May
   - 29
 * - 2.
-  - [Report on the matter from the Bückeburg officials, dated.](doc3.md){#desfallsiger-bericht}
+  - [Report on the matter from the Bückeburg officials, dated.](doc3.md)
     
     [Desfallsiger Bericht der Beamten zu Bückeburg, d.d.](doc2.md)
   - 
