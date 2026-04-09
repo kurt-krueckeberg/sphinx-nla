@@ -92,7 +92,7 @@ sent to the Bückeburg Office, instructing it to report on the case.
 
 The exact wording of that order and any enclosures (such as the Forestry
 Report) are not preserved; only this short reference and the Office’s subsequent
-[Desfallsiger Bericht](contents-list.md#desfallsiger-bericht) in the
+<a href="contents-list.html#desfallsiger-bericht">Desfallsiger Bericht</a> in the
 Designatio Actorum (Document No. 2) remain.
 
 ## 5. The  “Report by the officials at Bückeburg on this matter.” (27 Feb. 1799)

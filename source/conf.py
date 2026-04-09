@@ -65,7 +65,7 @@ html_css_files = [
 html_js_files = ['antora-self-link.js']
 
 html_theme_options = {
-    "show_navbar_depth": 2,
+#   "show_navbar_depth": 2,
     "home_page_in_toc": True,
     "use_download_button": True,
 }
