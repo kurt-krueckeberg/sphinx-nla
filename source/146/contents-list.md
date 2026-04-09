@@ -42,17 +42,17 @@ September of 1850.
      - [Report of the administrative offices of Bückeburg and Arensburg](doc1.md)
        
        [Bericht der Aemter Bückeb: u. Arensburg](doc1.md)
-     - __
-     - __
+     - "  "
+     - "  "
      - Oct
      - 21
    * - 3
      - [Drafts of Cameral rescripts from the Office of Bückeburg](doc3.md)
        
        [Concept Camr. Rescripts aus Amt Bückeburg](doc3.md)
-     - __
-     - __
-     - __
+     - "  "
+     - "  "
+     - "  "
      - 31
    * - 4
      - [Report of the administrative offices of Bückeburg and Arensburg](doc4.md)
@@ -65,7 +65,7 @@ September of 1850.
        Wegen seiner Vermögens Umstände und persönlichten Eigenschaften auch wegen Zufriendenheit der
        Hude-Interessenten.
        :rspan: 2
-     - __
+     - "  "
      - 1809
      - Jan.
      - 12
@@ -73,9 +73,9 @@ September of 1850.
      - [Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg](doc5.md)
        
        [Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg](doc5.md)
-     - __
-     - __
-     - __
+     - "  "
+     - "  "
+     - "  "
      - 23
    * - 6
        ad 6
@@ -84,8 +84,8 @@ September of 1850.
        [Bericht gedachter Aemter](doc6.md)
                        
                        [Ein geometische Zeichnung von Stille](ad6-survey-drawing.md)
-     - __
-     - __
+     - "  "
+     - "  "
      - Oct
      - 28
    * - 7
@@ -98,14 +98,14 @@ September of 1850.
        
        pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
        :rspan: 5
-     - __
-     - __
+     - "  "
+     - "  "
      - Nov.
      - 15
    * - 7
      - [Auch Concept Camr. Anweisung an den Kammerrentmeister Staackmann](doc7.md)
-     - __
-     - __
+     - "  "
+     - "  "
      - Nov.
      - 15
    * - 8
@@ -113,17 +113,17 @@ September of 1850.
        No. 18, in Berenbusch](doc8.md)
        
        [Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch](doc8.md)
-     - __
-     - __
+     - "  "
+     - "  "
      - Decb.
      - 7
    * - 9
      - [Draft of a Cameral decree addressed to this colonist Krückeberg](doc9.md)
        
        [Concept Camr Erlaß an diesen Kolon Krückeberg](doc9.md)
-     - __
-     - __
-     - __
+     - "  "
+     - "  "
+     - "  "
      - 12
    * - 10
      - [Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid
@@ -131,19 +131,19 @@ September of 1850.
        
        [Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
        gedachten Krückeberg](doc10.md)
-     - __
-     - __
-     - __
-     - __
+     - "  "
+     - "  "
+     - "  "
+     - "  "
    * - 11
      - [Draft purchase deed for this Krückeberg, No. 18, in Berenbusch,
        concerning a building site for house construction and garden](doc10.md)
        
        [Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau
        und Garten](doc10.md)
-     - __
-     - __
-     - __
+     - "  "
+     - "  "
+     - "  "
      - 20
 ```
 
