@@ -255,7 +255,7 @@ report** either confirms or challenges this positioning.
 
 ## How to interpret *Einlieger*, *Neubauer*, *Colon*
 
-See: [https:69850070-0dc8-8397-ad59-2d0e3b1bedb9](https://chatgpt.com/c/69850070-0dc8-8397-ad59-2d0e3b1bedb9)
+See: [69850070-0dc8-8397-ad59-2d0e3b1bedb9](https://chatgpt.com/c/69850070-0dc8-8397-ad59-2d0e3b1bedb9)
 
 Below is a **single, merged, self-contained guide** that **combines**:
 
@@ -294,9 +294,9 @@ for German-language legal and administrative terminology (Middle Ages →
 **Key entries for your work**
 
 - **Einlieger**
-              [https:zeige?index=lemmata&term=einlieger](https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&term=einlieger)
+              [zeige?index=lemmata&term=einlieger](https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&term=einlieger)
 - **Neubauer**
-              [https:zeige?index=lemmata&term=neubauer](https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&term=neubauer)
+              [zeige?index=lemmata&term=neubauer](https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?index=lemmata&term=neubauer)
 
 **How to use it**
 
@@ -322,7 +322,7 @@ for German-language legal and administrative terminology (Middle Ages →
             **Direct PDF (LWL digital edition, Part II):**
           
 
-👉 [https:txt262](https://www.lwl.org/westfaelische-geschichte/txt/normal/txt262.pdf)
+👉 [txt262](https://www.lwl.org/westfaelische-geschichte/txt/normal/txt262.pdf)
 
 **What this PDF is**
 
@@ -379,7 +379,7 @@ You can ignore sections on:
 - population statistics
 - military matters
 
-TODO: Continue here: [https:69853a0a-aa84-8004-b2e2-1f98ba20b6eb](https://chatgpt.com/share/69853a0a-aa84-8004-b2e2-1f98ba20b6eb)
+TODO: Continue here: [69853a0a-aa84-8004-b2e2-1f98ba20b6eb](https://chatgpt.com/share/69853a0a-aa84-8004-b2e2-1f98ba20b6eb)
 
 ### 
         **Layer 3 — Schaumburg-Lippe–specific, primary-era authority**

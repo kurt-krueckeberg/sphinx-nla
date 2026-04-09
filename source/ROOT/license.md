@@ -15,7 +15,7 @@ under the following terms:
 
 - **Attribution** — You must give appropriate credit, provide a link to this website or the license, and indicate if changes were made.
 Example attribution:
-*“Based on genealogical research and translations by Kurt Krueckeberg ([https:nla.krueckeberg](https://nla.krueckeberg.org)), licensed under CC BY-NC-SA 4.0.”*
+*“Based on genealogical research and translations by Kurt Krueckeberg ([nla.krueckeberg](https://nla.krueckeberg.org)), licensed under CC BY-NC-SA 4.0.”*
 - **NonCommercial** — You may not use the material for commercial purposes.
 - **ShareAlike** — If you remix, transform, or build upon this work, you must distribute your contributions under the same license.
 

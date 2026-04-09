@@ -39,7 +39,7 @@ this number written in the upper right corner of the first page. This first docu
 **#2** in the able above is the [Bericht Amts Bückeburg](../689/amt-decree.md) (Report
 of the Bückeburg Office); in the upper right corner of its first page, **2** is written:
 
-```{image} images/689:example-entry-num-on-doc.jpg
+```{image} ../689/images/example-entry-num-on-doc.jpg
 :class: antora-self-link
 ```
 
@@ -53,7 +53,7 @@ Each number served a distinct bureaucratic purpose and helps reconstruct the flo
 
 ### The “Nr pr. ####” Numbers — Protocol / Register Numbers
 
-```{image} images/689:nr-pr.jpg
+```{image} ../689/images/nr-pr.jpg
 :class: antora-self-link
 ```
 
@@ -71,7 +71,7 @@ was logged in the protocol book.
 
 ### The “NC ####” Numbers
 
-```{image} images/689:nc-xxxx.jpg
+```{image} ../689/images/nc-xxxx.jpg
 :class: antora-self-link
 ```
 
@@ -112,7 +112,7 @@ later follow-up document to an earlier one.  In the image below, for example,
 **ad** appears above **Num: Cam: 5702**, and the meaing is: "concerning the
 Rentcammer document numbered 5702".
 
-```{image} images/689:ad-nc.jpg
+```{image} ../689/images/ad-nc.jpg
 :class: antora-self-link
 ```
 

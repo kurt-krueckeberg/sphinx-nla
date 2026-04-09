@@ -44,7 +44,7 @@ legal-economic status:
 **Source:** Johann Christoph Adelung, *Grammatisch-kritisches Wörterbuch
 der Hochdeutschen Mundart*, s.v. **Inmann / Einlieger** (1793–1801).
 Digitized at Bayerische Staatsbibliothek:
-[https:bsb00009132_4_0_124](https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_4_0_124)
+[bsb00009132_4_0_124](https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_4_0_124)
 
 
 
@@ -59,7 +59,7 @@ define as a subset of Einlieger status:
 
 **Source:** Jacob & Wilhelm Grimm, *Deutsches Wörterbuch*,
 s.v. **Instmann**. (Quoted and summarized in:)
-[https:Inste](https://de.wikipedia.org/wiki/Inste)
+[Inste](https://de.wikipedia.org/wiki/Inste)
 
 
 
@@ -77,7 +77,7 @@ through labor.)
 
 **Source:** LWL – Westfälische Geschichte, agrarian social structure
 studies (18th–19th c.). Example overview PDF:
-[https:txt262](https://www.lwl.org/westfaelische-geschichte/txt/normal/txt262.pdf)
+[txt262](https://www.lwl.org/westfaelische-geschichte/txt/normal/txt262.pdf)
 
 While Westphalian, this status structure **matches Schaumburg-Lippe
 practice**, which followed the same Rentkammer-regulated colonization
