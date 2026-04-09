@@ -9,13 +9,15 @@ subtrees:
         entries:
           - file: 140/page-17
 
-  - caption: Rentkammer Case Files
+  - caption: Rentkammer Case Files Overview
     entries:
       - file: rentkammer/rentkammer-and-kolonat-system
         entries:
           - file: rentkammer/case-file-docs-explained
           - file: rentkammer/terms
 
+  - caption: Rentkammer Case Files
+    entries:
       - file: 1237/index
         entries:
           - file: 1237/cover

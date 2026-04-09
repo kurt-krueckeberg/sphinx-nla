@@ -1,13 +1,5 @@
 # todo
 
-## Work on the remaining build errors.
+## For Other Primary Colors
 
-There  is a theme setting for  navigation menu levels expanded.
-
-## Work on Appearance
-
-[ChatGPT link++](https://chatgpt.com/share/69d41db3-02b4-832d-9145-4a80dae325ad)
-
-## The navigation is missing lables
-
-Like "Other Documents" in modules 146!
+[See these](https://chatgpt.com/share/69d83a40-6c94-8325-a375-75c74fa0bd8a)
