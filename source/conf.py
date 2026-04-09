@@ -21,6 +21,7 @@ extensions = [
     'sphinx_external_toc',
     'sphinx.ext.intersphinx',
     'sphinx_design',
+    'attrs_inline',
 ]
 
 external_toc_exclude_missing = True # exclude .md files not listing in the _toc.yml file.
