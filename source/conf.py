@@ -25,9 +25,11 @@ extensions = [
 
 external_toc_exclude_missing = True # exclude .md files not listing in the _toc.yml file.
 
-intersphinx_mapping = {
-    'python': ('https://docs.python.org/3', None),
-}
+# Add this settgins once the Antora genealogy component has been
+# converted to Sphinx + MyST:
+# intersphinx_mapping = {
+#    'genealogy': ('https://your-genealogy-sphinx-site/', None),
+# }
 
 # Add this to enable colon-fences (useful for the :::figure::: syntax)
 myst_enable_extensions = [
