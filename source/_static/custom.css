@@ -15,3 +15,67 @@
   width: 18rem;
 }
 */
+
+/* =========================================================
+   Pick ONE palette block and comment out the others.
+   Works with sphinx_book_theme and pydata_sphinx_theme.
+   ========================================================= */
+
+
+/* 1) scikit-learn (direct) */
+/*
+html[data-theme="light"] {
+  --pst-color-primary: #29abe2;
+  --pst-color-secondary: #f7931e;
+}
+html[data-theme="dark"] {
+  --pst-color-primary: #64bce9;
+  --pst-color-secondary: #f99f44;
+}
+*/
+
+/* <--- 2) MNE-Python (direct) */
+html[data-theme="light"] {
+  --pst-color-primary: #276be9;
+  --pst-color-secondary: var(--pst-color-warning);
+}
+html[data-theme="dark"] {
+  --pst-color-primary: #79a3f2;
+  --pst-color-secondary: var(--pst-color-warning);
+}
+
+/* 3) Matplotlib (derived from docs CSS) */
+/*
+html[data-theme="light"] {
+  --pst-color-primary: #11557c;
+  --pst-color-secondary: #ee9040;
+}
+html[data-theme="dark"] {
+  --pst-color-primary: #11557c;
+  --pst-color-secondary: #ee9040;
+}
+*/
+
+/* 4) Pandas (adapted from docs CSS tokens) */
+/*
+html[data-theme="light"] {
+  --pst-color-primary: #17a2b8;
+  --pst-color-secondary: #6c757d;
+}
+html[data-theme="dark"] {
+  --pst-color-primary: #17a2b8;
+  --pst-color-secondary: #adb5bd;
+}
+*/
+
+/* 5) NumPy-like baseline (adapted, since docs stay near stock theme) */
+/*
+html[data-theme="light"] {
+  --pst-color-primary: #4d77cf;
+  --pst-color-secondary: #6c757d;
+}
+html[data-theme="dark"] {
+  --pst-color-primary: #79a8d8;
+  --pst-color-secondary: #adb5bd;
+}
+*/
