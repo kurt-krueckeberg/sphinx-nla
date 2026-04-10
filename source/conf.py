@@ -25,7 +25,7 @@ extensions = [
 
 external_toc_exclude_missing = True # exclude .md files not listing in the _toc.yml file.
 
-# Add this settgins once the Antora genealogy component has been
+# TODO: Add this settgins once the Antora genealogy component has been
 # converted to Sphinx + MyST:
 # intersphinx_mapping = {
 #    'genealogy': ('https://your-genealogy-sphinx-site/', None),
@@ -65,7 +65,10 @@ html_css_files = [
 html_js_files = ['antora-self-link.js']
 
 html_theme_options = {
-#   "show_navbar_depth": 2,
     "home_page_in_toc": True,
     "use_download_button": True,
+
+    "navbar_start": ["navbar-logo"],
+    "navbar_center": ["navbar-nav"],
+    "navbar_end": ["theme-switcher", "navbar-icon-links"],
 }
