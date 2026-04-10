@@ -48,6 +48,7 @@ master_doc = "index"
 nitpicky = True
 
 templates_path = ['_templates']
+
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
