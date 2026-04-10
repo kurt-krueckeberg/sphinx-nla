@@ -67,8 +67,4 @@ html_js_files = ['antora-self-link.js']
 html_theme_options = {
     "home_page_in_toc": True,
     "use_download_button": True,
-
-    "navbar_start": ["navbar-logo"],
-    "navbar_center": ["navbar-nav"],
-    "navbar_end": ["theme-switcher", "navbar-icon-links"],
 }
