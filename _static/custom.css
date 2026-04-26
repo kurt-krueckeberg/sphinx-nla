@@ -1,0 +1,152 @@
+.kg-site-header {
+  width: 100%;
+  border-bottom: 1px solid var(--pst-color-border, #d9d9d9);
+  background: var(--pst-color-background, #fff);
+}
+
+.kg-site-header__inner {
+  max-width: 88rem;
+  margin: 0 auto;
+  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+}
+
+.kg-site-header__inner:hover,
+.kg-site-header__inner:focus {
+  text-decoration: none;
+}
+
+.kg-site-header__logo {
+  width: 2.25rem;
+  height: 2.25rem;
+  display: block;
+  flex: 0 0 auto;
+}
+
+.kg-site-header__title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.01em;
+  color: var(--pst-color-text-base, inherit);
+}
+
+@media (max-width: 575px) {
+  .kg-site-header__title {
+    font-size: 1.05rem;
+  }
+
+  .kg-site-header__inner {
+    padding: 0.6rem 0.8rem;
+  }
+}
+
+
+/* =========================================================================
+   Five Optional palette blocks for sphinx_book_theme and pydata_sphinx_theme.
+   ========================================================================== */
+
+/* 1) scikit-learn (direct) */
+/*
+html[data-theme="light"] {
+  --pst-color-primary: #29abe2;
+  --pst-color-secondary: #f7931e;
+}
+html[data-theme="dark"] {
+  --pst-color-primary: #64bce9;
+  --pst-color-secondary: #f99f44;
+}
+*/
+
+/* <--- 2) MNE-Python (direct) */
+html[data-theme="light"] {
+  --pst-color-primary: #276be9;
+  --pst-color-secondary: var(--pst-color-warning);
+}
+
+html[data-theme="dark"] {
+  --pst-color-primary: #79a3f2;
+  --pst-color-secondary: var(--pst-color-warning);
+}
+
+/* 3) Matplotlib (derived from docs CSS) */
+/*
+html[data-theme="light"] {
+  --pst-color-primary: #11557c;
+  --pst-color-secondary: #ee9040;
+}
+html[data-theme="dark"] {
+  --pst-color-primary: #11557c;
+  --pst-color-secondary: #ee9040;
+}
+*/
+
+/* 4) Pandas (adapted from docs CSS tokens) */
+/*
+html[data-theme="light"] {
+  --pst-color-primary: #17a2b8;
+  --pst-color-secondary: #6c757d;
+}
+html[data-theme="dark"] {
+  --pst-color-primary: #17a2b8;
+  --pst-color-secondary: #adb5bd;
+}
+*/
+
+/* 5) NumPy-like baseline (adapted, since docs stay near stock theme) */
+/*
+html[data-theme="light"] {
+  --pst-color-primary: #4d77cf;
+  --pst-color-secondary: #6c757d;
+}
+html[data-theme="dark"] {
+  --pst-color-primary: #79a8d8;
+  --pst-color-secondary: #adb5bd;
+}
+*/
+
+/* =================================== */
+/* Settings for a softer like mystmd.org
+/* =================================== */
+
+/* soften the overall dark page */
+/* TODO: This dark mode does not work with the default font colors */	
+html[data-theme="dark"] {
+  --pst-color-background: #201b18;
+  --pst-color-on-background: #e8e1d9;
+}
+
+/* page body / main surfaces */
+html[data-theme="dark"] body {
+  background-color: #201b18;
+  color: #e8e1d9;
+}
+
+html[data-theme="dark"] .bd-main {
+  background-color: #201b18;
+}
+
+/* top banner / header */
+html[data-theme="dark"] .bd-header {
+  background-color: #332822 !important;
+  border-bottom: 1px solid #4a3a31;
+}
+
+/* optional: sidebar a little different from the main page */
+html[data-theme="dark"] .bd-sidebar,
+html[data-theme="dark"] .bd-sidebar-primary,
+html[data-theme="dark"] .bd-sidebar-secondary {
+  background-color: #261f1b;
+}
+
+/* links in dark mode */
+html[data-theme="dark"] a {
+  color: #d7b07a;
+}
+
+html[data-theme="dark"] a:hover {
+  color: #efc58f;
+}
