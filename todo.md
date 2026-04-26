@@ -1,5 +1,7 @@
 # todo
 
+[JB 1](https://jupyterbook.org/v1/structure/configure.html)
+
 ## Create _toc.yml
 
 Use the **Jupyter Book 2 `toc:` as the working basis**, but not because JB2
