@@ -1,10 +1,9 @@
 format: jb-book
 root: index
 
-chapters:
-  - file: rent/index
-    title: Rentkammer Documents
-    sections:
+parts:
+  - caption: Rentkammer Documents
+    chapters:
       - file: rent/1237/index
         title: Krückeberg Lot Enlargement
         sections:
@@ -12,3 +11,8 @@ chapters:
             title: 1798 Petition
           - file: rent/1237/doc2
             title: 1798 Report
+
+  - caption: Other Documents
+    chapters:
+      - file: surveys/1737
+        title: Householder Survey
