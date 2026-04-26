@@ -1,0 +1,13 @@
+{% extends "!layout.html" %}
+
+{% block docs_navbar %}
+<div class="kg-site-header">
+  <a class="kg-site-header__inner" href="{{ pathto(master_doc) }}">
+    <img src="{{ pathto('_static/logo.svg', 1) }}"
+         alt="Krückeberg Genealogy logo"
+         class="kg-site-header__logo">
+    <span class="kg-site-header__title">Krückeberg Genealogy</span>
+  </a>
+</div>
+{{ super() }}
+{% endblock %}
