@@ -1,13 +1,14 @@
 format: jb-book
 root: index
-parts:
-  - caption: General Documents
-    numbered: True  # Only applies to chapters in Part 1.
-    chapters:
-    - file: path/to/part1/chapter1
-      title: shorter title
-    - file: path/to/part1/chapter2
-  - caption: Rentkammer Case Files 
-    chapters:
-    - file: path/to/part2/chapter1
-    - file: path/to/part2/chapter2
+
+chapters:
+  - file: rent/index
+    title: Rentkammer Documents
+    sections:
+      - file: rent/1237/index
+        title: Krückeberg Lot Enlargement
+        sections:
+          - file: rent/1237/doc1
+            title: 1798 Petition
+          - file: rent/1237/doc2
+            title: 1798 Report
