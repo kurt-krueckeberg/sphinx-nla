@@ -1,4 +1,4 @@
-# Document 21: Treasury receipt
+# Treasury receipt
 
 ## Receipt
 

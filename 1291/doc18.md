@@ -1,4 +1,4 @@
-# Document 18: Treasury receipt
+# Treasury receipt
 
 ## Chamber Treausry Recept
 

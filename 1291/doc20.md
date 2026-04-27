@@ -1,4 +1,4 @@
-# Document 20: Likewise, for the Neubauer (new settler Vogt)  No. 13 at Nordholz
+# Likewise, for the Neubauer (new settler Vogt)  No. 13 at Nordholz
 
 ## Concluded purchase contract for new settler Vogt No. 13 at Nordholz
 

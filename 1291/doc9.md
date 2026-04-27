@@ -1,4 +1,4 @@
-# Document 9: Prepared official decision of the Princely Finance Office, based on a submission from the local office
+# Prepared official decision of the Princely Finance Office, based on a submission from the local office
 
 ## Digital Images
 

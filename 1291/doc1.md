@@ -1,4 +1,4 @@
-# Document 1: Petition of the Shoemaker Krückeberg No. 10. zu Berenbusch
+# Petition of the Shoemaker Krückeberg No. 10. zu Berenbusch
 
 ## Digital Image
 

@@ -1,4 +1,4 @@
-# Document 8: Report of the local office, with drawing
+# Report of the local office, with drawing
 
 ## Digital Images
 

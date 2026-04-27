@@ -1,4 +1,4 @@
-# Document 10: Petition of Vogt from Nordholz, with drawing
+# Petition of Vogt from Nordholz, with drawing
 
 ## Petition Docket Page
 
