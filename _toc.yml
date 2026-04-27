@@ -19,11 +19,11 @@ parts:
 
   - caption: Rentkammer Documents
     chapters:
-      - file: rent/1237/index
+      - file: rentkammer/1237/index
         title: Krückeberg Lot Enlargement
         sections:
-          - file: rent/1237/doc1
+          - file: rentkammer/1237/doc1
             title: 1798 Petition
-          - file: rent/1237/doc2
+          - file: rentkammer/1237/doc2
             title: 1798 Report
 
