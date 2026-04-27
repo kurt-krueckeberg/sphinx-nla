@@ -1,0 +1,66 @@
+.an Kammeral Prestanden
+[%header,cols="6,3,^1,^1,^1"]
+|===
+|Person|Description|rl|g|d
+
+|Krückeberg no 10 zu Berenbusch (auch Michaeli 1819)
+|Rottzins
+|
+|4
+|1
+
+.8+|Vogt no 13 zu Nordholz für Haus und Gartenplatz +
+(auch Michaeli a 1823)
+|Rottzins       
+|
+|17
+|5
+  
+|Mahlschweingeld
+|
+|6
+|
+      
+|Michaelischatz
+|
+|1
+|     
+
+|Dienstgeld
+^|1
+|
+|        
+
+|Ein Rauchhuhn
+|
+|
+|
+
+|fünf Erntetage
+|
+|
+|
+
+|Jagden Wachten
+|
+|
+|
+
+|Landfolgen.
+|
+|
+|      
+
+.2+|Neubauer Brüggemann no 14 zu
+Nordholz für Haus und Gartenplatz
+(Michaeli 1823)
+|Rottzins
+|
+|16
+|2
+
+|übrige Prestanden wie der vorige
+|
+|
+|
+|===

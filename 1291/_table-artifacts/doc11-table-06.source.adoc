@@ -1,0 +1,66 @@
+.Kammeral dues table in text
+[%header,cols="6,3,^1,^1,^1"]
+|===
+|Person|Description|rl|g|d
+
+|Krückeberg no 10 in Berenbusch (also Michaelmas 1819)
+|clearing rent
+|
+|4
+|1
+
+.8+|Vogt no 13 in Nordholz for house and garden plot +
+(also Michaelmas 1823)
+|clearing rent       
+|
+|17
+|5
+  
+|mill-pig payment
+|
+|6
+|
+      
+|Michaelmas levy
+|
+|1
+|     
+
+|service fee
+^|1
+|
+|        
+
+|one hen
+|
+|
+|
+
+|five harvest days
+|
+|
+|
+
+|hunt watch duties
+|
+|
+|
+
+|land service duties
+|
+|
+|      
+
+.2+|new settler Brüggemann no 14 in
+Nordholz for house and garden plot
+(Michaelmas 1823)
+|clearing rent
+|
+|16
+|2
+
+|other dues as the previous
+|
+|
+|
+|===

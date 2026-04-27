@@ -1,0 +1,159 @@
+= Contents List
+:page-role: wide
+
+== Image
+
+image::01-r.png[link=self]
+
+
+== Transliteration and Translation
+
+[cols="1,7a,5a,2,2,2,1",options="header"]
+|===
+|No.
+|Designatio Actorum
+|(Topic)
+|Ort.
+|Jahr
+|Monat
+|Tag
+
+|1.
+|Petition of the lodger Driftmeier at No. 5 in Berenbusch, with chamber resolution.
+
+Vorstellung des Einliegers Driftmeier bey No. 5. zu Bernebusch, cum Res. Cam
+.8+|Concerning the assignment from forest land for the lodger Triftmeier at No. 5 in Berenbusch.
+
+Ausweisung vom Forstgründe für den Einlieger Triftmeier beÿ No. 5. zu Berenbusch betr.
+|Bückeburg
+
+Bburg
+|1819
+
+1819
+|Feb.
+
+Febr.
+|22
+
+22.
+
+|2.
+|Report of the local office.
+
+Bericht hiesigen Amts.
+|"
+
+"
+|"
+
+"
+|Apr.
+
+Apr.
+|19
+
+19
+
+|3.
+|Draft royal rescript issued from the office here.
+
+Conc. K. Rescript aus Amt dahier.
+|"
+
+"
+|"
+
+"
+|May
+
+Maÿ
+|4
+
+4
+
+|4.
+|Petition of the colonist Niemann No. 2 in Berenbusch, with chamber resolution.
+
+Vorstellung des Colons Niemann No. 2. zu Berenbusch, cum Res. Cam.
+|"
+
+"
+|"
+
+"
+|June
+
+Junÿ
+|14
+
+14
+
+|5.
+|xref:doc5.adoc[Report of the Bückeburg office together with an attached drawing].
+
+Bericht des Amts Bückeburg, samt Anlage einer Zeichnung
+|"
+
+"
+|"
+
+"
+|October
+
+October
+|29
+
+29
+
+|6.
+|Draft royal rescript to the office here; likewise to the chamber treasury.
+
+Conc. K. Rescript ans Amt dahier. desgl. an die Kammercasse.
+|"
+
+"
+|"
+
+"
+|November
+
+November
+|22
+
+22
+
+|7.
+|Chamber treasury receipt.
+
+Kammercassenquitung
+|"
+
+"
+|"
+
+"
+|Dec.
+
+Decbr.
+|30
+
+30
+
+|8.
+|Draft purchase contract for the lodger Triftmeier at No. 5 in Bärenbusch.
+
+Conc. Kaufcontracts für den Einlieger Triftmeier beÿ No. 5. zu Bärenbusch
+|"
+
+"
+|1820
+
+1820
+|Apr.
+
+Apr.
+|20
+
+20
+|===

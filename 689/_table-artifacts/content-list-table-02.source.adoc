@@ -1,0 +1,146 @@
+[%header,cols="^1,9,6,2,2,2,^1",frame=none]
+.Translation (corrected)
+|===
+|No | Document Decription | Subject note | Place | Year | Mon | N.
+
+|1.
+|xref:doc1.adoc[Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2\]]
+|Approval of a loan of 200 r.
+|Bbg.
+|1841
+|Oct.
+^|2
+
+|2.
+|xref:doc2-1.adoc[Report of the Bückeburg District Office]
+.2+.^|Funds from the Chamber Treasury
+|〃
+|〃
+|〃
+^|7
+
+|〃
+|xref:doc2-2.adoc[Draft of Official Order of the Chamber to the same [office\]]
+|〃
+|〃
+|〃
+^|14
+
+|3.
+|xref:doc3-1.adoc[Petition of Colon Krückeberg]
+.3+.^|on condition of pledging all of his lands [as collateral].
+|Bbg.
+|1841
+|Nov.
+^|11
+
+|〃
+|xref:doc3-2.adoc[Memorandum of Senior Government Councillor von Reck]
+|〃
+|〃
+|〃
+^|15
+
+|〃
+|xref:doc3-3.adoc[Draft of Official Order of the Chamber to Colon Krückeberg]
+|〃
+|〃
+|〃
+|
+
+|4.
+|xref:doc4-1.adoc[Petition of Colon Krückeberg]
+|
+|Bbg.
+|1841
+|Nov.
+^|21
+
+|〃
+|xref:doc4-2.adoc[Draft of Official Order of the Chamber to Officer Creuzinger]
+<|Further petition concerning the sale of his lands on the Söhren pasture
+|〃
+|〃
+|〃
+^|25
+
+|5.
+|xref:doc5.adoc[Report of Officer Creuzinger with attached site plan of the Söhren pasture]
+|
+|Bbg.
+|1841
+|Dec.
+^|10
+
+|6.
+|xref:doc6-1.adoc[Formal advisory submission by Privy Chancery Councillor Reck]
+|
+|〃
+|〃
+|〃
+^|16
+
+|〃
+|xref:doc6-2.adoc[Supreme official order of His Serene Highness]
+|
+|〃
+|〃
+|〃
+^|19
+
+|〃
+|xref:doc6-3.adoc[Filing note by Councillor Reck and the supreme official order of His Serene Highness]
+|
+|〃
+|〃
+|〃
+^|23
+
+|7.
+|xref:doc7.adoc[Draft of Official Order of the Chamber to the Office of Bückeburg]
+|
+|Bbg.
+|1841
+|Dec.
+^|24
+
+|8.
+|xref:doc8-1.adoc[Report of the Office of Bückeburg]
+|
+|Bbg.
+|1842
+|Jan.
+^|2
+
+|〃
+|xref:doc8-2.adoc[Draft of Official Order of the Chamber to the same]
+|
+|〃
+|〃
+|〃
+^|20
+
+|〃
+|xref:doc8-3.adoc[likewise to Privy Councillor Berger]
+|
+|〃
+|〃
+|〃
+|
+
+|9.
+|xref:doc9.adoc[Report of the Office of Bückeburg]
+|
+|Bbg.
+|1842
+|Feb.
+^|8
+
+|10.
+|xref:doc10.adoc[Bond for 200 r. courant borrowed from the Princely Chamber Treasury]
+|Obligation.
+|
+|
+|
+|
+|===
