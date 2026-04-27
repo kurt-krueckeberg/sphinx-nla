@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Lower Saxony Archive in Bückeburg Documents'
+project = 'Lower Saxony, Bückeburg Archive, Documents'
 copyright = '2026, Kurt Krueckeberg'
 author = 'Kurt Krueckeberg'
 release = '0.8'
@@ -60,7 +60,7 @@ html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
 html_css_files = [
-    'custom.css',
+    'overrides.css',
 ]
 
 html_js_files = ['antora-self-link.js']

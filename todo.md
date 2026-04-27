@@ -7,6 +7,8 @@
 Use the **Jupyter Book 2 top-most `title:` in  `toc:` as the working basis**, but not because JB2
 is the final website. 
 
+Do **not** design around the JB2 repaint bug anymore. That led you to over-compress the text.
+
 Suggested method:
 
 ```text
@@ -26,8 +28,6 @@ A good title rule:
 Short enough to scan,
 long enough to mean something.
 ```
-
-Do **not** design around the JB2 repaint bug anymore. That led you to over-compress the text.
 
 For the 2nd-level navigation, use this guidance:
 

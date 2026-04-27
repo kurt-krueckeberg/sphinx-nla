@@ -1,7 +1,22 @@
 format: jb-book
-root: index
+root: ROOT/index
 
 parts:
+  - caption: General Documents
+    chapters:
+      - file: surveys/1737
+        title: Householder Survey
+      - file: 2728/survey-1737.md
+        title: Householder Survey (1737)
+      - file: 2741/index.md
+        title: Property Holder Questioning (1743–1744)
+      - file: 2713/index.md
+        title: Evesen–Berenbusch–Nordholz Survey (1745)
+      - file: 140/index.md
+        title: Kolon List with House Numbers (1747)
+        sections:
+          - file: 140/page-17.md
+
   - caption: Rentkammer Documents
     chapters:
       - file: rent/1237/index
@@ -12,7 +27,3 @@ parts:
           - file: rent/1237/doc2
             title: 1798 Report
 
-  - caption: Other Documents
-    chapters:
-      - file: surveys/1737
-        title: Householder Survey
