@@ -1,3 +1,4 @@
+/* Style custom site header */
 .kg-site-header {
   width: 100%;
   border-bottom: 1px solid var(--pst-color-border, #d9d9d9);
@@ -61,7 +62,7 @@ html[data-theme="dark"] {
 }
 */
 
-/* <--- 2) MNE-Python (direct) */
+/* Set the active color palette */
 html[data-theme="light"] {
   --pst-color-primary: #276be9;
   --pst-color-secondary: var(--pst-color-warning);
@@ -108,12 +109,12 @@ html[data-theme="dark"] {
 }
 */
 
-/* =================================== */
-/* Settings for a softer like mystmd.org
-/* =================================== */
+/* =========================================== */
+/* Settings for a softer deark mode like mystmd.org
+/* ============================================ */
 
 /* soften the overall dark page */
-/* TODO: This dark mode does not work with the default font colors */	
+/* TODO: Fix this: dark mode does not work with the default font colors */	
 html[data-theme="dark"] {
   --pst-color-background: #201b18;
   --pst-color-on-background: #e8e1d9;
