@@ -3,7 +3,7 @@
 
 title: 'Lower Saxony, Bückeburg Archive, Documents'
 author: Kurt Krueckeberg
-logo: _static/logo.svg
+logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -69,5 +69,23 @@ sphinx:
       - antora-self-link.js
 
     html_theme_options:
-      home_page_in_toc: true
-      use_download_button: true
+     #home_page_in_toc: true
+     #use_download_button: true
+
+      navbar_align: right
+
+      navbar_start:
+        - navbar-logo
+      navbar_center: []
+      navbar_end:
+        - search-button-field
+        - theme-switcher
+      navbar_persistent: []
+
+      article_header_end: []
+      use_download_button: false
+      use_fullscreen_button: false
+
+    html_sidebars:
+      "**":
+        - sbt-sidebar-nav.html
