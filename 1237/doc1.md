@@ -1,4 +1,4 @@
-# Document 1: Jobst Heinrich Krückeberg Petition (29 May 1798)
+# Jobst Heinrich Krückeberg Petition (29 May 1798)
 
 ## Petition Docket Item
 

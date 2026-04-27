@@ -1,4 +1,4 @@
-# Document 3: Cammer Directive (11 Mar. 1799)
+# Cammer Directive (11 Mar. 1799)
 
 ## Narrative Overview
 

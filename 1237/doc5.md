@@ -1,4 +1,4 @@
-# Document 5: Draft of Chamber’s Official Resolutions to the Bückeburg Officials, and to the Fiscal Treasurer Stackmann (27 Oct. 1800)
+# Draft of Chamber’s Official Resolutions to the Bückeburg Officials, and to the Fiscal Treasurer Stackmann (27 Oct. 1800)
 
 ## Narrative Overview
 

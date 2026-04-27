@@ -1,4 +1,4 @@
-# Document 4: Submission of Geometric Drawing of Proposed Parcels to be Allocated (18 Oct. 1800)
+# Submission of Geometric Drawing of Proposed Parcels to be Allocated (18 Oct. 1800)
 
 ## Narrative Overview
 

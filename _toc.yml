@@ -6,24 +6,44 @@ parts:
     chapters:
       - file: surveys/1737
         title: Householder Survey
-      - file: 2728/survey-1737.md
+      - file: 2728/survey-1737
         title: Householder Survey (1737)
-      - file: 2741/index.md
+      - file: 2741/index
         title: Property Holder Questioning (1743–1744)
-      - file: 2713/index.md
+      - file: 2713/index
         title: Evesen–Berenbusch–Nordholz Survey (1745)
-      - file: 140/index.md
+      - file: 140/index
         title: Kolon List with House Numbers (1747)
         sections:
-          - file: 140/page-17.md
+          - file: 140/page-17
 
   - caption: Rentkammer Documents
     chapters:
-      - file: rentkammer/1237/index
-        title: Krückeberg Lot Enlargement
+      - file: rentkammer/rentkammer-and-kolonat-system
+        title: Rentkammer Explained
         sections:
-          - file: rentkammer/1237/doc1
-            title: 1798 Petition
-          - file: rentkammer/1237/doc2
-            title: 1798 Report
-
+          - file: rentkammer/case-file-docs-explained
+            title: Case Files Explained
+          - file: rentkammer/terms
+            title: Rentkammer Terms
+           
+      - file: 1237/content
+        title:  Krückeberg No. 10 Berenbusch Land Enlargement Request
+        sections:
+          - file: 1237/cover
+            title: Case File Cover
+          - file: 1237/intro
+            title: Introduct
+          - file: 1237/narr-timeline
+            title: Timeline
+          - file: 1237/doc1
+          - file: 1237/doc1
+          - file: 1237/doc2
+          - file: 1237/doc3
+          - file: 1237/doc4
+          - file: 1237/doc4pt5
+          - file: 1237/reminder-note
+          - file: 1237/doc5
+          - file: 1237/doc6
+          - file: 1237/
+            

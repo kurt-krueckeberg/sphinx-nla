@@ -1,4 +1,4 @@
-# Document 6: Deed Issued (1 Dec. 1800)
+# Deed Issued (1 Dec. 1800)
 
 ## Narrative Overview
 

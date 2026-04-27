@@ -1,4 +1,4 @@
-# Document 2: Land Assignment Report and Its Offical Response (27 Feb. 1799)
+# Land Assignment Report and Its Offical Response (27 Feb. 1799)
 
 ## Document 2: Narrative Overview
 
