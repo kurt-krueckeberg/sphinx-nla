@@ -21,7 +21,7 @@
 
 |1291/doc10.md |Vogt Petition |Petition of Vogt from Nordholz, with drawing
 
-|1291/doc11.md |Local Office Report and Drawing |"Report of the local office, with drawing and specification."
+|1291/doc11.md |Local Office Report and Drawing |Report of the local office, with drawing and specification.
 
 |1291/doc12.md |Finance Office Decision |Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury
 
@@ -35,19 +35,17 @@
 
 |1291/doc17.md |Krückeberg Decision |Prepared official decision of the Princely Finance Office addressed to the same (Krückeberg)
 
-|1291/doc18.md |Treasury Receipt |Treasury receipt
-
 |1291/doc19.md |Krückeberg Purchase Contract |Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.
 
 |1291/doc1.md |Krückeberg Petition |Petition of the Shoemaker Krückeberg No. 10. zu Berenbusch
 
-|1291/doc20.md |Vogt Purchase Contract |"Likewise, for the Neubauer (new settler Vogt)  No. 13 at Nordholz"
+|1291/doc20.md |Vogt Purchase Contract |Likewise, for the Neubauer (new settler Vogt)  No. 13 at Nordholz
 
 |1291/doc21.md |Treasury Receipt |Treasury receipt
 
 |1291/doc22.md |Brüggemann Purchase Contract |Concluded purchase contract for Brüggemann No. 14 at Nordholz
 
-|1291/doc2.md |Forestry Report and Drawing |"Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing."
+|1291/doc2.md |Forestry Report and Drawing |Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.
 
 |1291/doc3.md |Finance Office Decision |Prepared official decision of the Princely Finance Office to the local office
 
@@ -63,7 +61,7 @@
 
 |1291/doc9.md |Finance Office Decision |"Prepared official decision of the Princely Finance Office, based on a submission from the local office"
 
-|1291/index.md |Krückeberg, Vogt, Brüggemann Land Allotments |"Allotment from forest land to the colonist Krückeberg No. 10 in Berenbusch, and to the lodgers Vogt and Brüggemann, for the establishment of the new farmsteads Nos. 13 and 14 in Nordholz."
+|1291/index.md |Krückeberg, Vogt, Brüggemann Land Allotments |Allotment from forest land to the colonist Krückeberg No. 10 in Berenbusch, and to the lodgers Vogt and Brüggemann, for the establishment of the new farmsteads Nos. 13 and 14 in Nordholz
 
 |1291/workflow.md |Rentkammer Workflow |Rentkammer Workflow and Terminology
 
