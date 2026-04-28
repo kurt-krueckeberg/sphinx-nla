@@ -71,17 +71,15 @@
 
 |139/amt-report-on-krueckeberg-petition-to-sell-his-holding.md |1849 Krückeberg Sale Petition Report |Report of Amt Bückeburg on Petition of Colon Krückeberg No. 10 in Berenbusch for Permission to Sell his Farmstead (15 Sept. 1849)
 
-|139/contents-list.md |Contents List |
-
 |139/cover.md |1824–1849 Case Cover |Case File Cover
 
-|139/doc1-1.md |1824 Widow Krückeberg Petition |"Actenstück 1 (Administrative File Item 1): Petition of the widow Krückeberg, holding No. 10 in Berenbusch (8 July 1824)"
+|139/doc1-1.md |1824 Widow Krückeberg Petition |Actenstück 1 (Administrative File Item 1): Petition of the widow Krückeberg, holding No. 10 in Berenbusch (8 July 1824)
 
 |139/doc1-2.md |1824 Bückeburg Office Report |Actenstück 1 (Administrative File Item 1): Report from the Bückeburg Office (26 July 1824)
 
 |139/doc1-3.md |1824 Widow Krückeberg Reply Draft |Actenstück 1 (Administrative File Item 1): Draft of the Official Reply to the Widow Krückeberg (4 Aug. 1824)
 
-|139/doc1-4.md |1824 Sealed Official Reply |"Actenstück 1 (Administrative File Item 1): Likewise: Sealed (with the official seal) and Signed by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)"
+|139/doc1-4.md |1824 Sealed Official Reply |Actenstück 1 (Administrative File Item 1): Likewise: Sealed (with the official seal) and Signed by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)
 
 |139/doc1-5.md |1824 Bückeburg Reply Draft |Actenstück 1 (Administrative File Item 1): Draft of the Official Reply originating from the Office of Bückeberg (24 Aug. 1824)
 
@@ -90,8 +88,6 @@
 |139/index.md |1824–1849 Berenbusch No. 10 |
 
 |139/krueckeberg-petition-to-sell.md |1849 Krückeberg Sale Petition |Petition of Colon Krückeberg for Permission to Sell His Farmstead (8 August 1849)
-
-|139/narr-timeline.md |1824–1849 Narrative Timeline |Narrative Timeline
 
 |139/petition-to-sell-his-holding-23-aug-1849.md |1849 Petition Copies |Petition of Colon Krückeberg for Permission to Sell his Farmstead (23 Aug. 1849)
 
