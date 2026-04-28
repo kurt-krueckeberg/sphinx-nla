@@ -1,0 +1,147 @@
+[%header,cols="^1,9,6,2,2,2,^2",frame=none]
+.Transliteration
+|===
+|No | Acten Designation (left) | Acten Designation (right) | Ort | Jahr | Mon | Z[ahl].
+
+|1.
+|xref:doc1.adoc[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
+|Bewilligung eines Darlehens ad 200 r.
+|Bbg.
+|1841
+|Octob.
+^|2
+
+|2.
+|xref:doc2-1.adoc[Bericht Amts Bückeburg]
+.2+.^|Cour. aus Cammer-Casse
+|〃
+|〃
+|〃
+^|7
+
+|〃
+|xref:doc2-2.adoc[Cpt. KRes. an dasselbe]
+|〃
+|〃
+|〃
+^|14
+
+|3.
+|xref:doc3-1.adoc[Vorst[ellung\]. des Colons Krückeberg]
+.3+.^|gegen Verpfändung seiner sämmtlichen Ländereien
+|Bbg.
+|1841
+|Nov.
+^|11
+
+|〃
+|xref:doc3-2.adoc[Vortrag des GKR od Reck]
+|〃
+|〃
+|〃
+^|15
+
+|〃
+|xref:doc3-3.adoc[Cpt. KRes. an p Krückeberg]
+|〃
+|〃
+|〃
+|
+
+|4.
+|xref:doc4-1.adoc[Vorst. des p Krückeberg]
+|
+|Bbg.
+|1841
+|Nov.
+^|21
+
+|〃
+|xref:doc4-2.adoc[Cpt. KRes. an Of. Creuzinger]
+<|item Gesuch um Verkauf seiner Ländereien auf der Söhren-Weide betr.
+|〃
+|〃
+|〃
+^|25
+
+|5.
+|xref:doc5.adoc[Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide]
+|
+|Bbg.
+|1841
+|Decbr.
+^|10
+
+|6.
+|xref:doc6-1.adoc[Vortrag des GKR odReck]
+|
+|〃
+|〃
+|〃
+^|16
+
+|〃
+|xref:doc6-2.adoc[Höchstes Rescr. Ser. Reg.]
+|
+|〃
+|〃
+|〃
+^|19
+
+|〃
+|xref:doc6-3.adoc[P. V. des H odReck u. Höchstes + 
+Rescr. Sr. Durchlaucht]
+|
+|〃
+|〃
+|〃
+^|23
+
+|7.
+|xref:doc7.adoc[Cpt. Rescr. aus [sic: should be *an*\] Amt Bückeburg]
+|
+|Bbg.
+|1841
+|Decbr.
+^|24
+
+|8.
+|xref:doc8-1.adoc[Bericht Amts Bückeburg]
+|
+|Bbg.
+|1842
+|Jan.
+^|2
+
+|〃
+|xref:doc8-2.adoc[Cpt. KRes. an dasselbe]
+|
+|〃
+|〃
+|〃
+^|20
+
+|〃
+|xref:doc8-3.adoc[desgl[eichen\]. an den K. R. Berger]
+|
+|〃
+|〃
+|〃
+|
+
+|9.
+|xref:doc9.adoc[Bericht Amts Bückeburg]
+|
+|Bbg.
+|1842
+|Febr.
+^|8
+
+|10.
+|xref:doc10.adoc[Obligation über aus Fürstl. Kammerkasse geliehene 200 r. Courant]
+|Obligation.
+|
+|
+|
+|
+|===

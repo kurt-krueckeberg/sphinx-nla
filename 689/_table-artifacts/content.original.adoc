@@ -1,0 +1,341 @@
+= Contents List
+:page-role: wide
+
+The number in the first column of the contents list designates a cluster of related documents in which one aspect
+of the overall decision making process is under consideration. The 2^nd^ column describes each document, the third
+column is a note on the subject of the doucment(s); lastly comes the place, year, month and day
+
+image::01-r.png[align=center,title="Click to Enlarge",link=self]
+
+== Transliteration 
+
+The first column represents a *procedural unit /docket item (Actenpunkt)*.
+Each Actenpunkt corresponds to *one administrative step in the handling of
+the matter.*, and that step may generate one document or several (petition
+→ report → resolution → rescript, etc.).
+
+*Note:* The column “Z.” denotes the sequential registry number within the
+stated month, not the day of the month.
+
+[%header,cols="^1,9,6,2,2,2,^2",frame=none]
+.Transliteration
+|===
+|No | Acten Designation (left) | Acten Designation (right) | Ort | Jahr | Mon | Z[ahl].
+
+|1.
+|xref:doc1.adoc[Vorstellung des Col. Krückeberg No 10 in Berenbusch------Anb.]
+|Bewilligung eines Darlehens ad 200 r.
+|Bbg.
+|1841
+|Octob.
+^|2
+
+|2.
+|xref:doc2-1.adoc[Bericht Amts Bückeburg]
+.2+.^|Cour. aus Cammer-Casse
+|〃
+|〃
+|〃
+^|7
+
+|〃
+|xref:doc2-2.adoc[Cpt. KRes. an dasselbe]
+|〃
+|〃
+|〃
+^|14
+
+|3.
+|xref:doc3-1.adoc[Vorst[ellung\]. des Colons Krückeberg]
+.3+.^|gegen Verpfändung seiner sämmtlichen Ländereien
+|Bbg.
+|1841
+|Nov.
+^|11
+
+|〃
+|xref:doc3-2.adoc[Vortrag des GKR od Reck]
+|〃
+|〃
+|〃
+^|15
+
+|〃
+|xref:doc3-3.adoc[Cpt. KRes. an p Krückeberg]
+|〃
+|〃
+|〃
+|
+
+|4.
+|xref:doc4-1.adoc[Vorst. des p Krückeberg]
+|
+|Bbg.
+|1841
+|Nov.
+^|21
+
+|〃
+|xref:doc4-2.adoc[Cpt. KRes. an Of. Creuzinger]
+<|item Gesuch um Verkauf seiner Ländereien auf der Söhren-Weide betr.
+|〃
+|〃
+|〃
+^|25
+
+|5.
+|xref:doc5.adoc[Bericht des Of. Creuzinger Anb. Situations-Riß der Söhren-Weide]
+|
+|Bbg.
+|1841
+|Decbr.
+^|10
+
+|6.
+|xref:doc6-1.adoc[Vortrag des GKR odReck]
+|
+|〃
+|〃
+|〃
+^|16
+
+|〃
+|xref:doc6-2.adoc[Höchstes Rescr. Ser. Reg.]
+|
+|〃
+|〃
+|〃
+^|19
+
+|〃
+|xref:doc6-3.adoc[P. V. des H odReck u. Höchstes + 
+Rescr. Sr. Durchlaucht]
+|
+|〃
+|〃
+|〃
+^|23
+
+|7.
+|xref:doc7.adoc[Cpt. Rescr. aus [sic: should be *an*\] Amt Bückeburg]
+|
+|Bbg.
+|1841
+|Decbr.
+^|24
+
+|8.
+|xref:doc8-1.adoc[Bericht Amts Bückeburg]
+|
+|Bbg.
+|1842
+|Jan.
+^|2
+
+|〃
+|xref:doc8-2.adoc[Cpt. KRes. an dasselbe]
+|
+|〃
+|〃
+|〃
+^|20
+
+|〃
+|xref:doc8-3.adoc[desgl[eichen\]. an den K. R. Berger]
+|
+|〃
+|〃
+|〃
+|
+
+|9.
+|xref:doc9.adoc[Bericht Amts Bückeburg]
+|
+|Bbg.
+|1842
+|Febr.
+^|8
+
+|10.
+|xref:doc10.adoc[Obligation über aus Fürstl. Kammerkasse geliehene 200 r. Courant]
+|Obligation.
+|
+|
+|
+|
+|===
+
+.Carifications
+****
+* *#3*--The *"Acten Designation (right)"* column has "gegen" (in "gegen Verpfändung seiner
+  sämmtlichen Ländereien"). *"gegen"* typically means "agasint"; here it menas "on
+condition of". The Rentcammer was willing to consider a loan but only against the pledge
+of his entire holding. The Chamber’s willingness to approve a loan was conditional upon
+his pledging all of his landholdings as collateral. 
+
+* *#7*--*aus* in *Cpt. K. Res. aus Amt Bückeburg* is incorrect. The actual document has
+*an* not *aus*: *Concept an das Amt Bückeburg*, bears no *pr. in Cam.*
+(incoming-presented) mark, and carries the Kammer closing *Fürstl: p.*. *aus* is retained
+in the transliteration for accuracy, but rendered as *to the Amt Bückeburg* in the English
+translation, noting the likely clerical slip.
+
+* *#10*--is *not a memo*; it’s the *Obligation (the sealed promissory note itself)*.
+Originals of *promissory notes* were often *kept in a separate “obligations” series* and,
+after repayment, *returned to the debtor*—so they commonly *don’t carry* the file’s boxed
+corner number and may not be physically in the case file anymore.  _That’s why #10 has no
+boxed number in the case file._
+****
+
+== English Version
+
+Again, the first column represents a *procedural unit /docket item (Actenpunkt)*.
+Each Actenpunkt corresponds to *one administrative step in the handling of
+the matter.*, and that step may generate one document or several (petition
+→ report → resolution → rescript, etc.).
+
+[%header,cols="^1,9,6,2,2,2,^1",frame=none]
+.Translation (corrected)
+|===
+|No | Document Decription | Subject note | Place | Year | Mon | N.
+
+|1.
+|xref:doc1.adoc[Petition of Colon Krückeberg No. 10 in Berenbusch, with enclosure [to No. 2\]]
+|Approval of a loan of 200 r.
+|Bbg.
+|1841
+|Oct.
+^|2
+
+|2.
+|xref:doc2-1.adoc[Report of the Bückeburg District Office]
+.2+.^|Funds from the Chamber Treasury
+|〃
+|〃
+|〃
+^|7
+
+|〃
+|xref:doc2-2.adoc[Draft of Official Order of the Chamber to the same [office\]]
+|〃
+|〃
+|〃
+^|14
+
+|3.
+|xref:doc3-1.adoc[Petition of Colon Krückeberg]
+.3+.^|on condition of pledging all of his lands [as collateral].
+|Bbg.
+|1841
+|Nov.
+^|11
+
+|〃
+|xref:doc3-2.adoc[Memorandum of Senior Government Councillor von Reck]
+|〃
+|〃
+|〃
+^|15
+
+|〃
+|xref:doc3-3.adoc[Draft of Official Order of the Chamber to Colon Krückeberg]
+|〃
+|〃
+|〃
+|
+
+|4.
+|xref:doc4-1.adoc[Petition of Colon Krückeberg]
+|
+|Bbg.
+|1841
+|Nov.
+^|21
+
+|〃
+|xref:doc4-2.adoc[Draft of Official Order of the Chamber to Officer Creuzinger]
+<|Further petition concerning the sale of his lands on the Söhren pasture
+|〃
+|〃
+|〃
+^|25
+
+|5.
+|xref:doc5.adoc[Report of Officer Creuzinger with attached site plan of the Söhren pasture]
+|
+|Bbg.
+|1841
+|Dec.
+^|10
+
+|6.
+|xref:doc6-1.adoc[Formal advisory submission by Privy Chancery Councillor Reck]
+|
+|〃
+|〃
+|〃
+^|16
+
+|〃
+|xref:doc6-2.adoc[Supreme official order of His Serene Highness]
+|
+|〃
+|〃
+|〃
+^|19
+
+|〃
+|xref:doc6-3.adoc[Filing note by Councillor Reck and the supreme official order of His Serene Highness]
+|
+|〃
+|〃
+|〃
+^|23
+
+|7.
+|xref:doc7.adoc[Draft of Official Order of the Chamber to the Office of Bückeburg]
+|
+|Bbg.
+|1841
+|Dec.
+^|24
+
+|8.
+|xref:doc8-1.adoc[Report of the Office of Bückeburg]
+|
+|Bbg.
+|1842
+|Jan.
+^|2
+
+|〃
+|xref:doc8-2.adoc[Draft of Official Order of the Chamber to the same]
+|
+|〃
+|〃
+|〃
+^|20
+
+|〃
+|xref:doc8-3.adoc[likewise to Privy Councillor Berger]
+|
+|〃
+|〃
+|〃
+|
+
+|9.
+|xref:doc9.adoc[Report of the Office of Bückeburg]
+|
+|Bbg.
+|1842
+|Feb.
+^|8
+
+|10.
+|xref:doc10.adoc[Bond for 200 r. courant borrowed from the Princely Chamber Treasury]
+|Obligation.
+|
+|
+|
+|
+|===

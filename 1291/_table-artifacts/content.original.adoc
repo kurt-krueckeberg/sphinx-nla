@@ -13,7 +13,7 @@ image::02-l.jpg[link=self]
 
 == Designation Actorum
 
-[%header,cols="1,5,3,2,1,1,1",frame=none]
+[%header,cols="1,5a,3,2,1,1,1",frame=none]
 |===
 |No.|Designatio Actorum.|Betreff|Ort|Jahr|Monat|Tag
 

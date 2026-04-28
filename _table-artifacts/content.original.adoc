@@ -1,4 +1,19 @@
-[%header,cols="1,5,3,2,1,1,1",frame=none]
+= Contents List
+:page-role: wide
+
+The *Designatio Actorum* is the table of contents for the Rentkammer case
+file. It lists its documents in the second column and their topics in the
+third column.
+ 
+== Digital Images
+
+image::01-r.jpg[link=self]
+
+image::02-l.jpg[link=self]
+
+== Designation Actorum
+
+[%header,cols="1,5a,3,2,1,1,1",frame=none]
 |===
 |No.|Designatio Actorum.|Betreff|Ort|Jahr|Monat|Tag
 
