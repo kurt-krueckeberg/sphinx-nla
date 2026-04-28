@@ -16,8 +16,6 @@
 
 ## Transliteration and Translation
 
-TODO: Normalize the spelling.
-
 ```{code-block} text
 
 N. 392.              Tract: By in Can.     p. 16 Sept. 1818
