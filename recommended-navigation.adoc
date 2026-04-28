@@ -1,0 +1,279 @@
+.Files, H1 Headers, and Recommended Navigation Titles
+[cols="1,4,1"]
+|===
+|File |Recommended nav title
+
+|1237/cover.md |1798–1800 Krückeberg Case Cover
+
+|1237/doc1.md |1798 Krückeberg Petition
+
+|1237/doc2.md |1799 Krückeberg Land Report
+
+|1237/doc3.md |1799 Cammer Directive
+
+|1237/doc4.md |1800 Parcel Drawing Submission
+
+|1237/doc4pt5.md |1799 Parcel Drawing
+
+|1237/doc5.md |1800 Chamber Resolutions
+
+|1237/doc6.md |1800 Krückeberg Deed
+
+|1237/index.md |1798–1800 Krückeberg Lot Enlargement
+
+|1237/narr-timeline.md |1798–1800 Narrative Timeline
+
+|1237/reminder-note.md |1800 Chamber Reminder
+
+|1291/cover.md |Nordholz–Berenbusch Case Cover
+
+|1291/doc10.md |Vogt Petition and Drawing
+
+|1291/doc11.md |Local Office Report and Drawing
+
+|1291/doc12.md |Finance Office Decision
+
+|1291/doc13.md |Chamber Treasury Receipt
+
+|1291/doc14.md |Brüggemann Petition
+
+|1291/doc15.md |Brüggemann Decision
+
+|1291/doc16.md |Krückeberg Petition
+
+|1291/doc17.md |Krückeberg Decision
+
+|1291/doc18.md |Treasury Receipt
+
+|1291/doc19.md |Krückeberg Purchase Contract
+
+|1291/doc1.md |Krückeberg Petition
+
+|1291/doc20.md |Vogt Purchase Contract
+
+|1291/doc21.md |Treasury Receipt
+
+|1291/doc22.md |Brüggemann Purchase Contract
+
+|1291/doc2.md |Forestry Report and Drawing
+
+|1291/doc3.md |Finance Office Decision
+
+|1291/doc4.md |Vogt Petition and Decision
+
+|1291/doc5.md |Brüggemann Petition and Decision
+
+|1291/doc6.md |Finance Office Decision
+
+|1291/doc7.md |Finance Office Decision
+
+|1291/doc8.md |Local Office Report and Drawing
+
+|1291/doc9.md |Finance Office Decision
+
+|1291/index.md |Krückeberg, Vogt, Brüggemann Land Allotments
+
+|1291/workflow.md |Rentkammer Workflow
+
+|139/actum-bueckeburg-amt-21-aug-1849.md |1849 Krückeberg Sale Hearing
+
+|139/amt-report-22-aug-1849.md |1849 Farmstead Sale Report
+
+|139/amt-report-on-krueckeberg-petition-to-sell-his-holding.md |1849 Krückeberg Sale Petition Report
+
+|139/contents-list.md |Contents List
+
+|139/cover.md |1824–1849 Case Cover
+
+|139/doc1-1.md |1824 Widow Krückeberg Petition
+
+|139/doc1-2.md |1824 Bückeburg Office Report
+
+|139/doc1-3.md |1824 Widow Krückeberg Reply Draft
+
+|139/doc1-4.md |1824 Sealed Official Reply
+
+|139/doc1-5.md |1824 Bückeburg Reply Draft
+
+|139/doc2.md |1842 Bückeburg Office Report
+
+|139/index.md |1824–1849 Berenbusch No. 10
+
+|139/krueckeberg-petition-to-sell.md |1849 Krückeberg Sale Petition
+
+|139/narr-timeline.md |1824–1849 Narrative Timeline
+
+|139/petition-to-sell-his-holding-23-aug-1849.md |1849 Petition Copies
+
+|139/petition-to-sell-his-holding-23-aug-1849.md |1849 Krückeberg Sale Petition
+
+|139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding.md |1849 Rentkammer Sale Instruction
+
+|139/sales-contract-for-no-10.md |1849 Berenbusch No. 10 Contract
+
+|140/index.md |1747 Kolon List
+
+|140/page-17.md |1747 Berenbusch Brinksitzer
+
+|146/actum-bueckeburg-am-Amte-9-16-50.md |1850 Bückeburg Amt Hearing
+
+|146/ad6-survey-drawing.md |Survey Drawing
+
+|146/carl-fried-supplication-to-sell.md |1850 Carl Friedrich Sale Petition
+
+|146/contents-list.md |Contents List
+
+|146/copia.md |1850 Berenbusch No. 18 Contract Copy
+
+|146/cover.md |1808–1810/1850 Case Cover
+
+|146/doc10.md |Krückeberg Fee Certificate
+
+|146/doc11.md |Krückeberg Purchase Deed Draft
+
+|146/doc1-2nd-analysis.md |1808 Petition Analysis II
+
+|146/doc1.md |Krückeberg Evesen Petition
+
+|146/doc1-analysis.md |1808 Petition Analysis
+
+|146/doc2.md |Bückeburg–Arensburg Office Report
+
+|146/doc3.md |Cameral Rescript Drafts
+
+|146/doc4.md |Bückeburg–Arensburg Office Report
+
+|146/doc5.md |Cameral Rescript Drafts
+
+|146/doc6.md |Administrative Office Report
+
+|146/doc7.md |Cameral Rescripts and Instruction
+
+|146/doc8.md |Krückeberg Wife Petition
+
+|146/doc9.md |Krückeberg Cameral Decree
+
+|146/index.md |1808–1810/1850 Berenbusch No. 18
+
+|146/other-docs.md |Other Documents
+
+|146/petition-to-sell-cover-sheet.md |Sale Petition Cover Sheet
+
+|146/report-to-bueckeburg-amt-9-26-50.md |1850 Bückeburg Office Sale Report
+
+|146/report-to-kammer-from-bueckeburg-amt-9-19-50.md |1850 Treasury Sale Report
+
+|146/report-to-kammer-from-bueckeburg-amt-9-26-50.md |1850 Treasury Sale Report
+
+|147/contents-list.md |Contents List
+
+|147/cover.md |Berenbusch No. 19 Case Cover
+
+|147/doc5.md |Bückeburg Report and Drawing
+
+|147/index.md |Berenbusch No. 19
+
+|188/abschrift-4386.md |Copy N.C. 4386
+
+|188/cover.md |Case File Cover
+
+|188/index.md |Berenbusch No. 18 Sale
+
+|2713/index.md |1745 Evesen–Berenbusch–Nordholz Survey
+
+|2713/page-110.md |1745 Survey Page 110
+
+|2728/survey-1737.md |1737 Householder Survey
+
+|2741/cover.md |1743–1744 Survey Cover
+
+|2741/index.md |1743–1744 Property Questioning
+
+|2741/title.md |1743–1744 Survey Title Page
+
+|354/cover.md |Bankruptcy Case Cover
+
+|354/image2.md |Bankruptcy Image 2
+
+|354/image3.md |Bankruptcy Image 3
+
+|354/image4.md |Bankruptcy Image 4
+
+|354/index.md |Jobst Krückeberg Bankruptcy
+
+|689/amt-decree.md |1841 Amt Decree
+
+|689/content-list.md |Contents List
+
+|689/cover.md |1841–1845 Loan Case Cover
+
+|689/doc10.md |1841–1845 Promissory Note Follow-ups
+
+|689/doc1.md |1841 Krückeberg Loan Petition
+
+|689/doc2-1.md |1841 Bückeburg Office Report
+
+|689/doc2-2.md |Docket 2 Fragment
+
+|689/doc2-2.md |Docket 2 Fragment
+
+|689/doc2-2.md |1841 Chamber Order Draft
+
+|689/doc3-1.md |1841 Krückeberg Collateral Petition
+
+|689/doc3-2.md |1841 Reck Memorandum
+
+|689/doc3-3.md |1841 Krückeberg Chamber Order Draft
+
+|689/doc4-1.md |1841 Krückeberg Second Petition
+
+|689/doc4-2.md |1841 Creuzinger Order Draft
+
+|689/doc5.md |1841 Creuzinger Report and Site Plan
+
+|689/doc6-1.md |1841 Reck Advisory Submission
+
+|689/doc6-2.md |1841 Supreme Official Order
+
+|689/doc6-3.md |1841 Reck Filing Note and Order
+
+|689/doc7.md |1841 Chamber Order Draft
+
+|689/doc8-1.md |1842 Bückeburg Office Report
+
+|689/doc8-2.md |1842 Rentcammer Order Draft
+
+|689/doc8-3.md |1842 Treasurer Berger Order Draft
+
+|689/doc9.md |1842 District Office Report
+
+|689/docs-1-and-2-analysis.md |Docs 1–2 Analysis
+
+|689/event-log.md |1841–1845 Event Log
+
+|689/glossary.md |Glossary
+
+|689/index.md |1841–1845 Krückeberg Treasury Loan
+
+|689/literal-doc-index.md |Document Index
+
+|689/other-numbering-notes.md |Rentcammer Filing System
+
+|689/rentcammer-and-amt.md |Rentcammer and Bückeburg Amt
+
+|689/roster.md |People and Offices
+
+|689/service-slip-july-10-1841.md |1841 Decree Service Slip
+
+|689/workflow.md |Decision Workflow
+
+|abschrift-16-sept-1850.md |1850 Copy
+
+|rentkammer/case-file-docs-explained.md |Case Files Explained
+
+|rentkammer/rentkammer-and-kolonat-system.md |Rentkammer Overview
+
+|rentkammer/terms.md |Rentkammer Terminology
+
+|ROOT/index.md |Bückeburg Krückeberg Documents
+|===
