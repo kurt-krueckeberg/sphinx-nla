@@ -21,6 +21,20 @@ img.image-override,
   }
 }
 
+/* style literal text with an attractive border */
+.highlight-text.notranslate {
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+  margin-top: 0.4em;
+  border: 3px solid #444;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.highlight-text.notranslate pre {
+  margin-bottom: 0;
+}
+
+
 /* =========================================================================
    Five Optional palette blocks for sphinx_book_theme and pydata_sphinx_theme.
    ========================================================================== */
