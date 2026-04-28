@@ -54,12 +54,10 @@ html[data-theme="dark"] {
 /* Set the active color palette */
 html[data-theme="light"] {
   --pst-color-primary: #276be9;
-  --pst-color-secondary: var(--pst-color-warning);
 }
 
 html[data-theme="dark"] {
   --pst-color-primary: #79a3f2;
-  --pst-color-secondary: var(--pst-color-warning);
 }
 
 /* 3) Matplotlib (derived from docs CSS) */
