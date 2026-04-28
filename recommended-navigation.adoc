@@ -3,13 +3,11 @@
 |===
 |File |Recommended nav title |Current H1 header
 
-|1237/intro.md |Introduction |Jobst Heinrich Krückeberg Petition (29 May 1798)
-
 |1237/doc1.md |1798 Krückeberg Petition |Jobst Heinrich Krückeberg Petition (29 May 1798)
 
-|1237/doc2.md |1799 Krückeberg Land Report |Land Assignment Report and Its Offical Response (27 Feb. 1799)
+|1237/doc2.md |1799 Land Report Response |Land Assignment Report and Its Offical Response (27 Feb. 1799)
 
-|1237/doc3.md |1799 Cammer Directive |Cammer Directive (11 Mar. 1799)
+|1237/doc3.md |1799 Fiscal Chamber Directive |Rentkammer Directive (11 Mar. 1799)
 
 |1237/doc4.md |1800 Parcel Drawing Submission |Submission of Geometric Drawing of Proposed Parcels to be Allocated (18 Oct. 1800)
 
