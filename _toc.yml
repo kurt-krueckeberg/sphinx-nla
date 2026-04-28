@@ -98,13 +98,13 @@ parts:
           - file: 146/doc9.md
           - file: 146/doc10.md
           - file: 146/doc11.md
-        title: Other Documents
-        sections:
-          - file: 146/petition-to-sell-cover-sheet.md
-          - file: 146/carl-fried-supplication-to-sell.md
-          - file: 146/actum-bueckeburg-am-Amte-9-16-50.md
-          - file: 146/report-to-kammer-from-bueckeburg-amt-9-19-50.md
-          - file: 146/report-to-kammer-from-bueckeburg-amt-9-26-50.md
-          - file: 146/report-to-bueckeburg-amt-9-26-50.md
-          - file: 146/copia.md  
+#     - title: Other Documents
+#       sections:
+#         - file: 146/petition-to-sell-cover-sheet.md
+#         - file: 146/carl-fried-supplication-to-sell.md
+#         - file: 146/actum-bueckeburg-am-Amte-9-16-50.md
+#         - file: 146/report-to-kammer-from-bueckeburg-amt-9-19-50.md
+#         - file: 146/report-to-kammer-from-bueckeburg-amt-9-26-50.md
+#         - file: 146/report-to-bueckeburg-amt-9-26-50.md
+#         - file: 146/copia.md  
  
