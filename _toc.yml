@@ -34,7 +34,7 @@ parts:
             title: Case File Cover
           - file: 1237/intro
             title: Introduct
-          - file: 1237/narr-timeline
+          - file: 1237/timeline
             title: Timeline
           - file: 1237/doc1
           - file: 1237/doc2

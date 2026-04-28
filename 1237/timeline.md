@@ -1,6 +1,6 @@
 # Narrative Timeline
 
-## Compressed Timeline
+## Timeline
 
 ```{list-table}
 :header-rows: 1
