@@ -3,7 +3,7 @@
 |===
 |File |Recommended nav title |Current H1 header
 
-|1237/cover.md |1798–1800 Krückeberg Case Cover |Case File Cover
+|1237/intro.md |Introduction |Jobst Heinrich Krückeberg Petition (29 May 1798)
 
 |1237/doc1.md |1798 Krückeberg Petition |Jobst Heinrich Krückeberg Petition (29 May 1798)
 
