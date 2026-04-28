@@ -31,9 +31,7 @@ parts:
         title:  Krückeberg No. 10 Berenbusch Land Enlargement Request
         sections:
           - file: 1237/cover
-            title: Case File Cover
           - file: 1237/intro
-            title: Introduct
           - file: 1237/timeline
             title: Timeline
           - file: 1237/doc1
