@@ -1,50 +1,25 @@
-/* Style custom site header */
-.kg-site-header {
-  width: 100%;
-  border-bottom: 1px solid var(--pst-color-border, #d9d9d9);
-  background: var(--pst-color-background, #fff);
+/* creates a shadow-obrder for images */
+img.image-override,
+.image-override img {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.20);
+  border-radius: 4px;
+  background: white;
+  padding: 6px;
+  max-width: 100%;
+  height: auto;
+  cursor: zoom-in;
 }
 
-.kg-site-header__inner {
-  max-width: 88rem;
-  margin: 0 auto;
-  padding: 0.75rem 1rem;
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  text-decoration: none;
-}
-
-.kg-site-header__inner:hover,
-.kg-site-header__inner:focus {
-  text-decoration: none;
-}
-
-.kg-site-header__logo {
-  width: 2.25rem;
-  height: 2.25rem;
-  display: block;
-  flex: 0 0 auto;
-}
-
-.kg-site-header__title {
-  font-size: 1.25rem;
-  font-weight: 700;
-  line-height: 1.1;
-  letter-spacing: 0.01em;
-  color: var(--pst-color-text-base, inherit);
-}
-
-@media (max-width: 575px) {
-  .kg-site-header__title {
-    font-size: 1.05rem;
-  }
-
-  .kg-site-header__inner {
-    padding: 0.6rem 0.8rem;
+@media (prefers-color-scheme: dark) {
+  img.image-override,
+  .image-override img {
+    box-shadow:
+      0 0 0 1px rgba(255, 255, 255, 0.10),
+      0 6px 16px rgba(0, 0, 0, 0.55);
+    background: #1f1f1f;
+    cursor: zoom-in;
   }
 }
-
 
 /* =========================================================================
    Five Optional palette blocks for sphinx_book_theme and pydata_sphinx_theme.
