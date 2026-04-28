@@ -66,7 +66,7 @@ sphinx:
       - overrides.css
 
     html_js_files:
-      - antora-self-link.js
+      - clickable-images.js
 
     html_theme_options:
       home_page_in_toc: true
