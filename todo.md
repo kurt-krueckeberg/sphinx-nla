@@ -2,17 +2,20 @@
 
 ## Finish `_toc.yml`
 
-Use `new-navigation.txt` as a starting point. I might prefer long versions.
+Use `recommended-navigation.txt` as a starting point. I might prefer long versions than it has.
 
 Consider also:
 
-- Use ./rewrite-headers to make hh1 headers shorten and add their
-  Desination Actorum description as the first item on the page.
-It takes a TSV file as input.
+- Use the script `./rewrite-header` to change the h1 headers, and insert their
+  Desination Actorum description as the first item on the page below the h1
+header. The script takes a TSV file as input. It defaults to 'dry run'.
 
-## Add borders to literal blocks and images like in JB2
+## Add shadow borders to literal blocks and images like in JB2
 
-## Make the content area a fixed wide but...
+## Make image zoomoable
+
+## Make the content area a fixed wide but provide CSS to support 'wide'
+pages...
 
 Currently, the content area can grow larger if its content is wide.
 
