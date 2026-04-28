@@ -78,4 +78,33 @@ parts:
           - file: 1291/doc20.md
           - file: 1291/doc21.md
           - file: 1291/doc22.md
-       
+      
+      - file: 146/content.md
+        title: Berenbusch No. 18 Holding (1808–1810, 1850)
+        sections:
+          - file: 146/intro.md
+          - file: 146/cover.md
+          - file: 146/doc1.md
+          - file: 146/doc1-analysis.md
+          - file: 146/doc1-2nd-analysis.md
+          - file: 146/doc2.md
+          - file: 146/doc3.md
+          - file: 146/doc4.md
+          - file: 146/doc5.md
+          - file: 146/doc6.md
+          - file: 146/ad6-survey-drawing.md
+          - file: 146/doc7.md
+          - file: 146/doc8.md
+          - file: 146/doc9.md
+          - file: 146/doc10.md
+          - file: 146/doc11.md
+        title: Other Documents
+        sections:
+          - file: 146/petition-to-sell-cover-sheet.md
+          - file: 146/carl-fried-supplication-to-sell.md
+          - file: 146/actum-bueckeburg-am-Amte-9-16-50.md
+          - file: 146/report-to-kammer-from-bueckeburg-amt-9-19-50.md
+          - file: 146/report-to-kammer-from-bueckeburg-amt-9-26-50.md
+          - file: 146/report-to-bueckeburg-amt-9-26-50.md
+          - file: 146/copia.md  
+ 
