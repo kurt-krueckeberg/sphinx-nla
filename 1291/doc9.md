@@ -1,4 +1,4 @@
-# Prepared official decision of the Princely Finance Office, based on a submission from the local office
+# Document 9: Prepared official decision of the Princely Finance Office, based on a submission from the local office
 
 ## Digital Images
 
@@ -12,8 +12,7 @@
 
 ## Translation and Transliteration
 
-```text
-:class: bordered
+```{code-block} text
 
 ad. Num: Cam: 101.                                          9.,
 ad. Num. Praef. 831.
@@ -82,8 +81,7 @@ both square feet and acres.
 
 :::
 
-```text
-:class: bordered
+```{code-block} text
 
 ad. Num: Cam: 101                                                 9.,
 ad. Num. Praef. 831.

@@ -1,4 +1,4 @@
-# Prepared official decision of the Princely Finance Office to the local office.
+# Document 7: Prepared official decision of the Princely Finance Office to the local office.
 
 ## Digital Image
 
@@ -8,8 +8,7 @@
 
 ## Tramsliteration and Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 N. C. 16.                                             7.,
 N. A. 749.
@@ -35,8 +34,7 @@ mit Zuziehung des Oberförsters, in einer Fläche von 1 bis 1 ½ Morgen
 Exp: p: Alocis
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 N.C. 16.
 N.A. 749.

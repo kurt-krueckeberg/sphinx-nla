@@ -1,4 +1,4 @@
-# Prepared official decision of the Princely Finance Office addressed to the aforementioned (Brüggemann).
+# Document 15: Prepared official decision of the Princely Finance Office addressed to the aforementioned (Brüggemann).
 
 ## Chancery resolution
 
@@ -10,7 +10,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 Num: Cam: 386                             15.)
 St. 3 mg.
@@ -38,7 +38,7 @@ Fürstlich pp.
 
 Translation
 
-```text
+```{code-block} text
 
 No. Cam. 386                                               15.)
 Stamp: 3 Mariengroschen

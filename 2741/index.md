@@ -78,7 +78,7 @@ likely because they did not meet the criteria of property holders.
 
 Transliteration
 
-```text
+```{code-block} text
 
 N. X [Rf?] er hiesse
 
@@ -216,7 +216,7 @@ It does not give the persons through whom the tenure right could pass.
 
 Translation
 
-```text
+```{code-block} text
 
 Heading: “N. X [Rentkammer-Fragen?] how he is called”
 

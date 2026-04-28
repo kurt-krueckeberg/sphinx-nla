@@ -67,7 +67,7 @@ With these actions, the land enlargement for Krückeberg moved from
 
 Transliteration
 
-```text
+```{code-block} text
 
 ad Nr: D: 322. S. S.
 Concept Cammer: Rescript an die Beamten zu Bückeburg
@@ -102,7 +102,7 @@ J. Danckwerth
 
 Translation
 
-```text
+```{code-block} text
 
 Regarding the same matter as No. D: 322
 Draft: Cammer directive
@@ -142,7 +142,7 @@ Wint
 
 Transliteration
 
-```text
+```{code-block} text
 
 Concept Cammer: Anweisung
 an den Cammerrentmeister
@@ -170,7 +170,7 @@ Wipperman
 
 Translation
 
-```text
+```{code-block} text
 
 Draft: Chamber Directive
 to the Chamber Rentmaster Stackmann

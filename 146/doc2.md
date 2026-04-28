@@ -36,9 +36,9 @@ holder in May of 1798 because his son Jobst Heinrich, when he petitions the
 Rentkammer to expands his grounds and garden, is called
 [Colon Krückeberg](../1237/cover.md). See references to Jobst Heinrich:
 
-- [Document 2: Land Assignment Report and Its Offical Response (27 Feb. 1799)](../1237/doc2.md)
-- [Document 4: Submission of Geometric Drawing of Proposed Parcels to be Allocated (18 Oct. 1800)](../1237/doc4.md)
-- [Document 6: Deed Issued (1 Dec. 1800)](../1237/doc6.md)
+- [Land Assignment Report and Its Offical Response (27 Feb. 1799)](../1237/doc2.md)
+- [Submission of Geometric Drawing of Proposed Parcels to be Allocated (18 Oct. 1800)](../1237/doc4.md)
+- [Deed Issued (1 Dec. 1800)](../1237/doc6.md)
 ```
 
 ## Images for Document #1
@@ -66,7 +66,7 @@ by a separate block with the transliteration of theRentkammer’s response.
 
 Transliteration of main text of report
 
-```text
+```{code-block} text
 
 N.C. 287.                         pr. 27. Oct. 1808.
 
@@ -115,7 +115,7 @@ text. Both blocks of text are transliterated below.
 
 Transliteration of Rentkammer Response
 
-```text
+```{code-block} text
 
 Res: Cam: Die Ausweisung des Platzes, von etwa ½ to ¾ Morgen, in
 derjenigen Grenzen, welche von der Forst-Direction dem Oberförster
@@ -143,7 +143,7 @@ could reasonably finance the construction of his own house.
 
 Translation of Document 2
 
-```text
+```{code-block} text
 
 N.C. 287.                         received 27 Oct. 1808.
 
@@ -178,7 +178,7 @@ Habicht Neussel
 
 Translation of the Rentkammer’s response.
 
-```text
+```{code-block} text
 
 Rentkammer Response (Res. Cam.):
 

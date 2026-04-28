@@ -1,4 +1,4 @@
-# Treasury receipt
+# Document 18: Treasury receipt
 
 ## Chamber Treausry Recept
 
@@ -10,7 +10,7 @@
 
 Translation
 
-```text
+```{code-block} text
 
 18.)
 
@@ -29,7 +29,7 @@ Bückeburg
 
 Transliteration
 
-```text
+```{code-block} text
 
 18.)
 

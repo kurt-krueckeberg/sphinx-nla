@@ -1,4 +1,4 @@
-# Petition of the Shoemaker Krückeberg No. 10. zu Berenbusch
+# Document 1: Petition of the Shoemaker Krückeberg No. 10. zu Berenbusch
 
 ## Digital Image
 
@@ -11,8 +11,7 @@
 The spelling, grammar and punctuation have been normalized in this
 transliteration.
 
-```text
-:class: bordered
+```{code-block} text
 
 N. 67                                 1
 
@@ -48,8 +47,7 @@ No. 10 Berenbusch, den 1ten Januarÿ 1817
 Schuster Krückeberg
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 No. 67                                   1
 

@@ -10,7 +10,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 Bauerguter & Colonien
 Special                       Rep: II
@@ -33,7 +33,7 @@ die Neubauer-Stätte des Triftmeyer N. 19 zu Bärenbusch betr.
 
 Translation
 
-```text
+```{code-block} text
 
 Farm Holdings & Colonies
 [.underline]#Special                       Rep: II

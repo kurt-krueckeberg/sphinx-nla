@@ -1,4 +1,4 @@
-# Report of the local office, with drawing and specification.
+# Document 11: Report of the local office, with drawing and specification.
 
 ## Digital Image
 
@@ -69,7 +69,7 @@ So this note is basically saying:
 
 Transliteration
 
-```text
+```{code-block} text
 
 N. 257.
 [document number:]11.
@@ -160,8 +160,7 @@ an Kammeral Prestanden
 
 ### Specification’s Transliteration
 
-```text
-:class: bordered
+```{code-block} text
 
 ad 11
 
@@ -208,8 +207,7 @@ Specification von dreÿ Auswiesungen im Baumer Forste.
   - 
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 Die obigen 3 Ausweisungen, wovon die Zeichnung hierneben beigefügt ist,
 sind im Baumer Forste, bei Nordholz, belegen.
@@ -220,8 +218,7 @@ L. Stille
 
 ## Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 No. 257 — 11.)
 
@@ -309,8 +306,7 @@ Kammeral dues table in text
 
 ### Specification’s Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 Regarding document 11
 
@@ -357,8 +353,7 @@ Specification of three land assignments in the Baumer Forest.
   - 
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 The above three land assignments, the drawing of which is attached here,
 are situated in the Baumer Forest, near Nordholz.

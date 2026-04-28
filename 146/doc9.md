@@ -24,7 +24,7 @@ remained with the territorial authority.
 
 Transliteration
 
-```text
+```{code-block} text
 
 ad Num 394
 E: K: Erlass
@@ -48,7 +48,7 @@ Wandt
 
 Translation
 
-```text
+```{code-block} text
 
 Ref. no. 394
 Concept: Chamber Decree

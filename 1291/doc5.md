@@ -1,4 +1,4 @@
-# Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office
+# Document 5: Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office
 
 ## Petition Docket Page
 
@@ -52,8 +52,7 @@
 
 ## Transliteration and Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 N. 584.
 
@@ -110,8 +109,7 @@ explaining that his service with the British resulted from captivity during
 the war, not voluntary disloyalty.
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 N. 584
 
@@ -158,8 +156,7 @@ Aswellmann p [?] [?]
 
 ### Resolution of Rentkammer
 
-```text
-:class: bordered
+```{code-block} text
 
 Res: Cam: Dem Amte Bückeburg B.M. zum Berichte in Beziehung auf die
 Huthberechtigten und auf die gewöhnlichen Berücksichtigungen. Dem Berichte
@@ -170,8 +167,7 @@ beizufügen.
 Bückeb: 22 Dec. 1817 MKaas
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 Chamber resolution:
 

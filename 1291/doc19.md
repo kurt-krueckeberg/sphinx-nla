@@ -1,4 +1,4 @@
-# Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.
+# Document 19: Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.
 
 ## Purchase Contract
 
@@ -18,7 +18,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 St. 3 mg                                                 19.)
 
@@ -85,7 +85,7 @@ is a **variable public tax**.
 
 Translation
 
-```text
+```{code-block} text
 
 Stamp: 3 Groschen                                        <emphasis role="strong">19.)</emphasis>
 

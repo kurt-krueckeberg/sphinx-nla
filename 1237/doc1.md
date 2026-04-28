@@ -10,7 +10,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 der Colon Krückeberg Nr. 10
 zu Berenbusch bittet unter-
@@ -25,7 +25,7 @@ Rentkammer
 
 Translation
 
-```text
+```{code-block} text
 
 The Colon Krückeberg No. 10
 in Berenbusch humbly requests:
@@ -71,7 +71,7 @@ the "Res Cam" was initialed by him.
 
 Transliteration
 
-```text
+```{code-block} text
 
 Cam: Nr: 662.                       Nr: 1.
                                     praes: 30. May 1798.
@@ -108,7 +108,7 @@ pro St[atuent].
 
 Translation
 
-```text
+```{code-block} text
 
 Chamber: No. 662                                             No. 1.
                                               presented: 30 May 1798
@@ -150,7 +150,7 @@ of the petition.
 
 Transliteration
 
-```text
+```{code-block} text
 
 Res Cam
 zum Forstamts Bericht
@@ -169,7 +169,7 @@ zu pflanzen.
 
 Translation
 
-```text
+```{code-block} text
 
 Concerning the Chamber’s directive:
 Forestry Office report.
@@ -201,7 +201,7 @@ only this short reference and the Amt’s subsequent [Report on the matter](doc2
 
 Translation
 
-```text
+```{code-block} text
 
 Res Cam Brevi manu dem Amts zum Berichte.
 
@@ -210,7 +210,7 @@ B. 18 Febr 1799    MKaas
 
 Transliteration
 
-```text
+```{code-block} text
 
 Chamber decision:
 Sent directly to the Amt for a report.

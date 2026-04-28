@@ -10,7 +10,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 Num: 452.
 [W?]ackelwer[k/t] (ambiguous surname)
@@ -28,7 +28,7 @@ Staackmann
 
 Translation
 
-```text
+```{code-block} text
 
 No. 452.
 [W?]ackelwer[k/t] (ambiguous surname)

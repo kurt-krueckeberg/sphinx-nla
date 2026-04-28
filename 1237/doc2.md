@@ -50,7 +50,7 @@ garden expansions in Berenbusch and to report back.
 
 Transliteration
 
-```text
+```{code-block} text
 
 Cam: N: 53.                pr: 6. Merz 1799           2
 Forst-Sachen
@@ -94,7 +94,7 @@ was a small edge-of-village holding. It tells us:
 
 Translation
 
-```text
+```{code-block} text
 
 Chamber No. 53                presented March 6, 1799
 Forestry Matters
@@ -129,7 +129,7 @@ This reaction is written onto the left side of Document 2 to give feedback.
 
 Transliteration
 
-```text
+```{code-block} text
 
 Res Cam [Rescriptum Cammerale]
 
@@ -144,7 +144,7 @@ M
 
 Translation
 
-```text
+```{code-block} text
 
 Official Resolution of the Chamber
 

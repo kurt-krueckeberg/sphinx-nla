@@ -1,4 +1,4 @@
-# Report of the local office, with drawing
+# Document 8: Report of the local office, with drawing
 
 ## Digital Images
 
@@ -16,8 +16,7 @@
 
 ## Translation and Transliteration
 
-```text
-:class: bordered
+```{code-block} text
 
 N. 101.
 p. 20 Febr. 1818
@@ -69,8 +68,7 @@ Bückeb: 23. Febr. 1818.
 MKaas
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 No. 101.
 p. 20 February 1818
@@ -124,8 +122,7 @@ M. Kaas
 
 ### Drawing Legend
 
-```text
-:class: bordered
+```{code-block} text
 
 Auf Befehl der Forst Direction
 soll der Platz, mit A und B.
@@ -145,8 +142,7 @@ J. Weilands Kamp N. 6. in Nordholz
 K. die angrenzende Petzen Horst
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 By order of the Forestry Directorate, the plot marked A and B is to be
 designated for two new settlers; it is situated in the Petzen Horst and

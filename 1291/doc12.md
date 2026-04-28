@@ -1,4 +1,4 @@
-# Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury
+# Document 12: Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury.
 
 ## Digital Images
 
@@ -18,7 +18,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 St. 3 mg.                                      12.)
 
@@ -99,7 +99,7 @@ Spring
 
 Translation
 
-```text
+```{code-block} text
 
 Stamp: 3 Mariengroschen                                  12.)
 

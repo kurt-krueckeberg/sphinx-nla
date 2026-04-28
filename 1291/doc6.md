@@ -1,4 +1,4 @@
-# Prepared official decision of the Princely Finance Office to the local office
+# Document 6: Prepared official decision of the Princely Finance Office to the local office
 
 ## Digital Images
 
@@ -78,7 +78,7 @@ appropriate.
 
 Transliteration
 
-```text
+```{code-block} text
 
 N. 16                                                          6.,
 
@@ -144,7 +144,7 @@ decision afterward, especially when the larger farmers support it.
 
 Translation
 
-```text
+```{code-block} text
 
 No. 16                    6
 
@@ -205,8 +205,7 @@ allotment that is to be carried into effect under a Chamber resolution. It
 does not issue a new order; it simply records that the allotment stands in
 the implementation stage.
 
-```text
-:class: bordered
+```{code-block} text
 
 Res. Cam. Nach
 die Ausweisung einer zu  bewirkfällige[n]
@@ -214,8 +213,7 @@ die Ausweisung einer zu  bewirkfällige[n]
          in. fid. Spring
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 Chamber Resolution: Accordingly, the allotment is to be carried out.
 Bückeburg, 12 January 1818.

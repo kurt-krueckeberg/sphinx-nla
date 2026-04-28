@@ -27,11 +27,9 @@ The letter was signed in Bückeburg by **J. H. Hablick** and **Stöling**.
 
 **Meaning of "Ruthe"**
 
-In the report, measurements were given in **Ruther (rods)** and **Fuß
-(feet)**. A **"Ruther"** is a measure of area — a Quadratruthe (square
-rod).  German officials in the 18th–19th centuries often shortened
-Quadratruthe (square rods) simply to Ruthe when the meaning was clear from
-context, as the word “Flächengehalt” (surface area) indicates.
+In the report, measurements were given in **Ruther (rod)** and **Fuß (feet)**. A **"Ruther"** is a measure of area — a
+Quadratruthe (square rod).  German officials in the 18th–19th centuries often shortened Quadratruthe (square
+rods) simply to Ruthe when the meaning was clear from context, as the word “Flächengehalt” (surface area) indicates.
 
 The exact value of a Quadratruthe varied locally. In Schaumburg-Lippe, 1 Ruthe (area) was defined as:
 
@@ -83,7 +81,7 @@ Michaelmas (Michaeli) = Feast of Saint Michael the Archangel, celebrated on 29 S
 
 Transliteration
 
-```text
+```{code-block} text
 
 Cam:Nr:322. Forstsachen
 
@@ -110,7 +108,7 @@ S. Bückeburg, 18ten Oct. 1800.
 
 Translation
 
-```text
+```{code-block} text
 
 Cam: No. 322. Forestry matters
 

@@ -10,7 +10,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 N. C. 4549.
 N. P. 1362.

@@ -1,8 +1,8 @@
-# Case File Cover
+# NLA 1291: Case File Cover
 
 Transliteration
 
-```text
+```{code-block} text
 
 Ausweisungen & Rottländereien                   Rep II
 
@@ -24,7 +24,7 @@ den N. 13 & 14 in Nordholz.
 
 Translation
 
-```text
+```{code-block} text
 
 Allocations & Cleared Lands Rep. II
 

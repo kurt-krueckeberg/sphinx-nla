@@ -1,4 +1,4 @@
-# 1824-1849 Timeline
+# Narrative Timeline
 
 ## Petition of Widow Krückeberg (8 July 1824)
 

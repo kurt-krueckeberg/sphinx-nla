@@ -48,7 +48,7 @@ estimation.
 
 Transliteration of Survey Text
 
-```text
+```{code-block} text
 
 ad Nr. 6
 
@@ -66,7 +66,7 @@ L Stille
 
 Translation of survey text
 
-```text
+```{code-block} text
 
 ad No. 6 (with reference to document no. 6)
 

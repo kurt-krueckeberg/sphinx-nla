@@ -18,8 +18,7 @@
 
 TODO: Normalize the spelling.
 
-```text
-:class: bordered
+```{code-block} text
 
 N. 392.              Tract: By in Can.     p. 16 Sept. 1818
                                                16.
@@ -63,7 +62,7 @@ MKaas
 
 Vertical Text on Right Side of Page
 
-```text
+```{code-block} text
 
 P.N.
 
@@ -75,8 +74,7 @@ erhaltene Vergrößerung umsonst haben! Das ist unbescheiden.
 MKaas
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 To the Chamber
 [uncertain]
@@ -115,7 +113,7 @@ M. Kaas
 
 Vertical Text on Right Side of Page
 
-```text
+```{code-block} text
 
 For the record:
 

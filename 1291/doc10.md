@@ -1,4 +1,4 @@
-# Petition of Vogt from Nordholz, with drawing
+# Document 10: Petition of Vogt from Nordholz, with drawing
 
 ## Petition Docket Page
 
@@ -8,8 +8,7 @@
 
 ## Transliteration and Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 Unterthänigste Bitte
 des Neubauers Vogt in
@@ -25,8 +24,7 @@ An
 Fürstliche Rentkammer
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 Most humble petition
 of the Neubauer Vogt in Nordholz
@@ -58,8 +56,7 @@ Princely Rent Chamber
 
 ## Transliteration and Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 N. 237                                        10.)
 
@@ -115,8 +112,7 @@ Bückeburg am 24sten May 1818.
 Adb. Weissich pr. Gn
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 No. 237                                                         10.)
 

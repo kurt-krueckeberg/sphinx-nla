@@ -10,7 +10,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 NC 274                       pr. in Cam 17 Jan. 1842
 
@@ -47,7 +47,7 @@ Amt zu versehe[n]. Bbg. 20. Jan 42.
 
 Translation
 
-```text
+```{code-block} text
 
 N. C. 274 — presented in the chamber on 17 Jan. 1842.
 

@@ -40,8 +40,7 @@ felled and sold by the forestry office
 
 The complete text and its translation:
 
-```text
-:class: bordered
+```{code-block} text
 
 ad nr: Cam: 53. S. S. [Signatum Supra]
 Concept Cammer: Rescript
@@ -85,7 +84,7 @@ Wippermann
 
 Translation
 
-```text
+```{code-block} text
 
 Concerning Chamber file no. 53 (same as above)
 Draft of the Chamber’s Rescript to the Officials at Bückeburg

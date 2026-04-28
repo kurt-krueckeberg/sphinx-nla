@@ -15,7 +15,7 @@ forester Falkmann" mean?
 
 Transliteration
 
-```text
+```{code-block} text
 
 N. C. 15.
 
@@ -51,7 +51,7 @@ MKaas
 
 Translation
 
-```text
+```{code-block} text
 
 N. C. 15.
 

@@ -1,4 +1,4 @@
-# Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.
+# Document 2: Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.
 
 ## Digital Image
 
@@ -8,8 +8,7 @@
 
 ## Transliteration and Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 N. Cam. 62.                            2.
 
@@ -43,8 +42,7 @@ MKaas
 The **Söhre** was a locally named tract of village forest/common land near Berenbusch, from which parcels could be sold or allotted.
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 N. Cam. 62.                                         2.
 
@@ -80,8 +78,7 @@ MKaas
 
 ## Transliteration and Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 R. Cam. (Resolutio Camerae) Die Kammer ist der Meinung, daß dem Krückeberg
    der kleine mit A auf der Zeichnung bemerkte Platz, etwa 1/2 Morgen,
@@ -93,8 +90,7 @@ Bbg. 10ten Feb. 1817
 T Landesberg
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 Resolution of the Chamber. The Chamber is of the opinion that the small
 parcel marked with A on the drawing, about 1/2 Morgen, should be granted to
@@ -116,8 +112,7 @@ T Landesberg
 
 ## Transliteration and Translatin
 
-```text
-:class: bordered
+```{code-block} text
 
 ad 2.
 
@@ -136,8 +131,7 @@ Baum d: 2ten Febr. 1817
 Falckmann
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 ad 2 [pertaining to document 2]
 
@@ -167,7 +161,7 @@ Falckmann
 
 Transliteration
 
-```text
+```{code-block} text
 
                      Der Raue Knick
 
@@ -193,7 +187,7 @@ Forst
 
 Translation
 
-```text
+```{code-block} text
 
                      The Rough Hedge
 

@@ -1,4 +1,4 @@
-# Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office
+# Document 4: Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office
 
 ## Petition Docket Page
 
@@ -8,8 +8,7 @@
 
 ## Transliteration and Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 An furstl. Rentkammer
 
@@ -34,8 +33,7 @@ Um Platz zum Hausbau
 
 ## Transliteration and Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 N. 520                                  4.
 
@@ -81,8 +79,7 @@ suppl Bbg
 [various initials]
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 No. 520             4
 
@@ -131,7 +128,7 @@ Suppl. Bückeburg
 
 Transliteration
 
-```text
+```{code-block} text
 
 Res: Cam: Dem Amte Bückeburg b: M: zum Berichte mitzuteilen in Beziehung
 auf die Huthberechtigten, und auf das Vermögen und die Persönlichkeit des
@@ -142,7 +139,7 @@ B. 10 Nov. 1817                            MKaas
 
 Translation
 
-```text
+```{code-block} text
 
 Royal Chamber Resolution: The Amt of Bückeburg is instructed to submit a
 report concerning the holders of grazing (common pasture) rights, and

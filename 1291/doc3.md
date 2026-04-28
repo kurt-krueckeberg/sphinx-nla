@@ -1,4 +1,4 @@
-# Prepared official decision of the Princely Finance Office to the local office
+# Document 3: Prepared official decision of the Princely Finance Office to the local office
 
 ## Digital Image
 
@@ -8,8 +8,7 @@
 
 ## Transliteration and Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 N.C. 62                                          3.)
 
@@ -46,8 +45,7 @@ equivalents.
 
 :::
 
-```text
-:class: bordered
+```{code-block} text
 
 N.C. 62                                          3.)
 

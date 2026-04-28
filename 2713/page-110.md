@@ -12,7 +12,7 @@ On page 110 Berenbusch:
 
 Transliteration
 
-```text
+```{code-block} text
 
 No. 10 am Hause
 Johann Henrich Krickeberg zu Behrenbusch
@@ -30,7 +30,7 @@ In modern terms, ¾ Morgen and 29 squre Ruten comes to about 0.6 acres.
 
 Translation
 
-```text
+```{code-block} text
 
 No. 10 (the house site)
 Johann Heinrich Krückeberg of Berenbusch

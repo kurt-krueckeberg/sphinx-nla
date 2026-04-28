@@ -29,7 +29,7 @@ that it covers only the year 1747.
 
 Transliteration
 
-```text
+```{code-block} text
 
 Colonatsachen
 
@@ -48,7 +48,7 @@ Kolonen
 
 Translation
 
-```text
+```{code-block} text
 
 Colonate Matters
 

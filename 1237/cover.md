@@ -10,7 +10,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 Ausweisungen & Rottländereien
 Specia
@@ -41,7 +41,7 @@ C. 67
 
 Transliteration
 
-```text
+```{code-block} text
 
 Land Allocations & Cleared Lands
 Case file

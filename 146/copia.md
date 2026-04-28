@@ -43,7 +43,7 @@ by nails.”
 
 Transliteration
 
-```text
+```{code-block} text
 
 Copie
 
@@ -131,7 +131,7 @@ gez. Lagerfeldt Krieger König
 
 Translation
 
-```text
+```{code-block} text
 
 Copy
 

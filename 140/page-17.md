@@ -34,8 +34,7 @@ sponsor of Johann Heinrich Krückeberg’s son, Johann Friedrich, who was born
 in 1728. See {external+genealogy:doc}`1728 Johann Friedrich Krückeberg Baptized <petzen/PET-B-1728a>`.
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 Joh. Heinr. Kreutler modo Daniel Steding
 
@@ -56,16 +55,14 @@ Joh. Heinr. Kreutler modo Daniel Steding
 change of **holder** for a numbered holding: **Former holder** → **now**
 → **current holder**. So the entry:
 
-```text
-:class: bordered
+```{code-block} text
 
 Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
 ```
 
 means:
 
-```text
-:class: bordered
+```{code-block} text
 
 Johann Tönnies Eggerding, now Johann Heinrich Krückeberg.
 ```

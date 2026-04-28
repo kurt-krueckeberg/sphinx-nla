@@ -29,7 +29,7 @@ The difference is:
 
 Transliteration
 
-```text
+```{code-block} text
 
 394. F. S.
 pr 7. Decber 1809
@@ -61,7 +61,7 @@ B. 11. Decem.
 
 Translation
 
-```text
+```{code-block} text
 
 394. F. S.
 Presented 7 December 1809

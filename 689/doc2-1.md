@@ -29,8 +29,7 @@ The case file then includes two ancillary items:
 
 The notation in the left margin of the first page
 
-```text
-:class: bordered short-width
+```{code-block} text
 
 Num Pr. 1274
   ad

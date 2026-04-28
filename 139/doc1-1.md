@@ -35,7 +35,7 @@ of her holding.
 
 Transliteration
 
-```text
+```{code-block} text
 
 N. C. 2816.                Praes: 8 Jul. 24.
 HKR Sp.[likely initials of Rentcammer officials]
@@ -65,7 +65,7 @@ G. Schultze
 
 Translation
 
-```text
+```{code-block} text
 
 N. C. 2816.                presented: 8 Jul. 24.
 HKR Sp.[likely initials of these Rentcammer officials]
@@ -108,7 +108,7 @@ petition of the widow Krückeberg.
 
 Transliteration
 
-```text
+```{code-block} text
 
                  R. C. b. m. zum Amtsbericht
                     B. 12 Jul 1824
@@ -138,7 +138,7 @@ Georg Wilhelm.   Verte
 
 Translation
 
-```text
+```{code-block} text
 
 Rentkammer note: case assigned to me for handling the report from the
 Office of Bückeburg
@@ -185,7 +185,7 @@ request in the Amt report.
 
 Transliteration
 
-```text
+```{code-block} text
 
 Es ist auch nach Bericht darüber zu fordern, ob Supplikantin das Stück
 Land von der Söhren noch besitzt, welches der Krückeberg für 800 rthl von
@@ -198,7 +198,7 @@ Vert.
 
 Translation
 
-```text
+```{code-block} text
 
 It is also to be requested by report whether the petitioner still
 possesses the piece of land near the Söhren which Krückeberg purchased
@@ -219,7 +219,7 @@ documents.”
 ### Summary of Last Three Documents
 
 This is the image of the last three documents (all on the same page) of the five related documents grouped as #1 in
-the [Designatio Actorum](contents-list.md) (the contents list). These are:
+the [Designatio Actorum](content.md) (the contents list). These are:
 
 1. **Rought draft (Concept) of the official reply (Rescript) to the widow Krückeberg**
 2. **Likewise: sealed (with the official seal) and signed by Schmöe, Kahlhuth and Creuzinger of Baum**.

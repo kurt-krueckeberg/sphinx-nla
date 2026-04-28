@@ -69,7 +69,7 @@ settlement lands.
 
 Transliteration
 
-```text
+```{code-block} text
 
 N.C. 4386.
 pr. in Cam. 17/9. 50
@@ -113,7 +113,7 @@ Conc.: Cengafelat, och
 
 Translation
 
-```text
+```{code-block} text
 
 Chamber No. 4386.
 Presented to the Chamber on 17 September 1850.

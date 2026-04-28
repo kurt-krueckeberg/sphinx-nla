@@ -1,4 +1,4 @@
-# Concluded purchase contract for Brüggemann No. 14 at Nordholz
+# Document 22: Concluded purchase contract for Brüggemann No. 14 at Nordholz
 
 ## Concluded purchase contract for new settler Brüggemann No. 13 at Nordholz
 
@@ -18,7 +18,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 St. 3 mg.                                                21)
 
@@ -85,7 +85,7 @@ pricing breakdown (of 60 + 103 Ruthen 30 Fuß) mentioned in this document.
 
 Translation
 
-```text
+```{code-block} text
 
 St. 3 mg.                                                21)
 

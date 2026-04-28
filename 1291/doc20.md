@@ -1,4 +1,4 @@
-# Likewise, for the Neubauer (new settler Vogt)  No. 13 at Nordholz
+# Document 20: Likewise, for the Neubauer (new settler Vogt)  No. 13 at Nordholz
 
 ## Concluded purchase contract for new settler Vogt No. 13 at Nordholz
 
@@ -18,7 +18,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 St. 6 mg.                                                20.)
 
@@ -78,7 +78,7 @@ Ruthen).
 
 Translation of Purchase Contract
 
-```text
+```{code-block} text
 
 Office Copy of the Purchase Contract for the Neubauer Vogt No. 13 at
 Nordholz

@@ -28,7 +28,7 @@ This transliteration changed the arachic contraction "ichlso" to "ich also".
 
 Transliteration
 
-```text
+```{code-block} text
 
 NC 4731                                 Jst. ml. 8/8 49.
 Nr. pr. 1313                            Pr. am Amt 15/8 49
@@ -59,7 +59,7 @@ Barkhausen.
 
 Translation
 
-```text
+```{code-block} text
 
 NC 4731. Registered 8 August 1849.
 Registry No. 1313. Presented to the Amt on 15 August 1849.
@@ -95,14 +95,14 @@ Barkhausen.
 
 Transliteration
 
-```text
+```{code-block} text
 
 An Hochfürstliche Rentkammer Bückeburg
 ```
 
 Translation
 
-```text
+```{code-block} text
 
 To the Princely Fiscal Chamber in Bückeburg
 ```

@@ -28,7 +28,7 @@ The report is signed Sander at Bückeburg on 7 August 1824.
 
 Transliteration
 
-```text
+```{code-block} text
 
 N. 2935                    Præs: 8. Aug. 1824.
 voriger Referent.
@@ -54,7 +54,7 @@ Sander
 
 Translation
 
-```text
+```{code-block} text
 
 No. 2935                    Presented: 8 August 1824.
 former rapporteur.

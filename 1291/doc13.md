@@ -1,4 +1,4 @@
-# Chamber treasury receipt
+# Document 13: Chamber treasury receipt
 
 ## Digital Image
 
@@ -8,8 +8,7 @@
 
 ## Transliteration and Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 13.)
 
@@ -29,8 +28,7 @@ Bückeburg
 49 Rthlr
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 This is to certify that the colonist Vogt, no. 13 in Nordholz, has paid
 forty-nine Reichsthaler into the Princely Chamber Treasury for an assigned

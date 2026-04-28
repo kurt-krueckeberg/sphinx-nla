@@ -1,4 +1,4 @@
-# Petition of the new settler Brüggemann No. 14 at Nordholz
+# Document 14: Petition of the new settler Brüggemann No. 14 at Nordholz
 
 **TODO:** The date at the end doesn’t seem, to match the Designatio Actorum?!
 
@@ -50,8 +50,7 @@
 
 ## Transliteration and Translation
 
-```text
-:class: bordered
+```{code-block} text
 
 [3 Gr. Stempel]                                  14.)
 Eingekomm: Cam d. 16 Feb 18
@@ -116,8 +115,7 @@ Bück d 21. Sept. 1818.
 MKaas
 ```
 
-```text
-:class: bordered
+```{code-block} text
 
 [3 Groschen stamp]                                  14.)
 Received by the Chamber on 16 Feb 1818

@@ -1,4 +1,4 @@
-# Prepared official decision of the Princely Finance Office addressed to the same (Krückeberg)
+# Document 17: Prepared official decision of the Princely Finance Office addressed to the same (Krückeberg)
 
 ## Chancery Resolution
 
@@ -10,7 +10,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 Num: Cam: 392.
 St. 3 mg
@@ -36,7 +36,7 @@ Fürstlich pp.
 
 Translation
 
-```text
+```{code-block} text
 
 Chamber File No. 392
 Stamp: 3 Groschen

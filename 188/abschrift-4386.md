@@ -10,7 +10,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 Abschrift         N.C. 4386
 
@@ -41,7 +41,7 @@ Cona: Langerfeldt Adv:
 
 Transliteration
 
-```text
+```{code-block} text
 
 Copy  N.C. 4386
 

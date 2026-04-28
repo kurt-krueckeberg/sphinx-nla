@@ -1,4 +1,4 @@
-# Ancestral Case Files: Krückeberg-Related Documents from the Bückeburg Archives
+# Krückeberg-Related Documents in the Bückeburg Archives
 
 This site contains these case files of the Schaumburg-Lippe Rentkammer
 related to the Krückeberg family of Berenbusch, Schaumburg-Lippe.
@@ -45,12 +45,12 @@ related to the Krückeberg family of Berenbusch, Schaumburg-Lippe.
     Die Stätte Nr. 18 zu Berenbusch
   - [NLA BU K 2 B Nr. 146](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979522)
 * - 1817-1818
-  - [Allotment from forest land to the colonist Krückeberg No. 10 in Berenbusch, and to the lodgers Vogt and Brüggemann, for the establishment of the new farmsteads Nos. 13 and 14 in Nordholz.](../1291/index.md)
+  - [Allotment from forest land to the colonist Krückeberg No. 10 in Berenbusch, and to the lodgers Vogt and Brüggemann, for the establishment of the new Holdings Nos. 13 and 14 in Nordholz.](../1291/index.md)
     
     Ausweisung vom Forstgrunde
   - [NLA BU, K 2, A Nr. 1291](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978697)
 * - 1824-1849
-  - [Holding No. 10 in Berenbusch (1824-1849)](../139/intro.md)
+  - [Holding No. 10 in Berenbusch (1824-1849)](../139/index.md)
     
     Die Stätte Nr. 10 zu Berenbusch
   - [NLA BU, K 2, B Nr. 139](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979527)

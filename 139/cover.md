@@ -8,7 +8,7 @@
 
 Transliteration
 
-```text
+```{code-block} text
 
 Bauerngüter und Colonien
 [struck-through: Special]                    Rep:II
@@ -33,7 +33,7 @@ Berenbusch No. 10
 
 Translation
 
-```text
+```{code-block} text
 
 Farm holdings and settlement colonies
 [struck-through: Special]                       File: II

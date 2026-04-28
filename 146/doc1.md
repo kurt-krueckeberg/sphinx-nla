@@ -59,7 +59,7 @@ weight for determining residence.
 
 Transliteration
 
-```text
+```{code-block} text
 
 An Fürstl[iche]. Rentkammer
 
@@ -75,7 +75,7 @@ eines Platzes zum Hausbau
 
 Translation
 
-```text
+```{code-block} text
 
 To
 the Princely Rent Chamber
@@ -106,7 +106,7 @@ See [Corrections to Text](https://chatgpt.com/share/694485ae-3bec-8004-961e-67d3
 
 Transliteration
 
-```text
+```{code-block} text
 
 Nr. Cam. 260.                         praes. 30. Sept. 1808.
 
@@ -152,7 +152,7 @@ H Wellmann
 
 Translation
 
-```text
+```{code-block} text
 
 No. Cam. 260.                         presented 30 Sept. 1808.
 

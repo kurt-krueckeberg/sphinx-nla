@@ -1,7 +1,5 @@
 # Rentkammer Overview
 
-What was the role of the Rentkammer of Schaumburg-Lippe? What did it do?
-
 ## Land Administration and the Kolonat System
 
 The Schaumburg-Lippe **Rentkammer** was the **princely government office
