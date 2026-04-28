@@ -1,4 +1,4 @@
-# Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury.
+# Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury
 
 ## Digital Images
 

@@ -11,25 +11,19 @@
 
 |1237/doc4.md |1800 Parcel Drawing Submission |Submission of Geometric Drawing of Proposed Parcels to be Allocated (18 Oct. 1800)
 
-|1237/doc4pt5.md |1799 Parcel Drawing |Document 4½: Geometric Drawing of Two Parcels (30 Mar. 1799)
+|1237/doc4pt5.md |1799 Drawings of 2 Parcels |Document 4½: Geometric Drawing of Two Parcels (30 Mar. 1799)
 
 |1237/doc5.md |1800 Chamber Resolutions |"Draft of Chamber’s Official Resolutions to the Bückeburg Officials, and to the Fiscal Treasurer Stackmann (27 Oct. 1800)"
 
 |1237/doc6.md |1800 Krückeberg Deed |Deed Issued (1 Dec. 1800)
 
-|1237/index.md |1798–1800 Krückeberg Lot Enlargement |
-
-|1237/narr-timeline.md |1798–1800 Narrative Timeline |Narrative Timeline
-
 |1237/reminder-note.md |1800 Chamber Reminder |Internal Chamber Reminder Note (27 Oct 1800)
 
-|1291/cover.md |Nordholz–Berenbusch Case Cover |NLA 1291: Case File Cover
-
-|1291/doc10.md |Vogt Petition and Drawing |"Petition of Vogt from Nordholz, with drawing"
+|1291/doc10.md |Vogt Petition |Petition of Vogt from Nordholz, with drawing
 
 |1291/doc11.md |Local Office Report and Drawing |"Report of the local office, with drawing and specification."
 
-|1291/doc12.md |Finance Office Decision |"Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury."
+|1291/doc12.md |Finance Office Decision |Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury
 
 |1291/doc13.md |Chamber Treasury Receipt |Chamber treasury receipt
 
