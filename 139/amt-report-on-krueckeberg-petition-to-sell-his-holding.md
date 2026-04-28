@@ -21,7 +21,7 @@ attached to the property is to be provided.
 :class: image-override
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 N.C. 5399                             pr. m.C. 15/9 49
@@ -63,7 +63,7 @@ Bbg 20/9 49
 Barkhausen.
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 N.C. 5399                             pr. m.C. 15 September 1849

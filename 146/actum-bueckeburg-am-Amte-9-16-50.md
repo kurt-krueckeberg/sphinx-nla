@@ -12,7 +12,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 
 Abschrift
 
@@ -66,7 +66,7 @@ In fidem
 König Assessor
 ```
 
-```{code-block} text
+```text
 
 Transcript
 

@@ -82,7 +82,7 @@ holder—a significant upward shift in rural status and responsibility.
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 Abschrift
@@ -165,7 +165,7 @@ Hocker        König
 (L.S.)
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 Copy

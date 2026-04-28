@@ -14,7 +14,7 @@
 
 Transliteration
 
-```{code-block} text
+```text
 
 NC. 4456
 pr. in Cam 19/9 50
@@ -43,7 +43,7 @@ Barkhausen
 
 Translation
 
-```{code-block} text
+```text
 
 NC. 4456
 received in the Chamber on 19/9/50
@@ -75,7 +75,7 @@ results of an **internal check by the Rentkammer** to make sure the fees and
 obligations attached to the property were listed correctly before approving
 its sale. It notes that **one fee was wrong** and that the others were correct.
 
-```{code-block} text
+```text
 :class: bordered
 
 Nach der Höckersauer M. Rechnung Berenbusch muß von der Stätte Nr 18 in

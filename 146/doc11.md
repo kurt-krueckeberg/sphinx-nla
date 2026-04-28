@@ -117,7 +117,7 @@ Krückeberg’s secure and heritable right to the holding.
 
 Transliteration
 
-```{code-block} text
+```text
 
 Concept Kaufbriefs Namens der R[ent]Kammer für den Jobst Heinrich Krückeberg
 No 18. in Berenbusch über einen Platz zum Hausbau und Garten im Baumer Först.
@@ -156,7 +156,7 @@ Sandesbur Wint
 
 Translation
 
-```{code-block} text
+```text
 
 Draft purchase deed issued in the name of the Rent Chamber
 for Jobst Heinrich Krückeberg,

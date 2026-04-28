@@ -52,7 +52,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 N. 584.
@@ -110,7 +110,7 @@ explaining that his service with the British resulted from captivity during
 the war, not voluntary disloyalty.
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 N. 584
@@ -158,7 +158,7 @@ Aswellmann p [?] [?]
 
 ### Resolution of Rentkammer
 
-```{code-block} text
+```text
 :class: bordered
 
 Res: Cam: Dem Amte Bückeburg B.M. zum Berichte in Beziehung auf die
@@ -170,7 +170,7 @@ beizufügen.
 Bückeb: 22 Dec. 1817 MKaas
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 Chamber resolution:

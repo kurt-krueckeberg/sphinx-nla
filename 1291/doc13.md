@@ -8,7 +8,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 13.)
@@ -29,7 +29,7 @@ Bückeburg
 49 Rthlr
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 This is to certify that the colonist Vogt, no. 13 in Nordholz, has paid

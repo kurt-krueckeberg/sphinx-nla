@@ -31,7 +31,7 @@ September 1849 and signed by Spreng and other clerical officials.
 
 Transliteration
 
-```{code-block} text
+```text
 
 N. C. 5399.
 N. P. 1429.
@@ -90,7 +90,7 @@ Lm            L
 
 Translate
 
-```{code-block} text
+```text
 
 N.C. 5399.
 N.P. 1429.

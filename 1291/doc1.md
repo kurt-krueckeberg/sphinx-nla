@@ -11,7 +11,7 @@
 The spelling, grammar and punctuation have been normalized in this
 transliteration.
 
-```{code-block} text
+```text
 :class: bordered
 
 N. 67                                 1
@@ -48,7 +48,7 @@ No. 10 Berenbusch, den 1ten Januarÿ 1817
 Schuster Krückeberg
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 No. 67                                   1

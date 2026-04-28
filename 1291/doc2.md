@@ -8,7 +8,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 N. Cam. 62.                            2.
@@ -43,7 +43,7 @@ MKaas
 The **Söhre** was a locally named tract of village forest/common land near Berenbusch, from which parcels could be sold or allotted.
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 N. Cam. 62.                                         2.
@@ -80,7 +80,7 @@ MKaas
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 R. Cam. (Resolutio Camerae) Die Kammer ist der Meinung, daß dem Krückeberg
@@ -93,7 +93,7 @@ Bbg. 10ten Feb. 1817
 T Landesberg
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 Resolution of the Chamber. The Chamber is of the opinion that the small
@@ -116,7 +116,7 @@ T Landesberg
 
 ## Transliteration and Translatin
 
-```{code-block} text
+```text
 :class: bordered
 
 ad 2.
@@ -136,7 +136,7 @@ Baum d: 2ten Febr. 1817
 Falckmann
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 ad 2 [pertaining to document 2]
@@ -167,7 +167,7 @@ Falckmann
 
 Transliteration
 
-```{code-block} text
+```text
 
                      Der Raue Knick
 
@@ -193,7 +193,7 @@ Forst
 
 Translation
 
-```{code-block} text
+```text
 
                      The Rough Hedge
 

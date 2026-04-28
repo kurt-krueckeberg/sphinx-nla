@@ -8,7 +8,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 Unterthänigste Bitte
@@ -25,7 +25,7 @@ An
 Fürstliche Rentkammer
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 Most humble petition
@@ -58,7 +58,7 @@ Princely Rent Chamber
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 N. 237                                        10.)
@@ -115,7 +115,7 @@ Bückeburg am 24sten May 1818.
 Adb. Weissich pr. Gn
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 No. 237                                                         10.)

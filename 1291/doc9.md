@@ -12,7 +12,7 @@
 
 ## Translation and Transliteration
 
-```{code-block} text
+```text
 :class: bordered
 
 ad. Num: Cam: 101.                                          9.,
@@ -82,7 +82,7 @@ both square feet and acres.
 
 :::
 
-```{code-block} text
+```text
 :class: bordered
 
 ad. Num: Cam: 101                                                 9.,

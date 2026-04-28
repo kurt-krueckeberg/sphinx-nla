@@ -10,7 +10,7 @@
 
 Transliteration
 
-```{code-block} text
+```text
 
 An Fürstliche Rentkammer
 
@@ -21,7 +21,7 @@ Stättener Lauf betr.
 
 Translation
 
-```{code-block} text
+```text
 
 Most humble petition of Colon Krückeberg No. 18 in Berenbusch concerning
 the transfer of his holding

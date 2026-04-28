@@ -47,7 +47,7 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 
 Transliteration
 
-```{code-block} text
+```text
 
 Concept Cammeral:Kaufbriefs für den Colon Kruckeberg Nr: 10 zu
 Berenbusch über einen Platz zur Vergrößerung seines Gartens.
@@ -92,7 +92,7 @@ Wippermann
 
 Translation
 
-```{code-block} text
+```text
 
 Chamber Deed of Sale for Tenant Farmer Krückeberg, No. 10 in Berenbusch,
 concerning a plot for enlarging his garden.

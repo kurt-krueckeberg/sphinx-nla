@@ -81,7 +81,7 @@ petition of Colon Krückeberg, herewith returned.”
 
 Transliteration
 
-```{code-block} text
+```text
 
 An
 Fürstliche Rentkammer.
@@ -94,7 +94,7 @@ sens[dessens] pp
 
 Translation
 
-```{code-block} text
+```text
 
 To
 Princely Rent Chamber.

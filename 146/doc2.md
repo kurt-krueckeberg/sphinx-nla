@@ -66,7 +66,7 @@ by a separate block with the transliteration of theRentkammer’s response.
 
 Transliteration of main text of report
 
-```{code-block} text
+```text
 
 N.C. 287.                         pr. 27. Oct. 1808.
 
@@ -115,7 +115,7 @@ text. Both blocks of text are transliterated below.
 
 Transliteration of Rentkammer Response
 
-```{code-block} text
+```text
 
 Res: Cam: Die Ausweisung des Platzes, von etwa ½ to ¾ Morgen, in
 derjenigen Grenzen, welche von der Forst-Direction dem Oberförster
@@ -143,7 +143,7 @@ could reasonably finance the construction of his own house.
 
 Translation of Document 2
 
-```{code-block} text
+```text
 
 N.C. 287.                         received 27 Oct. 1808.
 
@@ -178,7 +178,7 @@ Habicht Neussel
 
 Translation of the Rentkammer’s response.
 
-```{code-block} text
+```text
 
 Rentkammer Response (Res. Cam.):
 

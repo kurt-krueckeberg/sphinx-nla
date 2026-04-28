@@ -69,7 +69,7 @@ So this note is basically saying:
 
 Transliteration
 
-```{code-block} text
+```text
 
 N. 257.
 [document number:]11.
@@ -160,7 +160,7 @@ an Kammeral Prestanden
 
 ### Specification’s Transliteration
 
-```{code-block} text
+```text
 :class: bordered
 
 ad 11
@@ -208,7 +208,7 @@ Specification von dreÿ Auswiesungen im Baumer Forste.
   - 
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 Die obigen 3 Ausweisungen, wovon die Zeichnung hierneben beigefügt ist,
@@ -220,7 +220,7 @@ L. Stille
 
 ## Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 No. 257 — 11.)
@@ -309,7 +309,7 @@ Kammeral dues table in text
 
 ### Specification’s Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 Regarding document 11
@@ -357,7 +357,7 @@ Specification of three land assignments in the Baumer Forest.
   - 
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 The above three land assignments, the drawing of which is attached here,

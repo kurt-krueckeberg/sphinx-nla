@@ -18,7 +18,7 @@
 
 Transliteration
 
-```{code-block} text
+```text
 
 St. 3 mg.                                      12.)
 
@@ -99,7 +99,7 @@ Spring
 
 Translation
 
-```{code-block} text
+```text
 
 Stamp: 3 Mariengroschen                                  12.)
 

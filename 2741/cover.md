@@ -1,6 +1,6 @@
 # Cover
 
-```{code-block} text
+```text
 
 Landesregierung Bückeburg Rep I
 

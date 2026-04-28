@@ -10,7 +10,7 @@
 
 Transliteration
 
-```{code-block} text
+```text
 
 Acta Bauergüter
 
@@ -28,7 +28,7 @@ Berenbusch No. 18
 
 Translation
 
-```{code-block} text
+```text
 
 Case Files
 Agricultural Holdings

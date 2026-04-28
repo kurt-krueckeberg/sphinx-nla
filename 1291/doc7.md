@@ -8,7 +8,7 @@
 
 ## Tramsliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 N. C. 16.                                             7.,
@@ -35,7 +35,7 @@ mit Zuziehung des Oberförsters, in einer Fläche von 1 bis 1 ½ Morgen
 Exp: p: Alocis
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 N.C. 16.

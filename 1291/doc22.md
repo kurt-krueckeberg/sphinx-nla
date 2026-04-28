@@ -18,7 +18,7 @@
 
 Transliteration
 
-```{code-block} text
+```text
 
 St. 3 mg.                                                21)
 
@@ -85,7 +85,7 @@ pricing breakdown (of 60 + 103 Ruthen 30 Fuß) mentioned in this document.
 
 Translation
 
-```{code-block} text
+```text
 
 St. 3 mg.                                                21)
 

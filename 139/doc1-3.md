@@ -20,7 +20,7 @@ three lines of text) and on the top right of the image.
 
 Transliteration
 
-```{code-block} text
+```text
 
 Concept An die Witwe Krückeberg Nro. 10 in Bärenbusch.
 
@@ -34,7 +34,7 @@ AKaas.
 
 Translation
 
-```{code-block} text
+```text
 
 Concept
 

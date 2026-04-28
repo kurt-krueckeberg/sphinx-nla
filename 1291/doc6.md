@@ -78,7 +78,7 @@ appropriate.
 
 Transliteration
 
-```{code-block} text
+```text
 
 N. 16                                                          6.,
 
@@ -144,7 +144,7 @@ decision afterward, especially when the larger farmers support it.
 
 Translation
 
-```{code-block} text
+```text
 
 No. 16                    6
 
@@ -205,7 +205,7 @@ allotment that is to be carried into effect under a Chamber resolution. It
 does not issue a new order; it simply records that the allotment stands in
 the implementation stage.
 
-```{code-block} text
+```text
 :class: bordered
 
 Res. Cam. Nach
@@ -214,7 +214,7 @@ die Ausweisung einer zu  bewirkfällige[n]
          in. fid. Spring
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 Chamber Resolution: Accordingly, the allotment is to be carried out.

@@ -29,7 +29,7 @@ The case file then includes two ancillary items:
 
 The notation in the left margin of the first page
 
-```{code-block} text
+```text
 :class: bordered short-width
 
 Num Pr. 1274

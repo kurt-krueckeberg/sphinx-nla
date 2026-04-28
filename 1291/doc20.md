@@ -18,7 +18,7 @@
 
 Transliteration
 
-```{code-block} text
+```text
 
 St. 6 mg.                                                20.)
 
@@ -78,7 +78,7 @@ Ruthen).
 
 Translation of Purchase Contract
 
-```{code-block} text
+```text
 
 Office Copy of the Purchase Contract for the Neubauer Vogt No. 13 at
 Nordholz

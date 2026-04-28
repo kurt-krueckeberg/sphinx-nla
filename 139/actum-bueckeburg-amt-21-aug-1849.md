@@ -38,7 +38,7 @@ Amt official Höcker.
 :class: image-override
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 Abschrift.
@@ -97,7 +97,7 @@ Handzeichen + + + des Wilhelm
                Höcker
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 Copy.

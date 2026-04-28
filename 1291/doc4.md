@@ -8,7 +8,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 An furstl. Rentkammer
@@ -34,7 +34,7 @@ Um Platz zum Hausbau
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 N. 520                                  4.
@@ -81,7 +81,7 @@ suppl Bbg
 [various initials]
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 No. 520             4
@@ -131,7 +131,7 @@ Suppl. Bückeburg
 
 Transliteration
 
-```{code-block} text
+```text
 
 Res: Cam: Dem Amte Bückeburg b: M: zum Berichte mitzuteilen in Beziehung
 auf die Huthberechtigten, und auf das Vermögen und die Persönlichkeit des
@@ -142,7 +142,7 @@ B. 10 Nov. 1817                            MKaas
 
 Translation
 
-```{code-block} text
+```text
 
 Royal Chamber Resolution: The Amt of Bückeburg is instructed to submit a
 report concerning the holders of grazing (common pasture) rights, and

@@ -16,7 +16,7 @@ document in the [Designatio Actorum](contents-list.md).
 
 Receipt
 
-```{code-block} text
+```text
 
 Num: 458.                                20.)
 Spring
@@ -35,7 +35,7 @@ Bückeburg
 
 Translation of Receipt
 
-```{code-block} text
+```text
 
 No. 458.                                      20.)
 Spring

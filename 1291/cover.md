@@ -2,7 +2,7 @@
 
 Transliteration
 
-```{code-block} text
+```text
 
 Ausweisungen & Rottländereien                   Rep II
 
@@ -24,7 +24,7 @@ den N. 13 & 14 in Nordholz.
 
 Translation
 
-```{code-block} text
+```text
 
 Allocations & Cleared Lands Rep. II
 

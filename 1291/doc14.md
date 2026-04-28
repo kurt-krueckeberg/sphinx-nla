@@ -50,7 +50,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 [3 Gr. Stempel]                                  14.)
@@ -116,7 +116,7 @@ Bück d 21. Sept. 1818.
 MKaas
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 [3 Groschen stamp]                                  14.)

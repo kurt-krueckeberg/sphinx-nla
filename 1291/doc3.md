@@ -8,7 +8,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 N.C. 62                                          3.)
@@ -46,7 +46,7 @@ equivalents.
 
 :::
 
-```{code-block} text
+```text
 :class: bordered
 
 N.C. 62                                          3.)

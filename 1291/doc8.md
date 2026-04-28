@@ -16,7 +16,7 @@
 
 ## Translation and Transliteration
 
-```{code-block} text
+```text
 :class: bordered
 
 N. 101.
@@ -69,7 +69,7 @@ Bückeb: 23. Febr. 1818.
 MKaas
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 No. 101.
@@ -124,7 +124,7 @@ M. Kaas
 
 ### Drawing Legend
 
-```{code-block} text
+```text
 :class: bordered
 
 Auf Befehl der Forst Direction
@@ -145,7 +145,7 @@ J. Weilands Kamp N. 6. in Nordholz
 K. die angrenzende Petzen Horst
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 By order of the Forestry Directorate, the plot marked A and B is to be

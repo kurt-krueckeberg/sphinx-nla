@@ -145,7 +145,7 @@ transformation in status,
 
 Transliteration
 
-```{code-block} text
+```text
 
 N. C. 368.
 pr. 8 Nov 1809
@@ -207,7 +207,7 @@ scribal practice.
 
 Translation
 
-```{code-block} text
+```text
 
 N. C. 368.
 submitted 8 Nov. 1809

@@ -10,7 +10,7 @@
 
 Transliteration
 
-```{code-block} text
+```text
 
 Num: Cam: 386                             15.)
 St. 3 mg.
@@ -38,7 +38,7 @@ Fürstlich pp.
 
 Translation
 
-```{code-block} text
+```text
 
 No. Cam. 386                                               15.)
 Stamp: 3 Mariengroschen

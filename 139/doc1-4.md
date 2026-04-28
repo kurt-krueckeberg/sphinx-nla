@@ -10,7 +10,7 @@
 
 Transliteration
 
-```{code-block} text
+```text
 
 Conc. in extracten dem Gehülfsschreiber Schmöe dem Amte Bückeburg
 Verwalter Stahlhuth u[nd]. Oberförster Creuzinger [zu]  Baum.
@@ -28,7 +28,7 @@ N.P. 602
 
 Translation
 
-```{code-block} text
+```text
 
 Concept, in extract, to the assistant clerk Schmöe, to the Office of
 Bückeburg, administrator Stahlhuth, and chief forester Creuzinger at

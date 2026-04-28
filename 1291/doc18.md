@@ -10,7 +10,7 @@
 
 Translation
 
-```{code-block} text
+```text
 
 18.)
 
@@ -29,7 +29,7 @@ Bückeburg
 
 Transliteration
 
-```{code-block} text
+```text
 
 18.)
 

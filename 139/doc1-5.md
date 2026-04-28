@@ -13,7 +13,7 @@ image.
 
 Transliteration
 
-```{code-block} text
+```text
 
 Boines
 Sp.
@@ -37,7 +37,7 @@ A Kaas
 
 Transliteration
 
-```{code-block} text
+```text
 
 Boines
 Sp.

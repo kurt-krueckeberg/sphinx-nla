@@ -6,7 +6,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
+```text
 
 Actum d. 15ten Xbris 1721.
 
@@ -81,7 +81,7 @@ Groschen, unless otherwise stated.
 
 :::
 
-```{code-block} text
+```text
 
 H. Ren.
 Als nun woraufft das Liech[t]

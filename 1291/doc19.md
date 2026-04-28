@@ -18,7 +18,7 @@
 
 Transliteration
 
-```{code-block} text
+```text
 
 St. 3 mg                                                 19.)
 
@@ -85,7 +85,7 @@ is a **variable public tax**.
 
 Translation
 
-```{code-block} text
+```text
 
 Stamp: 3 Groschen                                        <emphasis role="strong">19.)</emphasis>
 

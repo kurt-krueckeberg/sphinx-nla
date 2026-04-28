@@ -15,7 +15,7 @@ document 4?
 
 Transliteration
 
-```{code-block} text
+```text
 
 ad Num. 15
 C.K. Rescripts ans Amt Arenburg
@@ -50,7 +50,7 @@ header indicating princely authority.
 
 Translation
 
-```{code-block} text
+```text
 
 No. 15
 Princely Chamber rescript

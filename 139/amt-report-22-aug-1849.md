@@ -22,7 +22,7 @@ issued from Bückeburg on 22 August 1849 and signed by Höner.
 :class: image-override
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 Nr. 4997
@@ -64,7 +64,7 @@ Bückeburg 22 August 1849
 Höner
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 No. 4997

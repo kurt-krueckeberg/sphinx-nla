@@ -22,7 +22,7 @@ They are to inform Jobst Heinrich of these conditions and terms.
 
 ## Transliateration and Translation
 
-```{code-block} text
+```text
 :class: bordered
 
 Ad N. 287.
@@ -67,7 +67,7 @@ A **rescript** was an official decision letter sent by the central authority in
 reply to a petition or report.
 ```
 
-```{code-block} text
+```text
 :class: bordered
 
 Re: No. 287.

@@ -17,7 +17,7 @@ office appears.
 
 Transliteration
 
-```{code-block} text
+```text
 
                  R. C. b. m. zum Amtsbericht
                     B. 12 Jul 1824
@@ -47,7 +47,7 @@ Georg Wilhelm.   Verte
 
 Translation
 
-```{code-block} text
+```text
 
 Rentkammer note: case assigned to me for handling the report from the
 Office of Bückeburg
@@ -94,7 +94,7 @@ request in the Amt report.
 
 Transliteration
 
-```{code-block} text
+```text
 
 Es ist auch nach Bericht darüber zu fordern, ob Supplikantin das Stück
 Land von der Söhren noch besitzt, welches der Krückeberg für 800 rthl von
@@ -107,7 +107,7 @@ Vert.
 
 Translation
 
-```{code-block} text
+```text
 
 It is also to be requested by report whether the petitioner still
 possesses the piece of land near the Söhren which Krückeberg purchased
