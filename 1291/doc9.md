@@ -53,7 +53,7 @@ Furstl: Schaumb: Lipp: Rentkammer
 
 :::{admonition} How big is a Rute (rod) and a Morgen?
 
-This table shows how rods related to square feet, and how Morgens relate to
+This table shows how rods relate to square feet, and how Morgens relate to
 both square feet and acres.
 
 ```{list-table}
