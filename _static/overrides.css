@@ -52,6 +52,7 @@ html[data-theme="dark"] {
 */
 
 /* Set the active color palette */
+/* Kurt
 html[data-theme="light"] {
   --pst-color-primary: #276be9;
 }
@@ -59,11 +60,13 @@ html[data-theme="light"] {
 html[data-theme="dark"] {
   --pst-color-primary: #79a3f2;
 }
+*/
 
 /* 3) Matplotlib (derived from docs CSS) */
-/*
+
+/* These are the default colors: 
 html[data-theme="light"] {
-  --pst-color-primary: #11557c;
+  --pst-color-primary: red;
   --pst-color-secondary: #ee9040;
 }
 html[data-theme="dark"] {
