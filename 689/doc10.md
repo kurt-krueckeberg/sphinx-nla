@@ -72,59 +72,54 @@ There are numerous abbrevations used in **NC 2422**. This table summarizes them.
     **When/By whom:** Clerk at registration (after the letter was received).
 ```
 
-**TODO**: Add explantory sentence before text like above.
+Transliteration
 
-```{list-table}
-:header-rows: 1
+```{code-block} text
 
-* - Transliteration
-  - Translation
-* - Abschrift Anweisung der Kammer
-    für den Kammerrentmeister Berger
-    d. d. Bückeb. d. 21. April 1845
-    
-    Fürstl. Rentkammer hat lt[laut] Kaufbrief vom 17. April a.c. von
-    dem Colon Krückeberg Nr. 10 in Berenbusch ein in der s. g.  Söhre
-    belegenes, 9 Morgen 19 R haltendes Grundstück für die Summe von
-    858 Rthlr 10 Ggr 2 Pf Cour. angekauft.
-    
-    K[ammer] Rmstr[Rentmeister] Berger wird angewiesen, obige
-    Kaufgelder, wovon jedoch ein dem Colon Krückeberg lt.
-    Oblig[ation]. vom 12. Janr 1842 aus Kammerkasse geleistetes
-    Darlehn von 200 Rthlr Cour. nebst Zinsen zurückzubehalten ist,
-    dem Verkäufer gegen Quittung auszuzahlen, in Kammerrechnung
-    gehörigen Orts zu verausgeben und diese Ausgabe mit dieser
-    Quittung zu belegen.
-  - Copy. Order of the Chamber for the chamber treasurer Berger.
-    Dated: Bückeburg, 21 April 1845
-    
-    The Princely Chamber of Revenues, pursuant to the deed of sale of 17
-    April of this year, has purchased from Colon Krückeberg No. 10 in
-    Berenbusch a plot situated in the so-called Söhre, measuring 9 Morgen 19
-    Ruthen, for the sum of 858 Reichsthaler 10 Gute Groschen 2 Pfennige in
-    current money at face value.
-    
-    Chamber treasurer Berger is instructed to pay out the above purchase
-    funds to the seller against receipt—retaining, however, the loan of 200
-    Reichsthaler in current money at face value granted to Colon Krückeberg,
-    pursuant to the promissory note of 12 January 1842, from the chamber
-    treasury, together with interest—to record the disbursement at the proper
-    place in the chamber accounts and to support this expenditure with that
-    receipt.
+Abschrift Anweisung der Kammer
+für den Kammerrentmeister Berger
+d. d. Bückeb. d. 21. April 1845
+
+Fürstl. Rentkammer hat lt[laut] Kaufbrief vom 17. April a.c. von
+dem Colon Krückeberg Nr. 10 in Berenbusch ein in der s. g.  Söhre
+belegenes, 9 Morgen 19 R haltendes Grundstück für die Summe von
+858 Rthlr 10 Ggr 2 Pf Cour. angekauft.
+
+K[ammer] Rmstr[Rentmeister] Berger wird angewiesen, obige
+Kaufgelder, wovon jedoch ein dem Colon Krückeberg lt.
+Oblig[ation]. vom 12. Janr 1842 aus Kammerkasse geleistetes
+Darlehn von 200 Rthlr Cour. nebst Zinsen zurückzubehalten ist,
+dem Verkäufer gegen Quittung auszuzahlen, in Kammerrechnung
+gehörigen Orts zu verausgeben und diese Ausgabe mit dieser
+Quittung zu belegen.
+```
+
+Translation
+
+```{code-block} text
+
+Copy. Order of the Chamber for the chamber treasurer Berger.
+Dated: Bückeburg, 21 April 1845
+
+The Princely Chamber of Revenues, pursuant to the deed of sale of 17
+April of this year, has purchased from Colon Krückeberg No. 10 in
+Berenbusch a plot situated in the so-called Söhre, measuring 9 Morgen 19
+Ruthen, for the sum of 858 Reichsthaler 10 Gute Groschen 2 Pfennige in
+current money at face value.
+
+Chamber treasurer Berger is instructed to pay out the above purchase
+funds to the seller against receipt—retaining, however, the loan of 200
+Reichsthaler in current money at face value granted to Colon Krückeberg,
+pursuant to the promissory note of 12 January 1842, from the chamber
+treasury, together with interest—to record the disbursement at the proper
+place in the chamber accounts and to support this expenditure with that
+receipt.
 ```
 
 ## Follow-up delivery/receipt; mortgage cancellation approved
 
-```{list-table}
-
-* -                 Click to Enlarge
-                    
-                      
-                        
-                      
-                      
-                        23 r
-  - 
+```{image} images/23-r.png
+:class: image-override
 ```
 
 ```{list-table} **Docketing marks**
@@ -135,78 +130,79 @@ There are numerous abbrevations used in **NC 2422**. This table summarizes them.
   - **Placement:** Top-right header.**Meaning:** “presented in the Chamber” (intake mark).**Date:** 29 Apr 1845.**Sequence:** Written on intake; the minute/response (Reck) follows on 2 May 1845.
 ```
 
-```{list-table}
-:header-rows: 1
+Right-side request (large hand; includes heading)
 
-* - Transliteration
-  - English translation
-* - **Right-side request (large hand; includes heading)**
-    
-    An
-    Fürstl. Rentkammer
-    
-    Da der Colon Krückeberg No. 10 in Berenbusch das aus der
-    Kammerkasse ge- liehen erhaltene Capital von 200 p Courant von
-    den der Fürstl. Rentkammer verkauften Ländereien zu beziehenden
-    Kaufgeldern zurückzahlen wird, so bitte ich unterthänigst, die
-    be- treffende Obligation über 200 p Cour. vom 12 Jan. 1842
-    zurückgeben zu lassen.
-    Bückeburg 29 Apr. 1845
-    Berger
-  - **Right-side request (large hand; includes heading)**
-    
-    To the Princely Rent Chamber
-    
-    Since Colon Krückeberg, No. 10 in Berenbusch, will repay the
-    capital of 200 thalers in current money at face value out of
-    the purchase funds for the land sold to the Princely Chamber of
-    Revenues, I most humbly request that the promissory note
-    for 200 thalers (current), dated 12 January 1842, be
-    returned.
-    Bückeburg, 29 April 1845.
-    Berger
-* - **Left-side minute/response (small hand; Rentkammer; signed Reck)**
-    
-    H.
-    Die Obligation quitiert wäre mit beifolgender Quittung, daß der
-    Krückeberg das Capital mit rückständ.  u. laufenden Zinsen durch
-    Zurückzahlung in die Kammerkasse zurückgezahlt habe, u. daher in
-    die Löschung der Hypothek gewilligt werde; versehen, dem K.
-    Rmstr.  unter Bezugnahme auf die Anweisung vom 21 pr, zur
-    Uebergabe an Krückeberg nach statt gefundener Liquidation,
-    zuzustellen, welche dahin vervollständigt werden, daß das fragl.
-    Capital der 200 p als zurückgezahlt nebst rückständigen u.
-    laufenden Zinsen in der Kk. zu vereinnahmen, und dagegen das
-    vollständige Kaufgeld mit 858 p 10 G 2 Pf in Ausgabe zu stellen
-    sei.  Bburg 2/5 45
-    Reck
-  - **Left-side minute/response (small hand; Rentkammer; signed Reck)**
-    
-    The promissory note is to be annotated with the following
-    receipt text, stating that Krückeberg has repaid the principal,
-    together with arrears and current interest, by payment into the
-    chamber treasury, and that consent is therefore given to
-    cancellation of the mortgage; then provide it to the chamber
-    treasurer, with reference to the order of the 21st, for
-    delivery to Krückeberg after settlement has taken place. This
-    is to be completed to the effect that the principal in question
-    of 200 thalers is to be taken into the chamber cash as
-    repaid, together with arrears and current interest, and, in
-    return, the full purchase price of 858 thalers 10 groschen 2
-    pfennigs is to be entered as an expenditure.
-    Bückeburg, 2 May 1845. — Reck
+```{code-block} text
+
+An
+Fürstl. Rentkammer
+
+Da der Colon Krückeberg No. 10 in Berenbusch das aus der
+Kammerkasse ge- liehen erhaltene Capital von 200 p Courant von
+den der Fürstl. Rentkammer verkauften Ländereien zu beziehenden
+Kaufgeldern zurückzahlen wird, so bitte ich unterthänigst, die
+be- treffende Obligation über 200 p Cour. vom 12 Jan. 1842
+zurückgeben zu lassen.
+Bückeburg 29 Apr. 1845
+Berger
 ```
 
-```{list-table}
+Right-side request (large hand; includes heading)
 
-* -                 Click to Enlarge
-                    
-                      
-                        
-                      
-                      
-                        24 l
-  - 
+```{code-block} text
+
+To the Princely Rent Chamber
+
+Since Colon Krückeberg, No. 10 in Berenbusch, will repay the
+capital of 200 thalers in current money at face value out of
+the purchase funds for the land sold to the Princely Chamber of
+Revenues, I most humbly request that the promissory note
+for 200 thalers (current), dated 12 January 1842, be
+returned.
+Bückeburg, 29 April 1845.
+Berger
+```
+
+Left-side minute/response (small hand; Rentkammer; signed Reck)
+
+```{code-block} text
+
+H.
+Die Obligation quitiert wäre mit beifolgender Quittung, daß der
+Krückeberg das Capital mit rückständ.  u. laufenden Zinsen durch
+Zurückzahlung in die Kammerkasse zurückgezahlt habe, u. daher in
+die Löschung der Hypothek gewilligt werde; versehen, dem K.
+Rmstr.  unter Bezugnahme auf die Anweisung vom 21 pr, zur
+Uebergabe an Krückeberg nach statt gefundener Liquidation,
+zuzustellen, welche dahin vervollständigt werden, daß das fragl.
+Capital der 200 p als zurückgezahlt nebst rückständigen u.
+laufenden Zinsen in der Kk. zu vereinnahmen, und dagegen das
+vollständige Kaufgeld mit 858 p 10 G 2 Pf in Ausgabe zu stellen
+sei.  Bburg 2/5 45
+Reck
+```
+
+Left-side minute/response (small hand; Rentkammer; signed Reck)
+
+```{code-block} text
+
+The promissory note is to be annotated with the following
+receipt text, stating that Krückeberg has repaid the principal,
+together with arrears and current interest, by payment into the
+chamber treasury, and that consent is therefore given to
+cancellation of the mortgage; then provide it to the chamber
+treasurer, with reference to the order of the 21st, for
+delivery to Krückeberg after settlement has taken place. This
+is to be completed to the effect that the principal in question
+of 200 thalers is to be taken into the chamber cash as
+repaid, together with arrears and current interest, and, in
+return, the full purchase price of 858 thalers 10 groschen 2
+pfennigs is to be entered as an expenditure.
+Bückeburg, 2 May 1845. — Reck
+```
+
+```{image} images/24-l.png
+:class: image-override
 ```
 
 ## NC 2696
@@ -228,75 +224,76 @@ TODO: Change this table to make it look like the one above with **Meaning**, **P
   - **"Dispatched/expedited"** by Schöttd., dated 8 May (1845). A routing/handling note.
 ```
 
-```{list-table}
-:header-rows: 1
+```{code-block} text
 
-* - Transliteration
-  - English translation & notes
-* -                    N.C. 2696
-    
-    Cpt an Kammerrentmeister Berger dahier
-    
-    Die Obligation vom 12. Januar 1842 über die dem Col[on]. Krückeberg
-    Nr. 10 in Berenbusch aus Kammerkasse geliehenen 200 x[Rthlr.]
-    Cour[ant]. wird mit Quittung versehen dem p[er] Berger unter
-    Bezugnahme auf die Anweisung vom 21. pr[aesentis]. (zur Übergabe
-    an Krückeberg nach stattgefundener Liquidation) hierneben
-    zugestellt, kann cestiren, da die Verrechnung in nebenstehender
-    Weise bereits
-    
-    Fr der Wahlmeckwart [probably: Friederich Wahlmeckwart]
-    
-    Bburg 5. Mai 1845
-      F.p.[Für protokoll]
-    
-    Spm       L
-    
-                                             verte
-  -                    N.C. 2696
-    
-    Draft of a letter to Chamber Rentmaster Berger here [in Bückeburg].
-    
-    The obligation dated 12 January 1842 concerning the 200
-    Reichsthaler Courant loaned from the Chamber cash to Colonus
-    Krückeberg No. 10 in Berenbusch is, with receipt, hereby
-    delivered through Berger, with reference to the instruction of
-    the 21st of the present month (for delivery to Kruckeberg after
-    liquidation has taken place); he can attest, since the
-    set-off has already [been carried out] in the manner shown
-    alongside.
-    
-    Signature: Fr der Wahlmeckwart [probably: Friederich Wahlmeckwart].
-    
-    Bückeburg 5. May 1845
-    This document has been officially recorded and put on file
-    
-    Spm       L
-    
-                                turn the page
-* - Probatur.
-    Eingetragen. Die Stückzinsen
-    sind v. 12./1 bis 28/4 1845 (3 1/2 Mt.)
-    gezahlt mit [initialed: DH] 2 rt 12 gr
-    Poppelbaum
-  - Approved.
-    Entered. The accrued interest from 12 Jan to 28 Apr 1845 (3½ months),
-    paid — [initialed: DH] — 2 Reichthalers 12 groschen.
-    Poppelbaum.
+                   N.C. 2696
+
+Cpt an Kammerrentmeister Berger dahier
+
+Die Obligation vom 12. Januar 1842 über die dem Col[on]. Krückeberg
+Nr. 10 in Berenbusch aus Kammerkasse geliehenen 200 x[Rthlr.]
+Cour[ant]. wird mit Quittung versehen dem p[er] Berger unter
+Bezugnahme auf die Anweisung vom 21. pr[aesentis]. (zur Übergabe
+an Krückeberg nach stattgefundener Liquidation) hierneben
+zugestellt, kann cestiren, da die Verrechnung in nebenstehender
+Weise bereits
+
+Fr der Wahlmeckwart [probably: Friederich Wahlmeckwart]
+
+Bburg 5. Mai 1845
+  F.p.[Für protokoll]
+
+Spm       L
+
+                                         verte
+```
+
+```{code-block} text
+
+                   N.C. 2696
+
+Draft of a letter to Chamber Rentmaster Berger here [in Bückeburg].
+
+The obligation dated 12 January 1842 concerning the 200
+Reichsthaler Courant loaned from the Chamber cash to Colonus
+Krückeberg No. 10 in Berenbusch is, with receipt, hereby
+delivered through Berger, with reference to the instruction of
+the 21st of the present month (for delivery to Kruckeberg after
+liquidation has taken place); he can attest, since the
+set-off has already [been carried out] in the manner shown
+alongside.
+
+Signature: Fr der Wahlmeckwart [probably: Friederich Wahlmeckwart].
+
+Bückeburg 5. May 1845
+This document has been officially recorded and put on file
+
+Spm       L
+
+                            turn the page
+```
+
+```{code-block} text
+
+Probatur.
+Eingetragen. Die Stückzinsen
+sind v. 12./1 bis 28/4 1845 (3 1/2 Mt.)
+gezahlt mit [initialed: DH] 2 rt 12 gr
+Poppelbaum
+```
+
+```{code-block} text
+
+Approved.
+Entered. The accrued interest from 12 Jan to 28 Apr 1845 (3½ months),
+paid — [initialed: DH] — 2 Reichthalers 12 groschen.
+Poppelbaum.
 ```
 
 ## Concept Quittung
 
-```{list-table}
-
-* -                 Click to Enlarge
-                    
-                      
-                        
-                      
-                      
-                        24 r
-  - 
+```{image} images/24-r.png
+:class: image-override
 ```
 
 ```{list-table}
@@ -318,35 +315,36 @@ TODO: Change this table to make it look like the one above with **Meaning**, **P
   - **Meaning:** "Dispatched/expedited" by Schöttd., dated 8 May (1845). A routing/handling note.**Placement:** TODO**Who / When:**
 ```
 
-```{list-table}
-:header-rows: 1
+```{code-block} text
 
-* - Transliteration
-  - English translation & notes
-* - Concept Quittung.
-    
-    Da der Colon Krückeberg das in vorstehender Obligation vom 12.
-    Januar 1842 verbriefte Kapital ad 200 Rthlr. Cour[ant]. nebst
-    rückständigen und laufenden Zinsen durch Zurechnung in die
-    Kammerkasse zurückgezahlt hat, so wird darüber hiermit quittirt
-    und in die Löschung der Hypothek gewilligt.
-    Bburg 5. Mai 1845.
-    (L.S.) F. p.[Für protokoll]
-    
-    
-    L
-  - Official Draft.
-    
-    Since Colon Krückeberg has repaid to the Chamber cash office, by
-    crediting/set-off (Zurechnung), the principal recorded in the
-    foregoing obligation of 12 January 1842—amounting to 200
-    Reichsthaler Courant—together with arrears and current interest,
-    he is hereby receipted for it and the cancellation of the
-    mortgage is approved.
-    
-    Bückeburg, 5 May 1845.
-    (“place of the seal”). This document has been officially recorded and put on file.
-    
-    L (routing/initial mark).
+Concept Quittung.
+
+Da der Colon Krückeberg das in vorstehender Obligation vom 12.
+Januar 1842 verbriefte Kapital ad 200 Rthlr. Cour[ant]. nebst
+rückständigen und laufenden Zinsen durch Zurechnung in die
+Kammerkasse zurückgezahlt hat, so wird darüber hiermit quittirt
+und in die Löschung der Hypothek gewilligt.
+Bburg 5. Mai 1845.
+(L.S.) F. p.[Für protokoll]
+
+
+L
+```
+
+```{code-block} text
+
+Official Draft.
+
+Since Colon Krückeberg has repaid to the Chamber cash office, by
+crediting/set-off (Zurechnung), the principal recorded in the
+foregoing obligation of 12 January 1842—amounting to 200
+Reichsthaler Courant—together with arrears and current interest,
+he is hereby receipted for it and the cancellation of the
+mortgage is approved.
+
+Bückeburg, 5 May 1845.
+(“place of the seal”). This document has been officially recorded and put on file.
+
+L (routing/initial mark).
 ```
 
