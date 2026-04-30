@@ -3,8 +3,8 @@
 
 title: 'Lower Saxony, Bückeburg Archive, Documents'
 author: Kurt Krueckeberg
-logo:      _static/myst-style-light.svg 
-logo_dark: _static/myst-style-dark.svg 
+#logo:      _static/myst-style-light.svg 
+#logo_dark: _static/myst-style-dark.svg 
 
 #logo:      /home/kurt/temp/bueckeburg-archive-logo-light-fixed-final.svg
 #logo_dark: /home/kurt/temp/bueckeburg-archive-logo-dark-fixed-final.svg
@@ -74,3 +74,7 @@ sphinx:
     html_theme_options:
       home_page_in_toc: true
       use_download_button: true
+
+      logo:
+        image_light: _static/myst-style-light.svg
+        image_dark: _static/myst-style-dark.svg
