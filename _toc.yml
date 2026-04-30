@@ -92,8 +92,9 @@ parts:
             sections:
               - file: 146/intro.md
               - file: 146/cover.md
-              - file: 146/doc1.md
               - file: 146/doc1-analysis.md
+              - file: 146/doc1.md
+                title: Tailor Krückeberg Petition
               - file: 146/doc1-2nd-analysis.md
               - file: 146/doc2.md
               - file: 146/doc3.md
