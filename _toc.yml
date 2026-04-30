@@ -131,3 +131,7 @@ parts:
                 title: Report to the Bückeburg Office
               - file: 146//copia
                 title: Purchase Contract Copy 
+ 
+      - file: 147/content.md
+        title: Holding No. 18 Berenbusch, 1808-1850
+
