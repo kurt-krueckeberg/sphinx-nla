@@ -1,9 +1,0 @@
-Yesterday we tried many different configurations of conf.py in order
-eliminate "duplicate label" warnings. This and this led to a vicious cycle
-of continuous troubleshooting rather than a systematic efficient up-front
-strategy of first discovering the fundamental cause of these errors, which
-would lead to its elimination once and for all. Today I want to take a
-systematic efficient strategy of first discovering the fundamental cause of
-the various build Warnings and erros. The first waning I want to tackle in
-this efficent manner is the over 200 "duplibate label" warnings. Here is a
-sample of these warning: ...
