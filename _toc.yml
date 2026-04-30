@@ -165,3 +165,26 @@ parts:
               - file: 139/amt-report-22-aug-1849
               - file: 139/petition-to-sell-his-holding-23-aug-1849
               - file: 139/sales-contract-for-no-10
+
+      - file: 689/content.md
+        sections:
+          - file: 689/cover
+          - file: 689/amt-decree
+          - file: 689/doc1
+          - file: 689/doc2-1
+          - file: 689/doc2-2
+          - file: 689/doc3-1
+          - file: 689/doc3-2
+          - file: 689/doc3-3
+          - file: 689/doc4-1
+          - file: 689/doc4-2
+          - file: 689/doc5
+          - file: 689/doc6-1
+          - file: 689/doc6-2
+          - file: 689/doc6-3
+          - file: 689/doc7
+          - file: 689/doc8-1
+          - file: 689/doc8-2
+          - file: 689/doc8-3
+          - file: 689/doc9
+          - file: 689/doc10
