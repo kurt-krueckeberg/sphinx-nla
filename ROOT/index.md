@@ -45,7 +45,7 @@ related to the Krückeberg family of Berenbusch, Schaumburg-Lippe.
     Die Stätte Nr. 18 zu Berenbusch
   - [NLA BU K 2 B Nr. 146](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979522)
 * - 1817-1818
-  - [Allotment from forest land to the colonist Krückeberg No. 10 in Berenbusch, and to the lodgers Vogt and Brüggemann, for the establishment of the new Holdings Nos. 13 and 14 in Nordholz.](../1291/index.md)
+  - [Allotment from forest land to the colonist Krückeberg No. 10 in Berenbusch, and to the lodgers Vogt and Brüggemann, for the establishment of the new Holdings Nos. 13 and 14 in Nordholz.](../1291/content.md)
     
     Ausweisung vom Forstgrunde
   - [NLA BU, K 2, A Nr. 1291](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978697)
