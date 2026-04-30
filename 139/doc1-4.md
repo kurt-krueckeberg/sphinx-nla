@@ -1,4 +1,4 @@
-# Actenstück 1 (Administrative File Item 1): Likewise: Sealed (with the official seal) and Signed by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)
+# Likewise: Sealed (with the official seal) and Signed by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)
 
 ## Images
 

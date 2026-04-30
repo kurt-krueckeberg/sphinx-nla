@@ -1,4 +1,4 @@
-# Actenstück 1 (Administrative File Item 1): Draft of the Official Reply originating from the Office of Bückeberg (24 Aug. 1824)
+# Draft of the Official Reply originating from the Office of Bückeberg (24 Aug. 1824)
 
 ## Overview
 

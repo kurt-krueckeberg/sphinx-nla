@@ -1,4 +1,4 @@
-# Actenstück 2 (Administrative File Item 2): Report from the Bückeburg Office (7 Aug. 1842)
+# Report from the Bückeburg Office (7 Aug. 1842)
 
 ## Report from the Bückeburg Office
 

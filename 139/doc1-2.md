@@ -1,4 +1,4 @@
-# Actenstück 1 (Administrative File Item 1): Report from the Bückeburg Office (26 July 1824)
+# Report from the Bückeburg Office (26 July 1824)
 
 ## Summary
 

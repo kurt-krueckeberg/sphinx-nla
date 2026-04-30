@@ -1,4 +1,4 @@
-# Actenstück 1 (Administrative File Item 1): Petition of the widow Krückeberg, holding No. 10 in Berenbusch (8 July 1824)
+# Petition of the widow Krückeberg, holding No. 10 in Berenbusch (8 July 1824)
 
 ## Overview
 

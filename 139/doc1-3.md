@@ -1,4 +1,4 @@
-# Actenstück 1 (Administrative File Item 1): Draft of the Official Reply to the Widow Krückeberg (4 Aug. 1824)
+# Draft of the Official Reply to the Widow Krückeberg (4 Aug. 1824)
 
 ## Summary
 
