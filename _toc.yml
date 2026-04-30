@@ -134,4 +134,7 @@ parts:
  
       - file: 147/content.md
         title: Holding No. 18 Berenbusch, 1808-1850
+        sections:
+          - file: 147/doc5
+            title: Bückeberg Office Report
 
