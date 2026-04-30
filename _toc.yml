@@ -169,7 +169,7 @@ parts:
       - file: 689/content.md
         sections:
           - file: 689/cover
-          - file: 6899/intro
+          - file: 689/intro
           - file: 689/amt-decree
           - file: 689/doc1
           - file: 689/doc2-1
