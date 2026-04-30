@@ -7,7 +7,9 @@ image.
 
 ## Image
 
-[03 r](self)
+```{image} images/03-r.png
+:class: image-override
+```
 
 ## Transliteration and Translation
 
