@@ -3,11 +3,9 @@
 
 title: 'Lower Saxony, Bückeburg Archive, Documents'
 author: Kurt Krueckeberg
-#logo:      _static/myst-style-light.svg 
-#logo_dark: _static/myst-style-dark.svg 
+#logo:  Prefer the PyDatat theme settings of image_light and image_dark
+# used at the bottom of this file. 
 
-#logo:      /home/kurt/temp/bueckeburg-archive-logo-light-fixed-final.svg
-#logo_dark: /home/kurt/temp/bueckeburg-archive-logo-dark-fixed-final.svg
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
