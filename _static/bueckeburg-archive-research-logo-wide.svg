@@ -6,8 +6,8 @@
   <text x="255.0" y="56"
         text-anchor="middle"
         xml:space="preserve"
-        fill="#666666"
-        style="font-family: 'Roboto Slab', 'Roboto Slab Regular', serif; font-size: 31px; font-weight: 400; letter-spacing: 0; fill: #666666 !important; opacity: 1 !important;">
-    <tspan fill="#666666" style="fill: #666666 !important;">Bückeburg Archive Research</tspan>
+        fill="#616161"
+        style="font-family: 'Roboto Slab', 'Roboto Slab Regular', serif; font-size: 31px; font-weight: 400; letter-spacing: 0; fill: #616161 !important; opacity: 1 !important;">
+    <tspan fill="#616161" style="fill: #616161 !important;">Bückeburg Archive Research</tspan>
   </text>
 </svg>

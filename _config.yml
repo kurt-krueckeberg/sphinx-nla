@@ -3,10 +3,11 @@
 
 title: 'Lower Saxony, Bückeburg Archive, Documents'
 author: Kurt Krueckeberg
-#logo: _static/nla-documents-myst-style-light.svg
 logo: _static/bueckeburg-archive-research-logo-wide.svg   
-logo_darl: _static/bueckeburg-archive-research-logo-wide-dark.svg
+logo_dark: _static/bueckeburg-archive-research-logo-wide-dark.svg
 
+#logo:      /home/kurt/temp/bueckeburg-archive-logo-light-fixed-final.svg
+#logo_dark: /home/kurt/temp/bueckeburg-archive-logo-dark-fixed-final.svg
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:

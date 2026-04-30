@@ -8,11 +8,12 @@
       letter-spacing: -0.03em;
     }
     .brace-light {
-      fill: #ea580c;
+ /*   fill: #ea580c; */
+      fill: #F37726;
       font-size: 76px;
     }
     .word-light {
-      fill: #1d4ed8;
+      fill: #616161;
       font-size: 64px;
     }
   </style>
