@@ -138,9 +138,28 @@ parts:
           - file: 147/cover
           - file: 147/doc5
 
-      - file: 139/content.md
-        title: Holding no. 10 Berenbusch
-        sections: 
-          - file: 139/timeline
-          - file: 139/cover
 
+
+      - file: 139/index.md
+        title:
+        sections:    
+         - file: 139/content.md
+           title: Holding no. 10 Berenbusch
+           sections: 
+             - file: 139/timeline
+             - file: 139/cover
+             - file: 139/doc1-1
+             - file: 139/doc1-2
+             - file: 139/doc1-3
+             - file: 139/doc1-4
+             - file: 139/doc1-5
+             - file: 139/doc2
+        - file: 139/other-docs.md
+          sections:
+             - file: 139/krueckeberg-petition-to-sell
+             - file: 139/amt-report-on-krueckeberg-petition-to-sell-his-holding
+             - file: 139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding
+             - file: 139/actum-bueckeburg-amt-21-aug-1849
+             - file: 139/amt-report-22-aug-1849
+             - file: 139/petition-to-sell-his-holding-23-aug-1849
+             - file: 139/sales-contract-for-no-10
