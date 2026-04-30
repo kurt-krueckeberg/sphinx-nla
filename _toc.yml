@@ -90,8 +90,8 @@ parts:
           - file: 146/content.md
             title: Table of Contents (1808-1810)
             sections:
-              - file: 146/cover.md
               - file: 146/doc1-analysis.md
+              - file: 146/cover.md
               - file: 146/doc1.md
                 title: Tailor Krückeberg Petition
               - file: 146/doc1-2nd-analysis.md
