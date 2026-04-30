@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+source .venv/bin/activate
+jb clean . && jb build .
+sudo -r _build/html/* /var/www/krueckeberg.org/nla/
+
