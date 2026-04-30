@@ -91,21 +91,32 @@ parts:
             title: Table of Contents (1808-1810)
             sections:
               - file: 146/doc1-analysis.md
+              - file: 146/doc1-2nd-analysis.md
               - file: 146/cover.md
               - file: 146/doc1.md
                 title: Tailor Krückeberg Petition
-              - file: 146/doc1-2nd-analysis.md
               - file: 146/doc2.md
+                title: Bückeberg Office Report
               - file: 146/doc3.md
+                title: Rentkammer Decision
               - file: 146/doc4.md
+                title: Bückeberg Office Report
               - file: 146/doc5.md
+                title: Rentkammer Decision
               - file: 146/doc6.md
+                title: Bückeberg Office Report
               - file: 146/ad6-survey-drawing.md
+                title: Geometric Drawing
               - file: 146/doc7.md
+                title: Rentkammer Decision
               - file: 146/doc8.md
+                title: Petition of Krückeberg's Wife
               - file: 146/doc9.md
+                title: Rentkammer Decree
               - file: 146/doc10.md
+                title: Certificate Issued
               - file: 146/doc11.md
+                title: Purchase Deed
           - file: 146/other-docs.md
             title: Other Documents (1850)
             sections:
