@@ -5,8 +5,6 @@ parts:
   - caption: General Documents
     chapters:
       - file: 2728/survey-1737
-        title: Householder Survey
-      - file: 2728/survey-1737
         title: Householder Survey (1737)
       - file: 2741/index
         title: Property Holder Questioning (1743–1744)
