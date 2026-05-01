@@ -1,9 +1,16 @@
 # todo 
 
-## JB2 Dark Mode Colors
+## Finish `recommended-navigation.adoc`
 
-Use JB2 dark mode colors.
+Use the complete `titles:` that are in `_toc.yml`. 
 
-## Fix Image sizes
+## Fix Page zooming/widening effect
 
+## Proofread all the pages
+
+## Compare with old NLA
+
+To make sure no pages are missing.
+
+## Edit it to impove its readability
 
