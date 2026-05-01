@@ -106,118 +106,109 @@ for loan consent, etc
 
 ## Images
 
-```{list-table}
+```{image} images/02-r.png
+:class: image-override
+```
 
-* -                 Click to Enlarge
-                    
-                      
-                        
-                      
-                      
-                        02 r
-  -                 Click to Enlarge
-                    
-                      
-                        
-                      
-                      
-                        03 l original
+```{image} images/03-l-original.png
+:class: image-override
 ```
 
 ## Transliteration and Translation
 
-```{list-table}
-:header-rows: 1
+```{code-block} text
 
-* - Transliteration
-  - Translation
-* - NC 4381                             pr. in Cam 2 Oct 1841
-    
-    
-                         Durchlauchtigster Fürst,
-                         Gnädigst regierender Fürst
-    D[initial]           und Herr!
-    
-    RC.
-    b.m. [beizumachen] zum Amtsbericht
-    B. 4 Oct 41
-    Spreng
-    
-    Mein verstorbener Vater und nach dessen Tode auch meine Mutter,
-    die das Handwerk meines Vaters, eines Schuhmachers, fortsetzte,
-    haben bei den Kaufleuten und Gerber Hempel Söhne in Minden eine
-    bedeutende Lederschuld gewirkt, die jetzt mit Zinsen gegen mich
-    ausgeklagt ist, und derentwegen, wie anliegender Bescheid des
-    Amts bekundet, ich mit Auspfandung bedroht bin. Mir ist es
-    unmöglich, diese ganze Summe aus eigenen vorräthiger Mitteln zu
-    bezahlen, und ich weiß mich nicht anders zu helfen, als durch ein
-    neues Darlehn von 150 Rthl und die Erlangung der Vergünstigung,
-    den Rest in jährlichen Terminen von 5 Rthlr abtragen zu können.
-    Auf meiner
-    
-    Nr. pr: 1274 [end of page 1]
-    
-    Stätte haften zwar schon 700 Rthl consentirter Schulden,
-    allein ich kann mir nicht anders helfen, so ungern ich auch noch
-    meine Zinsen last vergrößern.  Ew. Durchlaucht muß ich daher
-    unterthänigst bitten:
-    
-    mir gnädigst den Consens zu einem neuen Anlehn von 150 Rthl zu
-    ertheilen und dann zu verfügen daß ich der Rest der
-    unconfendirten Hempelischen Forderung in jährlichen terminen von
-    5 Rthlr abträgen könne.
-    
-    In tiefster Ehrfurcht ersterbend
-    
-    Ew. Durchlaucht
-    
-    Buckeburg                              unterthänigster,
-    d. 2ten Ditto. 1841.                   Colon Krückeberg
-    Conc[ipist]. GWFuchs.                  Nr 10 in Berenbusch.
-    progg[short for:protokollieren].
-  - NC 4381                   presented in Cammer 2 Oct 1841
-    
-    
-    Most Serene Prince, gracious reigning Prince and Lord,
-    
-    Rent Chamber
-    to be attached to the Amt’s report.
-    Bückeburg, 4 October 1841
-    Spreng
-    
-    My late father—and, after his death, my mother, who continued my
-    father’s trade as a shoemaker—incurred a substantial leather
-    debt with the merchants and tanners Hempel & Sons in Minden.
-    This debt, with interest, has now been adjudged against me,
-    and—as the attached notice from the district office shows—I am
-    threatened with distraint (seizure). It is impossible for me to
-    pay the entire amount from my own available means, and I see no
-    other remedy than to obtain a new loan of 150 thalers and to be
-    granted the favor of paying off the remainder in annual
-    installments of 5 thalers.
-    
-    There are already 700 thalers in officially authorized debts
-    secured on my
-    
-    [Protocol/registry number of the Rentkammer at end of page 1]
-    Nr. pr: 1274
-    
-    holding (i.e., mortgages registered on the
-    property); nevertheless, the only way I can deal with the Hempel
-    claim is to take on further borrowing—much as I dislike
-    increasing my burden of interest payments. I therefore most
-    humbly request:
-    
-    that Your Serene Highness graciously consent to a new loan of 150
-    thalers and then decree that I may repay the remainder of the
-    not-yet-authorized Hempel claim in yearly installments of 5
-    thalers.
-    
-    In deepest respect,
-    
-    Bückeburg, the 2nd (of the same month), 1841.    Your Serene Highness’s
-    drafted by G. W. Fuchs                           most humble servant,
-    with fee                                         Colon Krückeberg
-    filed                                            No. 10 in Berenbusch.
+NC 4381                             pr. in Cam 2 Oct 1841
+
+
+                     Durchlauchtigster Fürst,
+                     Gnädigst regierender Fürst
+D[initial]           und Herr!
+
+RC.
+b.m. [beizumachen] zum Amtsbericht
+B. 4 Oct 41
+Spreng
+
+Mein verstorbener Vater und nach dessen Tode auch meine Mutter,
+die das Handwerk meines Vaters, eines Schuhmachers, fortsetzte,
+haben bei den Kaufleuten und Gerber Hempel Söhne in Minden eine
+bedeutende Lederschuld gewirkt, die jetzt mit Zinsen gegen mich
+ausgeklagt ist, und derentwegen, wie anliegender Bescheid des
+Amts bekundet, ich mit Auspfandung bedroht bin. Mir ist es
+unmöglich, diese ganze Summe aus eigenen vorräthiger Mitteln zu
+bezahlen, und ich weiß mich nicht anders zu helfen, als durch ein
+neues Darlehn von 150 Rthl und die Erlangung der Vergünstigung,
+den Rest in jährlichen Terminen von 5 Rthlr abtragen zu können.
+Auf meiner
+
+Nr. pr: 1274 [end of page 1]
+
+Stätte haften zwar schon 700 Rthl consentirter Schulden,
+allein ich kann mir nicht anders helfen, so ungern ich auch noch
+meine Zinsen last vergrößern.  Ew. Durchlaucht muß ich daher
+unterthänigst bitten:
+
+mir gnädigst den Consens zu einem neuen Anlehn von 150 Rthl zu
+ertheilen und dann zu verfügen daß ich der Rest der
+unconfendirten Hempelischen Forderung in jährlichen terminen von
+5 Rthlr abträgen könne.
+
+In tiefster Ehrfurcht ersterbend
+
+Ew. Durchlaucht
+
+Buckeburg                              unterthänigster,
+d. 2ten Ditto. 1841.                   Colon Krückeberg
+Conc[ipist]. GWFuchs.                  Nr 10 in Berenbusch.
+progg[short for:protokollieren].
+```
+
+```{code-block} text
+
+NC 4381                   presented in Cammer 2 Oct 1841
+
+
+Most Serene Prince, gracious reigning Prince and Lord,
+
+Rent Chamber
+to be attached to the Amt’s report.
+Bückeburg, 4 October 1841
+Spreng
+
+My late father—and, after his death, my mother, who continued my
+father’s trade as a shoemaker—incurred a substantial leather
+debt with the merchants and tanners Hempel & Sons in Minden.
+This debt, with interest, has now been adjudged against me,
+and—as the attached notice from the district office shows—I am
+threatened with distraint (seizure). It is impossible for me to
+pay the entire amount from my own available means, and I see no
+other remedy than to obtain a new loan of 150 thalers and to be
+granted the favor of paying off the remainder in annual
+installments of 5 thalers.
+
+There are already 700 thalers in officially authorized debts
+secured on my
+
+[Protocol/registry number of the Rentkammer at end of page 1]
+Nr. pr: 1274
+
+holding (i.e., mortgages registered on the
+property); nevertheless, the only way I can deal with the Hempel
+claim is to take on further borrowing—much as I dislike
+increasing my burden of interest payments. I therefore most
+humbly request:
+
+that Your Serene Highness graciously consent to a new loan of 150
+thalers and then decree that I may repay the remainder of the
+not-yet-authorized Hempel claim in yearly installments of 5
+thalers.
+
+In deepest respect,
+
+Bückeburg, the 2nd (of the same month), 1841.    Your Serene Highness’s
+drafted by G. W. Fuchs                           most humble servant,
+with fee                                         Colon Krückeberg
+filed                                            No. 10 in Berenbusch.
 ```
 
