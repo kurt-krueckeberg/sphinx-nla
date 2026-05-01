@@ -34,3 +34,15 @@ img.image-override,
   margin-bottom: 0;
 }
 
+/* Widen logo area */
+.sidebar-primary-item .navbar-brand.logo {
+  width: 320px;
+  max-width: none;
+}
+
+.sidebar-primary-item .navbar-brand.logo,
+.sidebar-primary-item .navbar-brand.logo img.logo__image {
+  width: 260px;
+  max-width: none;
+  height: auto;
+}

@@ -74,5 +74,5 @@ sphinx:
       use_download_button: true
 
       logo:
-        image_light: _static/myst-style-light.svg
-        image_dark: _static/myst-style-dark.svg
+        image_light: _static/myst-style-light-larger-spaced.svg
+        image_dark: _static/myst-style-dark-larger-spaced.svg
