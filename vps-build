@@ -2,5 +2,5 @@
 git pull
 source .venv/bin/activate
 jb clean . && jb build .
-sudo cp -r _build/html/* /var/www/krueckeberg.org/nla/
+cp -r _build/html/* /var/www/krueckeberg.org/nla/
 
