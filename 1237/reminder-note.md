@@ -10,6 +10,7 @@ merely a reminder about Berenbusch woodland boundaries.
 
 ```{image} images/07-right-page.png
 :class: image-override
+:width: 75%
 ```
 
 ```{code-block} text
