@@ -34,7 +34,7 @@ img.image-override,
   margin-bottom: 0;
 }
 
-/* Widen logo area */
+/* Widen logo area
 .sidebar-primary-item .navbar-brand.logo {
   width: 320px;
   max-width: none;
@@ -44,5 +44,18 @@ img.image-override,
 .sidebar-primary-item .navbar-brand.logo img.logo__image {
   width: 260px;
   max-width: none;
+  height: auto;
+}
+ */
+
+/* Widen logo image without forcing the sidebar/layout wider */
+.sidebar-primary-item .navbar-brand.logo {
+  display: block;
+  max-width: 100%;
+}
+
+.sidebar-primary-item .navbar-brand.logo img.logo__image {
+  width: 260px;
+  max-width: 100%;
   height: auto;
 }

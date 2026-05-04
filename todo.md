@@ -1,4 +1,11 @@
-# todo 
+
+## Zoom Bug
+
+Cause 1:
+
+Bare values like `1.` inside a MyST list-table cell are being parsed as
+Markdown ordered-list markers, producing unintended `<ol>` blocks inside the
+table.
 
 ## Finish `recommended-navigation.adoc`
 
