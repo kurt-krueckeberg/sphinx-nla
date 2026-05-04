@@ -29,12 +29,10 @@ felled and sold by the forestry office
 ## Images
 
 ```{image} images/05-right-page.png
-:width: 55%
 :class: image-override
 ```
 
 ```{image} images/06-left-page.png
-:width: 55%
 :class: image-override
 ```
 
