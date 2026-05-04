@@ -12,29 +12,33 @@ merely a reminder about Berenbusch woodland boundaries.
 :class: image-override
 ```
 
-```{list-table}
+```{code-block} text
 
-* - ad Nro. 322
-    Res Cam.
-    wie ad Nro. 317.
-    
-    Auch wäre an den Inhalt des Cam. Rescripts dd 15. April 1799 in Betreff
-    der Hecken– und Befriedigungs–Ausrückung der Wald–Angrenzer des Dorfs
-    Berenbusch zu erinnern.
-    B. 27. Octbr 1800
-    
-        MK.
-  - Re: No. 322
-    Chamber Resolution
-    as in No. 317.
-    
-    It should also be recalled that the contents of the Chamber Directive
-    dated 15 April 1799 concerning the hedgerows and demarcation of
-    boundaries for the forest-adjacent lands of the village of Berenbusch
-    still apply.
-    Recorded 27 October 1800
-    
-        MK.
+ad Nro. 322
+Res Cam.
+wie ad Nro. 317.
+
+Auch wäre an den Inhalt des Cam. Rescripts dd 15. April 1799 in Betreff
+der Hecken– und Befriedigungs–Ausrückung der Wald–Angrenzer des Dorfs
+Berenbusch zu erinnern.
+B. 27. Octbr 1800
+
+    MK.
+```
+
+```{code-block} text
+
+Re: No. 322
+Chamber Resolution
+as in No. 317.
+
+It should also be recalled that the contents of the Chamber Directive
+dated 15 April 1799 concerning the hedgerows and demarcation of
+boundaries for the forest-adjacent lands of the village of Berenbusch
+still apply.
+Recorded 27 October 1800
+
+    MK.
 ```
 
 ## Glossary of Terms
