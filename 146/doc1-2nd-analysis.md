@@ -1,4 +1,4 @@
-# Document 1: Better Analysis
+# Better Analysis of Document 1
 
 Below is a **context-specific definition of *Einlieger*** as it is used in
 your Rentkammer petition, followed by **authoritative historical
