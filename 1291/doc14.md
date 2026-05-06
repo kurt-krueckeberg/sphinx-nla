@@ -1,4 +1,4 @@
-# Document 14: Petition of the new settler Brüggemann No. 14 at Nordholz
+# Petition of the new settler Brüggemann No. 14 at Nordholz
 
 **TODO:** The date at the end doesn’t seem, to match the Designatio Actorum?!
 

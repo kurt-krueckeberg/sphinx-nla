@@ -1,4 +1,4 @@
-# Document 15: Prepared official decision of the Princely Finance Office addressed to the aforementioned (Brüggemann).
+# Prepared official decision of the Princely Finance Office addressed to the aforementioned (Brüggemann).
 
 ## Chancery resolution
 

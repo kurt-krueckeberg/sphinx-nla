@@ -1,4 +1,4 @@
-# Document 19: Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.
+# Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.
 
 ## Purchase Contract
 

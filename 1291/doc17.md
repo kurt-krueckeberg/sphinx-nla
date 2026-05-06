@@ -1,4 +1,4 @@
-# Document 17: Prepared official decision of the Princely Finance Office addressed to the same (Krückeberg)
+# Prepared official decision of the Princely Finance Office addressed to the same (Krückeberg)
 
 ## Chancery Resolution
 
