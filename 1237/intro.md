@@ -4,7 +4,7 @@ The case file of Jobst Heinrich’s Petition to Enlarge Farmyard and Garden is c
 [NLA BU, K 2, A Nr. 1237](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766)
 in the Arcinsys online catalog system. It resides in the Bückeburg regional archive.
 
-## The Regency Period and the “vormundschaftliche Rentkammer” in Schaumburg-Lippe
+## The Regency Period
 
 On 13 February 1787 **Count Philipp II Ernst** died His, and his young son **Georg
 Wilhelm (born 20 December 1784)** inherited the title at age two on that
@@ -18,7 +18,7 @@ The Rentkammer was the central government office responsible for financial
 and property matters, such as land administration, taxes, and estate
 management. It continued to operate as usual during the regency.
 
-The term “vormundschaftliche Rentkammer” does not mean there was a separate
+The term **vormundschaftliche Rentkammer** does not mean there was a separate
 or special Rentkammer. It simply indicates that the ordinary Rentkammer
 was functioning under the authority of the regency government rather than
 under a fully reigning adult ruler.
