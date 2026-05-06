@@ -7,11 +7,9 @@ Bare values like `1.` inside a MyST list-table cell are being parsed as
 Markdown ordered-list markers, producing unintended `<ol>` blocks inside the
 table.
 
-## Finish `recommended-navigation.adoc`
+## Finish Updateing `_toc.yml`
 
-Use the complete `titles:` that are in `_toc.yml`. 
-
-## Fix Page zooming/widening effect
+Complete the `titles:` that are in `_toc.yml`. 
 
 ## Proofread all the pages
 
@@ -19,5 +17,7 @@ Use the complete `titles:` that are in `_toc.yml`.
 
 To make sure no pages are missing.
 
-## Edit it to impove its readability
+## Use JB1 headers on JB2 Project
+
+After completing the `_toc,yml` make its navigation that of `~/jla`. 
 
