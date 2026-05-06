@@ -73,6 +73,7 @@ parts:
           - file: 1291/doc11.md
             title: Report of local office with drawing
           - file: 1291/doc12.md
+            title: Official Decision
           - file: 1291/doc13.md
           - file: 1291/doc14.md
           - file: 1291/doc15.md

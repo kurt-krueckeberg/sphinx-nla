@@ -1,4 +1,4 @@
-# Document 13: Chamber treasury receipt
+# Chamber Treasury Receipt
 
 ## Digital Image
 
