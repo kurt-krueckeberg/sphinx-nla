@@ -78,13 +78,19 @@ parts:
           - file: 1291/doc14.md
             title: Petition of Brüggemann
           - file: 1291/doc15.md
+            title: Finance Office Decision on Brüggerman
           - file: 1291/doc16.md
+            title: Krückeberg Petition
           - file: 1291/doc17.md
+            title:  Finance Office Decision on Krückeberg
           - file: 1291/doc18.md
           - file: 1291/doc19.md
+            title: Krückeberg Purchase Contract
           - file: 1291/doc20.md
+            title: Finance Office Decision on Vogt
           - file: 1291/doc21.md
           - file: 1291/doc22.md
+            title: Brüggemann Purchase Contract
      
       - file: 146/index.md
         title: Holding No. 18 Berenbusch, 1808-1850

@@ -1,4 +1,4 @@
-# Documnet 16: Petition of the shoemaker Krückeberg No. 10 at Berenbusch
+# Petition of the shoemaker Krückeberg No. 10 at Berenbusch
 
 ## Petition
 

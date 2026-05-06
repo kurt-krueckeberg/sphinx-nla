@@ -1,4 +1,4 @@
-# Document 22: Concluded purchase contract for Brüggemann No. 14 at Nordholz
+# Concluded purchase contract for Brüggemann No. 14 at Nordholz
 
 ## Concluded purchase contract for new settler Brüggemann No. 13 at Nordholz
 
