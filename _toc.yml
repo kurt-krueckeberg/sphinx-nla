@@ -22,6 +22,7 @@ parts:
         sections:
           - file: rentkammer/case-file-docs-explained
             title: Case Files Explained
+          - file: retnkammer/workflow  
           - file: rentkammer/terms
             title: Rentkammer Terms
            
