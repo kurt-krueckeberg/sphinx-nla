@@ -1,4 +1,4 @@
-# Docket Item 4: Krückeberg’s Second Petition (21 Nov 1841)
+# Krückeberg’s Second Petition (21 Nov 1841)
 
 ## Overview
 

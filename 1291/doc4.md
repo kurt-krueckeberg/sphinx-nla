@@ -1,4 +1,4 @@
-# Document 4: Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office
+# Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office
 
 ## Petition Docket Page
 

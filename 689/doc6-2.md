@@ -1,4 +1,4 @@
-# Docket Item 6: Supreme official order of His Serene Highness (19 Dec. 1841)
+# Supreme official order of His Serene Highness (19 Dec. 1841)
 
 ## Images
 

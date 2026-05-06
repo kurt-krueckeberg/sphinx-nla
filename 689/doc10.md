@@ -1,4 +1,4 @@
-# Docket Item 10: Follow-ups to Promissory Note for 200 Reichsthaler in currency, borrowed from the princely treasury
+# Follow-ups to Promissory Note for 200 Reichsthaler in currency, borrowed from the princely treasury
 
 ## NC 2422 — Follow-up to Prommissory Note for 200 Reichsthaler, of 12 Jan 1842) — liquidation/crediting of interest
 

@@ -1,4 +1,4 @@
-# Docket Item 8: Report from the Office Bückeburg (12 Jan 1842)
+# Report from the Office Bückeburg (12 Jan 1842)
 
 ## Images
 

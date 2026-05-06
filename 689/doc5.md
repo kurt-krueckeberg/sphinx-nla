@@ -1,4 +1,4 @@
-# Docket Item 5: Report of Officer Creuzinger with attached site plan of the Söhren pasture (10 Dec. 1841)
+# Report of Officer Creuzinger with attached site plan of the Söhren pasture (10 Dec. 1841)
 
 ## Images
 

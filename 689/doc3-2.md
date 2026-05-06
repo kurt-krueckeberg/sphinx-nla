@@ -1,4 +1,4 @@
-# Docket Item 3: Memorandum of Senior Government Councillor von Reck (15 November 1841)
+# Memorandum of Senior Government Councillor von Reck (15 November 1841)
 
 ## Summary
 

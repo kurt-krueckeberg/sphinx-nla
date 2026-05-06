@@ -1,4 +1,4 @@
-# Docket Item 8: Draft of Official Order to the Treasurer Berger (20 Jan 1842)
+# Draft of Official Order to the Treasurer Berger (20 Jan 1842)
 
 ## Images
 

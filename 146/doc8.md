@@ -1,4 +1,4 @@
-# Document 8: Petition of the wife of the new settler Krückeberg,
+# Petition of the wife of the new settler Krückeberg,
 
 ## Summary
 

@@ -1,4 +1,4 @@
-# Document 7: Drafts of Cameral rescripts from the Office of Bückeburg, also draft of a Cameral instruction to the Chamber Rent-Master Stackmann
+# Drafts of Cameral rescripts from the Office of Bückeburg, also draft of a Cameral instruction to the Chamber Rent-Master Stackmann
 
 ## Image
 

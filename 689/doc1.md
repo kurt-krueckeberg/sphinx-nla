@@ -1,4 +1,4 @@
-# Docket Item 1: Petition of Colon Krückeberg No. 10 in Berenbusch (2 Oct. 1841)
+# Petition of Colon Krückeberg No. 10 in Berenbusch (2 Oct. 1841)
 
 ## Overview
 

@@ -11,6 +11,13 @@ table.
 
 Complete the `titles:` that are in `_toc.yml`. 
 
+## Add Einliger Article
+
+It is in [repo](https://github.com/kurt-krueckeberg/funke.git),
+and this file: modern-english-translation.t,
+and this file: modern-english-translation.txtt
+
+
 ## Proofread all the pages
 
 ## Compare with old NLA

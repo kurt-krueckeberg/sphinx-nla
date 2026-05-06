@@ -1,4 +1,4 @@
-# Document 6: Together with a Geometric Drawing
+# Together with a Geometric Drawing
 
 ## Survey drawing accompanying Document 6
 

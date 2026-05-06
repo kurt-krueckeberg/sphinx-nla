@@ -1,4 +1,4 @@
-# Docket Item 2: Draft of Official Order of the Chamber to the Office of Bückeburg (14 Oct 1841)
+# Draft of Official Order of the Chamber to the Office of Bückeburg (14 Oct 1841)
 
 ## Summary
 

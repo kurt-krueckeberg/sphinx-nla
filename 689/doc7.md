@@ -1,4 +1,4 @@
-# Docket Item 7: Draft of Official Order of the Chamber to the Office of Bückeburg (24 Dec. 1841)
+# Draft of Official Order of the Chamber to the Office of Bückeburg (24 Dec. 1841)
 
 ```{list-table}
 

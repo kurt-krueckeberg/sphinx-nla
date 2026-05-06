@@ -1,4 +1,4 @@
-# Docket Item 6: Formal advisory submission by Privy Chancery Councillor Reck (16 Dec, 1841)
+# Formal advisory submission by Privy Chancery Councillor Reck (16 Dec, 1841)
 
 ## Images
 

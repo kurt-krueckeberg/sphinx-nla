@@ -1,4 +1,4 @@
-# Docket Item 6: Filing note by Councillor Reck and the supreme official order of His Serene Highness (23 Dec.  1841)
+# Filing note by Councillor Reck and the supreme official order of His Serene Highness (23 Dec.  1841)
 
 ## Images
 

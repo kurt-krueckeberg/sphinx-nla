@@ -1,4 +1,4 @@
-# Document 10: Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid by the aforementioned Krückeberg.
+# Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid by the aforementioned Krückeberg.
 
 ## Image
 

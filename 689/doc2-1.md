@@ -1,4 +1,4 @@
-# Docket Item 2: Report of the Office of Bückeburg (7 Oct 1841)
+# Report of the Office of Bückeburg (7 Oct 1841)
 
 ## Overview
 

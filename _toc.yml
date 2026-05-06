@@ -204,3 +204,7 @@ parts:
         sections:
           - file: 188/cover
           - file: 188/abschrift-4386
+
+  - caption: Non-Archival Documents
+    chapters:
+      - file: nonarchive/einlieger.md

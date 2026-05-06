@@ -1,4 +1,4 @@
-# Document 2: Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.
+# Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.
 
 ## Digital Image
 

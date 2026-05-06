@@ -1,4 +1,4 @@
-# Document 5: Report of the Bückeburg office together with an attached drawing
+# Report of the Bückeburg office together with an attached drawing
 
 ## Images
 

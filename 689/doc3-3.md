@@ -1,4 +1,4 @@
-# Docket Item 3: Draft of Official Order of the Chamber to Colon Krückeberg (15 Nov. 1841)
+# Draft of Official Order of the Chamber to Colon Krückeberg (15 Nov. 1841)
 
 ## Summary
 

@@ -1,4 +1,4 @@
-# Document 6: Prepared official decision of the Princely Finance Office to the local office
+# Prepared official decision of the Princely Finance Office to the local office
 
 ## Digital Images
 

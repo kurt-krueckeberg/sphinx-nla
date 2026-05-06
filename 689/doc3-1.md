@@ -1,4 +1,4 @@
-# Docket Item 3: Petition of Colon Krückeberg (on condition of pledging all of his lands [as collateral])
+# Petition of Colon Krückeberg (on condition of pledging all of his lands [as collateral])
 
 ## Summary
 

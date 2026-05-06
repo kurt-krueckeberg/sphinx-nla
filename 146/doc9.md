@@ -1,4 +1,4 @@
-# Document 9: Draft of a Cameral decree addressed to this colonist Krückeberg
+# Draft of a Cameral decree addressed to this colonist Krückeberg
 
 ## Summary
 

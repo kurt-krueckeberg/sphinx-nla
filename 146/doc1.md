@@ -1,4 +1,4 @@
-# Document 1: Petition submitted by the tailor Krückeberg in Evesen
+# Petition submitted by the tailor Krückeberg in Evesen
 
 ## Overview
 

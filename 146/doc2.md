@@ -1,4 +1,4 @@
-# Document 2: Report of the administrative offices of Bückeburg and Arensburg
+# Report of the administrative offices of Bückeburg and Arensburg
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Docket Item 8: Draft of Official Order of the Rentcammer to the Office of Bückeburg (20 Jan 1842)
+# Draft of Official Order of the Rentcammer to the Office of Bückeburg (20 Jan 1842)
 
 ## Images
 

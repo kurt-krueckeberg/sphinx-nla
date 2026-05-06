@@ -1,4 +1,4 @@
-# Document 5: Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office
+# Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office
 
 ## Petition Docket Page
 

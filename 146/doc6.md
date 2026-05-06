@@ -1,4 +1,4 @@
-# Document 6: Report of the aforementioned administrative offices
+# Report of the aforementioned administrative offices
 
 ## TODO: provide a summary/overview
 

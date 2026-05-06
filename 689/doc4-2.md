@@ -1,4 +1,4 @@
-# Docket Item 4: Draft of Official Order of the Chamber to Officer Creuzinger (25 Nov 1841)
+# Draft of Official Order of the Chamber to Officer Creuzinger (25 Nov 1841)
 
 ## Overview
 
