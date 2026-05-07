@@ -1,11 +1,9 @@
+# TODO
 
-## Zoom Bug
+## Add the unorderlist links to content.md
 
-Cause 1:
-
-Bare values like `1.` inside a MyST list-table cell are being parsed as
-Markdown ordered-list markers, producing unintended `<ol>` blocks inside the
-table.
+Add unorder list links to content.md before its Designatio Actorum table
+for files like conver.md, intro.md, etc.
 
 ## Finish Updateing `_toc.yml`
 

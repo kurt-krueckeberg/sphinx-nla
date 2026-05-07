@@ -51,6 +51,7 @@ parts:
       - file: 1291/content.md
         title: Allotments to Krückeberg no. 10 & Lodgers Vogt & Nordholz
         sections:
+          - file: 1291/cover.md
           - file: 1291/doc1.md
             title: Krückeberg no. 10 Berenbush Petition 
           - file: 1291/doc2.md
