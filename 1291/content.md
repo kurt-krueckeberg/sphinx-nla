@@ -1,12 +1,13 @@
 # Contents List
 
+* [Case File Cover](cover.md)
+
+## Table of Contents
+
 The **Designatio Actorum** is the table of contents for the Rentkammer case
 file. It lists its documents in the second column and their topics in the
 third column.
 
-* [Case File Cover](cover.md)
-
-## Digital Images of Table of Contents
 
 ```{image} images/01-r.jpg
 :class: image-override
