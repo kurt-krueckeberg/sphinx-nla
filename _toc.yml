@@ -160,11 +160,17 @@ parts:
              - file: 139/timeline
              - file: 139/cover
              - file: 139/doc1-1
+               title:
              - file: 139/doc1-2
+               title:
              - file: 139/doc1-3
+               title: Official Reply to the Widow Krückeberg
              - file: 139/doc1-4
+               title:
              - file: 139/doc1-5
+               title:
              - file: 139/doc2
+               title:
          - file: 139/other-docs.md
            sections:
               - file: 139/krueckeberg-petition-to-sell

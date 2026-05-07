@@ -1,4 +1,10 @@
 # TODO
+## Folder 139 is wrong
+
+Both `~/nla/m/139` and `~/ns/139` have the exact same images for documents:
+* doc-1-3
+* doc1-4
+* doc1-5.
 
 ## Add the unorderlist links to content.md
 
