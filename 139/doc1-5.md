@@ -1,4 +1,4 @@
-# Drafted Official Reply originating from the Office of Bückeberg (24 Aug. 1824)
+# Report of the district office of Bückeburg (24 Aug. 1824)
 
 ## Overview
 

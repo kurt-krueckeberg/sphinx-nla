@@ -75,7 +75,7 @@ signify an Rentkammer decision
   - "
 * - 2.
   - [Bericht des Amts Bückeburg](doc2.md)
-  - [Report of the Office of Bückeburg](doc2.md).
+  - [Report of the district office of Bückeburg](doc2.md).
   - "
   - "
   - "
