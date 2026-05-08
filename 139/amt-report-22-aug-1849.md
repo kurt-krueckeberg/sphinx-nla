@@ -1,4 +1,4 @@
-# Report from the Amt Bückeburg Concerning the Sale of the Krückeberg Farmstead (22 August 1849)
+# Report from the Amt Bückeburg Concerning the Sale of the Krückeberg Holding (22 August 1849)
 
 ## Narrative Summary
 
@@ -64,7 +64,6 @@ Höner
 ```
 
 ```{code-block} text
-
 No. 4997
 
 Stamp: 3 Groschen.
@@ -72,34 +71,25 @@ Stamp: 3 Groschen.
 Presented at the Chancellery, August 23, 1849.
 NC 7
 Let consent be given to the sale of the holding.
-Stamp duty recorded 23 August 1849.
+Stamp duty recorded August 23, 1849.
 Barkhausen
 
-To the Princely Rent Chamber
+To the Princely Rentkammer
 from the Office of Bückeburg.
 
 Protocol No. 1353.
-to
-Case No. 4731
+regarding
+Rentkammer Case No. 4731
 
-Re: Petition of the Colon Krückeberg No. 10 in Berenbusch for permission
-to sell his holding.
+Re: Petition of Colon Krückeberg No. 10 in Berenbusch for permission to sell his holding.
 
-With the forwarding of the petition submitted by Colon Krückeberg No. 10
-in Berenbusch, concerning the captioned matter, and with reference to the
-protocol in copy attached from yesterday, we report that we have nothing
-to object to the granting of said petition of Krückeberg.
+We submit herewith the petition filed by Colon Krückeberg No. 10 in Berenbusch, requesting permission to sell his holding, together with the attached copy of yesterday’s record of proceedings. We report that we have no objection to granting his request.
 
-We request that the Princely Rent Chamber issue its decision without
-delay, as Colon Krückeberg is intending, for the purpose of his
-relocation to America, to depart from here already on the 13th of the
-coming month.
+We ask the Princely Rentkammer to issue its decision promptly, since Colon Krückeberg intends to leave here as early as the 13th of next month in order to emigrate to America.
 
-In execution of the resolution of the 13th of this month, we will collect
-from him the 12 Mariengroschen stamp penalty and will submit it without
-fail.
+In compliance with the resolution of the 13th of this month, we will collect from him the 12 Mariengroschen stamp-duty penalty and will duly forward it.
 
-Bückeburg, 22 August 1849
+Bückeburg, August 22, 1849
 
 Höner
 ```

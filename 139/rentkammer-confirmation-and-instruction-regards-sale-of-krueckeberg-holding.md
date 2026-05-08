@@ -1,4 +1,4 @@
-# Rentkammer Confirmation and Instruction regarding: the Sale of Colon Krückeberg’s Homestead, Berenbusch No. 10 (20 Sept 1849)
+# Rentkammer Confirmation and Instruction regarding the Sale of Colon Krückeberg’s Homestead, Berenbusch No. 10 (20 Sept 1849)
 
 ## Narrative Summary
 

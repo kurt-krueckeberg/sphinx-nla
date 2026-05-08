@@ -150,6 +150,7 @@ parts:
         sections:
           - file: 147/cover
           - file: 147/doc5
+            title: Report of Bückeburg district office
 
       - file: 139/index.md
         title:
@@ -168,14 +169,17 @@ parts:
              - file: 139/doc1-4
                title: Likewise Sealed by Schmöe, Kahlhuth and Creuzinger
              - file: 139/doc1-5
-               title:
+               title: Report of Bückeburg district office 
              - file: 139/doc2
-               title:
+               title: Report of Bückeburg office 
          - file: 139/other-docs.md
            sections:
               - file: 139/krueckeberg-petition-to-sell
+                title: Colon Krückeberg Petition to Sell
               - file: 139/amt-report-on-krueckeberg-petition-to-sell-his-holding
+                title: Rentkammer Instruction Regarding Sale, no. 10 Berenbusch
               - file: 139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding
+                title: Hearing Confirming Sale of no. 10 Berenbusch
               - file: 139/actum-bueckeburg-amt-21-aug-1849
               - file: 139/amt-report-22-aug-1849
               - file: 139/petition-to-sell-his-holding-23-aug-1849
