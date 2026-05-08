@@ -1,4 +1,4 @@
-# Likewise Sealed/officially marked by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)
+# Likewise Offically Marked by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)
 
 ## Summary
 
