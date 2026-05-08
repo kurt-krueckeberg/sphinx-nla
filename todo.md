@@ -1,19 +1,15 @@
 # TODO
-## Folder 139 is wrong
 
-Both `~/nla/m/139` and `~/ns/139` have the exact same images for documents:
-* doc-1-3
-* doc1-4
-* doc1-5.
+## Finish Updateing `_toc.yml`
+
+Complete the `titles:` that are in `_toc.yml`, starting with the entry:
+`- file: 139/other-docs.md`
+
 
 ## Add the unorderlist links to content.md
 
 Add unorder list links to content.md before its Designatio Actorum table
 for files like conver.md, intro.md, etc.
-
-## Finish Updateing `_toc.yml`
-
-Complete the `titles:` that are in `_toc.yml`. 
 
 ## Add Einliger Article
 
