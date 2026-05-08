@@ -2,21 +2,18 @@
 
 ## Finish Updateing `_toc.yml`
 
-Complete the `titles:` that are in `_toc.yml`, starting with the entry:
-`- file: 139/other-docs.md`
-
+Complete the `titles:` that are in `_toc.yml`, starting with the entry folder 689.
 
 ## Add the unorderlist links to content.md
 
-Add unorder list links to content.md before its Designatio Actorum table
+Add unordered list links to content.md before its Designatio Actorum table
 for files like conver.md, intro.md, etc.
 
-## Add Einliger Article
+## Add Einliger Article to this project
 
 It is in [repo](https://github.com/kurt-krueckeberg/funke.git),
 and this file: modern-english-translation.t,
 and this file: modern-english-translation.txtt
-
 
 ## Proofread all the pages
 
