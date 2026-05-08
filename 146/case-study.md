@@ -1,0 +1,26 @@
+# Case Study of the Einlieger at no. 11 Evesen
+
+The Rentkammer case file [Die Stätte Nr. 18 zu
+Berenbusch](index.md), which has this Bückeburg archive identification
+[NLA
+BU K 2 B Nr. 146](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979522), is about the Einlieger (lodger) Jobst Heinrich
+Krückeberg rwho lodges with the Hans Heinrich Wilharm family at no. 11 Evesen.
+
+But is this the same Jobst Heinrich Krückeberg who is a Colon no. 10
+Berenbusch? Why would that Jobst Heinrich be lodging in Evesen? This wasn’t
+an era when one purchased investment properties. Is this a different Jobst
+Heinrich Krückeberg? Could the document be in error, and is this someone
+else mistakenly identied as Jobst Heinrich?
+
+- Why would Jobst Herinich want two homes in Berenbusch?
+- Can he be both and Einlieger and a Colon.
+  - See definition and explantion of what an Einlieger was
+- This Einliger and his wife are "known to us" as bing "from Evesen"
+- This Einlieger’s business is in the Berenbusch area
+- Carl Heinrich Wilharm is the brother-in-law of Carl Friedrich Gottlieb Krückeberg
+- This Jobst Heinrich is a tailor not a shoemaker
+- Negative evidence: there were only two Jobst Heinrich’s church register
+between 1728 and 1822.
+- The home has become the possession of Carl Friedrich Gottlieb’s son, Carl
+Friedrich, by 1850
+
