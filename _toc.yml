@@ -183,7 +183,9 @@ parts:
               - file: 139/actum-bueckeburg-amt-21-aug-1849
               - file: 139/amt-report-22-aug-1849
               - file: 139/petition-to-sell-his-holding-23-aug-1849
+                title: Permission Granted for Sale
               - file: 139/sales-contract-for-no-10
+                title: Purchase Contract
 
       - file: 689/content.md
         title: Chamber Treasury Loan to Krückeberg (1841-1845)
