@@ -1,9 +1,12 @@
-# Draft of the Official Reply originating from the Office of Bückeberg (24 Aug. 1824)
+# Drafted Official Reply originating from the Office of Bückeberg (24 Aug. 1824)
 
 ## Overview
 
-The Draft of the Official Reply appears in the lower right quadrant of the
-image.
+The Official Reply appears in the lower right quadrant of the page.
+This same page holds:
+
+- The Official Reply to the Widow Krückeberg
+- The Sealedp
 
 ## Image
 
