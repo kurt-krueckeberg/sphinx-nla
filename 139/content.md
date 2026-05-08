@@ -60,7 +60,7 @@ signify an Rentkammer decision
   - Aug
   - 4
 * - "
-  - [Sim\[iliter\]: wapp\[oniert\] Schmöe, Kahlhuth und Creuzinger zu Baum](doc1-4.md)
+  - [Sim&#91;iliter&#93;: wapp&#91;oniert&#93; Schmöe, Kahlhuth und Creuzinger zu Baum](doc1-4.md)
   - [Likewise sealed/officially marked by Schmöe, Kahlhuth and Creuzinger of Baum](doc1-4.md).
   - "
   - "
