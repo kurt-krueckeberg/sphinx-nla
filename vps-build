@@ -2,5 +2,6 @@
 git pull
 source .venv/bin/activate
 jb clean . && jb build .
-cp -r _build/html/* /var/www/krueckeberg.org/nla/
-
+rsync -rzv --checksum --delete \
+  /home/kurt/sphinx-nla/_build/html/ \
+  /var/www/krueckeberg.org/nla/ 
