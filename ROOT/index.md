@@ -35,7 +35,7 @@ Bückeburg, Germany. All are from 18{sup}`th` and 19{sup}`th` century.
   - [NLA
     BU, L 101a, A Nr. 140](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389)
 * - 1798 - 1800
-  - [The plots of land designated for Colon Krückeberg No. 10 in Berenbusch for the enlargement of his house lot and garden (1798-1800)](../1237/intro.md)
+  - [The plots of land designated for Colon Krückeberg No. 10 in Berenbusch for the enlargement of his house lot and garden (1798-1800)](../1237/content.md)
     
     Die dem Colon Krückeberg Nr. 10 zu Berenbusch ausgewiesenen Plätze zur Vergrößerung seines Hofraumes und Garten
   - [NLA BU, K 2, A Nr. 1237](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766)

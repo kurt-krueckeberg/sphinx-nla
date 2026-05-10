@@ -1,4 +1,6 @@
-# Contents List
+# The plots of land designated for Colon Krückeberg No. 10 in Berenbusch for the enlargement of his house lot and garden (1798-1800)
+
+## Overview
 
 - [Case File Cover](cover.md)
 - [Introduction to Case](intro.md)
