@@ -1,6 +1,8 @@
-# Contents List
+# Allotment from forest land to the colonist Krückeberg No. 10 in Berenbusch, and to the lodgers Vogt and Brüggemann, for the establishment of the new Holdings Nos. 13 and 14 in Nordholz.
 
-* [Case File Cover](cover.md)
+## Case File Cover
+
+- [Case File Cover](cover.md)
 
 ## Table of Contents
 
