@@ -6,6 +6,8 @@ was selling in order to immigrate to America.
 
 - [Overview of Supplication to Sell no. 18 Berenbusch](overview-other-docs.md)
 
+**TODO:** There are two dates in the first row?
+
 ```{list-table} Document concerning the sale of Kolonat of Stätte no. 18 Berenbusch
 :header-rows: 1
 
