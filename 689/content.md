@@ -1,4 +1,8 @@
-# Contents List
+# A capital sum of 200 Reichsthaler courant loaned from the chamber treasury to the colonist Krückeberg No. 10 in Berenbusch (1841-1845)
+
+- [Case File Cover](cover.md)
+
+## Contents List
 
 The number in the first column of the contents list designates a cluster of related documents in which one aspect
 of the overall decision making process is under consideration. The 2nd column describes each document, the third
