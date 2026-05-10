@@ -1,11 +1,9 @@
 # Krückeberg-Related Documents
 
-This site contains the documents and Rentkammer case files listed below
-found in the Lower Saxony state archive in Bückeburg, Germany. The all
-relate to the Krückebergs of Berenbusch, Schaumburg-Lippe, in the
-18{sup}`th` and 19{sup}`th` century.
+This site contains Krückeberg-related documents and case files from the Lower Saxony state archive in
+Bückeburg, Germany. All are from 18{sup}`th` and 19{sup}`th` century.
 
-```{list-table} Niedersächisches Landesarchiv, Bückeburg (Lower Saxony State Archives in Bückeburg) Case Files and Documents
+```{list-table} Lower Saxony State Archives in Bückeburg (Niedersächisches Landesarchiv, Bückeburg) Case Files and Documents
 :header-rows: 1
 
 * - Life Span
