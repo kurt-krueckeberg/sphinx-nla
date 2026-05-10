@@ -9,7 +9,7 @@ Rentkammer**, requesting **official consent (Konsens)** for the sale of a
 *Neubauer* holding. Such consent was legally required because the land
 originated from a **state-regulated settlement**.
 
-### 2. Bezug im Bericht an das Amt Bückeburg
+### 2. Phrase: Bezug im Bericht an das Amt Bückeburg
 
 This is a fixed administrative routing phrase.
 

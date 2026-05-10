@@ -2,7 +2,7 @@
 
 ## Finish Updateing `_toc.yml`
 
-Complete the `titles:` that are in `_toc.yml`, starting with the entry folder 689.
+For folder `689`, complete the `titles:` that are in `_toc.yml`.
 
 ## Remove/Move the Information at the Top of 146/carl-fried-supplication-to-sell.html
 

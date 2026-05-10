@@ -129,13 +129,12 @@ parts:
           - file: 146/other-docs.md
             title: Other Documents (1850)
             sections:
+              - file: 146/intro-other-docs.md
               - file: 146/petition-to-sell-cover-sheet
               - file: 146/carl-fried-supplication-to-sell
                 title: Krückeberg Request to Sell (Sept. 1850)
-
               - file: 146/actum-bueckeburg-am-Amte-9-16-50  
                 title: Recorded at the Bückeburg District Office
-
               - file: 146/report-to-kammer-from-bueckeburg-amt-9-26-50
                 title: Report from the Bückeberg Office
               - file: 146/report-to-kammer-from-bueckeburg-amt-9-19-50
