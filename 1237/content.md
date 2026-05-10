@@ -4,7 +4,7 @@
 
 - [Case File Cover](cover.md)
 - [Introduction to Case](intro.md)
-- [Tineline](timeline.md)
+- [Timeline](timeline.md)
 
 ## The Designatio Actorum (Table of Contents)
 
