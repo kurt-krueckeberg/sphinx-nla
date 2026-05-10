@@ -1,9 +1,9 @@
-# Overview of Supplication to Sell no. 18 Berenbusch
-
-In  11 Sept. 1850: Carl Friedrich Krückeberg supplicated the Rentkammer requesting to sale his
-Holding no. 18 Berenbusch.
+# Overview of Supplication to Sell
 
 ## Overview
+
+In  11 Sept. 1850: Carl Friedrich Krückeberg supplicated the Rentkammer to
+permit the sale of his Holding no. 18 Berenbusch.
 
 ### 1. Nature of the document
 
