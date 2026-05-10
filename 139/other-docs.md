@@ -7,18 +7,18 @@ These documents concern the sale of holding no. 10 Berenbusch in 1850.
 
 * - Document Heading
   - Date
-* - [Colon Krückeberg Petition to Sell](/krueckeberg-petition-to-sell)
+* - [Petition of Colon Krückeberg for Permission to Sell His Farmstead](/krueckeberg-petition-to-sell)
   - 8 August 1849
-* - [Report of Bückeburg District Office on Krückeberg Petition](amt-report-on-krueckeberg-petition-to-sell-his-holding)
+* - [Report of Amt Bückeburg on Petition of Colon Krückeberg No. 10 in Berenbusch for Permission to Sell his Farmstead](amt-report-on-krueckeberg-petition-to-sell-his-holding)
   - 15 Sept. 1849
-* - [Rentkammer Instruction Regarding Sale, no. 10 Berenbusch](rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding)
+* - [Rentkammer Confirmation and Instruction regarding the Sale of Colon Krückeberg’s Homestead, Berenbusch No. 10](rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding)
   - 20 Sept. 1849
-* - [Hearing Confirming Sale of no. 10 Berenbusch](actum-bueckeburg-amt-21-aug-1849)
+* - [Hearing Confirming the Sale of Krückeberg’s Farmstead Prior to Emigration](actum-bueckeburg-amt-21-aug-1849)
   - 21 August 1849
-* - [Report from the Bückeburg District Office Concerning the Sale](amt-report-22-aug-1849)
+* - [Report from the Amt Bückeburg Concerning the Sale of the Krückeberg Holding](amt-report-22-aug-1849)
   - 22 August 1849
-* - [Permission Granted for Sale](petition-to-sell-his-holding-23-aug-1849)
+* - [Permission Granted for Colon Krückeberg to Sell his Holding](petition-to-sell-his-holding-23-aug-1849)
   - 23 August 1849
-* - [Purchase Contract](sales-contract-for-no-10)
+* - [Purchase Contract for Stätte No. 10 in Berenbusch](sales-contract-for-no-10)
   - 5 Sept. 1849
 ```
