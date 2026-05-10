@@ -1,6 +1,6 @@
-# Contents List
+# Holding No. 10 in Berenbusch (1824-1849)
 
-## Overview
+## Contents List
 
 The **Designatio Actorum** shown below is the table of contents for the case
 file. All the documents listed in it are from 1822 and concern the petition
