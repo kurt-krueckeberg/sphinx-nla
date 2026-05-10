@@ -4,6 +4,10 @@
 
 Complete the `titles:` that are in `_toc.yml`, starting with the entry folder 689.
 
+## The Case Study for Case File 146
+
+It is in 146/case-study.md
+
 ## Add the unorderlist links to content.md
 
 Add unordered list links to content.md before its Designatio Actorum table

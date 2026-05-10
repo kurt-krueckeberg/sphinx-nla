@@ -1,5 +1,11 @@
 # Case Study of the Einlieger at no. 11 Evesen
 
+## Introduction
+
+See the introductionary paragraphs stating the problem of potentially [two Jobst Heinrichs](index.md).
+
+## Outline
+
 The Rentkammer case file [Die Stätte Nr. 18 zu
 Berenbusch](index.md), which has this Bückeburg archive identification
 [NLA
