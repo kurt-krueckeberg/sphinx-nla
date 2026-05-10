@@ -129,7 +129,7 @@ parts:
           - file: 146/other-docs.md
             title: Other Documents (1850)
             sections:
-              - file: 146/intro-other-docs.md
+              - file: 146/overview-other-docs.md
               - file: 146/petition-to-sell-cover-sheet
               - file: 146/carl-fried-supplication-to-sell
                 title: Krückeberg Request to Sell (Sept. 1850)
