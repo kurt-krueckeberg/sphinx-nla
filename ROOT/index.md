@@ -5,7 +5,7 @@ found in the Lower Saxony state archive in Bückeburg, Germany. The all
 relate to the Krückebergs of Berenbusch, Schaumburg-Lippe, in the
 18{sup}`th` and 19{sup}`th` century.
 
-```{list-table} Niedersächisches Landesarchiv, Bückeburg (Lower Saxony State Archives in Bückeburg) Case Files/Dossiers
+```{list-table} Niedersächisches Landesarchiv, Bückeburg (Lower Saxony State Archives in Bückeburg) Case Files and Documents
 :header-rows: 1
 
 * - Life Span
