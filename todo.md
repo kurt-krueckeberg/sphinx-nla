@@ -4,11 +4,6 @@
 
 For folder `689`, complete the `titles:` that are in `_toc.yml`.
 
-## Remove/Move the Information at the Top of 146/carl-fried-supplication-to-sell.html
-
-This is explanatory information that should either go in a separate page or 
-in [Rentkammer Explained](rentkammer/rentkammer-and-kolonat-system.md).
-
 ## The Case Study for Case File 146
 
 It is in 146/case-study.md
