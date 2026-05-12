@@ -1,13 +1,5 @@
 # Contents List
 
-The number in the first column of the contents list designates a cluster of related documents in which one aspect
-of the overall decision making process is under consideration. The 2nd column describes each document, the third
-column is a note on the subject of the doucment(s); lastly comes the place, year, month and day
-
-```{image} images/01-r.png
-:class: image-override
-```
-
 ## Designation Actorum
 
 The first column represents a **procedural unit /docket item (Actenpunkt)**.
@@ -15,8 +7,14 @@ Each Actenpunkt corresponds to **one administrative step in the handling of
 the matter.**, and that step may generate one document or several (petition
 → report → resolution → rescript, etc.).
 
+The 2nd column describes each document, the third
+column is a note on the subject of the doucment(s); lastly comes the place, year, month and day
+
 **Note:** The column “Z.” denotes the sequential registry number within the
 stated month, not the day of the month.
+```{image} images/01-r.png
+:class: image-override
+```
 
 Merged transliteration and translation
 
