@@ -3,7 +3,7 @@
 ## Findings
 
 The document **Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen
-einer Generallandesvisitation (Landesvermessung) ("Registration of house
+einer Generallandesvisitation (Landesvermessung)** ("Registration of house
 and homestead owners in the Bückeburg district as part of a general land survey
 (state land survey)"** has identifier
 [NLA
