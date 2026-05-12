@@ -7,7 +7,7 @@ These documents concern the sale of holding no. 10 Berenbusch in 1850.
 
 * - Document Heading
   - Date
-* - [Petition of Colon Krückeberg for Permission to Sell His Farmstead](/krueckeberg-petition-to-sell)
+* - [Petition of Colon Krückeberg for Permission to Sell His Farmstead](krueckeberg-petition-to-sell)
   - 8 August 1849
 * - [Report of Amt Bückeburg on Petition of Colon Krückeberg No. 10 in Berenbusch for Permission to Sell his Farmstead](amt-report-on-krueckeberg-petition-to-sell-his-holding)
   - 15 Sept. 1849
