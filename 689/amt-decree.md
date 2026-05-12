@@ -45,11 +45,11 @@ non-appearance (or non-response)**, not after a contested hearing.
 ## Images
 
 ```{image} images/03-r.png 
-:class: override
+:class: image-override
 ```
 
 ```{image} images/04-l.png
-:class: override
+:class: image-override
 ```
 
 ## Transliteration and Translation
