@@ -59,3 +59,12 @@ img.image-override,
   max-width: 100%;
   height: auto;
 }
+
+
+/* Start navigation 2rem to the left */
+@media (min-width: 960px) {
+  .bd-sidebar-primary .sidebar-primary-items {
+    margin-left: -2rem;
+    width: calc(100% + 2rem);
+  }
+}
