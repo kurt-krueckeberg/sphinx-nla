@@ -155,7 +155,6 @@ parts:
         title:
         sections:    
           - file: 139/content.md
-            title: Holding no. 10 Berenbusch
             sections: 
               - file: 139/timeline
               - file: 139/cover
