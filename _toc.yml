@@ -215,6 +215,7 @@ parts:
           - file: 689/doc8-3
           - file: 689/doc9
           - file: 689/doc10
+            title: Promissory Note for 200 Reichsthaler (Follow-ups)
 
       - file: 188/index.md
         title: Sale of the Krückeberg property no. 18 in Berenbusch 
