@@ -1,29 +1,36 @@
-# Background: Amt Bückeburg Decree and Execution Order (10/13 July 1841)
+# Overview of Amt Bückeburg Decree and Execution Order (10/13 July 1841)
 
 ## Overview and Summary
 
-On **10 July 1841** at the **Amt Bückeburg**, the creditor **Hempel & Söhne of Minden** pressed their case against
-**Johann Heinrich Krückeberg** (Colon No. 10, Berenbusch). Their attorney, **Advokat Meyer**, told the Amt that
-Krückeberg still had not paid as he’d been ordered to do by decrees of **29 May** and **6 June** (of the **previous
-year**), and he asked that the **threatened “execution”** be put into effect—meaning formal enforcement of the
-judgment, up to and including **distraint** (seizure).
+On **10 July 1841** at the **Amt Bückeburg**, the creditor **Hempel & Söhne
+of Minden** pressed their case against **Johann Heinrich Krückeberg**
+(Colon No. 10, Berenbusch). Their attorney, **Advokat Meyer**, told the Amt
+that Krückeberg still had not paid as he’d been ordered to do by decrees of
+**29 May** and **6 June** (of the **previous year**), and he asked that the
+**threatened “execution”** be put into effect—meaning formal enforcement of
+the judgment, up to and including **distraint** (seizure).
 
-On **13 July 1841** the Amt issued its **Decretum**: the order was to be served on Krückeberg; **execution was now
-recognized**, and the **Amtsdiener Möller** (the court bailiff) was instructed to levy for the **principal of 133
-Reichsthaler 7 Mariengroschen**, plus **5% interest from 9 April 1833** and a **4-Mariengroschen fee**. Krückeberg
-was to be warned that **if the levy proved fruitless and no payment came within 14 days**, the creditor could, upon
-further request, have **distraint immediately ordered and carried out**.
+On **13 July 1841** the Amt issued its **Decretum**: the order was to be
+served on Krückeberg; **execution was now recognized**, and the
+**Amtsdiener Möller** (the court bailiff) was instructed to levy for the
+**principal of 133 Reichsthaler 7 Mariengroschen**, plus **5% interest from
+9 April 1833** and a **4-Mariengroschen fee**. Krückeberg was to be warned
+that **if the levy proved fruitless and no payment came within 14 days**,
+the creditor could, upon further request, have **distraint immediately
+ordered and carried out**.
 
-In short, this document records the **turn from warning to active enforcement**: the court tells its bailiff to
-proceed, sets the exact **sum and interest**, and puts Krückeberg on a **14-day clock** toward seizure if he does
-not pay.
+In short, this document records the **turn from warning to active
+enforcement**: the court tells its bailiff to proceed, sets the exact **sum
+and interest**, and puts Krückeberg on a **14-day clock** toward seizure if
+he does not pay.
 
 ### Terms
 
 **distraint** in the text means the legal seizure of property to compel payment.
 
-A **default judgment** means a court decision that is entered against a party who fails to take part in the case
-— usually because they don’t show up, don’t respond, or otherwise ignore the summons.
+A **default judgment** means a court decision that is entered against a
+party who fails to take part in the case — usually because they don’t show
+up, don’t respond, or otherwise ignore the summons.
 
 In older German legal language (in contumaciam), it meant:
 
@@ -31,27 +38,18 @@ In older German legal language (in contumaciam), it meant:
 - The defendant refused to answer or participate,
 - So the court decided the matter without hearing their side and in favor of the other party.
 
-So in your Krückeberg document, when the clerk writes *contum.*, he’s noting that the judgment was rendered
-because of **Krückeberg’s non-appearance (or non-response)**, not after a contested hearing.
+So in your Krückeberg document, when the clerk writes *contum.*, he’s
+noting that the judgment was rendered because of **Krückeberg’s
+non-appearance (or non-response)**, not after a contested hearing.
 
 ## Images
 
-```{list-table}
+```{image} images/03-r.png 
+:class: override
+```
 
-* -                 Click to Enlarge
-                    
-                      
-                        
-                      
-                      
-                        03 r
-  -                 Click to Enlarge
-                    
-                      
-                        
-                      
-                      
-                        04 l
+```{image} images/04-l.png
+:class: override
 ```
 
 ## Transliteration and Translation

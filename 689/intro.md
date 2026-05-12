@@ -1,4 +1,4 @@
-# A capital sum of 200 Reichsthaler courant loaned from the chamber treasury to the colonist Krückeberg No. 10 in Berenbusch (1841-1845)
+# A capital sum of 200 Reichsthaler courant loaned from the chamber treasury to the Colon Krückeberg No. 10 in Berenbusch (1841-1845)
 
 In 1849 when Johann Heinrich emigrated from Schaumburg-Lippe and settled in
 Union Township, Adams County, Indiana, he arrived from a principality only
