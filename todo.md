@@ -4,6 +4,9 @@
 
 For folder `689`, complete the `titles:` that are in `_toc.yml`.
 
+Unlike other folderes, there is also much explanatory text in each document.
+Put this elsewhere?
+
 ## The Case Study for Case File 146
 
 It is in 146/case-study.md
