@@ -154,39 +154,39 @@ parts:
       - file: 139/index.md
         title:
         sections:    
-         - file: 139/content.md
-           title: Holding no. 10 Berenbusch
-           sections: 
-             - file: 139/timeline
-             - file: 139/cover
-             - file: 139/doc1-1
-               title: Petition of the widow Krückeberg
-             - file: 139/doc1-2
-               title: Report from Bückeburg Office 
-             - file: 139/doc1-3
-               title: Official Reply to Widow Krückeberg
-             - file: 139/doc1-4
-               title: Likewise Sealed by Schmöe, Kahlhuth and Creuzinger
-             - file: 139/doc1-5
-               title: Report of Bückeburg district office 
-             - file: 139/doc2
-               title: Report of Bückeburg office 
-         - file: 139/other-docs.md
-           sections:
-              - file: 139/krueckeberg-petition-to-sell
-                title: Colon Krückeberg Petition to Sell
-              - file: 139/amt-report-on-krueckeberg-petition-to-sell-his-holding
-                title: Report of Bückeburg District Office on Krückeberg Petition
-              - file: 139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding
-                title: Rentkammer Instruction Regarding Sale, no. 10 Berenbusch
-              - file: 139/actum-bueckeburg-amt-21-aug-1849
-                title: Hearing Confirming Sale of no. 10 Berenbusch
-              - file: 139/amt-report-22-aug-1849
-                title: Report from the Bückeburg District Office Concerning the Sale
-              - file: 139/petition-to-sell-his-holding-23-aug-1849
-                title: Permission Granted for Sale
-              - file: 139/sales-contract-for-no-10
-                title: Purchase Contract
+          - file: 139/content.md
+            title: Holding no. 10 Berenbusch
+            sections: 
+              - file: 139/timeline
+              - file: 139/cover
+              - file: 139/doc1-1
+                title: Petition of the widow Krückeberg
+              - file: 139/doc1-2
+                title: Report from Bückeburg Office 
+              - file: 139/doc1-3
+                title: Official Reply to Widow Krückeberg
+              - file: 139/doc1-4
+                title: Likewise Sealed by Schmöe, Kahlhuth and Creuzinger
+              - file: 139/doc1-5
+                title: Report of Bückeburg district office 
+              - file: 139/doc2
+                title: Report of Bückeburg office 
+          - file: 139/other-docs.md
+            sections:
+               - file: 139/krueckeberg-petition-to-sell
+                 title: Colon Krückeberg Petition to Sell
+               - file: 139/amt-report-on-krueckeberg-petition-to-sell-his-holding
+                 title: Report of Bückeburg District Office on Krückeberg Petition
+               - file: 139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding
+                 title: Rentkammer Instruction Regarding Sale, no. 10 Berenbusch
+               - file: 139/actum-bueckeburg-amt-21-aug-1849
+                 title: Hearing Confirming Sale of no. 10 Berenbusch
+               - file: 139/amt-report-22-aug-1849
+                 title: Report from the Bückeburg District Office Concerning the Sale
+               - file: 139/petition-to-sell-his-holding-23-aug-1849
+                 title: Permission Granted for Sale
+               - file: 139/sales-contract-for-no-10
+                 title: Purchase Contract
 
       - file: 689/content.md
         title: Chamber Treasury Loan to Krückeberg (1841-1845)
