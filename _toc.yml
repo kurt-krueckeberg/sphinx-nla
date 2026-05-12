@@ -152,7 +152,6 @@ parts:
             title: Report of Bückeburg district office
 
       - file: 139/index.md
-        title:
         sections:    
           - file: 139/content.md
             sections: 
