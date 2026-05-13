@@ -1,4 +1,7 @@
-# Abschrift N.C. 4386
+# Copy of N.C. 4386
+
+Below is an copy (Abschrift) of the [original request of Carl Friedrich Krückeberg before the Rentkammer](../146/carl-fried-supplication-to-sell.md)
+seeking approval of the sale of his holding no. 18 Berenbusch.
 
 ## Image
 
