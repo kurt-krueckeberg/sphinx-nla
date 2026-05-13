@@ -1,9 +1,9 @@
 # Citation Format and Philisophy
 
-The philosophy of Evidence Explained is:
+The philosophy of Evidence Explained is: cite the source at the level that
+lets another researcher identify exactly what you used.
 
-cite the source at the level that lets another researcher identify exactly what you used.
-
+This format  describes the **archive container** and the **specific item inside that container**.
 For Rentkammer case files the format would be:
 
 ```text
