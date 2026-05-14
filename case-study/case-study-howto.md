@@ -43,12 +43,10 @@ always subject to change and the uncovering of more evidence.
 
 ## Example 
 
-Resume at 17:00 minutes.
-
 After we have started gone through our evidence, we write up what we have
 so far.
 
-```{figure} images/writing-what-we-have-so-far.jpg
+```{figure} images/writing-what-we-have-thus-far.jpg
 :class: image-override
 :name: write-so-far
 
