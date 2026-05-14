@@ -2,8 +2,7 @@
 
 ## Location of Document
 
-The [document](#citation-2728) is found in the Bückeburg regional department of the
-Niedersächsisches Landesarchiv (Lower Saxony State Archive). 
+The [citation](#citation-2728) is found at the bottom of this page.
 
 ## No Krückeberg is a Brinksitzer in Berenbusch in 1737
 

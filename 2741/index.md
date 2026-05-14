@@ -2,9 +2,8 @@
 
 ## Location of Document
 
-The [document](#citation-2741) is found in the Bückeburg regional department of the
-Niedersächsisches Landesarchiv (Lower Saxony State Archive). 
-
+The [citation](#citation-2741) is found at the bottom of the page.
+ 
 ## Replies of Rural Property Holders
 
 Johann Heinrich Krückeberg is one of the respondents, and therefore a

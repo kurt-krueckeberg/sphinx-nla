@@ -2,7 +2,7 @@
 
 ## Location of Document 
 
-The [document](#citation-2713) is found in the Bückeburg regional archive of the Lower Saxony State Archives.
+The [citation](#citation-2713) is at the bottom on this page.
 
 ## Document Overview
 
