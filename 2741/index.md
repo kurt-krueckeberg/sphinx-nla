@@ -12,10 +12,12 @@ property holder by 1743-44.
 
 The householders are each asked 40 questions. The questions are
 unfortunately not documented in this file, so we  know only the answers.
-Many of the questions were negated by recording either **"nescit"** (he does
-not know) or **"cessat"** (does not apply, falls away), but we do not know
-what topics this refers to. Also, some questions are answered by **"ut
-reliqui"**, which means he had the same conditions as all the others.
+Many of the questions were negated by recording either **"nescit"** (he
+does not know) or **"cessat"** (“it ceases,” “it is absent,” “it does not
+apply”), meaning the question is not applicable, or there is no answer/item
+to report, but we do not know the topics this refers to. Also, some
+questions are answered by **"ut reliqui"**, which means he had the same
+conditions as all the others.
 
 ```{list-table} Latin terms used
 :header-rows: 1
