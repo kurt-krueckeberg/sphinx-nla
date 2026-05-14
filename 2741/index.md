@@ -3,7 +3,7 @@
 ## Overview
 
 The [document](#citation) is found in the Bückeburg regional department of the
-Niedersächsisches Landesarchiv [Lower Saxony State Archive]. 
+Niedersächsisches Landesarchiv (Lower Saxony State Archive). 
 
 Johann Heinrich Krückeberg is one of the respondents, and therefore a
 property holder by 1743-44.
