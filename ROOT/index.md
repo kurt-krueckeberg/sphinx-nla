@@ -3,7 +3,7 @@
 This site contains Krückeberg-related documents and Rentkammer (Finacial Chamber) case files from from 18{sup}`th` and 19{sup}`th` century
 found in the Lower Saxony state archive in Bückeburg, Germany. 
 
-```{list-table} Lower Saxony State Archives in Bückeburg (Niedersächisches Landesarchiv, Bückeburg) Case Files and Documents
+```{list-table} Niedersächisches Landesarchiv (Lower Saxony State Archive) Case Files and Documents
 :header-rows: 1
 
 * - Life Span
