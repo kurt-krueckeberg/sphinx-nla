@@ -2,10 +2,8 @@
 
 ## Overview
 
-This is document
-[NLA BU L 2 L Nr. 27/41](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537)
-in the
-[Arcinsys Archival information system Niedersachsen and Bremen](https://www.arcinsys.niedersachsen.de/arcinsys/start.action).
+The [document](#citation) is found in the Bückeburg regional department of the
+Niedersächsisches Landesarchiv [Lower Saxony State Archive]. 
 
 Johann Heinrich Krückeberg is one of the respondents, and therefore a
 property holder by 1743-44.
@@ -350,3 +348,9 @@ c–g does not know
    No independent timber rights; only collection or purchase allowed.
 ```
 
+## Citation
+
+Niedersächsisches Landesarchiv, Abteilung Bückeburg,
+[NLA BU L 2 L Nr. 27/41](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537),
+"Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der
+Generallandesvisitation (Landesvermessung)" [ Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey (land measurement)], 1743-1744
