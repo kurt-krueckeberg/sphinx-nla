@@ -10,6 +10,8 @@ the documents in the case file.
   - English explanation
 * - Amt
   - Local administrative office responsible for implementing decisions, gathering reports, and supervising villages within its district.
+* - beweglichen Vermögen
+  - personal property, personal assets
 * - Ausweisung
   - The formal allocation or assignment of land, often state- or forest-owned, to private individuals.
 * - Colon
