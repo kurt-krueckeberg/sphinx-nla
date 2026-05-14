@@ -236,4 +236,5 @@ parts:
 
   - caption: Non-Archival Documents
     chapters:
-      - file: nonarchive/einlieger.md
+      - file: nonarchive/einlieger
+      - file: case-study/case-study-howto
