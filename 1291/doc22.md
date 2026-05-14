@@ -1,6 +1,6 @@
 # Concluded purchase contract for Brüggemann No. 14 at Nordholz
 
-## Concluded purchase contract for new settler Brüggemann No. 13 at Nordholz
+## Digital Images 
 
 ```{image} images/39-r.png
 :class: image-override
