@@ -2,9 +2,7 @@
 
 ## Location of Document 
 
-The **Survey of the Villages of Evesen, Berenbusch, and Nordholz** (Vermessung
-der Dörfer Evesen, Berenbusch und Nordholz) is located in the Bückeburg
-regional archive of the Lower Saxony State Archives.
+The [document](#citation) is found in the Bückeburg regional archive of the Lower Saxony State Archives.
 
 ## Document Overview
 
@@ -55,10 +53,10 @@ The garden beside the house measures
 Total: ¾ Morgen 29 [square] Ruten.
 ```
 
+(citation)=
 ## Citation
 
 Niedersächsisches Landesarchiv, Abteilung Bückeburg,
 [NLA BU L 2 L Nr. 27/13](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533),
 "Vermessung der Dörfer Evesen, Berenbusch und Nordholz"
 [Survey of House and Property Holders in the District of Bückeburg as Part of a General Land Survey], 1745
-in the [Arcinsys](https://www.arcinsys.niedersachsen.de/arcinsys/start.action)
