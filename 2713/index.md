@@ -23,7 +23,7 @@ On page 110 Berenbusch and Johann Heinrich Krückeberg are mentioned.
 
 On page 110 Berenbusch:
 
-Transliteration
+Transliteration:
 
 ```{code-block} text
 
@@ -41,8 +41,7 @@ Summa Summarum                          ¾ [Morgen]   29 [Ruten]
 In modern terms, ¾ Morgen and 29 squre Ruten comes to about 0.6 acres.
 ```
 
-TODO: Suggest an alternate translation for Farmyard.
-.Translation
+Translation:
 
 ```{code-block} text
 
