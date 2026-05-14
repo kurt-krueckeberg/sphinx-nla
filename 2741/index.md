@@ -2,7 +2,7 @@
 
 ## Location of Document
 
-The [document](#citation) is found in the Bückeburg regional department of the
+The [document](#citation-2741) is found in the Bückeburg regional department of the
 Niedersächsisches Landesarchiv (Lower Saxony State Archive). 
 
 ## Replies of Rural Property Holders
@@ -348,6 +348,7 @@ c–g does not know
    No independent timber rights; only collection or purchase allowed.
 ```
 
+(citation-2741)=
 ## Citation
 
 Niedersächsisches Landesarchiv, Abteilung Bückeburg,

@@ -2,7 +2,7 @@
 
 ## Location of Document 
 
-The [document](#citation) is found in the Bückeburg regional archive of the Lower Saxony State Archives.
+The [document](#citation-2713) is found in the Bückeburg regional archive of the Lower Saxony State Archives.
 
 ## Document Overview
 
@@ -53,7 +53,7 @@ The garden beside the house measures
 Total: ¾ Morgen 29 [square] Ruten.
 ```
 
-(citation)=
+(citation-2713)=
 ## Citation
 
 Niedersächsisches Landesarchiv, Abteilung Bückeburg,
