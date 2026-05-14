@@ -11,7 +11,7 @@ BU, L 101a, A Nr. 140](https://www.arcinsys.niedersachsen.de/arcinsys/detailActi
 [Arcinsys
 system](https://www.arcinsys.niedersachsen.de/arcinsys/start.action) of Niedersachsen and Bremem.
 
-The microfiche image below was obtained by commissioned research done by
+The microfiche image below was obtained from commissioned research done by
 [Dr. Sylvia Möhle](https://www.moehle-research.de/). It has been
 enhanced as best as can be from its virtually unreadable orignal (in which
 the text was whitish-yellow).
