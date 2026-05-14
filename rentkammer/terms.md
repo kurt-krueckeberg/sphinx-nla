@@ -3,7 +3,7 @@
 These terms appear in the case files’s Designatio Actorum (contents list) and throughout
 the documents in the case file.
 
-```{list-table} Terms Defined
+```{list-table} General Rentkammer Case File Terms
 :header-rows: 1
 
 * - Term in case file
@@ -36,6 +36,8 @@ the documents in the case file.
   - The chamber treasury; the financial office responsible for receiving fees and issuing receipts.
 * - Kammercassenquittung
   - A receipt issued by the chamber treasury acknowledging payment.
+* - Michaelmas
+  - the feast day of Saint Michael, **September 29**; often used as a customary date for rents, payments, or legal/administrative terms.
 * - Neubauer
   - A newly established settler or smallholder granted a new holding or building site.
 * - No. (Hausnummer)
@@ -56,4 +58,18 @@ the documents in the case file.
   - A formal petition or submission addressed to an authority, requesting a decision, approval, or action.
 * - Zeichnung
   - A drawing or plan, usually depicting land, boundaries, or building sites.
+```
+
+Land Measurement
+
+
+```{list-table} Land Measurement Terms
+:header-rows: 1
+
+* - Land Measurement Term
+  - English explanation
+* - Quadratruthe / Quadrat-Ruthe
+  — square rod; a unit of area.
+* - Ruthe / Rute
+  - a historical rod or perch used as a survey measure; in land records, often part of an area measurement, especially as **Quadratruthe** (“square rod”).
 ```
