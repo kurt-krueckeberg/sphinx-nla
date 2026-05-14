@@ -8,7 +8,7 @@ lets another researcher identify exactly what you used.
 This format  describes the **archive container** and the **specific item inside that container**.
 For Rentkammer case files the format would be:
 
-1. For Rentkammer case file — specific Actenstück listed in the Designatio Actorum
+###. For Rentkammer case file — specific Actenstück listed in the Designatio Actorum
 
 ```text
 Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], <case-file identifier>,
@@ -28,7 +28,7 @@ in "Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch"
 1798–1800; Arcinsys Niedersachsen und Bremen, accessed 13 May 2026.
 ```
 
-2. Rentkammer case file — additional document not listed in the Designatio Actorum
+###. Rentkammer case file — additional document not listed in the Designatio Actorum
 
 ```text
 Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], <case-file identifier>,
@@ -48,21 +48,21 @@ in "Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch"
 1798–1800; Arcinsys Niedersachsen und Bremen, accessed 13 May 2026.
 ```
 
-3. Standalone archival document, not inside a case file
+### Standalone archival document, not inside a case file
 
 ```text
-Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], <identifier>,
-"<German document title or heading>" [<English translation>], <date or life span>;
-Arcinsys Niedersachsen und Bremen, accessed <date>.
+Niedersächsisches Landesarchiv, Abteilung Bückeburg,
+[<NLA BU archival identifier>](<Arcinsys URL>), "<German title or heading>"
+[<English translation>].
 ```
 
 Example:
 
 ```text
-Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], L 1 Nr. 5678,
+Niedersächsisches Landesarchiv, Abteilung Bückeburg,
+[NLA BU L 2 L Nr. 27/28](https://www.arcinsys.niedersachsen.de/...),
 "Cammeral-Kaufbrief für Jobst Heinrich Krückeberg Nr. 10 in Berenbusch"
-[chamber purchase letter for Jobst Heinrich Krückeberg no. 10 in Berenbusch],
-10 March 1799; Arcinsys Niedersachsen und Bremen, accessed 13 May 2026.
+[chamber purchase letter for Jobst Heinrich Krückeberg no. 10 in Berenbusch].
 ```
 
 ## Simple citation automation design

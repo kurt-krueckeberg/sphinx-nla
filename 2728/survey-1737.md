@@ -1,14 +1,9 @@
 # Survey of House and Property Holders in the District of Bückeburg as Part of a General Land Survey (1737)
 
-## Findings
+## Location of Document
 
-The document **Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen
-einer Generallandesvisitation (Landesvermessung)** ["Registration of house
-and homestead owners in the Bückeburg district as part of a general land survey
-(state land survey)"] has identifier
-[NLA
-BU L 2 L Nr. 27/28](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569) in
-[Arcinsys](https://www.arcinsys.niedersachsen.de/arcinsys/start.action).
+This [document](#citation) is from the Bückeburg regional department of the
+Niedersächsisches Landesarchiv [Lower Saxony State Archive]. 
 
 ## No Krückeberg is a Brinksitzer in Berenbusch in 1737
 
@@ -84,3 +79,12 @@ This explains why:
 - Confirmed in 1745
 ```
 
+(citation)=
+## Citation
+
+Niedersächsisches Landesarchiv, Abteilung Bückeburg,
+[NLA BU L 2 L Nr. 27/28](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569),
+"Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer
+Generallandesvisitation (Landesvermessung)"
+[recording of house and farm owners in the Bückeburg district as part of a
+general territorial visitation/survey], -1737.
