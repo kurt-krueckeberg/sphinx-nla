@@ -1,14 +1,14 @@
 # Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey (land measurement). (1743-1744)
 
-## Overview
+## Location of Document
 
 The [document](#citation) is found in the Bückeburg regional department of the
 Niedersächsisches Landesarchiv (Lower Saxony State Archive). 
 
+## Replies of Rural Property Holders
+
 Johann Heinrich Krückeberg is one of the respondents, and therefore a
 property holder by 1743-44.
-
-## Replies of Rural Property Holders
 
 The householders are each asked 40 questions. The questions are
 unfortunately not documented in this file, so we  know only the answers.
