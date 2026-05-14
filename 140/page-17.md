@@ -3,7 +3,7 @@
 ## Overview
 
 This microfiche image was obtained by commissioned research done by
-[Dr.  Sylvia Möhle](https://www.moehle-research.de/). It has been
+[Dr. Sylvia Möhle](https://www.moehle-research.de/). It has been
 enhanced as best as can be from its virtually unreadable orignal (in which
 the text was whitish-yellow).
 
@@ -15,7 +15,8 @@ Dr. Möhle found that
 
 So it is page 17 in the volume that no. 10 Berenbusch is mentioned.
 
-Furthermore, we know from xref:[]  that Johann Heinrich Krückeberg came
+Furthermore, we know from ["Protokolle über die Befragung der einzelnen Hofbesitzer in Evesen, Berenbusch, Nordholz und Rusbend im Rahmen der
+Generallandesvisitation (Landesvermessung)" (Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey)](../2741/index,md]  that Johann Heinrich Krückeberg came
 into possession of no. 10 Berenbusch through marriage.
 
 ## Image
