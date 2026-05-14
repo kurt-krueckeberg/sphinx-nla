@@ -69,7 +69,7 @@ Land Measurement
 * - Land Measurement Term
   - English explanation
 * - Quadratruthe / Quadrat-Ruthe
-  — square rod; a unit of area.
+  - square rod; a unit of area.
 * - Ruthe / Rute
   - a historical rod or perch used as a survey measure; in land records, often part of an area measurement, especially as **Quadratruthe** (“square rod”).
 ```
