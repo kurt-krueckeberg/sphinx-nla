@@ -2,8 +2,15 @@
 
 ## Overview
 
-TODO: Summarize the report and explain what  "in the presence of chief
-forester Falkmann" mean?
+This document reports that Krückeberg of Evesen had sufficient personal
+assets, valued at 175 Reichstaler, including cash and money owed to him.
+
+The local interested parties were questioned individually and unanimously
+raised no objection.
+
+The financial chamber then ordered that the site for the new settlement be
+formally assigned to Krückeberg in the presence of the senior forester, and
+that the required dues or obligations be proposed.
 
 ## Image
 
@@ -16,7 +23,6 @@ forester Falkmann" mean?
 Transliteration
 
 ```{code-block} text
-
 N. C. 15.
 
 An Fürstliche Kammer Bericht
