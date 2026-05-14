@@ -2,7 +2,7 @@
 
 ## Location of Document
 
-This [document](#citation) is from the Bückeburg regional department of the
+The [document](#citation) is found in the Bückeburg regional department of the
 Niedersächsisches Landesarchiv [Lower Saxony State Archive]. 
 
 ## No Krückeberg is a Brinksitzer in Berenbusch in 1737
@@ -86,5 +86,5 @@ Niedersächsisches Landesarchiv, Abteilung Bückeburg,
 [NLA BU L 2 L Nr. 27/28](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894569),
 "Erfassung der Haus- und Hofbesitzer im Amt Bückeburg im Rahmen einer
 Generallandesvisitation (Landesvermessung)"
-[recording of house and farm owners in the Bückeburg district as part of a
+[Recording of house and farm owners in the Bückeburg district as part of a
 general territorial visitation/survey], -1737.
