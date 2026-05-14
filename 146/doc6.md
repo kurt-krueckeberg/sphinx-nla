@@ -1,6 +1,20 @@
 # Report of the aforementioned administrative offices
 
-## TODO: provide a summary/overview
+## Summary
+
+This document reports that Jobst Henrich Krückeberg was assigned the
+requested house and garden site for a new smallholding at Berenbusch on **5
+March 1809**.
+
+The site measured **102 square rods and 51 square feet**, according to the
+survey note and drawing.
+
+The officials proposed the annual payments, labor duties, and obligations
+attached to the holding, first payable at **Michaelmas 1813**.
+
+On **13 November 1809**, the financial chamber approved those obligations,
+ordered the lease/grant document to be issued, and directed the treasurer
+to collect the purchase money.
 
 ## Essential Explanations to Understanding Document 6
 
