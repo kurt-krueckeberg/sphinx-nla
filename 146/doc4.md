@@ -69,7 +69,7 @@ Presented: [Bückeburg] 15 January 1809
 
 As has been demonstrated, the tenant Krückeberg of Evesen possesses,
 including 50 Reichsthaler in ready cash and 45 D. in outstanding debts,
-movable property to the value of 175 Reichsthaler; and with regard to the
+personal assests to the value of 175 Reichsthaler; and with regard to the
 court servant Gartmann, all of the interested parties (Gudeinteressenten
 [Gutsinteressenten]), whom he was required to question individually,
 have unanimously declared that, on their part, there is nothing to object
