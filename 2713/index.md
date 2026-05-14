@@ -4,11 +4,9 @@
 
 The [citation](#citation-2713) is at the bottom on this page.
 
-## Document Overview
+## Overview
 
 On page 110 Berenbusch and Johann Heinrich Krückeberg are mentioned.
-
-## Image of page 110 Concerning Johann Heinrich Krückeberg’s Holding
 
 ```{image} images/2713-24.png
 :class: image-override
@@ -33,7 +31,7 @@ Summa Summarum                          ¾ [Morgen]   29 [Ruten]
 ```
 
 ```{note}
-In modern terms, ¾ Morgen and 29 squre Ruten comes to about 0.6 acres.
+In modern terms, ¾ Morgen and 29 square Ruten comes to about **0.6 acres**.
 ```
 
 Translation:
