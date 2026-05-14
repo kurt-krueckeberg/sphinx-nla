@@ -14,10 +14,10 @@ the documents in the case file.
   - The formal allocation or assignment of land, often state- or forest-owned, to private individuals.
 * - Colon
   - A hereditary or long-term leaseholder of a rural holding under territorial law.
-* - Com. K. Resolution = Communicirte Kammer-Resolution
-  - “Communicated Chancery Resolution”; a resolution that has been officially transmitted to the concerned parties or local office.
-* - Conc. K. Rescript = Concept eines Kammer-Rescripts
-  - “Concluded Chancery Rescript”; a finalized written decision of the chancellery, formally issued and entered into the record.
+* - Com. K. Resolution 
+  - **Communicirte Kammer-Resolution** = “Communicated Chancery Resolution”; a resolution that has been officially transmitted to the concerned parties or local office.
+* - Conc. K. Rescript 
+  - **Concept eines Kammer-Rescripts** = “Concluded Chancery Rescript”; a finalized written decision of the chancellery, formally issued and entered into the record.
 * - Designatio Actorum
   - A formal register or contents list of documents in a case file, listing submissions, reports, resolutions, and receipts in chronological order.
 * - Einlieger
