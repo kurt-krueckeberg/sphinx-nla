@@ -65,7 +65,7 @@ property**. He says: "habe darauf geheyrahtet". This could mean:
 
 This might suggest he obtained Brinksitzer status of no. 10 Berenbusch
 through marriage, but we don’t know what the antecedent to the da-compound
-darauf is because we don’t know what was asked.
+**darauf** is.
 
 The 1743–44 general state visitation (Generallandesvisitation) records a
 succession of holders for Haus Nr. 10 in Berenbusch: Johann Tönnies
