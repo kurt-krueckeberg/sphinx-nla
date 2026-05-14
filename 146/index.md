@@ -1,7 +1,8 @@
 # Holding No. 18 in Berenbusch (1808-1810 & Sept. 1850)
 
-A second Jobst Heinrch Krückeberg apparently is living in Evesen by 1808
-different from the Jobst Heinrich Krückeberg living at no. 10 Berebusch.
+A second Jobst Heinrch Krückeberg apparently is living in Evesen no. 11 by
+1808 different from the Jobst Heinrich Krückeberg living at no. 10
+Berebusch.
 
 The **Jobst Heinrich Krückeberg of Nr. 10 Berenbusch** is already a settled
 holder by 1798. We see this in the Rentkammer records of 1798-1800, when
