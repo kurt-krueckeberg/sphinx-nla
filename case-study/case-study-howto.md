@@ -48,9 +48,9 @@ Resume at 17:00 minutes.
 After we have started gone through our evidence, we write up what we have
 so far.
 
-```{figure} images/what-we-have-so-far.jpg
+```{figure} images/writing-what-we-have-so-far.jpg
 :class: image-override
-:label: writing-so-far
+:name: write-so-far
 
 Writing What we Have Thus Far
 ```
