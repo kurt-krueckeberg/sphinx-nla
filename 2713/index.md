@@ -1,15 +1,12 @@
 # Survey of the Villages of Evesen, Berenbusch, and Nordholz (1745)
 
-## Document Overview
+## Location of Document 
 
 The **Survey of the Villages of Evesen, Berenbusch, and Nordholz** (Vermessung
 der Dörfer Evesen, Berenbusch und Nordholz) is located in the Bückeburg
 regional archive of the Lower Saxony State Archives.
 
-This document has identifier
-[NLA BU L 2 L Nr. 27/13](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533)
-in the [Arcinsys](https://www.arcinsys.niedersachsen.de/arcinsys/start.action)
-Archival information system Niedersachsen and Bremen.
+## Document Overview
 
 On page 110 Berenbusch and Johann Heinrich Krückeberg are mentioned.
 
@@ -58,3 +55,10 @@ The garden beside the house measures
 Total: ¾ Morgen 29 [square] Ruten.
 ```
 
+## Citation
+
+Niedersächsisches Landesarchiv, Abteilung Bückeburg,
+[NLA BU L 2 L Nr. 27/13](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894533),
+"Vermessung der Dörfer Evesen, Berenbusch und Nordholz"
+[Survey of House and Property Holders in the District of Bückeburg as Part of a General Land Survey], 1745
+in the [Arcinsys](https://www.arcinsys.niedersachsen.de/arcinsys/start.action)
