@@ -1,0 +1,109 @@
+<h1>Automating the Inclusion of Citations</h1>
+<h2>Citation Format and Philisophy</h2>
+<p>The philosophy of Evidence Explained is: cite the source at the level
+that lets another researcher identify exactly what you used.</p>
+<p>This format describes the <strong>archive container</strong> and the
+<strong>specific item inside that container</strong>. For Rentkammer
+case files the format would be:</p>
+<p>###. For Rentkammer case file — specific Actenstück listed in the
+Designatio Actorum</p>
+<pre class="text"><code>Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], &lt;case-file identifier&gt;,
+Actenstück &lt;number&gt;, &quot;&lt;German Designatio Actorum description&gt;&quot; [&lt;English translation&gt;],
+in &quot;&lt;German case-file title&gt;&quot; [&lt;English translation&gt;], &lt;case-file life span&gt;;
+Arcinsys Niedersachsen und Bremen, accessed &lt;date&gt;.</code></pre>
+<p>Example:</p>
+<pre class="text"><code>Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], L 1 Nr. 1234,
+Actenstück 5, &quot;Bericht des Amts Bückeburg wegen Ausweisung von Rottland&quot;
+[report of the Bückeburg office concerning the assignment of cleared land],
+in &quot;Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch&quot;
+[case file concerning Colon Jobst Heinrich Krückeberg no. 10 at Berenbusch],
+1798–1800; Arcinsys Niedersachsen und Bremen, accessed 13 May 2026.</code></pre>
+<p>###. Rentkammer case file — additional document not listed in the
+Designatio Actorum</p>
+<pre class="text"><code>Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], &lt;case-file identifier&gt;,
+document headed &quot;&lt;German document heading&gt;&quot; [&lt;English translation&gt;],
+in &quot;&lt;German case-file title&gt;&quot; [&lt;English translation&gt;], &lt;case-file life span&gt;;
+Arcinsys Niedersachsen und Bremen, accessed &lt;date&gt;.</code></pre>
+<p>Example:</p>
+<pre class="text"><code>Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], L 1 Nr. 1234,
+document headed &quot;Verkauf der Stätte Nr. 10 zu Berenbusch&quot;
+[sale of farmstead no. 10 at Berenbusch],
+in &quot;Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch&quot;
+[case file concerning Colon Jobst Heinrich Krückeberg no. 10 at Berenbusch],
+1798–1800; Arcinsys Niedersachsen und Bremen, accessed 13 May 2026.</code></pre>
+<h3>Standalone archival document, not inside a case file</h3>
+<pre class="text"><code>Niedersächsisches Landesarchiv, Abteilung Bückeburg,
+[&lt;NLA BU archival identifier&gt;](&lt;Arcinsys URL&gt;), &quot;&lt;German title or heading&gt;&quot;
+[&lt;English translation&gt;].</code></pre>
+<p>Example:</p>
+<pre class="text"><code>Niedersächsisches Landesarchiv, Abteilung Bückeburg,
+[NLA BU L 2 L Nr. 27/28](https://www.arcinsys.niedersachsen.de/...),
+&quot;Cammeral-Kaufbrief für Jobst Heinrich Krückeberg Nr. 10 in Berenbusch&quot;
+[chamber purchase letter for Jobst Heinrich Krückeberg no. 10 in Berenbusch].</code></pre>
+<h2>Simple citation automation design</h2>
+<h2>Goal</h2>
+<p>Automatically insert bottom-of-page citations for documents listed in
+a case file’s <strong>Designatio Actorum</strong> table.</p>
+<h2>Use one marker only</h2>
+<p>On each document page, add:</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- citation: document=5 --&gt;</span></span></code></pre></div>
+<p>Meaning:</p>
+<pre class="text"><code>Use document 5 from the Designatio Actorum table.</code></pre>
+<h2>Inputs</h2>
+<h3>1. Case metadata YAML</h3>
+<p>One YAML file per case file, for example:</p>
+<div class="sourceCode" id="cb9"><pre
+class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">case_file</span><span class="kw">:</span></span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">identifier</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;L 1 Nr. 1234&quot;</span></span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">german_title</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;Acta betreffend ...&quot;</span></span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">english_title</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;case file concerning ...&quot;</span></span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">life_span</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;1798–1800&quot;</span></span>
+<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">archive</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;Niedersächsisches Landesarchiv, Abteilung Bückeburg&quot;</span></span>
+<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">archive_short</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;NLA BU&quot;</span></span>
+<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">catalog</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;Arcinsys Niedersachsen und Bremen&quot;</span></span>
+<span id="cb9-9"><a href="#cb9-9" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">accessed</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;13 May 2026&quot;</span></span>
+<span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">designatio_page</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;designatio-actorum.md&quot;</span></span></code></pre></div>
+<h3>2. Designatio Actorum page</h3>
+<p>This can contain either:</p>
+<pre class="text"><code>raw HTML table</code></pre>
+<p>or:</p>
+<pre class="text"><code>Markdown table</code></pre>
+<p>The table must include:</p>
+<pre class="text"><code>document number | German description | English translation</code></pre>
+<h3>3. Document pages</h3>
+<p>Each relevant page has one marker:</p>
+<div class="sourceCode" id="cb13"><pre
+class="sourceCode md"><code class="sourceCode markdown"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- citation: document=5 --&gt;</span></span></code></pre></div>
+<h2>Script behavior</h2>
+<p>For each <code>.md</code> page:</p>
+<ol type="1">
+<li>find <code>&lt;!-- citation: document=N --&gt;</code>;</li>
+<li>read the case metadata YAML;</li>
+<li>open the Designatio Actorum page;</li>
+<li>find document <code>N</code> in the table;</li>
+<li>extract the German and English descriptions;</li>
+<li>replace the marker with a generated citation section.</li>
+</ol>
+<h2>Generated citation format</h2>
+<div class="sourceCode" id="cb14"><pre
+class="sourceCode md"><code class="sourceCode markdown"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## Citations</span></span>
+<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>Niedersächsisches Landesarchiv, Abteilung Bückeburg <span class="co">[</span><span class="ot">NLA BU</span><span class="co">]</span>, <span class="dt">&lt;</span><span class="kw">case-file</span><span class="ot"> identifier</span><span class="dt">&gt;</span>,</span>
+<span id="cb14-4"><a href="#cb14-4" aria-hidden="true" tabindex="-1"></a>document <span class="dt">&lt;</span><span class="kw">N</span><span class="dt">&gt;</span>, &quot;<span class="dt">&lt;</span><span class="kw">German</span><span class="ot"> Designatio Actorum description</span><span class="dt">&gt;</span>&quot; <span class="co">[</span><span class="ot">&lt;English translation&gt;</span><span class="co">]</span>,</span>
+<span id="cb14-5"><a href="#cb14-5" aria-hidden="true" tabindex="-1"></a>in &quot;<span class="dt">&lt;</span><span class="kw">German</span><span class="ot"> case-file title</span><span class="dt">&gt;</span>&quot; <span class="co">[</span><span class="ot">&lt;English translation&gt;</span><span class="co">]</span>, <span class="dt">&lt;</span><span class="kw">case-file</span><span class="ot"> life span</span><span class="dt">&gt;</span>;</span>
+<span id="cb14-6"><a href="#cb14-6" aria-hidden="true" tabindex="-1"></a>Arcinsys Niedersachsen und Bremen, accessed <span class="dt">&lt;</span><span class="kw">date</span><span class="dt">&gt;</span>.</span></code></pre></div>
+<h2>Example output</h2>
+<div class="sourceCode" id="cb15"><pre
+class="sourceCode md"><code class="sourceCode markdown"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## Citations</span></span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a>Niedersächsisches Landesarchiv, Abteilung Bückeburg <span class="co">[</span><span class="ot">NLA BU</span><span class="co">]</span>, L 1 Nr. 1234,</span>
+<span id="cb15-4"><a href="#cb15-4" aria-hidden="true" tabindex="-1"></a>document 5, &quot;Bericht des Amts Bückeburg wegen Ausweisung von Rottland&quot;</span>
+<span id="cb15-5"><a href="#cb15-5" aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">report of the Bückeburg office concerning the assignment of cleared land</span><span class="co">]</span>,</span>
+<span id="cb15-6"><a href="#cb15-6" aria-hidden="true" tabindex="-1"></a>in &quot;Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch&quot;</span>
+<span id="cb15-7"><a href="#cb15-7" aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">case file concerning Colon Jobst Heinrich Krückeberg no. 10 at Berenbusch</span><span class="co">]</span>,</span>
+<span id="cb15-8"><a href="#cb15-8" aria-hidden="true" tabindex="-1"></a>1798–1800; Arcinsys Niedersachsen und Bremen, accessed 13 May 2026.</span></code></pre></div>
+<h2>Scope for first version</h2>
+<p>Handle only:</p>
+<pre class="text"><code>document page → numbered Designatio Actorum row → generated citation</code></pre>
+<p>Do <strong>not</strong> handle standalone documents or unlisted
+documents automatically in the first version. Handle those manually.</p>
