@@ -8,7 +8,7 @@ The microfiche image has been enhanced as best as possible from its virtually
 unreadable orignal (in which the text was whitish-yellow).
 
 While its life span is given as 1740 - 1830,  Dr. Möhle found, however,
-that it covers only the year 1747.
+it covers only the year 1747.
 
 ## Image of Title Page
 
