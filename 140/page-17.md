@@ -11,7 +11,7 @@ Dr. Möhle found that
 
 > On p 17 we find a list for Berenbusch: Under *Brinksitzer* we see no. 10
 >
-> --  Comments by Dr. Möhle
+> --  Comments by Dr. Möhle concerning page 17 of the document
 
 So no. 10 Berenbusch is mentioned on page 17.
 
