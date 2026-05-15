@@ -4,11 +4,12 @@
 
 The [citation](#citation-140) is at the bottom of this page.
 
-The microfiche image has been enhanced as best as possible from its virtually
+The microfiche image below was enhanced as best as possible from its virtually
 unreadable orignal (in which the text was whitish-yellow).
 
-While its life span is given as 1740 - 1830,  Dr. Möhle found, however,
-it covers only the year 1747.
+While its life span is given as 1740 - 1830, Dr. Möhle, who examined the
+mircofiche at the Bückeburg archive, found it only covers the year
+1747.
 
 ## Image of Title Page
 
