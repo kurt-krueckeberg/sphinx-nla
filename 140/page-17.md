@@ -13,7 +13,7 @@ Dr. Möhle found that
 >
 > --  Comments by Dr. Möhle
 
-So it is page 17 in the volume that no. 10 Berenbusch is mentioned.
+So no. 10 Berenbusch is mentioned on page 17.
 
 Furthermore, we know from {doc}`../2741/index` that Johann Heinrich Krückeberg came
 into possession of no. 10 Berenbusch through marriage.
