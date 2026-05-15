@@ -11,7 +11,7 @@ While its life span is given as 1740 - 1830, Dr. Möhle, who examined the
 mircofiche at the Bückeburg archive, found it only covers the year
 1747.
 
-## Image of Title Page
+## Title Page
 
 ```{image} images/title-140.png
 :class: image-override
