@@ -1,4 +1,12 @@
-# Case File Cover
+# NLA 1291: Case File Cover
+
+## Digital Image
+
+```{image} images/cover.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
 
 Transliteration
 
