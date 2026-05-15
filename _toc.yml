@@ -4,6 +4,7 @@ root: ROOT/index
 parts:
   - caption: General Documents
     chapters:
+      - file: general-docs/overview
       - file: 2728/survey-1737
         title: Householder Survey (1737)
       - file: 2741/index
