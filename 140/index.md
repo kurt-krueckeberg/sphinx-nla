@@ -4,7 +4,7 @@
 
 The [citation](#citation-140) is at the bottom of this page.
 
-The microfiche image has been enhanced as best as can be from its virtually
+The microfiche image has been enhanced as best as possible from its virtually
 unreadable orignal (in which the text was whitish-yellow).
 
 While its life span is given as 1740 - 1830,  Dr. Möhle found, however,
