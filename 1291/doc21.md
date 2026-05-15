@@ -47,7 +47,7 @@ into the Princely Chamber Treasury is hereby receipted.
 Berger
 
 Bückeburg
-4 November 1818
+4 Nov. 1818
 
 44 Reichsthaler 15 Groschen 4 Pfennige
 ```
