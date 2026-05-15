@@ -1,6 +1,8 @@
 # Other Documents
 
-These documents concern the sale of holding no. 10 Berenbusch in 1850.
+These documents are not listed in the [Designatio
+Actorum](#content.md) (content list) and concern the sale of holding no. 10
+Berenbusch in 1850.
 
 ```{list-table} Document concerning the sale of Kolonat of Stätte no. 18 Berenbusch
 :header-rows: 1
