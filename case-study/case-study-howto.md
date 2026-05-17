@@ -14,7 +14,7 @@ allows you to take a nugget of your research and share it.
 It forces you to weave together your research and determine what it
 actually shows.
 
-## Tips on Writing for Publication
+## Tips on Writing for Publications
 
 Get to know the publication for which you'd like to write. You can benefit
 from the expertise of the editor.
@@ -23,7 +23,7 @@ You may need an angle that will interest the publication's editor: a family
 that has not been published before; a research methodolgy that hasn't been
 used before; or something unique and interesting.
 
-## The Genealogical Proof Standard
+## Using the Genealogical Proof Standard
 
 The five key points of the standard:
 
