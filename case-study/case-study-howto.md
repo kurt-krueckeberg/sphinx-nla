@@ -48,14 +48,13 @@ The five key points of the standard:
 
 ## Beginning a Case Study
 
-After we have started gone through our evidence, we write up what we have
-so far.
+We begin by writing up what our evidence reveals so far.
 
-The case study mentioned concerns the desire to discover the unknown
-parents of a 3x great grandmother name Sarepta. We begin by writing up what
-is known so far, the evidence summary, is the starting point. We mention
-the records--censuses, marriage records, etc.--we have examined thus far.
-This also helps us ponder what other records might contain clues.
+This case study concerns the desire to discover the unknown parents of a 3x
+great grandmother shoe given name is Sarepta. We begin by writing up a
+summary of the current evidence. We mention the records--censuses, marriage
+records, etc.--we have examined thus far. This also helps us ponder what
+other records might contain clues.
 
 ### Research Plan
 
@@ -77,10 +76,11 @@ Sarepta's father was an overseer on a plantation in Virgina. She also
 said Sarepta had a sister named Matilda who married an Alexander Graham
 in Ohio.
 
-Follow up research discovered a 1835 marriage record from Clark county,
-Ohio, for the marriage of Alexander Graham to Mathilda.  Alexander Graham
-also had a daughter named Sarepta, this very unusual name. So the story
-element's seems true. Mathilda does seems to be Sarepta's sister.
+Follow up research on this story revealed a 1835 marriage record from Clark
+county, Ohio, for the marriage of Alexander Graham to Mathilda.  Alexander
+Graham also had a daughter named Sarepta, this very unusual name. So the
+story element's seems true. Mathilda seems to be Sarepta's prospective
+sister.
 
 STOPPED a minute 22:00.
  
