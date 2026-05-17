@@ -7,7 +7,7 @@ targeted research. A case study is less comprehensive and easier to manage
 than an entire family history. It is article size in length and not book
 size. 
 
-Writing is a great way to work on a genealogy brick wall. Writing an
+Writing is a great way to tackle a genealogy brick wall. Writing an
 article for a journal is a good first step before tackling a book. It
 allows you to take a nugget of your research and share it.
 
