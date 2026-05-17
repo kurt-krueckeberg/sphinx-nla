@@ -51,6 +51,16 @@ The five key points of the standard:
 After we have started gone through our evidence, we write up what we have
 so far.
 
+The case study mentioned concerns the desire to discover the unknown
+parents of a 3x great grandmother name Sarepta. We begin by writing up what
+is known so far, the evidence summary, is the starting point. We mention
+the records--censuses, marriage records, etc.--we have examined thus far.
+This also helps us ponder what other records might contain clues.
+
+### Research Plan
+
+The figure below illustrates the research the path we are on.
+
 ```{figure} images/writing-what-we-have-thus-far.jpg
 :class: image-override
 :name: write-so-far
@@ -58,15 +68,24 @@ so far.
 Writing What we Have Thus Far
 ```
 
-In the case study mentioned is trying to discover the unknown parents of a
-3x great grandmother. Writing up what is known so far, the evidence
-summary, is the starting point. We mention the records-- censuses, marriage
-records, etc.--we have examined thus far. This also helps us ponder what
-other records might contain clues.
+Since the current evidence does not reveal Serapta's parents, what steps
+forward can we take?
 
-### Research Plan
+We do have a story about Sarepta's life composed in 1923 by her great
+grandson who interviewed Sarepta's only surviving daughter. Her story said
+Sarepta's father was an overseer on a plantation in Virgina. She also
+said Sarepta had a sister named Matilda who married an Alexander Graham
+in Ohio.
 
-We need to find new records that will have new information. Are there, for
+Follow up research discovered a 1835 marriage record from Clark county,
+Ohio, for the marriage of Alexander Graham to Mathilda.  Alexander Graham
+also had a daughter named Sarepta, this very unusual name. So the story
+element's seems true. Mathilda does seems to be Sarepta's sister.
+
+STOPPED a minute 22:00.
+ 
+We need to find new records that will have new information. 
+
 example, witnesses on deeds who hold clues to other siblings? Remember we
 want to know the parents of a 3X great-grandmother. Maybe the parents are
 mentioned in records involving the siblings, once we learn who they are.
