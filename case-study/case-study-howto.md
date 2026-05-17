@@ -7,13 +7,14 @@ targeted research. A case study is less comprehensive and easier to manage
 than an entire family history. It is article size in length and not book
 size. 
 
-Writing is a great way to work on a genealogy brick wall. It forces you to
-weave together your research and determine what it actually shows.
+Writing is a great way to work on a genealogy brick wall. Writing an
+article for a journal is a good first step before tackling a book. It
+allows you to take a nugget of your research and share it.
 
-## Pluses
+It forces you to weave together your research and determine what it
+actually shows.
 
-Writing an article for a journal is a good first step before tackling a
-book. It allows you to take a nugget of your research and share it.
+## Tips on Writing for Publication
 
 Get to know the publication for which you'd like to write. You can benefit
 from the expertise of the editor.
@@ -22,13 +23,17 @@ You may need an angle that will interest the publication's editor: a family
 that has not been published before; a research methodolgy that hasn't been
 used before; or something unique and interesting.
 
-## Genealogical Proof Standard
+## The Genealogical Proof Standard
 
 The five key points of the standard:
 
-1. Reasonably exhaustive research: dig deep into the records; do historical
-reseaarch to find the location of new records. What is "reasonable" is
-always subject to change and the uncovering of more evidence.
+1. Reasonably exhaustive research. 
+
+   Reasonably exhaustive research means digging deep into the records. It means
+   doing historical reseaarch to find the location of new records.
+
+   What is "reasonable" is always subject to change and the uncovering of
+   more evidence.
 
 2. Each statement of fact has a complete and accurate source citation.
 
@@ -41,7 +46,7 @@ always subject to change and the uncovering of more evidence.
 
 5. A soundly-reasoned, coherently written conclusion.
 
-## Example of Writing Up What we Have so far
+## Beginning a Case Study
 
 After we have started gone through our evidence, we write up what we have
 so far.
@@ -53,16 +58,18 @@ so far.
 Writing What we Have Thus Far
 ```
 
-In the case study mentioned in the lecture is wanting to discover the
-parents of a 3x great grandmother who are unknown. Writing up what is known
-so far, the evidence summary, is the starting point. We mention the records--
-censuses, marriage records, etc.--we have examine thus far. This also
-helps us ponder what other records might contain clues.
+In the case study mentioned is trying to discover the unknown parents of a
+3x great grandmother. Writing up what is known so far, the evidence
+summary, is the starting point. We mention the records-- censuses, marriage
+records, etc.--we have examined thus far. This also helps us ponder what
+other records might contain clues.
 
-Are there, for example, witnesses on deeds hold clues to other siblings?
-Remember we want to know the parents of a 3X great-grandmother.  Maybe the
-parents are mentioned in records involving the siblings, once we know who
-they are.
+### Research Plan
+
+We need to find new records that will have new information. Are there, for
+example, witnesses on deeds who hold clues to other siblings? Remember we
+want to know the parents of a 3X great-grandmother. Maybe the parents are
+mentioned in records involving the siblings, once we learn who they are.
 
 Even if deed witnesses (or their spouses) aren't siblings, we still need to
 look. We also need to look at wills and probate records.
