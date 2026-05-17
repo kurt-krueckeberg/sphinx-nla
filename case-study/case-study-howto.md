@@ -1,11 +1,11 @@
 # Writing up a Case Study
 
-## Case Study Defined
+## Writing a Case Study
 
-A case study is less comprehensive and easier to manage than an entire
-family history. A case study is a genealogical question or problem that is
-resolved through targeted research. It is article size in length and not
-book size.
+A case study is a genealogical question or problem that is resolved through
+targeted research. A case study is less comprehensive and easier to manage
+than an entire family history. It is article size in length and not book
+size. 
 
 Writing is a great way to work on a genealogy brick wall. It forces you to
 weave together your research and determine what it actually shows.
