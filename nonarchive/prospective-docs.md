@@ -1,6 +1,26 @@
 # Prospective Documents to Research
 
-## Fonds: Unter Landvermessung und Statistik
+## Research status
+
+We need to learn more about the Krückebergs in Berenbusch. I have put
+together a summary )
+of what Dr. Möhle's research revealed, and 
+
+* [Möhle Resarch](https://docs.krueckeberg.org/genealogy/1.0/research/completed-research.html=
+* [Conclusions](https://docs.krueckeberg.org/genealogy/1.0/research/completed-research-conclusions.html)
+
+There is a list of other documents next to research:
+
+* [Bückebuerg Archive Research](https://docs.krueckeberg.org/genealogy/1.0/research/bueckeburg-further-research.html)
+* [Other High-value Documents to Genealogy Research](https://docs.krueckeberg.org/genealogy/1.0/research/bueckeburg-further-research.html)
+
+## Below are More Recent Research Thoughs
+
+The **Nds. Landesarchiv, Abt. Bückeburg** ->  **L 2 Alte
+Regierungsregistratur** fond lists several subcategories. Below is one such
+category. Buid a list of others.
+
+### Landvermessung und Statistik
 
 ```{list-table} Landvermessung und Statistik (Land Surverying and Statistics
 :header-rows: 1
