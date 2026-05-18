@@ -70,44 +70,52 @@ Writing What we Have Thus Far
 Since the current evidence does not reveal Serapta's parents, what steps
 forward can we take?
 
-We do have a story about Sarepta's life composed in 1923 by her great
-grandson who interviewed Sarepta's only surviving daughter. Her story said
-Sarepta's father was an overseer on a plantation in Virgina. She also
-said Sarepta had a sister named Matilda who married an Alexander Graham
-in Ohio.
+We do have a family story about Sarepta's life composed in 1923 by her
+great grandson who interviewed Sarepta's only surviving daughter. She said
+Sarepta's father was an overseer on a plantation in Virgina. In addtion to
+other details, she also said Sarepta had a sister named Matilda who married
+an Alexander Graham in Clark County, Ohio.
 
-Follow up research on this story revealed a 1835 marriage record from Clark
-county, Ohio, for the marriage of Alexander Graham to Mathilda.  Alexander
-Graham also had a daughter named Sarepta, this very unusual name. So the
-story element's seems true. Mathilda seems to be Sarepta's prospective
-sister.
-
-STOPPED a minute 22:00.
- 
-We need to find new records that will have new information. 
-
-example, witnesses on deeds who hold clues to other siblings? Remember we
-want to know the parents of a 3X great-grandmother. Maybe the parents are
-mentioned in records involving the siblings, once we learn who they are.
-
-Even if deed witnesses (or their spouses) aren't siblings, we still need to
-look. We also need to look at wills and probate records.
+Details of this story were researched. A 1835 marriage record from
+Clark county, Ohio, was found for the marriage of Alexander Graham to
+Mathilda. Alexander Graham also had a daughter named Sarepta, this very
+unusual name. So the story element's seems true. Mathilda seems to be
+Sarepta's sister.
 
 We realize we need to get beyond the current circle of evidence if we are
 to discover more clues of who the parents of the 3x great grandmother are.
+We need a research plan to look at all possbile sources in the area that
+might yield the evidence we are after. 
 
-This leads us to a research plan to look at all possible sources of
-evidence that might yield this information.
+What might still be digitized online? What might still be in local or state
+archives, and how to best access those documents. What land records should
+be examined? What will and probate records.
 
-The write-up would include:
+The case study write-up at this point would include:
 
-* A statement of the problem
-* a summary of the analysis of the evidence
-* citations for the facts mentioned in the anlysis.
+* A statement of the problem: the search for Sarepta's parents.
+* A analysis of the evidence so far with documented footnotes for each
+  fact. For FamilySearch sources, record the Family History library DGS
+(the identifying number for a digital image group). Also record the actual
+image number. Using the DGS number one on the catalog search page, you can go
+right to the document, if you have the image number.
 
-STOPPED at minute 28:00
+There are many research questions related to Sarepta:
 
-Geography, local and state history are keys to moving the research
+* Where exactly was she born in Virgina?
+* Who were her siblings?
+* When did she move to Ohio, and did her family come with her?
+* Where did she live in Ohio before her marriage?
+* Did her parents die in Virgina or Ohio?
+
+Geography is key to understanding a family in a particular county,
+understanding the original parent county and adjoining countires
+Local and state history are also keys to moving the research
 forward.
+
+STOPPED at 30:00.
+
+We plan to search:
+* Wills
 
 
