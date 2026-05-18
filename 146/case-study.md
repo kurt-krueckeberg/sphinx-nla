@@ -4,6 +4,10 @@
 
 See the introductionary paragraphs stating the problem of potentially [two Jobst Heinrichs](index.md).
 
+## Create and USe Maps
+
+From other case file, create a map of Berenbusch. List all Brinksitzers.
+
 ## Outline
 
 The Rentkammer case file [Die Stätte Nr. 18 zu
