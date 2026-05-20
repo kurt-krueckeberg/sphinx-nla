@@ -115,7 +115,7 @@ forward. Maps are very helpful.
 
 We want to the county to look in, and what the surrounding counties are.
 
-Sarepta married in 1835 in Calr county, Ohio. We learn which counties Clark
+Sarepta married in 1835 in Clark county, Ohio. We learn which counties Clark
 was created from and what the surrounding counties are.
 
 Mathilda is likely Sarepta's sister, so there is a high probabilty of other
@@ -128,3 +128,21 @@ Mathilda, but found none.
 ```{figure} images/research-plan-records-list.jpg
 ```
 
+We will search for McMillan/McMullen in the counties we noted above in 
+
+- Wills
+- Probate estate packets
+- Deeds
+- Court Records
+- Census Records
+
+We also have the clue about her prospective sister marrying in Clark
+county, Ohio, in 1835.
+
+We look for coincidences and links between individuals like someone living
+next door to someone or a census or being a witness on a document.
+
+We will consult public trees.
+
+```{figure} images/correlation-and-interpretation.jpg
+```
