@@ -76,7 +76,7 @@ surviving daughter. She said Sarepta's father was an overseer on a
 plantation in Virgina. She also said Sarepta had a sister named Matilda who
 married an Alexander Graham in Clark County, Ohio.
 
-The details of this story were checked, and a1835 marriage record from
+The details of this story were checked, and a 1835 marriage record from
 Clark county, Ohio, was found for the marriage of Alexander Graham to
 Mathilda. Alexander Graham also had a daughter named Sarepta, the same
 unusal name as the 3X grandmother. So the story element's seems true.
