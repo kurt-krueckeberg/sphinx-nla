@@ -19,9 +19,9 @@ actually shows.
 Get to know the publication for which you'd like to write. You can benefit
 from the expertise of the editor.
 
-You may need an angle that will interest the publication's editor: a family
+You may need an angle that will interest the publication's editor like a family
 that has not been published before; a research methodolgy that hasn't been
-used before; or something unique and interesting.
+used before; or something otherwise unique and interesting.
 
 ## Using the Genealogical Proof Standard
 
