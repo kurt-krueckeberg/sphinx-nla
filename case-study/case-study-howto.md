@@ -148,6 +148,12 @@ individuals from a family group is just as important as finding them.
 
 Negative evidenece is just as important. We include it in our case study.
 
-This is the analysis we will use and how we will report our findings:
+This is the analysis we will use and how we will report our findings. The
+figure below shows the what will become the core of our genealogical case
+study:
 
 ```{figure} images/further-analysis.jpg
+```
+
+
+TODO: Read John Beatty's artice in the NGS Quarterly from -- what year?
