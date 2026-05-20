@@ -73,9 +73,8 @@ forward can we take?
 In this example case study, we have a family story about Sarepta's life
 composed in 1923 by her great grandson who interviewed Sarepta's only
 surviving daughter. She said Sarepta's father was an overseer on a
-plantation in Virgina. In addtion to other family details, she also said
-Sarepta had a sister named Matilda who married an Alexander Graham in Clark
-County, Ohio.
+plantation in Virgina. She also said Sarepta had a sister named Matilda who
+married an Alexander Graham in Clark County, Ohio.
 
 Next the details of this story were checked, and a1835 marriage record from
 Clark county, Ohio, was found for the marriage of Alexander Graham to
