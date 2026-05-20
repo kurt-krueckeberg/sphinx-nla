@@ -155,5 +155,7 @@ study:
 ```{figure} images/further-analysis.jpg
 ```
 
-
 TODO: Read John Beatty's artice in the NGS Quarterly from -- what year?
+
+
+Stopped at minute 37:00.
