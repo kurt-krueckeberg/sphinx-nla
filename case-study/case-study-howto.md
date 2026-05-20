@@ -113,7 +113,10 @@ understanding the original parent county and adjoining counties,
 Local and state history are also keys to moving the research
 forward.
 
-STOPPED at 30:00.
+We want to the county to look in, and what the surrounding counties are.
+
+Sarepta married in 1835 in Calr county, Ohio. We learn which counties Clark
+was created from and what the surrounding counties are.
 
 We plan to search:
 * Wills
