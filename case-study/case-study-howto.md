@@ -23,7 +23,7 @@ You may need an angle that will interest the publication's editor like a family
 that has not been published before; a research methodolgy that hasn't been
 used before; or something otherwise unique and interesting.
 
-## Using the Genealogical Proof Standard
+## Meeting the Genealogical Proof Standard
 
 The five key points of the standard:
 
