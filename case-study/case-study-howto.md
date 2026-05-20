@@ -111,14 +111,20 @@ There are many research questions related to Sarepta that remain unanswered:
 Geography is key to understanding a family in a particular county,
 understanding the original parent county and adjoining counties,
 Local and state history are also keys to moving the research
-forward.
+forward. Maps are very helpful.
 
 We want to the county to look in, and what the surrounding counties are.
 
 Sarepta married in 1835 in Calr county, Ohio. We learn which counties Clark
 was created from and what the surrounding counties are.
 
-We plan to search:
-* Wills
+Mathilda is likely Sarepta's sister, so there is a high probabilty of other
+family living in the area since they came to Ohio in a pioneer ear and not
+likely therefore to have come alone.
 
+To date wills and probate records looking for direct evidence of Sarepta and
+Mathilda, but found none.
+
+```{figure} images/research-plan-records-list.jpg
+```
 
