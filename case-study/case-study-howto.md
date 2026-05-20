@@ -91,10 +91,12 @@ The case study write-up at this point would include:
 
 * A statement of the problem: the search for Sarepta's parents.
 * A analysis of the evidence so far with documented footnotes for each
-  fact. For FamilySearch sources, record the Family History library DGS
-(the identifying number for a digital image group). Also record the actual
-image number. Using the DGS number one on the catalog search page, you can
-go right to the document, if you have the image number.
+  fact.
+
+  For FamilySearch sources, record the Family History library DGS
+  (the identifying number for a digital image group). Also record the actual
+  image number. Using the DGS number one on the catalog search page, you can
+  go right to the document, if you have the image number.
 
 There are many research questions related to Sarepta:
 
