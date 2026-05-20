@@ -146,3 +146,8 @@ county, Ohio, in 1835.
 Using the outlined steps in the image, we build family groups. Eliminating
 individuals from a family group is just as important as finding them. 
 
+Negative evidenece is just as important. We include it in our case study.
+
+This is the analysis we will use:
+
+```{figure} images/further-analysis.jpg
