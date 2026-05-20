@@ -70,11 +70,16 @@ Writing What we Have Thus Far
 Since the current evidence does not reveal Serapta's parents, what steps
 forward can we take?
 
-In this example case study, we have a family story about Sarepta's life
-composed in 1923 by her great grandson who interviewed Sarepta's only
-surviving daughter. She said Sarepta's father was an overseer on a
-plantation in Virgina. She also said Sarepta had a sister named Matilda who
-married an Alexander Graham in Clark County, Ohio.
+We realize we need to get beyond the current circle of evidence if we are
+to discover more clues as to the parents of Sarepta. We need a research
+plan to look at all possbile sources in the area that might yield the
+evidence we are after. 
+
+In this case study, we have a family story about Sarepta's life composed in
+1923 by her great grandson who interviewed Sarepta's only surviving
+daughter. She said Sarepta's father was an overseer on a plantation in
+Virgina. She also said Sarepta had a sister named Matilda who married an
+Alexander Graham in Clark County, Ohio.
 
 The details of this story were checked, and a 1835 marriage record from
 Clark county, Ohio, was found for the marriage of Alexander Graham to
@@ -82,19 +87,14 @@ Mathilda. Alexander Graham also had a daughter named Sarepta, the same
 unusal name as the 3X grandmother. So the story element's seems true.
 Mathilda seems to be Sarepta's sister.
 
-We realize we need to get beyond the current circle of evidence if we are
-to discover more clues as to the parents of Sarepta. We need a research
-plan to look at all possbile sources in the area that might yield the
-evidence we are after. 
-
 The case study write-up at this point would include:
 
 * A statement of the problem: the search for Sarepta's parents.
 * A analysis of the evidence so far with documented footnotes for each
   fact. For FamilySearch sources, record the Family History library DGS
 (the identifying number for a digital image group). Also record the actual
-image number. Using the DGS number one on the catalog search page, you can go
-right to the document, if you have the image number.
+image number. Using the DGS number one on the catalog search page, you can
+go right to the document, if you have the image number.
 
 There are many research questions related to Sarepta:
 
