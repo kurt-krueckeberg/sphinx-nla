@@ -17,8 +17,8 @@ It is in 146/case-study.md
 
 ## Add the unorderlist links to content.md
 
-Add unordered list links to content.md before its Designatio Actorum table
-for files like conver.md, intro.md, etc.
+Add unordered list of links to the file content.md. Put it before its Designatio Actorum table
+for files like cover.md, intro.md, etc.
 
 ## Add Einliger Article to this project
 
