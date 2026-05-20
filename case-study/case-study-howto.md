@@ -148,6 +148,6 @@ individuals from a family group is just as important as finding them.
 
 Negative evidenece is just as important. We include it in our case study.
 
-This is the analysis we will use:
+This is the analysis we will use and how we will report our findings:
 
 ```{figure} images/further-analysis.jpg
