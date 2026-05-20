@@ -106,6 +106,8 @@ There are many research questions related to Sarepta:
 * Where did she live in Ohio before her marriage?
 * Did her parents die in Virgina or Ohio?
 
+### Geography as a Key
+
 Geography is key to understanding a family in a particular county,
 understanding the original parent county and adjoining counties,
 Local and state history are also keys to moving the research
