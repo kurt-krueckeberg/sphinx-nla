@@ -98,7 +98,7 @@ The case study write-up at this point would include:
   image number. Using the DGS number one on the catalog search page, you can
   go right to the document, if you have the image number.
 
-There are many research questions related to Sarepta:
+There are many research questions related to Sarepta that remain unanswered:
 
 * Where exactly was she born in Virgina?
 * Who were her siblings?
