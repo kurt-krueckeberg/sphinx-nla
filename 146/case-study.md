@@ -35,6 +35,15 @@ between 1728 and 1822.
 Friedrich, by 1850
 
 
+## Background to Read up On
+
+- Anerbenrecht
+- Schaumburg-Lippe history
+- Re-read all the case files
+- Create timlines
+- Create family groups
+
+
 ## Records to Research
 
 
