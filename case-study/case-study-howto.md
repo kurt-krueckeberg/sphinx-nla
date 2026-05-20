@@ -135,14 +135,14 @@ We will search for McMillan/McMullen in the counties we noted above in
 - Deeds
 - Court Records
 - Census Records
+- public family trees
 
 We also have the clue about her prospective sister marrying in Clark
 county, Ohio, in 1835.
 
-We look for coincidences and links between individuals like someone living
-next door to someone or a census or being a witness on a document.
-
-We will consult public trees.
-
 ```{figure} images/correlation-and-interpretation.jpg
 ```
+
+Using the outlined steps in the image, we build family groups. Eliminating
+individuals from a family group is just as important as finding them. 
+
