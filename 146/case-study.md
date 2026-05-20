@@ -34,3 +34,11 @@ between 1728 and 1822.
 - The home has become the possession of Carl Friedrich Gottlieb’s son, Carl
 Friedrich, by 1850
 
+
+## Records to Research
+
+
+- Can we find a record of Carl Friedrich Gottlieb's father and Jobst
+  Heinrich Krückeberg's father, Johann Heinrich Krückeberg, showing that he
+  was an Ackervogt in the Arensbuerg region, a point that is mentioned in
+  the 146 case file.
