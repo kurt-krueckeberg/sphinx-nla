@@ -29,8 +29,8 @@ The five key points of the standard:
 
 1. Reasonably exhaustive research. 
 
-   Reasonably exhaustive research means digging deep into the records. It means
-   doing historical reseaarch to find the location of new records.
+   Reasonably exhaustive research means digging deep into the records. It
+   implies doing historical reseaarch to find the location of new records.
 
    What is "reasonable" is always subject to change and the uncovering of
    more evidence.
@@ -50,15 +50,15 @@ The five key points of the standard:
 
 We begin by writing up what our evidence reveals so far.
 
-This case study concerns the desire to discover the unknown parents of a 3x
-great grandmother shoe given name is Sarepta. We begin by writing up a
+The case study used as the working example concerns the unknown parents of a 3x
+great grandmother whose name was Sarepta McMillen. We frist writing up a
 summary of the current evidence. We mention the records--censuses, marriage
-records, etc.--we have examined thus far. This also helps us ponder what
+records, etc.--we examined thus far. This also helps us ponder what
 other records might contain clues.
 
 ### Research Plan
 
-The figure below illustrates the research the path we are on.
+The figure below illustrates the research process. 
 
 ```{figure} images/writing-what-we-have-thus-far.jpg
 :class: image-override
@@ -70,26 +70,23 @@ Writing What we Have Thus Far
 Since the current evidence does not reveal Serapta's parents, what steps
 forward can we take?
 
-We do have a family story about Sarepta's life composed in 1923 by her
-great grandson who interviewed Sarepta's only surviving daughter. She said
-Sarepta's father was an overseer on a plantation in Virgina. In addtion to
-other details, she also said Sarepta had a sister named Matilda who married
-an Alexander Graham in Clark County, Ohio.
+In this example case study, we have a family story about Sarepta's life
+composed in 1923 by her great grandson who interviewed Sarepta's only
+surviving daughter. She said Sarepta's father was an overseer on a
+plantation in Virgina. In addtion to other family details, she also said
+Sarepta had a sister named Matilda who married an Alexander Graham in Clark
+County, Ohio.
 
-Details of this story were researched. A 1835 marriage record from
+Next the details of this story were checked, and a1835 marriage record from
 Clark county, Ohio, was found for the marriage of Alexander Graham to
-Mathilda. Alexander Graham also had a daughter named Sarepta, this very
-unusual name. So the story element's seems true. Mathilda seems to be
-Sarepta's sister.
+Mathilda. Alexander Graham also had a daughter named Sarepta, the same
+unusal name as the 3X grandmother. So the story element's seems true.
+Mathilda seems to be Sarepta's sister.
 
 We realize we need to get beyond the current circle of evidence if we are
-to discover more clues of who the parents of the 3x great grandmother are.
-We need a research plan to look at all possbile sources in the area that
-might yield the evidence we are after. 
-
-What might still be digitized online? What might still be in local or state
-archives, and how to best access those documents. What land records should
-be examined? What will and probate records.
+to discover more clues as to the parents of Sarepta. We need a research
+plan to look at all possbile sources in the area that might yield the
+evidence we are after. 
 
 The case study write-up at this point would include:
 
@@ -109,7 +106,7 @@ There are many research questions related to Sarepta:
 * Did her parents die in Virgina or Ohio?
 
 Geography is key to understanding a family in a particular county,
-understanding the original parent county and adjoining countires
+understanding the original parent county and adjoining counties,
 Local and state history are also keys to moving the research
 forward.
 
