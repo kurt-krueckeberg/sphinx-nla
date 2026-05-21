@@ -45,9 +45,10 @@ Friedrich, by 1850
 - Create family groups
 
 
-## Records to Research
+## Records/Backgroun to Research
 
-
+- Zotero bookmakrs for Schaumburg-Lippe Background
+- [Die Maus Vorträge](https://die-maus-bremen.info/index.php?id=670)
 - Schaumburg-Lippe Arbeitsgemeinschaft
 - Can we find a record of Carl Friedrich Gottlieb's father and Jobst
   Heinrich Krückeberg's father, Johann Heinrich Krückeberg, showing that he
