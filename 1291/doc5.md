@@ -34,8 +34,6 @@
     a plot of land for the construction of a house with a garden.
 ```
 
-## Citation
-
 ## Document 5
 
 ```{image} images/08-r.png
