@@ -37,6 +37,7 @@ Friedrich, by 1850
 
 ## Background to Read up On
 
+- Articles bookmarked in Zotero on "Schaumburg-Lippe Background".
 - Anerbenrecht
 - Schaumburg-Lippe history
 - Re-read all the case files
@@ -51,3 +52,8 @@ Friedrich, by 1850
   Heinrich Krückeberg's father, Johann Heinrich Krückeberg, showing that he
   was an Ackervogt in the Arensbuerg region, a point that is mentioned in
   the 146 case file.
+- Census
+- Tax Records
+- Land Records
+- Wills
+- The key is finding other records with other information. 
