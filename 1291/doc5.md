@@ -46,10 +46,6 @@
 :class: image-override
 ```
 
-```{image} images/08-r-vert-text.png
-:class: image-override
-```
-
 ## Transliteration and Translation
 
 ```{code-block} text
@@ -155,6 +151,10 @@ Aswellmann p [?] [?]
 ```
 
 ### Resolution of Rentkammer
+
+```{image} images/08-r-vert-text.png
+:class: image-override
+```
 
 ```{code-block} text
 
