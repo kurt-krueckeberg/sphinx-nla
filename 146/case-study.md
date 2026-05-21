@@ -48,6 +48,7 @@ Friedrich, by 1850
 ## Records to Research
 
 
+- Schaumburg-Lippe Arbeitsgemeinschaft
 - Can we find a record of Carl Friedrich Gottlieb's father and Jobst
   Heinrich Krückeberg's father, Johann Heinrich Krückeberg, showing that he
   was an Ackervogt in the Arensbuerg region, a point that is mentioned in
