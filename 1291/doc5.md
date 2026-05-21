@@ -156,6 +156,8 @@ Aswellmann p [?] [?]
 :class: image-override
 ```
 
+### Transliteration and Translation
+
 ```{code-block} text
 
 Res: Cam: Dem Amte Bückeburg B.M. zum Berichte in Beziehung auf die
