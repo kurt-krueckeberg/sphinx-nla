@@ -52,6 +52,7 @@ Friedrich, by 1850
   Heinrich Krückeberg's father, Johann Heinrich Krückeberg, showing that he
   was an Ackervogt in the Arensbuerg region, a point that is mentioned in
   the 146 case file.
+- The German Genealogy Guide with the soft blue cover.
 - Census
 - Tax Records
 - Land Records
