@@ -188,27 +188,25 @@ Forst
 Translation
 
 ```{code-block} text
+                    Der Raue Knick [literally, “the rough hedgerow/boundary bank”]
 
-                     The Rough Hedge
+the Röcke Dike / Röcke Causeway
 
-the Röcker Dam.
-
-                   Kohlmeyer No. 5 in Berenbusch
-                   part of the Söhren to be purchased
-                         from the Söhren
+                   Kohlmeyer no. 5 in Berenbusch
+                   portion of the Söhren to be purchased
 
 
 
-                    8 3/4 Morgen from the Söhren         Government land
-                  of the Söhren, which Krückeberg        at the Söhren
-                  No. 10 in Berenbusch has purchased.
+                    8 3/4 Morgen of the                  The lordship’s
+                  Söhren, which Krückeberg                 Söhren
+                  no. 10 in Berenbusch purchased.
 
 
 
                   A
 Forest
                                B
-                                         Weiland No. 1 in Berenbusch
-                                         Seed field (Saat-Kamp)
+                                         Weiland no. 1 in Berenbusch
+                                         Saat-Kamp [sowing field / arable enclosure]
 ```
 
