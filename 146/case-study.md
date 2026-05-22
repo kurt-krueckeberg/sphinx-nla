@@ -47,6 +47,11 @@ Friedrich, by 1850
 
 ## Records/Backgroun to Research
 
+- Germanic Genealogy Society Videos
+- ACSI videos
+- ~/gen/m//research -- items to research
+- Genealogies in Archive
+- Analyze NLA documents
 - Zotero bookmakrs for Schaumburg-Lippe Background
 - [Die Maus Vorträge](https://die-maus-bremen.info/index.php?id=670)
 - Schaumburg-Lippe Arbeitsgemeinschaft
