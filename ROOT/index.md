@@ -48,7 +48,7 @@ found in the Lower Saxony state archive in Bückeburg, Germany.
   - [Holding No. 19 in Berenbusch (1819-1820)](../147/index.md)
 
     Die Stätte Nr. 19 zu Berenbusch
-    [NLA BU K 2 Nr. 147](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979521)
+  - [NLA BU K 2 Nr. 147](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979521)
 * - 1817-1818
   - [Allotment from forest land to the colonist Krückeberg No. 10 in Berenbusch, and to the lodgers Vogt and Brüggemann, for the establishment of the new Holdings Nos. 13 and 14 in Nordholz.](../1291/content.md)
     
