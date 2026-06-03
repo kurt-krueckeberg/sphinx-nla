@@ -17,7 +17,7 @@ arrangement**. When we speak of a Kolonat, we mean the entire arrangement
 by which a Kolon holds and uses a Stätte under certain conditions
 (rents, duties, permissions) granted by the princely administration.
 
-### In the Rentkammer Case Files
+## Usage in Rentkammer Case Files
 
 - When the title says *Die Stätte Nr. 18 zu Berenbusch*, it refers
 to that specific property.
