@@ -77,7 +77,7 @@ showing who previously held each house and who holds it now.
 
 :::{admonition} What was a Brinksitzer?
 
-A **Brinksitzer** was a **village-edge cottager**, who lives on the *Brink*(edge of
+A **Brinksitzer** was a **village-edge cottager**, who lives on the **Brink** (edge of
 the village). He often had a **house + garden** and relied on trades, day
 labor, or side work.
 
