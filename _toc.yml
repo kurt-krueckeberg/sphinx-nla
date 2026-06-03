@@ -21,6 +21,7 @@ parts:
       - file: rentkammer/rentkammer-and-kolonat-system
         title: Rentkammer Explained
         sections:
+          - file: rentkammer/staette-kolonat-kolon
           - file: rentkammer/case-file-docs-explained
             title: Case Files Explained
           - file: rentkammer/workflow  
