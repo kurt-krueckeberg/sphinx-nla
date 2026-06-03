@@ -147,10 +147,10 @@ parts:
               - file: 146/copia
                 title: Purchase Contract Copy 
  
-      - file: 147/content.md
+      - file: 147/cover
         title: Holding No. 19 Berenbusch, 1808-1850
         sections:
-          - file: 147/cover
+          - file: 147/content
           - file: 147/doc5
             title: Report of Bückeburg district office
 
