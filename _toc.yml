@@ -51,7 +51,7 @@ parts:
           - file: 1237/doc6
 
       - file: 1291/content.md
-        title: Allotments to Krückeberg no. 10 & Lodgers Vogt & Nordholz
+        title: Allotments to Krückeberg no. 10 & Lodgers Vogt & Nordholz (1817 - 1818)
         sections:
           - file: 1291/cover.md
           - file: 1291/doc1.md
