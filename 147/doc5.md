@@ -78,5 +78,33 @@ Res: Cam: Genehmiget nach dem Amts-Vorschlage,
 wornach das Nöthige an das Amt u. an
 Kam: Rentmeister zu erlassen ist. B 22 Nov. 1819
 MKaas
+```
 
+**Vertical Text on left of 1st page:**
+
+```text
+Res: Cam: Genehmiget nach dem Amts-Vorschlage,
+wornach das Nöthige an das Amt u. an
+Kam: Rentmeister zu erlassen ist. B 22 Nov. 1819
+MKaas
+```
+
+**Transliteration of Map Text:**
+
+```text
+Zeichnung
+eines Kolonieplatzes im Baumer Forstrevier
+für den Neubauer Driftmeier zu Berenbusch.
+Die Theile A u. B halten 1 Morgen 54 Ruth: 80 Fuß
+
+Stille
+```
+
+```text
+Drawing
+of a colonist’s plot in the Baumer forest district
+for the new farmer Driftmeier of Berenbusch.
+Sections A and B contain 1 Morgen, 54 Ruthen, 80 feet.
+
+Stille
 ```
