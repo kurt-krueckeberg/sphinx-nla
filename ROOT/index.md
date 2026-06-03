@@ -45,7 +45,7 @@ found in the Lower Saxony state archive in Bückeburg, Germany.
     Die Stätte Nr. 18 zu Berenbusch
   - [NLA BU K 2 B Nr. 146](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979522)
 * - 1819-1820
-  - [Holding No. 19 in Berenbusch (1819-1820)](../147/index.md)
+  - [Holding No. 19 in Berenbusch (1819-1820)](../147/cover.md)
 
     Die Stätte Nr. 19 zu Berenbusch
   - [NLA BU K 2 Nr. 147](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979521)

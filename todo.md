@@ -11,6 +11,12 @@ and this file: modern-english-translation.txtt
 Read John Beatty's article, then listen to the video again.
 The notes on it are in `case-study/case-study-howto.md`.
 
+## ReOrganize NLA order of cover/contents
+
+Some "modules" have content.md as the landing page with a link in it to
+cover.md; others have conver.md first. Decide on a the best way of
+presenting each case files/landing page.
+
 ## Reorganize modeule `rentkammer`.
 
 It is not coherence. Explain the Rentkammer, explain what the case files
