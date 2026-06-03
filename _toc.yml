@@ -16,7 +16,7 @@ parts:
         sections:
           - file: 140/page-17
 
-  - caption: Rentkammer Documents
+  - caption: Rentkammer Case Files
     chapters:
       - file: rentkammer/rentkammer-and-kolonat-system
         title: Rentkammer Explained
