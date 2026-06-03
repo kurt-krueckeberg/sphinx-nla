@@ -2,7 +2,7 @@
 
 ## Narrative Overview
 
-On **18 October 1800**, the Ämter of Bückeburg and Arensburg sent a
+On **18 October 1800**, the offices of Bückeburg and Arensburg sent a
 formal report to the Vormundschaftliche Kammer, responding to the
 Cammer’s directive of **11 March 1799** (Document 3).
 
