@@ -63,16 +63,18 @@ property**. He says: "habe darauf geheyrahtet". This could mean:
 - got married on it
 
 This might suggest he obtained Brinksitzer status of no. 10 Berenbusch
-through marriage, but we don’t know what the antecedent to the da-compound
-**darauf** is.
+through marriage, but we don’t know what the antecedent of **darauf** (
+hereon, thereon, thereupon, afterward, afterwards, after that)  is.
 
 The 1743–44 general state visitation (Generallandesvisitation) records a
-succession of holders for Haus Nr. 10 in Berenbusch: Johann Tönnies
-Eggerding, followed by **Friedrich Kuhlmann**, and then Johann Heinrich
+succession of holders for Haus Nr. 10 in Berenbusch: **Johann Tönnies
+Eggerding**, followed by **Friedrich Kuhlmann**, and then Johann Heinrich
 Krückeberg, who acquired the holding through marriage.
 
-None of these individuals appears in the 1737 [Survey of House and Property Holders in the District of Bückeburg as Part of a General Land Survey (1737)](../2728/survey-1737.md),
-likely because they did not meet the criteria of property holders.
+None of these individuals appears in the 1737 [Survey of House and Property
+Holders in the District of Bückeburg as Part of a General Land Survey
+(1737)](../2728/survey-1737.md), likely because they did not meet the
+criteria of property holders.
 ```
 
 Transliteration
