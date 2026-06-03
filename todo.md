@@ -11,6 +11,11 @@ and this file: modern-english-translation.txtt
 Read John Beatty's article, then listen to the video again.
 The notes on it are in `case-study/case-study-howto.md`.
 
+## Reorganize modeule `rentkammer`.
+
+It is not coherence. Explain the Rentkammer, explain what the case files
+are about, explain the workflow that occurred for the case files.
+
 ## The 146 Case Study Outline
 
 It is located in 146/case-study.md
