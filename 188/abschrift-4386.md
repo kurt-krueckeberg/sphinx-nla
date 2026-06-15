@@ -13,8 +13,7 @@ seeking approval of the sale of his holding no. 18 Berenbusch.
 
 Transliteration
 
-```{code-block} text
-
+```text
 Abschrift         N.C. 4386
 
 An Fürstliche Rentkammer
@@ -44,8 +43,7 @@ Cona: Langerfeldt Adv:
 
 Transliteration
 
-```{code-block} text
-
+```text
 Copy  N.C. 4386
 
 To the Princely Rent Chamber
