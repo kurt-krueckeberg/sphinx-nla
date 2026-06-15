@@ -129,7 +129,7 @@ Dispatched: Lohren.
 [Memorandum]
 of the confirmation.
 
-[clark initials:] Gri Barth Wh(y)
+[clerk initials:] Gri Barth Wh(y)
 
 The foregoing purchase deed is hereby approved and confirmed.
 Bückeburg, 20 September 1849.
