@@ -47,7 +47,7 @@ Farm holdings and settlement colonies in
 the Principality of Schaumburg
 
                     Regarding the matter of
-1824–               Farmstead (Site) No. 10 in
+1824–               Holding No. 10 in
                     Berenbusch, Office of
                     Bückeburg
 
