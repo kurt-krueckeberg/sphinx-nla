@@ -1,6 +1,6 @@
 # 3-right
 
-```{figure} images/
+```{figure} images/3-right.jpg
 :class: image-override
 
 third page
