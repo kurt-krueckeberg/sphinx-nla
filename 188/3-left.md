@@ -8,7 +8,7 @@
 ## Transliteraion
 
 ```text
-nebst ??? Zubehör zu dem
+nebst allem Zubehör zu dem
 Preise von 550 Rthlr gekauft.
 Zur Bezahlung des Kaufpreises
 habe er an baarem Vermögen
