@@ -233,9 +233,8 @@ parts:
         title: Sale of the Krückeberg property no. 18 in Berenbusch 
         sections:
           - file: 188/cover
-          - file: 188/1
-          - file: 188/2
-          - file: 188/3-left
+          - file: 188/doc1
+          - file: 188/doc2
             title: Copy of N.C. 4385
 
   - caption: Non-Archival Documents
