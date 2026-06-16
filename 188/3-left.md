@@ -8,16 +8,16 @@
 ## Transliteraion
 
 ```text
-nebst allem Zubehör zu dem
+nebst ??? Zubehör zu dem
 Preise von 550 Rthlr gekauft.
 Zur Bezahlung des Kaufpreises
 habe er an baarem Vermögen
 von 100 Rthlr, außerdem wolle
-er die auf der Stätte vorhandenen
+er die auf der Stätte ruhenden
 älteren Schulden ad 250 Rthlr
 übernehmen und 200 Rthlr von
 dem Colone Bülte Nr. 13 in Evesen
-entleihen, welcher sich hierzu
+aufnehmen, welcher sich hierzu
 bereit erklärt habe.
 
 Der Umfang der Stätte sey
