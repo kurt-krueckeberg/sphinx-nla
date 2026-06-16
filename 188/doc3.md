@@ -5,6 +5,7 @@
 
 first page
 ```
+**TODO:** COMPLETE adding images 
 
 ## Tranliteration
 

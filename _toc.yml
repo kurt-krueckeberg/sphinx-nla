@@ -235,6 +235,7 @@ parts:
           - file: 188/cover
           - file: 188/doc1
           - file: 188/doc2
+          - file: 188/doc3
 
   - caption: Non-Archival Documents
     chapters:
