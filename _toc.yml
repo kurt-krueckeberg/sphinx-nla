@@ -235,7 +235,6 @@ parts:
           - file: 188/cover
           - file: 188/doc1
           - file: 188/doc2
-            title: Copy of N.C. 4385
 
   - caption: Non-Archival Documents
     chapters:
