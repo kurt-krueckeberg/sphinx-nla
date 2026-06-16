@@ -74,7 +74,7 @@ teten Gesuche richtig angegeben.
 Der Garten liege unmittelbar beim
 Hause und sey dieses zu 400 Rthlr 
 versichert. Die Lasten der
-Stätte bestehen in Folgenden:
+Stätte bestehen in Folgendem:
 
 1. 1 Rthlr 1 gl Dienstgeld,
 2. — 10 gl 2 d Rottzins
@@ -88,7 +88,7 @@ Stätte bestehen in Folgenden:
 Sie wollen um Bestätigung des
 Kaufbriefs gebeten haben.
 
-v. g. [unterschrieben?]
+v. g. u. [unterschr.?]
 Krückeberg
 Meier
 
