@@ -84,7 +84,7 @@ zur Hälfte eintreten und verzichte
 namentlich ich, Wilhelm Meyer,
 auf die zu meiner Sicherstellung
 früher beantragte Edic-
-tilladung.
+talladung.
 
 Amtsseitig wurde dieses Namens
 der etwanigen rückbleibenden Gläu-
@@ -95,27 +95,26 @@ nahme des Kaufcontracts.
 Die Contrahenten werden angewie-
 sen, zur Vollziehung des Contrakts
 sich am 26. d. M. Morgens 10 Uhr
-vor Amts einzufinden.
+vor Amt einzufinden.
 
 Vorgel., gen. u. unterschr.
 
 Krückeberg
-Picht Meier
-In Fidem
-[?]
-sig
-[unreadable]
+Picht       Meier
+In fidem
 
+
+[clerk’s initials or abbreviated signature]
 
 [left side of page]
-Staufbrief
+Kaufbrief
 Exp
 
 [bottom right of page]
-Kund und zu wissen sey hiermit, die
+Kund und zu wissen sey hiermit, daß
 zwischen dem Colon Krückeberg N. 18 zu
 Berenbusch und dem Schuster Einlieger
-Wilhelm Meyer auf Nr. [??]. zu lämmern
+Wilhelm Meyer auf Nr. [unclear] zu Cammer
 mit Genehmigung fürstlicher RKammer
 der nachstehende Kauſcontrakt verhandelt
 und
