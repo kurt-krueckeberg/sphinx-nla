@@ -1,6 +1,6 @@
 # Report on Krückeberg’s Petition to Sell Holding No. 18 in Berenbusch, September 1850 
 
-```{figure} images/2-right.png
+```{figure} images/2-right.jpg
 :class: image-override
 
 First page
