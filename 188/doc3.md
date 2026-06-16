@@ -1,11 +1,34 @@
 # Concerning the Sale of Holding No. 18 in Berenbusch
 
-```{figure} images/4-l.jpg
+```{figure} images/4-left.jpg
 :class: image-override
 
 first page
 ```
-**TODO:** COMPLETE adding images 
+
+```{figure} images/5-left.jpg
+:class: image-override
+
+second page
+```
+
+```{figure} images/5-right.jpg
+:class: image-override
+
+third page
+```
+
+```{figure} images/6-left.jpg
+:class: image-override
+
+third page
+```
+
+```{figure} images/6-right.jpg
+:class: image-override
+
+third page
+```
 
 ## Tranliteration
 
