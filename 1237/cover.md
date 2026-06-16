@@ -89,7 +89,7 @@ Archaic/regional variant of **beim** (short for **bei dem**), meaning â€œat theâ
 
 A historical title for a hereditary tenant holding, often a farmer (modern German: **Kolon**).
 
-Courtyard or yard area of a farmstead. Often part of the recorded property area in land documents.
+Courtyard or yard area of a property. Often part of the recorded property area in land documents.
 
 Garden area, usually for private or agricultural use.
 
