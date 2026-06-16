@@ -12,6 +12,12 @@ First page
 Second page
 ```
 
+```{figure} images/3-right.jpg
+:class: image-override
+
+third page
+```
+
 ## Transliteration
 
 ```text
@@ -29,12 +35,12 @@ u. ins.  — 4
 
 Re.
 
-Citentur die Colon Krücke-
+Citentur der Colon Krücke-
 berg von Berenbusch N. 18 und der Schuster
 Wilhelm Meyer von Evesen
 auf 16. d. M. Morgens 11 Uhr.
 Bberg 12/9 1850
-festhaltend.
+[unreadable signature]
 Egger, R.
 
 [unclear:] Citentur ... am Amte 16.
@@ -42,18 +48,18 @@ Sept. 1850.
 
 Erschienen der Colon Krückeberg
 N. 18 von Berenbusch und der Schuster
-Einlieger Wilhelm Meyer ... 
+Einlieger Wilhelm Meyer auf N [?] 
 zu Röcke, welche nach Mittheilung
 der von ersterem bei hiesiger Kammer
 angebrachten Vorstellung wegen
 Verkaufs seiner Stelle an den
 Wilhelm Meyer zu vernehmen ge-
-wesen sind, sagt:
+wesen sind, sagen:
 Wilhelm Meyer habe die Stätte
 nebst allem Zubehör zu dem
 Preise von 550 Rthlr gekauft.
 Zur Bezahlung des Kaufpreises
-habe er an baarem Vermögen
+habe er ein baares Vermögen
 von 100 Rthlr, außerdem wolle
 er die auf der Stätte ruhenden
 älteren Schulden ad 250 Rthlr
@@ -66,7 +72,7 @@ Der Umfang der Stätte sey
 in dem an die Kammer gerich-
 teten Gesuche richtig angegeben.
 Der Garten liege unmittelbar beim
-Hause und sey dieser zu 400 Fuß
+Hause und sey dieser zu 400 [uncertain meaurement unit]
 vermessen. Die Lasten der
 Stätte bestehen in folgenden:
 
@@ -74,12 +80,72 @@ Stätte bestehen in folgenden:
 2. — 10 gl 2 d Kotzgeld
 3. — 6 gl — Mahlschweingeld
 4. — 1 gl — Brandversicherung
-5. an [Rauchfuhre/Rauchhühner?]
+5. ein Rauchhuhn
 6. 2 Rthlr 2 d Contribution
 7. Gemeinde-, Kirchen- und
    Schullasten.
 
 Sie wollen um Bestätigung des
-Kaufs
+Kaufbriefs gebeten haben.
 
+v. g. [unreadable word or signature]
+Krückeberg
+Meier
+
+In fidem
+König.
+
+Ci[?]i[?]andum eodem et radi[?]
+Rechtsvorsorglich stellte Käufer Meyer
+den Antrag, zu seiner Sicherstel-
+lung nach Genehmigung des Con-
+tracts Edictalien zu erlassen.
+h. u. t.
+[initials/signatures]
+
+
+[left side of page]
+
+An
+Fürstliche Rentkammer
+
+Unterthänigster
+Bericht
+des Amts Bückeburg
+
+Verkauf der Krückebergschen
+Stätte Nro. 18 in Berenbusch betr.
+
+B. Pr. 1314.
+ad
+N. C. 4368
+v. l.
+Exp. 19/9 50
+
+[accounting entries, uncertain]
+taxa      12 gl
+[...]      3 „
+Stgl.      3 „
+[...]      3 „
+Stgl.      1 „
+[...]      3 „
+[...]      2 „
+          27 gl
+
+Aufges.[etzt?]
+
+
+[right side of page]
+
+Bei Rücksendung des Gesuchs des Colons Krückeberg
+N. 18 zu [Evesen gestrichen; darunter: Berenbusch], um Genehmigung eines über seine
+Stätte abgeschlossenen Kaufvertrags, verfehlen
+wir nicht, Fürstlicher Rentkammer das in Abschrift
+anbeigebogene Protocoll vom 16. d. M. gehorsamst vor-
+zulegen und finden bei Gewährung des ange-
+brachten Gesuchs Etwas nicht zu erinnern.
+
+Bburg, 17/9 1850.
+
+Fürstl. Bückeb. Amt.
 ```
