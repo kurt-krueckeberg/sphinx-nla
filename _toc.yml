@@ -1,5 +1,5 @@
 format: jb-book
-root: ROOT/index
+root: root/index
 
 parts:
   - caption: General Documents
