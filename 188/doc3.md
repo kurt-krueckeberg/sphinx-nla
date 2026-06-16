@@ -69,13 +69,6 @@ beiden erklärten, wie folgt:
 
 Da der Colon Krückeberg das Handgeld schon
 abgeschickt hat, um am 1. Oktober d. J. von Bremen
-nach
-```
-
-**TODO: Resume here with chatgpt rview**
-
-
-```text
 [right side of page]
 nach Amerika abzureisen, so wollen
 wir für die etwanige rückstän-
