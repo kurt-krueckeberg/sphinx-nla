@@ -77,12 +77,12 @@ versichert. Die Lasten der
 Stätte bestehen in Folgendem:
 
 1. 1 Rthlr 1 gl Dienstgeld,
-2. — 10 gl 2 d Rottzins
-3. — 6 mgl — Mahlschweingeld
-4. — 1 gl — Michaelisschatz
+2. __ 10 gl 2 d Rottzins
+3. __ 6 mgl __ Mahlschweingeld
+4. __ 1 gl  __ Michaelisschatz
 5. ein Rauchhuhn
 6. [?] gl 2 d Contribution
-7. Gemeinde-, Kirchen- und
+7. Gemeinde_, Kirchen- und
    Schullasten.
 
 Sie wollen um Bestätigung des
