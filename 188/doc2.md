@@ -50,7 +50,7 @@ Erschienen der Colon Krückeberg
 N. 18 von Berenbusch und der Schuster
 Einlieger Wilhelm Meyer auf N. 41 
 zu Röcke, welche nach Mittheilung
-der von ersterem bei F[ürslicher] R[ent]Kammer
+der von ersterem bei F[ürstlicher] R[ent]Kammer
 eingebrachten Vorstellung wegen
 Verkaufs seiner Stelle an den
 Wilhelm Meyer zu vernehmen gaben
@@ -64,8 +64,8 @@ von 100 Rthlr, außerdem wolle
 er die auf der Stätte ruhenden
 älteren Schulden ad 250 Rthlr
 übernehmen und 200 Rthlr von
-dem Colone Witte Nr. 13 in Evesen
-aufnehmen, welcher sich hierzu schon
+dem Colone Witte Nr. 13 in Eilsen
+aufleihen, welcher sich hierzu schon
 bereit erklärt habe.
 
 Der Umfang der Stätte sey
@@ -73,15 +73,15 @@ in dem an die Kammer gerich-
 teten Gesuche richtig angegeben.
 Der Garten liege unmittelbar beim
 Hause und sey dieses zu 400 Rthlr 
-vermessen. Die Lasten der
-Stätte bestehen in folgenden:
+versichert. Die Lasten der
+Stätte bestehen in Folgenden:
 
 1. 1 Rthlr 1 gl Dienstgeld,
 2. — 10 gl 2 d Rottzins
-3. — 6 gl — Mahlschweingeld
+3. — 6 mgl — Mahlschweingeld
 4. — 1 gl — Michaelisschatz
 5. ein Rauchhuhn
-6. 2 Rthlr 2 d Contribution
+6. 2 gl 2 d Contribution
 7. Gemeinde-, Kirchen- und
    Schullasten.
 
@@ -93,15 +93,15 @@ Krückeberg
 Meier
 
 In fidem
-König.
+König, Ass[essor].
 
-Cont. ibidem et edoem.
+Cont. ibidem et eodoem.
 
 Nachträglich stellte Käufer Meyer
 den Antrag, zu seiner Sicherstel-
 lung nach Genehmigung des Con-
 tracts edictales zu erlassen.
-h. u. t.
+A. u. f.
 [initials/signatures]
 
 
