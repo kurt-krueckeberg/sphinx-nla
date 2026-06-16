@@ -108,7 +108,7 @@ sig
 [unreadable]
 
 
-RESUME HERE
+RESUME HERE. SEE: https://chatgpt.com/c/6a31b74b-9c90-83ea-9704-688ebb03a486
 [left side of page]
 Staufbrief
 Exp
