@@ -81,7 +81,7 @@ Stätte bestehen in Folgendem:
 3. — 6 mgl — Mahlschweingeld
 4. — 1 gl — Michaelisschatz
 5. ein Rauchhuhn
-6. 2 gl 2 d Contribution
+6. [?] gl 2 d Contribution
 7. Gemeinde-, Kirchen- und
    Schullasten.
 
