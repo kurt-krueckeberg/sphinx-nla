@@ -83,32 +83,30 @@ dige Schuld des Krückeberg jeder
 zur Hälfte eintreten und verzichte
 namentlich ich, Wilhelm Meyer,
 auf die zu meiner Sicherstellung
-früher berücken. Edic-
+früher beantragte Edic-
 tilladung.
 
-Amtsseitig wurde dieses Names
+Amtsseitig wurde dieses Namens
 der etwanigen rückbleibenden Gläu-
 biger des Krückeberg acceptirt
 und bat letzterer um baldige Auf-
 nahme des Kaufcontracts.
 
-STOPPED HERE
 Die Contrahenten werden angewie-
-sen, zur Ueberziehung des Contrakts
+sen, zur Vollziehung des Contrakts
 sich am 26. d. M. Morgens 10 Uhr
-von Amts einzufinden.
+vor Amts einzufinden.
 
 Vorgel., gen. u. unterschr.
 
 Krückeberg
-[Wilh?] Meier
+Picht Meier
 In Fidem
 [?]
 sig
 [unreadable]
 
 
-RESUME HERE. SEE: https://chatgpt.com/c/6a31b74b-9c90-83ea-9704-688ebb03a486
 [left side of page]
 Staufbrief
 Exp
@@ -119,6 +117,6 @@ zwischen dem Colon Krückeberg N. 18 zu
 Berenbusch und dem Schuster Einlieger
 Wilhelm Meyer auf Nr. [??]. zu lämmern
 mit Genehmigung fürstlicher RKammer
-der nächstehende Kauſcontrakt verhandelt
+der nachstehende Kauſcontrakt verhandelt
 und
 ```
