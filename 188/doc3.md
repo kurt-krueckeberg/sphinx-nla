@@ -74,33 +74,46 @@ nach
 
 **TODO: Resume here with chatgpt rview**
 
+
 ```text
-Staufbrief
-Exp
-nach Amerika abgereisen, so wollen
-hier für die etwanze rücksten
-dazu Schulden des Krückeberg jeder
-zur Hälfte entreten und vergleichte
+[right side of page]
+nach Amerika abzureisen, so wollen
+wir für die etwanige rückstän-
+dige Schuld des Krückeberg jeder
+zur Hälfte eintreten und verzichte
 namentlich ich, Wilhelm Meyer,
 auf die zu meiner Sicherstellung
-früher berücken. Edik
+früher berücken. Edic-
 tilladung.
-Amtssäctig wurde diese Römer
-der etwanigen reikbleibenden Gläu-
+
+Amtsseitig wurde dieses Names
+der etwanigen rückbleibenden Gläu-
 biger des Krückeberg acceptirt
-und bot letzterer um baldige traf
-nahme des Kaufantraths.
-Die Lieterheute werden ungern
-ihr, zur Ueberziehung des Contrakts
-sich am 26. d. M. Morgens in Uhr
+und bat letzterer um baldige Auf-
+nahme des Kaufcontracts.
+
+STOPPED HERE
+Die Contrahenten werden angewie-
+sen, zur Ueberziehung des Contrakts
+sich am 26. d. M. Morgens 10 Uhr
 von Amts einzufinden.
-Nergel., gen. d'untersche
+
+Vorgel., gen. u. unterschr.
+
 Krückeberg
-Piel Meier
+[Wilh?] Meier
 In Fidem
-[ein?]
+[?]
 sig
-Kongliss:
+[unreadable]
+
+
+RESUME HERE
+[left side of page]
+Staufbrief
+Exp
+
+[bottom right of page]
 Kund und zu wissen sey hiermit, die
 zwischen dem Colon Krückeberg N. 18 zu
 Berenbusch und dem Schuster Einlieger
@@ -109,4 +122,3 @@ mit Genehmigung fürstlicher RKammer
 der nächstehende Kauſcontrakt verhandelt
 und
 ```
-
