@@ -71,8 +71,7 @@ Folgendem:
 7. Gemeinde-, Kirchen- und
    Schullasten.
 
-Sie wollen um Bestätigung des
-Kaufbriefs gebeten haben.
+Sie wollen um Bestätigung des Kaufbriefs gebeten haben.
 
 v. g. u. [unterschr.?]
 Krückeberg
