@@ -11,5 +11,5 @@ in Berenbusch (1808-1810 & Sept. 1850)](../146/index.md), in its [Other
 Documents](../146/other-docs.md) section, which contains all the 
 relevant details of the September 1850 sale of no. 18 Berenbusch.
 
-- [Copy of document N. C. 4386](abschrift-4386.md)
+- [Copy of document N. C. 4386](1.md)
 
