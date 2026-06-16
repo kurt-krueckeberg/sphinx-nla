@@ -52,7 +52,7 @@ Einlieger Wilhelm Meyer auf N. 41
 zu Röcke, welche nach Mittheilung
 der von ersterem bei F[ürstlicher] R[ent]Kammer
 eingebrachten Vorstellung wegen
-Verkaufs seiner Stelle an den
+Verkaufs seiner Stätte an den
 Wilhelm Meyer zu vernehmen gaben
 wie folgt:
 Wilhelm Meyer habe die Stätte
@@ -95,7 +95,7 @@ Meier
 In fidem
 König, Ass[essor].
 
-Cont. ibidem et eodoem.
+Cont. ibidem et eodem.
 
 Nachträglich stellte Käufer Meyer
 den Antrag, zu seiner Sicherstel-
