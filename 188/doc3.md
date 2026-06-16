@@ -1,6 +1,6 @@
 # Concerning the Sale of Holding No. 18 in Berenbusch
 
-```{figure} images/4-left.jpg
+```{figure} images/4-right.jpg
 :class: image-override
 
 first page
