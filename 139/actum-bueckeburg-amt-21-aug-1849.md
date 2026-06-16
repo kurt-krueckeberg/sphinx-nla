@@ -1,4 +1,4 @@
-# Hearing Confirming the Sale of Krückeberg’s Farmstead Prior to Emigration (21 August 1849)
+# Hearing Confirming the Sale of Krückeberg’s Holding Prior to Emigration (21 August 1849)
 
 ## Narrative Summary
 

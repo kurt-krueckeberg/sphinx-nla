@@ -42,7 +42,7 @@ Example:
 ```text
 Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], L 1 Nr. 1234,
 document headed "Verkauf der Stätte Nr. 10 zu Berenbusch"
-[sale of farmstead no. 10 at Berenbusch],
+[sale of holding no. 10 at Berenbusch],
 in "Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch"
 [case file concerning Colon Jobst Heinrich Krückeberg no. 10 at Berenbusch],
 1798–1800; Arcinsys Niedersachsen und Bremen, accessed 13 May 2026.
