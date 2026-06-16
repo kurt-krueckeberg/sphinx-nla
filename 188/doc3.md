@@ -53,21 +53,60 @@ aber, daß außerdem im Amtsprotokolle
 vom 16. d. M. angegebenen Prästanden, auch
 noch 5 Erntetage von der Stätte No 18
 in Berenbusch geleistet werden müssen.
+
 Bückeburg, 20. Septbr. 1850.
-Fürstlich Schaumbl. Lippl. Renkkammer.
+Fürstlich Schaumbl. Lipp. Renkkammer.
 Spring
 
-Citam Bburg um
+Actum Bburg am
 Amt 22. Sept. 1850.
 
 Erschien der Colon Krückeberg Nr. 18
-von Berenbusch mit dem Kaufer Schuster Trast
+von Berenbusch mit dem Käufer Schuster Ernst
 Wilhelm Meyer von Nr. 41 zu Röcke und
-dem Cölone Picht Dr. 7 von Ruhden, welche letzten
+dem Colon Picht Nr. 7 von Rusbend, welche letztere
 beiden erklärten, wie folgt:
-Da das Colon Krückeberg das Handgeld schon
-abgeschickt hat, um am 1. Oktober d. J. von Hermen
+
+Da der Colon Krückeberg das Handgeld schon
+abgeschickt hat, um am 1. Oktober d. J. von Bremen
 nach
 ```
 
+**TODO: Resume here with chatgpt rview**
+
+```text
+Staufbrief
+Exp
+nach Amerika abgereisen, so wollen
+hier für die etwanze rücksten
+dazu Schulden des Krückeberg jeder
+zur Hälfte entreten und vergleichte
+namentlich ich, Wilhelm Meyer,
+auf die zu meiner Sicherstellung
+früher berücken. Edik
+tilladung.
+Amtssäctig wurde diese Römer
+der etwanigen reikbleibenden Gläu-
+biger des Krückeberg acceptirt
+und bot letzterer um baldige traf
+nahme des Kaufantraths.
+Die Lieterheute werden ungern
+ihr, zur Ueberziehung des Contrakts
+sich am 26. d. M. Morgens in Uhr
+von Amts einzufinden.
+Nergel., gen. d'untersche
+Krückeberg
+Piel Meier
+In Fidem
+[ein?]
+sig
+Kongliss:
+Kund und zu wissen sey hiermit, die
+zwischen dem Colon Krückeberg N. 18 zu
+Berenbusch und dem Schuster Einlieger
+Wilhelm Meyer auf Nr. [??]. zu lämmern
+mit Genehmigung fürstlicher RKammer
+der nächstehende Kauſcontrakt verhandelt
+und
+```
 
