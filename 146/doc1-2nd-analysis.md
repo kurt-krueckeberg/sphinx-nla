@@ -5,18 +5,15 @@ your Rentkammer petition, followed by **authoritative historical
 citations** and then a **line-by-line contextual reading** of your quoted
 passage.
 
-
-
 ## Definition (contextualized to Schaumburg-Lippe, late 18th c.)
 
 In **18th–early 19th century Schaumburg-Lippe Rentkammer usage**, an
 **Einlieger** is:
 
 > **A land- and house-less rural inhabitant who lives as a paying lodger
-> within another household (here: a numbered farmstead), without an
-> independent holding or building site, and who therefore lacks the legal
-> status of a settled colonist (*Anbauer*, *Kolon*)—but may petition the
-> Rentkammer to obtain such a holding.**
+> within another household, without an independent holding or building site,
+>  and who therefore lacks the legal  status of a settled colonist (*Anbauer*,
+> *Kolon*)—but may petition the Rentkammer to obtain such a holding.**
 
 Key implications embedded in the term:
 
