@@ -48,13 +48,13 @@ Sept. 1850.
 
 Erschienen der Colon Krückeberg
 N. 18 von Berenbusch und der Schuster
-Einlieger Wilhelm Meyer auf N [?] 
+Einlieger Wilhelm Meyer auf N. 41 
 zu Röcke, welche nach Mittheilung
-der von ersterem bei hiesiger Kammer
-angebrachten Vorstellung wegen
+der von ersterem bei F[ürslicher] R[ent]Kammer
+eingebrachten Vorstellung wegen
 Verkaufs seiner Stelle an den
-Wilhelm Meyer zu vernehmen ge-
-wesen sind, sagen:
+Wilhelm Meyer zu vernehmen gaben
+wie folgt:
 Wilhelm Meyer habe die Stätte
 nebst allem Zubehör zu dem
 Preise von 550 Rthlr gekauft.
@@ -64,22 +64,22 @@ von 100 Rthlr, außerdem wolle
 er die auf der Stätte ruhenden
 älteren Schulden ad 250 Rthlr
 übernehmen und 200 Rthlr von
-dem Colone Bülte Nr. 13 in Evesen
-aufnehmen, welcher sich hierzu
+dem Colone Witte Nr. 13 in Evesen
+aufnehmen, welcher sich hierzu schon
 bereit erklärt habe.
 
 Der Umfang der Stätte sey
 in dem an die Kammer gerich-
 teten Gesuche richtig angegeben.
 Der Garten liege unmittelbar beim
-Hause und sey dieser zu 400 [uncertain meaurement unit]
+Hause und sey dieses zu 400 Rthlr 
 vermessen. Die Lasten der
 Stätte bestehen in folgenden:
 
 1. 1 Rthlr 1 gl Dienstgeld,
-2. — 10 gl 2 d Kotzgeld
+2. — 10 gl 2 d Rottzins
 3. — 6 gl — Mahlschweingeld
-4. — 1 gl — Brandversicherung
+4. — 1 gl — Michaelisschatz
 5. ein Rauchhuhn
 6. 2 Rthlr 2 d Contribution
 7. Gemeinde-, Kirchen- und
@@ -88,18 +88,19 @@ Stätte bestehen in folgenden:
 Sie wollen um Bestätigung des
 Kaufbriefs gebeten haben.
 
-v. g. [unreadable word or signature]
+v. g. [unterschrieben?]
 Krückeberg
 Meier
 
 In fidem
 König.
 
-Ci[?]i[?]andum eodem et radi[?]
-Rechtsvorsorglich stellte Käufer Meyer
+Cont. ibidem et edoem.
+
+Nachträglich stellte Käufer Meyer
 den Antrag, zu seiner Sicherstel-
 lung nach Genehmigung des Con-
-tracts Edictalien zu erlassen.
+tracts edictales zu erlassen.
 h. u. t.
 [initials/signatures]
 

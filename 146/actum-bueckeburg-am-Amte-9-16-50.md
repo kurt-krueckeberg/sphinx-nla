@@ -12,8 +12,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```text
 Abschrift
 
 [3Gr Stempel]
