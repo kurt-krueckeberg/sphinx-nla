@@ -11,7 +11,7 @@
 ```{div} doc-text
 N. Cam. 62.                            2.
 
-p. 5 Febr. 1817
+p. 5 Febr. 1817\
 ad Nᵐ C. 67 (ad Numero Camerae 67)
 
 Ausweisungen vom Forstgrunde
@@ -44,7 +44,7 @@ The **Söhre** was a locally named tract of village forest/common land near Bere
 ```{div} doc-text
 N. Cam. 62.                                         2.
 
-presented 5 February 1817
+presented 5 February 1817\
 re: Chamber No. 67
 
 Land allotments from forest land
@@ -78,12 +78,12 @@ MKaas
 
 ```{div} doc-text
 R. Cam. (Resolutio Camerae) Die Kammer ist der Meinung, daß dem Krückeberg
-   der kleine mit A auf der Zeichnung bemerkte Platz, etwa 1/2 Morgen,
+der kleine mit A auf der Zeichnung bemerkte Platz, etwa 1/2 Morgen,
 gegen billige Be- zahlung zu überlassen seÿn möchte. Rescr. dem Amte daß es
 dem Krückeberg dies zu bedeuten habe, und die etwaigen Widersprüche der
 Hude-Berechtigten vernehmen und sodann ad cameram berichte.
 
-Bbg. 10ten Feb. 1817
+Bbg. 10ten Feb. 1817\
 T Landesberg
 ```
 
@@ -96,7 +96,7 @@ Instruction to the Office: it is to inform Krückeberg of this, hear any
 objections of those entitled to grazing rights, and then report to the
 Chamber.
 
-Bückeburg, 10 February 1817
+Bückeburg, 10 February 1817\
 T Landesberg
 ```
 
@@ -155,7 +155,7 @@ Falckmann
 
 Transliteration
 
-```{div} doc-text
+```text
                      Der Raue Knick
 
 der Röcker Damm.
@@ -180,7 +180,8 @@ Forst
 
 Translation
 
-```{div} doc-text                    Der Raue Knick [literally, “the rough hedgerow/boundary bank”]
+```text
+                   Der Raue Knick [literally, “the rough hedgerow/boundary bank”]
 
 the Röcke Dike / Röcke Causeway
 
