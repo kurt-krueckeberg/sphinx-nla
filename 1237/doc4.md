@@ -84,12 +84,11 @@ Transliteration
 ```{div} doc-text
 Cam:Nr:322. Forstsachen
 
-An Vormundschaftliche Kammer Bericht
-der Aemter Bückeburg und Arnesburg
+An Vormundschaftliche Kammer Bericht der Aemter Bückeburg und Arnesburg
 
 ad Rescr:no 11 Merz 1799.
 
-Betr. Ausweisung
+Betr. Ausweisung\
 p[räsentiert]. 24 8br 1800
 
 Indem wir die geometrische Zeichnung über die dem Jobst Henrich
@@ -102,7 +101,7 @@ angewiesen werden möge.
 
 S. Bückeburg, 18ten Oct. 1800.
 
-                   J. H. Hablick    Stöling
+J. H. Hablick    Stöling
 ```
 
 Translation
@@ -110,11 +109,9 @@ Translation
 ```{div} doc-text
 Cam: No. 322. Forestry matters
 
-To
-the Guardianship Chamber
-from the Offices of Bückeburg and Arensburg
+To the Guardianship Chamber from the Offices of Bückeburg and Arensburg
 
-Regarding the decree of March 11, 1799
+Regarding the decree of March 11, 1799\
 Subject: Land allotment
 
 Submitted October 24, 1800

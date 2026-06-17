@@ -41,13 +41,14 @@ garden expansions in Berenbusch and to report back.
 Transliteration
 
 ```{div} doc-text
-Cam: N: 53.                pr: 6. Merz 1799           2
+Cam: N: 53.\
 Forst-Sachen
 
-An Vormundschaftliche Cammer Bericht
-der Aemter Bückeburg und Arensburg.
+pr: 6. Merz 1799           2
 
-Betr.
+An Vormundschaftliche Cammer Bericht der Aemter Bückeburg und Arensburg.
+
+Betr.\
 Ausweisung
 
 In der Anlage remittiren wir die Vorstellung des Brinksitzers Jobst
@@ -67,8 +68,8 @@ weil derselbe diesen Platz eigenmächtiger Weise bepflanzt hat, nicht vor
 der Art ist, daß deshalb der gebethenen Ausweisung nicht zu deferire
 stehe mögte.
 
-L Buckeburg 27ten Febr.
-1799
+L Buckeburg 27ten Febr.\
+1799\
 H. Habicht.    Stölting
 ```
 
@@ -84,8 +85,10 @@ was a small edge-of-village holding. It tells us:
 Translation
 
 ```{div} doc-text
-Chamber No. 53                presented March 6, 1799
+Chamber No. 53\
 Forestry Matters
+
+presented March 6, 1799
 
 Report to the Guardianship Chamber from the Offices of Bückeburg and Arensburg
 
@@ -106,8 +109,8 @@ trees planted on this plot—yet, since he planted these trees there on his
 own authority, his objection is not of such a nature that the requested
 land assignment should therefore be denied.
 
-Bückeburg, February 27,
-1799
+Bückeburg, February 27,\
+1799\
 H. Habicht.     Stölting
 ```
 
@@ -125,7 +128,7 @@ Berenbusch ihre Gärten eigenmächtig vergrößert haben sollen; so haben
 die Beamte darüber nähere Auskunft einzuziehen und darüber zu
 berichten.
 
-B. 10. März
+B. 10. März\
 M
 ```
 
@@ -139,7 +142,7 @@ Berenbusch are said to have enlarged their gardens on their own authority,
 the officials are to obtain further information about this and report
 accordingly.
 
-Bückeburg, 10 March
+Bückeburg, 10 March\
 M[Kaas]
 ```
 

@@ -11,9 +11,8 @@
 Transliteration
 
 ```{div} doc-text
-der Colon Krückeberg Nr. 10
-zu Berenbusch bittet unter-
-thänigst:
+der Colon Krückeberg Nr. 10 zu Berenbusch bittet unterthänigst:
+
 ihm die beÿ seinem Garten belegene Ecke gnädigst käuflich zu überlaßen.
 
 
@@ -25,8 +24,8 @@ Rentkammer
 Translation
 
 ```{div} doc-text
-The Colon Krückeberg No. 10
-in Berenbusch humbly requests:
+The Colon Krückeberg No. 10 in Berenbusch humbly requests:
+
 that the corner adjoining his garden be graciously made available for
 purchase.
 
@@ -74,9 +73,9 @@ Cam: Nr: 662.                       Nr: 1.
                                     praes: 30. May 1798.
 
 
-Durchlauchtigste Fürstin!
-Gnädigst Regierende Fürstin und Frau
-Hochgeborner Graf!
+Durchlauchtigste Fürstin!\
+Gnädigst Regierende Fürstin und Frau\
+Hochgeborner Graf!\
 Gnädigst Regierender Graf und Herr
 
 Nahe an meinen Garten bragt auf der Gemeinheit beÿ der Straße eine schiebe
@@ -89,18 +88,16 @@ Hochgräflichen Gnaden ergehet daher meine unterthänigst bitte:
 Mir jene Ecke gnädigst für einen billigen Preis käuflich zu überlassen und
 dieselbe deßhalb baldigst besichtigen und ausmessen zu lassen.
 
-In tiefster Ehrfurcht verharre ich
-Ewr. Durchlauchten
-    und
-Ewr. Hochgräflichen Gnaden
+In tiefster Ehrfurcht verharre ich Ewr. Durchlauchten und Ewr. Hochgräflichen Gnaden
 
-
-
-Supplic.
+Supplic.\
 Bückeburg d. 29t. Mai 1798.
-                                  unterthänigste
-Lindemann geh.                    Col. Krückeberg N. 10 zu Berenbusch
+
+Lindemann geh.\
 pro St[atuent].
+
+unterthänigste\
+Col. Krückeberg N. 10 zu Berenbusch
 ```
 
 Translation
@@ -131,11 +128,14 @@ With deepest respect, I remain before
 Your Serene Highness and Your High Comital Grace.
 
 
-Petition.
+Petition.\
 Bückeburg, May 29, 1798.
-                                            Most humble,
-Lindemann, written on behalf of[him]        Col. Krückeberg No. 10 at Berenbusch
+                                            
+Lindemann, written on behalf of[him]\        
 by order.
+
+Most humble,\
+Col. Krückeberg No. 10 at Berenbusch
 ```
 
 ## Cammer Response: Forestry Office Report Regarding Land Expansion
@@ -159,7 +159,7 @@ und der Krückeberg hätte sich verbindlich zu machen an einem anderen
 Platze im Förste für jeden zu fällende Pappel dreÿ Stetz-Stangen wieder
 zu pflanzen.
 
-                                  MKaas forstmst[?]
+MKaas forstmst[?]
 ```
 
 Translation
@@ -177,7 +177,7 @@ poplars standing there could be sold by the Forestry Office, and
 Krückeberg would be obligated to plant, in another location in the
 forest, three saplings for each poplar that is felled.
 
-                   MKaas, Forestry Officier
+MKaas, Forestry Officier
 ```
 
 ## Mariginal Notation of the Brief Written Order to the Bückeburg Amt
@@ -198,16 +198,17 @@ Translation
 ```{div} doc-text
 Res Cam Brevi manu dem Amts zum Berichte.
 
-B. 18 Febr 1799    MKaas
+B. 18 Febr 1799\
+MKaas
 ```
 
 Transliteration
 
 ```{div} doc-text
-Chamber decision:
+Chamber decision:\
 Sent directly to the Amt for a report.
 
-Bückeburg, 18 February 1799
+Bückeburg, 18 February 1799\
 M. Kaas
 ```
 
