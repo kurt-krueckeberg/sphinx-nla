@@ -25,11 +25,10 @@ remained with the territorial authority.
 Transliteration
 
 ```{div} doc-text
-ad Num 394
+ad Num 394\
 E: K: Erlass
 
-den Neubauer Kruckeberg
-N. 18 zu Berenbusch
+den Neubauer Kruckeberg N. 18 zu Berenbusch
 
 Expd: Schwarze
 
@@ -41,18 +40,17 @@ Bburg d. 12 Dec. 1809.
 
 FSt[z]
 
-Waccelwerk v. Lindesberg MKaas
+Waccelwerk v. Lindesberg MKaas\
 Wandt
 ```
 
 Translation
 
 ```{div} doc-text
-Ref. no. 394
+Ref. no. 394\
 Concept: Chamber Decree
 
-To the new settler Krückeberg
-No. 18 at Berenbusch
+To the new settler Krückeberg No. 18 at Berenbusch
 
 Dispatched: Schwarze
 
@@ -64,8 +62,8 @@ Bückeburg, 12 December 1809.
 
 F. St. g.
 
-By authority of Lindesberg
-M. Kaas
+By authority of Lindesberg\
+M. Kaas\
 Wandt
 ```
 

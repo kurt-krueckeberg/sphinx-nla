@@ -23,11 +23,10 @@ They are to inform Jobst Heinrich of these conditions and terms.
 ## Transliateration and Translation
 
 ```{div} doc-text
-Ad N. 287.
-C. K. [Cammer-Kanzlei] Rescripts
-ans Amt Bückeburg
+Ad N. 287.\
+C. K. [Cammer-Kanzlei] Rescripts ans Amt Bückeburg
 
-Expedirt
+Expedirt\
 Beyer
 
 V. G. G.[Von Gottes Gnaden]
@@ -50,10 +49,10 @@ Solches habt Ihr dem Supplikanten zu eröffnen.
 
 † des Schneiders Krückeberg in Evesen
 
-Wie         [S.S.]
-Bburg d. 31 Oct 1808
-Anstatt[??]
-Wine
+Wie         [S.S.]\
+Bburg d. 31 Oct 1808\
+Anstatt[??]\
+Wine\
 [???] [D/W/H]anckwertz Windt
 ```
 
@@ -70,7 +69,7 @@ Re: No. 287.
 
 Official order from the Rentkammer to the Bückeburg Office
 
-Dispatched
+Dispatched\
 Beyer
 
 By the Grace of God
@@ -90,10 +89,10 @@ The land shall be paid for at 6 Mariengroschen per Quadratrute (square rod).
 
 You are to communicate this to the petitioner.
 
-Thus, as written above
-Bückeburg, 31 October 1808
-In place of [?]
-Wine
+Thus, as written above\
+Bückeburg, 31 October 1808\
+In place of [?]\
+Wine\
 [?] Dankwirtz Windt
 ```
 

@@ -67,19 +67,15 @@ by a separate block with the transliteration of theRentkammer’s response.
 Transliteration of main text of report
 
 ```{div} doc-text
-N.C. 287.                         pr. 27. Oct. 1808.
+N.C. 287.\
+pr. 27. Oct. 1808.
 
-
-[Four-letter marginal filing and routing marks
+[Four-letter marginal filing and routing marks\
 without semantic relevance to the case content]
 
-
-An
-Fürstliche Kammer Bericht der Aemter Bückeburg
-und Arensburg
-betr.
-Neubauereÿ.
-
+An Fürstliche Kammer\
+Bericht der Aemter Bückeburg und Arensburg\
+betr. Neubauereÿ.
 
 ad Nrum: Cam: 260.
 
@@ -102,8 +98,8 @@ das Zeugnis fleißiger und ordentlicher Leute
 hierdurch ertheilen. Die uns mitgetheilte Bittschrift
 verfehlen wir nicht, urschriftlich hierher zurück anzulegen.
 
-Bückeburg den 21ten
-October 1808.
+Bückeburg den 21ten\
+October 1808.\
 Habicht Neussel
 ```
 
@@ -122,8 +118,9 @@ keine gegründete Widersprüche von Seiten der Hudeberechtigten
 eintreten, und 2., dasß der Supplicant ein Vermögen von wenigstens ‡‡ 150 Rtr[Reichtsthaler] nachweisen könne.
 Der Grund und Boden wird mit 6. Mg[Mariengroschen] p[er]. Quadratrute
 baar bezahlt.
-	B[ückeburg]. 31. Octbr 1808
-                             MKaas
+
+B[ückeburg]. 31. Octbr 1808\
+MKaas
 ```
 
 ### Translation
@@ -142,13 +139,14 @@ could reasonably finance the construction of his own house.
 Translation of Document 2
 
 ```{div} doc-text
-N.C. 287.                         received 27 Oct. 1808.
+N.C. 287.\
+received 27 Oct. 1808.
 
-[marginal note]
+[marginal note]\
 (undeciphered docket mark)
 
-To the Princely Chamber
-Report of the Offices of Bückeburg and Arensburg
+To the Princely Chamber\
+Report of the Offices of Bückeburg and Arensburg\
 Re: New settlement.
 
 The lodger Jobst Henrich Krückeberg, as well as his wife, was born
@@ -168,8 +166,7 @@ He and his wife are known to us to be of good character. We can attest
 that they are diligent and respectable people. The original petition
 is enclosed.
 
-Bückeburg, the 21st
-of October 1808.
+Bückeburg, the 21st of October 1808.\
 Habicht Neussel
 ```
 
@@ -193,4 +190,3 @@ per square rod.
 Bückeburg, the 31st of October 1808
 MKaas
 ```
-

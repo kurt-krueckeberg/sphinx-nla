@@ -16,7 +16,7 @@ document 4?
 Transliteration
 
 ```{div} doc-text
-ad Num. 15
+ad Num. 15\
 C.K. Rescripts ans Amt Arenburg
 
 Exped. d. V. Bolte
@@ -29,8 +29,8 @@ genehmigen, und tragen Euch daher auf, denselben dem Krückeberg in
 Gegewart des Oberforsters Falkman auszuweisen, u. die Prästanden in
 Verschlag bringen.
 
-W.
-Bburg. 22 Jan 1809
+W.\
+Bburg. 22 Jan 1809\
 [????]
 
 P [W]?ackelwer[k/t] MKaas
@@ -50,8 +50,8 @@ header indicating princely authority.
 Translation
 
 ```{div} doc-text
-No. 15
-Princely Chamber rescript
+No. 15\
+Princely Chamber rescript\
 to the Office of Arensburg
 
 Dispatched by V. Bolte
@@ -64,7 +64,7 @@ question for the tenant Krückeberg, and therefore instruct you to have the
 same designated for Krückeberg in the presence of Chief Forester Falkmann,
 and to submit the assessed charges for consideration.
 
-We.
+We.\
 Bückeburg, 22 January 1809
 
 M. Kaas

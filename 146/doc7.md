@@ -11,7 +11,7 @@
 Transliteration
 
 ```{div} doc-text
-Conc/
+Conc\
 ad Num: Cam. 368.
 
 Kammer-Rescripts ans Amt Bückeburg.
@@ -26,11 +26,10 @@ worden. Wir pp
 
 Buckeburg d[en] 15ten Novemb. 1809.
 
-†—welche zu Michaeli 1813
-zum ersten male zu entrichtet werden müssen
+†—welche zu Michaeli 1813 zum ersten male zu entrichtet werden müssen
 
-Anstatt
-v. [W]ackelwer[t] v. Lindesberg
+Anstatt\
+v. [W]ackelwer[t] v. Lindesberg\
 MKaas
 
 
@@ -43,9 +42,10 @@ Dem Neubauer Joht Heinrich Krückeberg No 18 zum Bärenbusch sind
 worden. Der Kammerrentmeister wird hie[r]durch angewiesen die
 Kaufgelder dießt ausgewiesenen Platzes und zwar die Quadrat R[uthen]
 mit 6 mgl ‡ zu erheben u[nd] gehörigen Orts zu vorminnahmen.
-Bburg d 15 1/2 Nov. 1809
-                  F S L Uz
-v. Danckwertz v. Lindesberg
+
+Bburg d 15 1/2 Nov. 1809\
+                  F S L Uz\
+v. Danckwertz v. Lindesberg\
 MKaas
 
 
@@ -55,7 +55,7 @@ MKaas
 Translation
 
 ```{div} doc-text
-Draft
+Draft\
 Re: Chamber No. 368.
 
 Chamber rescript to the Office of Bückeburg.
@@ -71,8 +71,8 @@ first time at Michaelmas 1813.
 
 Bückeburg, 15 November 1809.
 
-By authority of
-von Danckwertz von Lindesberg
+By authority of\
+von Danckwertz von Lindesberg\
 M. Kaas
 
 
@@ -90,8 +90,8 @@ appropriate office.
 
 Bückeburg, mid-November 1809.
 
-By order of the Princely Government
-von Danckwertz von Lindesberg
+By order of the Princely Government\
+von Danckwertz von Lindesberg\
 M. Kaas
 
 The total purchase price amounts to approximately

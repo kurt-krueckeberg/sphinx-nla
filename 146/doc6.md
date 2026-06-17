@@ -166,8 +166,7 @@ pr. 8 Nov 1809
 [Four-letter marginal filing and routing marks
 without semantic relevance to the case content]
 
-An Fürstliche Kammer Bericht
-der Aemter Bückeburg und Arensburg
+An Fürstliche Kammer Bericht der Aemter Bückeburg und Arensburg
 betr: Ausweisung.
 
 ad Rescr: v. 23 Jan: 1809.
@@ -181,22 +180,22 @@ geometrischen Note und Zeichnung 102. [Quadrat] Ruthen 51 [Quadrat] Fuß Dec.
 
 Er wird unseres Dafürhaltens in kammeral Prästanden davon
 
-jährlich 1 Rthlr Dienstgeld
-[jährlich] 10 g. 2 d. Kottzmis
-[jährlich] 6 gl. Mahlschweingeld
-[jährlich] 1 gl. Michilisschaz
-[jährlich] fünf Eredtetage[n],
-ein Rauchhuhn, Jagd-, Wacht-
-und Landfolgen nebst 3 rt. 4 g. 4 d. Erbe,
+- jährlich 1 Rthlr Dienstgeld
+- [jährlich] 10 g. 2 d. Kottzmis
+- [jährlich] 6 gl. Mahlschweingeld
+- [jährlich] 1 gl. Michilisschaz
+- [jährlich] fünf Eredtetage[n],
+- ein Rauchhuhn, Jagd-, Wacht-
+  und Landfolgen nebst 3 rt. 4 g. 4 d. Erbe,
 
 und zwar auf Michali 1813 zum erstenmal zu entrichten haben.
 
 Bückeburg 28 October 1809.
 Habicht-Neuesl
 
-Res: Cam:
+Res: Cam:\
 1. Die Prästanden werden genehmiget, welche zu Michali 1813 zum
-ersten Mal zu entrichten sind.
+   ersten Mal zu entrichten sind.
 2. Der Meyerbrief ist auszufertigen
 3. Der Kammerrenttmeistr ist zur Erhebung des Kaufgeldes (6. Mg. p. M.)
 
@@ -221,13 +220,13 @@ scribal practice.
 Translation
 
 ```{div} doc-text
-N. C. 368.
+N. C. 368.\
 submitted 8 Nov. 1809
 
-[marginal note]
+[marginal note]\
 (undeciphered docket mark)
 
-To the Princely Chamber
+To the Princely Chamber\
 Report of the Offices of Bückeburg and Arensburg
 Re: allocation.
 
@@ -251,7 +250,7 @@ one smoke-hen, hunting, watch, and land obligations, together
 with 3 Reichsthaler 4 groschen 4 denarii hereditary fee,
 and that beginning at Michali 1813 (29 Sept. 1813) for the first time.
 
-Bückeburg, 28 October 1809.
+Bückeburg, 28 October 1809.\
 Habicht-Neusel
 
 Chamber resolution:
@@ -264,7 +263,7 @@ The Meyer letter is to be issued.
 The chamber treasurer (Kammerrentmeister) is instructed to collect the purchase money
 (6 Mariengroschen per Morgen).
 
-B[ückeburg]., 13 Nov. 1809
+B[ückeburg]., 13 Nov. 1809\
 MKaas
 ```
 

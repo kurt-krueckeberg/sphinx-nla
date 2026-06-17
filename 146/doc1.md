@@ -62,30 +62,23 @@ Transliteration
 ```{div} doc-text
 An Fürstl[iche]. Rentkammer
 
-des Schneiders Krückeberg
-in Evesen
+des Schneiders Krückeberg in Evesen
 
-Unterthänigste Vorstellung
-und Bitte
+Unterthänigste Vorstellung und Bitte
 
-gnädigste Überlassung
-eines Platzes zum Hausbau
+gnädigste Überlassung eines Platzes zum Hausbau
 ```
 
 Translation
 
 ```{div} doc-text
-To
-the Princely Rent Chamber
+To the Princely Rent Chamber
 
-of the tailor Krückeberg
-in Evesen
+of[concerning] the tailor Krückeberg in Evesen
 
-Most humble petition
-and request
+Most humble petition and request
 
-for the gracious granting
-of a plot of land for the construction of a house
+for the gracious granting of a plot of land for the construction of a house
 ```
 
 ## Images for Petition submitted by the tailor Krückeberg in Evesen
@@ -105,18 +98,18 @@ See [Corrections to Text](https://chatgpt.com/share/694485ae-3bec-8004-961e-67d3
 Transliteration
 
 ```{div} doc-text
-Nr. Cam. 260.                         praes. 30. Sept. 1808.
+Nr. Cam. 260.\
+praes. 30. Sept. 1808.
 
+Durchlauchtigster Fürst.\
+Gnädigst regierender Fürst und Herr!
 
-Durchlauchtigster Fürst.
-Gnädigst regierender Fürst
-und Herr!
-
-[Four-letter marginal filing and routing marks
-without semantic relevance to the case content]
+[Four-letter marginal filing and routing marks without semantic\
+relevance to the case content]
 
 Res: Cam: Dem Amte brevi manu zum Berichte über die Vermögens-Umstände und
-über die persönlichen Eigenschaften des Supplicanten. B. 2. Octbr. 1808.
+über die persönlichen Eigenschaften des Supplicanten.\ 
+B. 2. Octbr. 1808.\
 P[?]kaas
 
 Ich habe bisher als Einlieger beÿ Wilharm No 11 in Evesen gewohnt, wünscht
@@ -138,33 +131,32 @@ mir jenen Platz zum Hausbau gnädigst gegen ein Billiges zu überlassen.
 
 Ich ersterbe in tiefster Ehrfurcht Ew. Durchlauchten
 
-Unterthänigster Knecht
+Unterthänigster Knecht\
 Schneider Krückeberg in Evesen
 
-Suppl.
-Bbg. d. 29ten Sept.
-1808.
+Suppl.\
+Bbg. d. 29ten Sept. 1808.\
 H Wellmann
 ```
 
 Translation
 
 ```{div} doc-text
-No. Cam. 260.                         presented 30 Sept. 1808.
+No. Cam. 260.\
+presented 30 Sept. 1808.
 
-[marginal note]
+[marginal note]\
 (undeciphered docket mark)
 
-Most Serene Prince,
-Most Graciously Reigning Prince
-and Lord!
+Most Serene Prince,\
+Most Graciously Reigning Prince and Lord!
 
 For ordinary handling by the Princely Rent Chamber.
 
 Resolution of the Chamber:
 To the District Office, by brief referral, for a report
 on the financial circumstances and on the personal qualities
-of the petitioner. 2 Oct. 1808.
+of the petitioner. 2 Oct. 1808.\
 MKaas
 
 Up to now I have lived as an Einlieger (lodger) with Wilharm No. 11 in
@@ -187,15 +179,14 @@ humble petition:
 that that place be graciously granted to me for house construction at a
 reasonable price.
 
-I remain in deepest reverence
+I remain in deepest reverence\
 Your Serene Highness’
 
-Most humble servant,
+Most humble servant,\
 Tailor Krückeberg in Evesen
 
-Sept.
-Submitted on the 29th of September
-1808.
+Sept.\
+Submitted on the 29th of September 1808.\
 H. Swellmann
 ```
 
