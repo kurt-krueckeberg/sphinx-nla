@@ -69,12 +69,15 @@ the "Res Cam" was initialed by him.
 Transliteration
 
 ```{div} doc-text
-Cam: Nr: 662.                       Nr: 1.
-                                    praes: 30. May 1798.
+Cam: Nr: 662.
+            
+[on right top side:]
+Nr: 1.\
+praes: 30. May 1798.
 
 
 Durchlauchtigste Fürstin!\
-Gnädigst Regierende Fürstin und Frau\
+Gnädigst Regierende Fürstin und Frau!\
 Hochgeborner Graf!\
 Gnädigst Regierender Graf und Herr
 
@@ -103,13 +106,16 @@ Col. Krückeberg N. 10 zu Berenbusch
 Translation
 
 ```{div} doc-text
-Chamber: No. 662                                             No. 1.
-                                              presented: 30 May 1798
+Chamber: No. 662
+
+[on right top side:]
+No. 1.\
+presented: 30 May 1798
 
 
-Most Serene Princess!
-Most Gracious Ruling Princess and Lady
-High-born Count!
+Most Serene Princess!\
+Most Gracious Ruling Princess and Lady!\
+High-born Count!\
 Most Gracious Ruling Count and Lord.
 
 Close to my garden, on the common land by the road, there lies a sloping
@@ -147,9 +153,9 @@ of the petition.
 Transliteration
 
 ```{div} doc-text
-Res Cam
-zum Forstamts Bericht
-B. 14. Jun. 1798
+Res Cam\
+zum Forstamts Bericht\
+B. 14. Jun. 1798\
 MK
 
 Der verlangte Platz liegt in der Dorf Straße von Berenbusch, ist ein
@@ -165,9 +171,9 @@ MKaas forstmst[?]
 Translation
 
 ```{div} doc-text
-Concerning the Chamber’s directive:
-Forestry Office report.
-Bückeburg, 14 June 1798.
+Concerning the Chamber’s directive:\
+Forestry Office report.\
+Bückeburg, 14 June 1798.\
 MK
 
 

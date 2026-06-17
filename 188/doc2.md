@@ -139,9 +139,9 @@ Ad N.C. 4386.
 
 [text on left side of page]\
 Exp. 13/9 50\
-`pro act. — 3` \ 
-`u. ins. — 4` \
-`          7`
+pro act. — 3\
+u. ins.  — 4\
+          7
 
 [Text on right side of page]
 
