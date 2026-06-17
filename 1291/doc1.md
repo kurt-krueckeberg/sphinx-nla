@@ -20,7 +20,7 @@ eingegangen [in] Buckbg.\
 [resolution or routing instruction written by the sovereign (or written in
 his name).]\
 An die Kammer zum Gutachten.\
-Georg Wilhelm.\
+Georg Wilhelm.
 
 [?] Oberf[orster] Kaas\
 zum Gutachten\
