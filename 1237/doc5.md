@@ -68,7 +68,7 @@ With these actions, the land enlargement for Krückeberg moved from
 Transliteration
 
 ```{div} doc-text
-ad Nr: D: 322. S. S.
+ad Nr: D: 322. S. S.\
 Concept Cammer: Rescript an die Beamten zu Bückeburg
 
 V. G. G.
@@ -90,20 +90,18 @@ Cammercasse zu zahlen hat.
 
 Exp: p[er]: Bolte.
 
-Wir verbleiben p,
-Bückeburg d. 27. October 1800
+Wir verbleiben p,\
+Bückeburg d. 27. October 1800\
 Graftl:[Gräflich] p
 
-Mkaas
-Wint
-J. Danckwerth
+J. Danckwerth Mkaas Wint
 ```
 
 Translation
 
 ```{div} doc-text
-Regarding the same matter as No. D: 322
-Draft: Cammer directive
+Regarding the same matter as No. D: 322\
+Draft: Cammer directive\
 To the officials in Bückeburg
 
 Very Gracious Lords,
@@ -127,13 +125,11 @@ Mariengroschen, and 1 Pfennig, into Our Chamber treasury.
 
 (Dispatched by: Bolte)
 
-We remain,
-Bückeburg, 27 October 1800
+We remain,\
+Bückeburg, 27 October 1800\
 On behalf of the Count
 
-Mkaas
-Wint
-[H.?] Danckwerk
+[H.?] Danckwerk Mkaas Wint
 ```
 
 ## Draft of Official Resolution to the Fiscal Treasurer Stackmann: Payment Ordered
@@ -141,8 +137,8 @@ Wint
 Transliteration
 
 ```{div} doc-text
-Concept Cammer: Anweisung
-an den Cammerrentmeister
+Concept Cammer: Anweisung\
+an den Cammerrentmeister\
 Stackmann
 
 Exp: per Bolte
@@ -154,10 +150,11 @@ seines Gartens u. Hofraums ausgewiesene Plätze, welche zusam̅en 21 Ruten
 Rthlr 8 mgl. 1 d. zu erheben, in der Cammerrechnung gehöriges Orts zu
 vereinnahmen, und solche mit dieser Anweisung zu rechtfertigen.
 
-Bückeburg den 27. October 1800.
+Bückeburg den 27. October 1800.\
 Gräflich : p
-                       Mkaas
-[J??] Danckwerk
+
+Mkaas\
+[J??] Danckwerk\
 Wint
 
 Wipperman
@@ -166,7 +163,7 @@ Wipperman
 Translation
 
 ```{div} doc-text
-Draft: Chamber Directive
+Draft: Chamber Directive\
 to the Chamber Rentmaster Stackmann
 
 (Dispatched by Bolte)
@@ -182,11 +179,11 @@ total of 14 Reichsthaler, 8 Mariengroschen, and 1 Pfennig.
 This sum is to be entered in the Chamber accounts under the appropriate
 heading and accounted for with this directive.
 
-Bückeburg, 27 October 1800
+Bückeburg, 27 October 1800\
 For the Count
 
-Mkaas
-[J??] Danckwerk
+Mkaas\
+[J??] Danckwerk\
 Wint
 
 

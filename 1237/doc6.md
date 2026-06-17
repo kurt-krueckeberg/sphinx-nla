@@ -48,7 +48,7 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 Transliteration
 
 ```{div} doc-text
-Concept Cammeral:Kaufbriefs für den Colon Kruckeberg Nr: 10 zu
+Concept Cammeral: Kaufbriefs für den Colon Kruckeberg Nr: 10 zu
 Berenbusch über einen Platz zur Vergrößerung seines Gartens.
 
 Expedirt p. Beÿer
@@ -85,7 +85,6 @@ Director und Räthe
 
 Gladbeck v. Landesberg Maas Windt
 
------
 Wippermann
 ```
 
@@ -105,9 +104,8 @@ price of 24 Mariengroschen per square rod.
 
 A sworn land surveyor measured the parcels:
 
-the first, for the garden, at 19 rods and 44 feet (decimal)
-
-the second, for the courtyard, at 1 rod and 90 feet (decimal)
+- the first, for the garden, at 19 rods and 44 feet (decimal)
+- the second, for the courtyard, at 1 rod and 90 feet (decimal)
 
 The total purchase price, according to the set rate, amounted to 14
 Reichsthaler, 8 Mariengroschen, and 1 Pfennig, which was paid into the
@@ -128,13 +126,10 @@ customary signature.
 
 Issued at Bückeburg, December 1, 1800.
 
-Directors and Councillors
-of the Comital Schaumburg-Lippe
-Guardianship Treasury Office:
+Directors and Councillors of the Comital Schaumburg-Lippe Guardianship Treasury Office:
 
 Gladbeck · von Landesberg · Maas · Windt
 
-------
 Wippermann
 ```
 
