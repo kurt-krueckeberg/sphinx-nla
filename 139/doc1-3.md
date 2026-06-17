@@ -21,8 +21,7 @@ right side** of the page.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Concept An die Witwe Krückeberg Nro. 10 in Bärenbusch.
 
 Höchsten Orts ist der Witwe Krückeberg Nro. 10 in Bärenbusch auf dreÿ
@@ -35,8 +34,7 @@ AKaas.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Concept
 
 To the widow Krückeberg No. 10 in Bärenbusch.

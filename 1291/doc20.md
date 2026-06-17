@@ -18,8 +18,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 St. 6 mg.                                                20.)
 
 Concept Kaufcontracts für den Neubauer Vogt No. 13. zu Nordholz.
@@ -78,8 +77,7 @@ Ruthen).
 
 Translation of Purchase Contract
 
-```{code-block} text
-
+```{div} doc-text
 Office Copy of the Purchase Contract for the Neubauer Vogt No. 13 at
 Nordholz
 

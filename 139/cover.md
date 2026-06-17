@@ -8,8 +8,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Bauerngüter und Colonien
 [struck-through: Special]                    Rep:II
 B. Amt Bückeburg
@@ -33,8 +32,7 @@ Berenbusch No. 10
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Farm holdings and settlement colonies
 [struck-through: Special]                       File: II
 Office of Bückeburg

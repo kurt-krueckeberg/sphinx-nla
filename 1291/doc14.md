@@ -50,8 +50,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 [3 Gr. Stempel]                                  14.)
 Eingekomm: Cam d. 16 Feb 18
 
@@ -115,8 +114,7 @@ Bück d 21. Sept. 1818.
 MKaas
 ```
 
-```{code-block} text
-
+```{div} doc-text
 [3 Groschen stamp]                                  14.)
 Received by the Chamber on 16 Feb 1818
 

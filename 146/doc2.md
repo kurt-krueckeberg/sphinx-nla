@@ -66,8 +66,7 @@ by a separate block with the transliteration of theRentkammer’s response.
 
 Transliteration of main text of report
 
-```{code-block} text
-
+```{div} doc-text
 N.C. 287.                         pr. 27. Oct. 1808.
 
 
@@ -115,8 +114,7 @@ text. Both blocks of text are transliterated below.
 
 Transliteration of Rentkammer Response
 
-```{code-block} text
-
+```{div} doc-text
 Res: Cam: Die Ausweisung des Platzes, von etwa ½ to ¾ Morgen, in
 derjenigen Grenzen, welche von der Forst-Direction dem Oberförster
 Falkmann angegeben sind, wird unter der Voraussetzung bewilliget, daß
@@ -143,8 +141,7 @@ could reasonably finance the construction of his own house.
 
 Translation of Document 2
 
-```{code-block} text
-
+```{div} doc-text
 N.C. 287.                         received 27 Oct. 1808.
 
 [marginal note]
@@ -178,8 +175,7 @@ Habicht Neussel
 
 Translation of the Rentkammer’s response.
 
-```{code-block} text
-
+```{div} doc-text
 Rentkammer Response (Res. Cam.):
 
 The allocation of the site, of approximately ½ to ¾ Morgen, within the

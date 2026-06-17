@@ -10,8 +10,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Num: Cam: 392.
 St. 3 mg
 :
@@ -36,8 +35,7 @@ Fürstlich pp.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Chamber File No. 392
 Stamp: 3 Groschen
 

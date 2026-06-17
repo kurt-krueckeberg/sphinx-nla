@@ -29,8 +29,7 @@ The case file then includes two ancillary items:
 
 The notation in the left margin of the first page
 
-```{code-block} text
-
+```{div} doc-text
 Num Pr. 1274
   ad
 N. C. 4381
@@ -67,8 +66,7 @@ that it had temporarily suspended the distraint order.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 N. C. 4487                        pr. in Cam 11 Oct 1841
 
 
@@ -151,8 +149,7 @@ Spreng
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Chamber registry no. 4487; presented in the Chamber on 11 Oct 1841.
 
 D.

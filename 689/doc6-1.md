@@ -14,8 +14,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 Ad NC 5587                   6
 
 Da nach dem Bericht des O. f. Kreuzingers das Land des
@@ -33,8 +32,7 @@ Bbg 16. Decbr 41
 Verte
 ```
 
-```{code-block} text
-
+```{div} doc-text
 regarding NC 5587 [which is document 5]                   6
 
 
@@ -55,30 +53,26 @@ turn the page
 
 **Text in parenthesis in the left margin**
 
-```{code-block} text
-
+```{div} doc-text
 ( 8 M. 90 QR für 835 r
 8 M. à 50 r —— 400 r)
 ```
 
-```{code-block} text
-
+```{div} doc-text
 8 Morgen 90 square-Ruthen for 835 Reichthalers;
 8 Morgen at 50 Reichthalers per Morgen = 400 Reichthalers.
 ```
 
 Decision of Rentcammer
 
-```{code-block} text
-
+```{div} doc-text
 RC[Rentcammer] der p Krückeberg müsse abschläg[ig] bescheiden seÿn.
 Bbg 16. Dec. 41
 (vid in fine           Reck
     signed )
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Decision: petitioner Krückeberg is to be denied.
 Bückeburg 16 Dec. 41
 (see at the end) sgined       Reck

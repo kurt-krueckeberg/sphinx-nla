@@ -10,8 +10,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 NC 274                       pr. in Cam 17 Jan. 1842
 
 [Fiscal oval hand-stamp]
@@ -47,8 +46,7 @@ Amt zu versehe[n]. Bbg. 20. Jan 42.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 N. C. 274 — presented in the chamber on 17 Jan. 1842.
 
 [Fiscal oval hand-stamp]

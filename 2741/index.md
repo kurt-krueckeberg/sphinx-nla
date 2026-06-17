@@ -79,8 +79,7 @@ criteria of property holders.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 N. X [Rf?] er hiesse
 
 1. Johann Henrich Krückeberg
@@ -217,8 +216,7 @@ It does not give the persons through whom the tenure right could pass.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Heading: “N. X [Rentkammer-Fragen?] how he is called”
 
 1. Johann Heinrich Krückeberg — formerly Friedrich Kuhlmann, also Johann Tönnies

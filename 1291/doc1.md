@@ -11,8 +11,7 @@
 The spelling, grammar and punctuation have been normalized in this
 transliteration.
 
-```{code-block} text
-
+```{div} doc-text
 N. 67                                 1
 
 eingegangen [in] Buckbg.
@@ -47,8 +46,7 @@ No. 10 Berenbusch, den 1ten Januarÿ 1817
 Schuster Krückeberg
 ```
 
-```{code-block} text
-
+```{div} doc-text
 No. 67                                   1
 
 Received in Bückeburg

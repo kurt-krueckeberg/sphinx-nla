@@ -8,8 +8,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 NC 818                          pr. im Cam 15 Febr 42
 
 [H]
@@ -52,8 +51,7 @@ Schtt.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 NC 818 – Presented in the Chamber, 15 February 1842
 
 To the Princely Rent Chamber

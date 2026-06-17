@@ -18,8 +18,7 @@ chamber treasury.
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 NC. 5038                             pr. in Cam 12 Nov. 41
 
 [Fiscal oval hand-stamp]
@@ -73,8 +72,7 @@ Conc[ipist]. GW Fuchs.                No 10 in Berenbusch.
 progg[short for:protokollieren].
 ```
 
-```{code-block} text
-
+```{div} doc-text
 NC. 5038            presented in the Chamber 12 Nov. [18]41
 
 [Fiscal oval hand-stamp]

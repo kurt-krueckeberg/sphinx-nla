@@ -22,8 +22,7 @@ that the required dues or obligations be proposed.
 
 Transliteration
 
-```{code-block} text
-N. C. 15.
+```{div} doc-textN. C. 15.
 
 An Fürstliche Kammer Bericht
 der Aemter Bückeburg und Arensburg
@@ -57,8 +56,7 @@ MKaas
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 N. C. 15.
 
 [marginal note]

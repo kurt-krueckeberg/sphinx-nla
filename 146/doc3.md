@@ -22,8 +22,7 @@ They are to inform Jobst Heinrich of these conditions and terms.
 
 ## Transliateration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 Ad N. 287.
 C. K. [Cammer-Kanzlei] Rescripts
 ans Amt Bückeburg
@@ -66,8 +65,7 @@ A **rescript** was an official decision letter sent by the central authority in
 reply to a petition or report.
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Re: No. 287.
 
 Official order from the Rentkammer to the Bückeburg Office

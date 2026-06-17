@@ -10,8 +10,7 @@ For Rentkammer case files the format would be:
 
 ###. For Rentkammer case file — specific Actenstück listed in the Designatio Actorum
 
-```text
-Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], <case-file identifier>,
+```{div} doc-textNiedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], <case-file identifier>,
 Actenstück <number>, "<German Designatio Actorum description>" [<English translation>],
 in "<German case-file title>" [<English translation>], <case-file life span>;
 Arcinsys Niedersachsen und Bremen, accessed <date>.
@@ -19,8 +18,7 @@ Arcinsys Niedersachsen und Bremen, accessed <date>.
 
 Example:
 
-```text
-Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], L 1 Nr. 1234,
+```{div} doc-textNiedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], L 1 Nr. 1234,
 Actenstück 5, "Bericht des Amts Bückeburg wegen Ausweisung von Rottland"
 [report of the Bückeburg office concerning the assignment of cleared land],
 in "Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch"
@@ -30,8 +28,7 @@ in "Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch"
 
 ###. Rentkammer case file — additional document not listed in the Designatio Actorum
 
-```text
-Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], <case-file identifier>,
+```{div} doc-textNiedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], <case-file identifier>,
 document headed "<German document heading>" [<English translation>],
 in "<German case-file title>" [<English translation>], <case-file life span>;
 Arcinsys Niedersachsen und Bremen, accessed <date>.
@@ -39,8 +36,7 @@ Arcinsys Niedersachsen und Bremen, accessed <date>.
 
 Example:
 
-```text
-Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], L 1 Nr. 1234,
+```{div} doc-textNiedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], L 1 Nr. 1234,
 document headed "Verkauf der Stätte Nr. 10 zu Berenbusch"
 [sale of holding no. 10 at Berenbusch],
 in "Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch"
@@ -50,16 +46,14 @@ in "Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch"
 
 ### Standalone archival document, not inside a case file
 
-```text
-Niedersächsisches Landesarchiv, Abteilung Bückeburg,
+```{div} doc-textNiedersächsisches Landesarchiv, Abteilung Bückeburg,
 [<NLA BU archival identifier>](<Arcinsys URL>), "<German title or heading>"
 [<English translation>].
 ```
 
 Example:
 
-```text
-Niedersächsisches Landesarchiv, Abteilung Bückeburg,
+```{div} doc-textNiedersächsisches Landesarchiv, Abteilung Bückeburg,
 [NLA BU L 2 L Nr. 27/28](https://www.arcinsys.niedersachsen.de/...),
 "Cammeral-Kaufbrief für Jobst Heinrich Krückeberg Nr. 10 in Berenbusch"
 [chamber purchase letter for Jobst Heinrich Krückeberg no. 10 in Berenbusch].
@@ -81,8 +75,7 @@ On each document page, add:
 
 Meaning:
 
-```text
-Use document 5 from the Designatio Actorum table.
+```{div} doc-textUse document 5 from the Designatio Actorum table.
 ```
 
 ## Inputs
@@ -108,20 +101,17 @@ case_file:
 
 This can contain either:
 
-```text
-raw HTML table
+```{div} doc-textraw HTML table
 ```
 
 or:
 
-```text
-Markdown table
+```{div} doc-textMarkdown table
 ```
 
 The table must include:
 
-```text
-document number | German description | English translation
+```{div} doc-textdocument number | German description | English translation
 ```
 
 ### 3. Document pages
@@ -171,8 +161,7 @@ in "Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch"
 
 Handle only:
 
-```text
-document page → numbered Designatio Actorum row → generated citation
+```{div} doc-textdocument page → numbered Designatio Actorum row → generated citation
 ```
 
 Do **not** handle standalone documents or unlisted documents automatically in the first version. Handle those manually.

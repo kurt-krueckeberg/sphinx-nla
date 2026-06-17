@@ -16,8 +16,7 @@
 
 ## Translation and Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 N. 101.
 p. 20 Febr. 1818
 
@@ -68,8 +67,7 @@ Bückeb: 23. Febr. 1818.
 MKaas
 ```
 
-```{code-block} text
-
+```{div} doc-text
 No. 101.
 p. 20 February 1818
 
@@ -122,8 +120,7 @@ M. Kaas
 
 ### Drawing Legend
 
-```{code-block} text
-
+```{div} doc-text
 Auf Befehl der Forst Direction
 soll der Platz, mit A und B.
 bezeichnete für zwey Neubauer
@@ -142,8 +139,7 @@ J. Weilands Kamp N. 6. in Nordholz
 K. die angrenzende Petzen Horst
 ```
 
-```{code-block} text
-
+```{div} doc-text
 By order of the Forestry Directorate, the plot marked A and B is to be
 designated for two new settlers; it is situated in the Petzen Horst and
 borders on Nordholz.

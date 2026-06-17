@@ -16,8 +16,7 @@ is merely the left side of the [first page](doc1-1.md) of the widow Krückeberg�
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
                  R. C. b. m. zum Amtsbericht
                     B. 12 Jul 1824
                           Spang
@@ -46,8 +45,7 @@ Georg Wilhelm.   Verte
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Rentkammer note: case assigned to me for handling the report from the
 Office of Bückeburg
 B. 12 July 1824
@@ -91,8 +89,7 @@ request in the Amt report.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Es ist auch nach Bericht darüber zu fordern, ob Supplikantin das Stück
 Land von der Söhren noch besitzt, welches der Krückeberg für 800 rthl von
 der Cammer gekauft hat?
@@ -104,8 +101,7 @@ Vert.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 It is also to be requested by report whether the petitioner still
 possesses the piece of land near the Söhren which Krückeberg purchased
 from the Chamber for 800 rix-dollars.

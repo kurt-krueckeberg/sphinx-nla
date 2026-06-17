@@ -18,8 +18,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 St. 3 mg.                                                21)
 
 vdankwart
@@ -85,8 +84,7 @@ pricing breakdown (of 60 + 103 Ruthen 30 Fuß) mentioned in this document.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 St. 3 mg.                                                21)
 
 vdankwart

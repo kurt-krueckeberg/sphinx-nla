@@ -16,8 +16,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 N. 392.              Tract: By in Can.     p. 16 Sept. 1818
                                                16.
 An die Kammer
@@ -60,8 +59,7 @@ MKaas
 
 Vertical Text on Right Side of Page
 
-```{code-block} text
-
+```{div} doc-text
 P.N.
 
 Die Wünsche des Col. Krückeberg in Beziehung auf die Söhre
@@ -72,8 +70,7 @@ erhaltene Vergrößerung umsonst haben! Das ist unbescheiden.
 MKaas
 ```
 
-```{code-block} text
-
+```{div} doc-text
 To the Chamber
 [uncertain]
 
@@ -111,8 +108,7 @@ M. Kaas
 
 Vertical Text on Right Side of Page
 
-```{code-block} text
-
+```{div} doc-text
 For the record:
 
 The wishes of Colon Krückeberg with regard to the Söhre

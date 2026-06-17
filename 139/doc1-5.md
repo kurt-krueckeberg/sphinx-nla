@@ -18,8 +18,7 @@ This same page holds:
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Boines
 Sp.
 Tamerlin
@@ -42,8 +41,7 @@ A Kaas
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Boines
 Sp.
 Tamerlin

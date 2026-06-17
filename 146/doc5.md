@@ -15,8 +15,7 @@ document 4?
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 ad Num. 15
 C.K. Rescripts ans Amt Arenburg
 
@@ -50,8 +49,7 @@ header indicating princely authority.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 No. 15
 Princely Chamber rescript
 to the Office of Arensburg

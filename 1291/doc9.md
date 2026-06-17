@@ -12,8 +12,7 @@
 
 ## Translation and Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 ad. Num: Cam: 101.                                          9.,
 ad. Num. Praef. 831.
 Concept.
@@ -81,8 +80,7 @@ both square feet and acres.
 
 :::
 
-```{code-block} text
-
+```{div} doc-text
 ad. Num: Cam: 101                                                 9.,
 ad. Num. Praef. 831.
 Draft

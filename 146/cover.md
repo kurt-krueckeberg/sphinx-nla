@@ -18,8 +18,7 @@ office.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Bauerngüters Colonien                     Rep. I
 [struck-through: Special]
 R. C. 257
@@ -46,8 +45,7 @@ Berenbusch no. 18
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Agrarian tenancy holdings                Series I
 [struck-through: Special]
 R. C. 257

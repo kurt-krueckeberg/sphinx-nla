@@ -8,8 +8,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 Unterthänigste Bitte
 des Neubauers Vogt in
 Nordholz
@@ -24,8 +23,7 @@ An
 Fürstliche Rentkammer
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Most humble petition
 of the Neubauer Vogt in Nordholz
 
@@ -56,8 +54,7 @@ Princely Rent Chamber
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 N. 237                                        10.)
 
 [3Gr Stempel]
@@ -112,8 +109,7 @@ Bückeburg am 24sten May 1818.
 Adb. Weissich pr. Gn
 ```
 
-```{code-block} text
-
+```{div} doc-text
 No. 237                                                         10.)
 
 [3 Gr stamp]

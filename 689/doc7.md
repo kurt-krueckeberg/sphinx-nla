@@ -14,8 +14,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Stpl: 3 g         N. C. 5702.
 
 Concept an das Amt Bückeburg
@@ -45,8 +44,7 @@ Fürstl: p.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Stpl: 3 g            N. C. 5702.
 
 Office Draft to the Amt Bückeburg

@@ -43,8 +43,7 @@ by nails.”
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Copie
 
 Kund und um wissen sei hiermit, d[aß] zwischen dem Colon
@@ -131,8 +130,7 @@ gez. Lagerfeldt Krieger König
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Copy
 
 Be it hereby made known and for all to know that, between Krückeberg, holder

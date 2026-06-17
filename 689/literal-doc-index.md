@@ -6,8 +6,7 @@
 
 ## Under Development
 
-```{code-block} text
-
+```{div} doc-text
 No   Acten  Designation        Ort Jahr Mon Z.
 
 

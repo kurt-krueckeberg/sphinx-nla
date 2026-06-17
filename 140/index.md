@@ -19,8 +19,7 @@ mircofiche at the Bückeburg archive, found it only covers the year
 
 ### Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Colonatsachen
 
 Acta [judicialia]
@@ -38,8 +37,7 @@ Kolonen
 
 ### Translation
 
-```{code-block} text
-
+```{div} doc-text
 Colonate Matters
 
 Judicial Records

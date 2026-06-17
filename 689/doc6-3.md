@@ -16,8 +16,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 P.V.
 Soll dem p Krückeberg gründlich gehelfen werden, so müsste
 diess wohl am sichersten dadurch geschehe, wenn demselben das
@@ -53,8 +52,7 @@ Reck
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 per Vorstehung (by the authority of)
 If thorough assistance is to be given to Mr. Krückeberg, this
 would most likely be best achieved by taking back the disputed
@@ -87,13 +85,11 @@ Reck
 
 ### Left Margin Text in Parentheses
 
-```{code-block} text
-
+```{div} doc-text
 (Die Taxe wird indes wohl etwas niedrig seÿn.)
 ```
 
-```{code-block} text
-
+```{div} doc-text
 (However, the appraisal/valuation will likely be somewhat low.)
 ```
 
@@ -109,8 +105,7 @@ Schaumburg-Lippe, Georg Wilhelm, Prince of Schaumburg-Lippe.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Ich bewilligt nach dem Antrage der Kammer des Dorlichen von 200
 rtl dem Krückeberg, indem es auch künftig immer noch Zeit seyn
 würde, des Land anzunehmen und die Schuld darauf zu liquidiren.
@@ -120,8 +115,7 @@ Georg Wilhelm
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 I approve, in accordance with the chamber’s petition, the loan of
 200 rt to Krückeberg, since there will still be time in future to
 accept the land and settle the debt upon it.

@@ -35,8 +35,7 @@ in 1728. See the {external+genealogy:doc}`1728 baptism record for Johann
 Friedrich Krückeberg <petzen/PET-B-1728a>`.
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Joh. Heinr. Kreutler modo Daniel Steding
 
      Brinksitzer
@@ -56,15 +55,13 @@ Joh. Heinr. Kreutler modo Daniel Steding
 change of **holder** for a numbered holding: **Former holder** → **now**
 → **current holder**. So the entry:
 
-```{code-block} text
-
+```{div} doc-text
 Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
 ```
 
 means:
 
-```{code-block} text
-
+```{div} doc-text
 Johann Tönnies Eggerding, now Johann Heinrich Krückeberg.
 ```
 

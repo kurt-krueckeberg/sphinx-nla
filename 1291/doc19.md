@@ -18,8 +18,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 St. 3 mg                                                 19.)
 
 Exp:p:Knöttge
@@ -85,8 +84,7 @@ is a **variable public tax**.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Stamp: 3 Groschen                                        <emphasis role="strong">19.)</emphasis>
 
 Dispatched by: Knöttge

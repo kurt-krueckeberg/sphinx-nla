@@ -59,8 +59,7 @@ weight for determining residence.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 An Fürstl[iche]. Rentkammer
 
 des Schneiders Krückeberg
@@ -75,8 +74,7 @@ eines Platzes zum Hausbau
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 To
 the Princely Rent Chamber
 
@@ -106,8 +104,7 @@ See [Corrections to Text](https://chatgpt.com/share/694485ae-3bec-8004-961e-67d3
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Nr. Cam. 260.                         praes. 30. Sept. 1808.
 
 
@@ -152,8 +149,7 @@ H Wellmann
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 No. Cam. 260.                         presented 30 Sept. 1808.
 
 [marginal note]

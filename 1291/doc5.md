@@ -46,8 +46,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 N. 584.
 
 p 16  xbr 1817
@@ -103,8 +102,7 @@ explaining that his service with the British resulted from captivity during
 the war, not voluntary disloyalty.
 ```
 
-```{code-block} text
-
+```{div} doc-text
 N. 584
 
 Presented 16 December 1817
@@ -156,8 +154,7 @@ Aswellmann p [?] [?]
 
 ### Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 Res: Cam: Dem Amte Bückeburg B.M. zum Berichte in Beziehung auf die
 Huthberechtigten und auf die gewöhnlichen Berücksichtigungen. Dem Berichte
 in Betreff des ähnlichen Gesuchs des Einl[ieger]: Voigt ist eine
@@ -167,8 +164,7 @@ beizufügen.
 Bückeb: 22 Dec. 1817 MKaas
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Chamber resolution:
 
 The Office of Bückeburg is to submit a report concerning the Hude-right

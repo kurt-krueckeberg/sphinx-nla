@@ -82,8 +82,7 @@ holder—a significant upward shift in rural status and responsibility.
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 Abschrift
 
 Kund und zu wissen sei hiermit, daß zwischen dem Colon Krückeberg
@@ -164,8 +163,7 @@ Hocker        König
 (L.S.)
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Copy
 
 Let it be known hereby that a purchase contract has been agreed upon

@@ -35,8 +35,7 @@ of her holding.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 N. C. 2816.                Praes: 8 Jul. 24.
 HKR Sp.[likely initials of Rentcammer officials]
 
@@ -65,8 +64,7 @@ G. Schultze
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 N. C. 2816.                presented: 8 Jul. 24.
 HKR Sp.[likely initials of these Rentcammer officials]
 
@@ -113,8 +111,7 @@ request in the Amt report.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Es ist auch nach Bericht darüber zu fordern, ob Supplikantin das Stück
 Land von der Söhren noch besitzt, welches der Krückeberg für 800 rthl von
 der Cammer gekauft hat?
@@ -126,8 +123,7 @@ Vert.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 It is also to be requested by report whether the petitioner still
 possesses the piece of land near the Söhren which Krückeberg purchased
 from the Chamber for 800 rix-dollars.

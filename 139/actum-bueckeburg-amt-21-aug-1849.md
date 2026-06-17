@@ -38,8 +38,7 @@ Amt official Höcker.
 :class: image-override
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Abschrift.
 Stempel: 1 Gr.
 
@@ -96,8 +95,7 @@ Handzeichen + + + des Wilhelm
                Höcker
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Copy.
 Stamp: 1 Groschen.
 

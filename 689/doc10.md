@@ -74,8 +74,7 @@ There are numerous abbrevations used in **NC 2422**. This table summarizes them.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Abschrift Anweisung der Kammer
 für den Kammerrentmeister Berger
 d. d. Bückeb. d. 21. April 1845
@@ -96,8 +95,7 @@ Quittung zu belegen.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Copy. Order of the Chamber for the chamber treasurer Berger.
 Dated: Bückeburg, 21 April 1845
 
@@ -132,8 +130,7 @@ receipt.
 
 Right-side request (large hand; includes heading)
 
-```{code-block} text
-
+```{div} doc-text
 An
 Fürstl. Rentkammer
 
@@ -149,8 +146,7 @@ Berger
 
 Right-side request (large hand; includes heading)
 
-```{code-block} text
-
+```{div} doc-text
 To the Princely Rent Chamber
 
 Since Colon Krückeberg, No. 10 in Berenbusch, will repay the
@@ -165,8 +161,7 @@ Berger
 
 Left-side minute/response (small hand; Rentkammer; signed Reck)
 
-```{code-block} text
-
+```{div} doc-text
 H.
 Die Obligation quitiert wäre mit beifolgender Quittung, daß der
 Krückeberg das Capital mit rückständ.  u. laufenden Zinsen durch
@@ -184,8 +179,7 @@ Reck
 
 Left-side minute/response (small hand; Rentkammer; signed Reck)
 
-```{code-block} text
-
+```{div} doc-text
 The promissory note is to be annotated with the following
 receipt text, stating that Krückeberg has repaid the principal,
 together with arrears and current interest, by payment into the
@@ -224,8 +218,7 @@ TODO: Change this table to make it look like the one above with **Meaning**, **P
   - **"Dispatched/expedited"** by Schöttd., dated 8 May (1845). A routing/handling note.
 ```
 
-```{code-block} text
-
+```{div} doc-text
                    N.C. 2696
 
 Cpt an Kammerrentmeister Berger dahier
@@ -248,8 +241,7 @@ Spm       L
                                          verte
 ```
 
-```{code-block} text
-
+```{div} doc-text
                    N.C. 2696
 
 Draft of a letter to Chamber Rentmaster Berger here [in Bückeburg].
@@ -273,8 +265,7 @@ Spm       L
                             turn the page
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Probatur.
 Eingetragen. Die Stückzinsen
 sind v. 12./1 bis 28/4 1845 (3 1/2 Mt.)
@@ -282,8 +273,7 @@ gezahlt mit [initialed: DH] 2 rt 12 gr
 Poppelbaum
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Approved.
 Entered. The accrued interest from 12 Jan to 28 Apr 1845 (3½ months),
 paid — [initialed: DH] — 2 Reichthalers 12 groschen.
@@ -315,8 +305,7 @@ Poppelbaum.
   - **Meaning:** "Dispatched/expedited" by Schöttd., dated 8 May (1845). A routing/handling note.**Placement:** TODO**Who / When:**
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Concept Quittung.
 
 Da der Colon Krückeberg das in vorstehender Obligation vom 12.
@@ -331,8 +320,7 @@ Bburg 5. Mai 1845.
 L
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Official Draft.
 
 Since Colon Krückeberg has repaid to the Chamber cash office, by

@@ -8,8 +8,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Bauerguter & Colonien
 Special                       Rep: II
 Amt Bückeburg
@@ -31,8 +30,7 @@ die Neubauer-Stätte des Triftmeyer N. 19 zu Bärenbusch betr.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Farm Holdings & Colonies
 [.underline]#Special                       Rep: II
 District (Amt) of Bückeburg

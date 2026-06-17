@@ -8,8 +8,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 An furstl. Rentkammer
 
 des Eininliegers Voigt zu Evesen
@@ -33,8 +32,7 @@ Um Platz zum Hausbau
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 N. 520                                  4.
 
 [3 GR Stempel]
@@ -79,8 +77,7 @@ suppl Bbg
 [various initials]
 ```
 
-```{code-block} text
-
+```{div} doc-text
 No. 520             4
 
 [3 revenue stamps]
@@ -128,8 +125,7 @@ Suppl. Bückeburg
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Res: Cam: Dem Amte Bückeburg b: M: zum Berichte mitzuteilen in Beziehung
 auf die Huthberechtigten, und auf das Vermögen und die Persönlichkeit des
 Supplicaten
@@ -139,8 +135,7 @@ B. 10 Nov. 1817                            MKaas
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Royal Chamber Resolution: The Amt of Bückeburg is instructed to submit a
 report concerning the holders of grazing (common pasture) rights, and
 concerning the petitioner’s financial means and personal circumstances.

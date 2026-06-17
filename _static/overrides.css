@@ -1,39 +1,11 @@
-/*
-.document-text {
+.doc-text {
     font-family: var(--pst-font-family-base);
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.55;
-    color: #111;
-    background-color: #fafafa; 
-    border: 1px solid #333;
-    border-radius: 0.4rem;
-    padding: 1rem 1.25rem;
-    margin-bottom: 1.5rem;
-}
-
-.document-text {
-    font-family: var(--pst-font-family-base);
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.6;
-    color: #000;
-    background-color: #f2f2f2;
-    border: 1.5px solid #222;
-    border-radius: 0.4rem;
-    padding: 1rem 1.25rem;
-    margin-bottom: 1.5rem;
-}
-*/
-.document-text {
-    font-family: var(--pst-font-family-base);
-    font-size: 1rem;
+/*  font-size: 1rem;  */
     font-weight: 500;
     line-height: 1.6;
     color: #000;
-  /*background-color: #fdfdfd;*/
-    background-color: #fff;
-    border: 2px solid #111;
+    background-color: #fdfdfd;  
+    border: 2px solid #222;
     border-radius: 0.4rem;
     padding: 1rem 1.25rem;
     margin-bottom: 1.5rem;

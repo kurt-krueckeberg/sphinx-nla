@@ -78,8 +78,7 @@ appropriate.
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 N. 16                                                          6.,
 
 [3 Gr Stempel]
@@ -144,8 +143,7 @@ decision afterward, especially when the larger farmers support it.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 No. 16                    6
 
 [3 GR stamps]
@@ -205,16 +203,14 @@ allotment that is to be carried into effect under a Chamber resolution. It
 does not issue a new order; it simply records that the allotment stands in
 the implementation stage.
 
-```{code-block} text
-
+```{div} doc-text
 Res. Cam. Nach
 die Ausweisung einer zu  bewirkfällige[n]
  Bbg d 12 Jan 1818
          in. fid. Spring
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Chamber Resolution: Accordingly, the allotment is to be carried out.
 Bückeburg, 12 January 1818.
 Certified: Spring.

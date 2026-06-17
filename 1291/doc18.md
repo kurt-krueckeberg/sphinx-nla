@@ -10,8 +10,7 @@
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 18.)
 
 No. 436.
@@ -29,8 +28,7 @@ Bückeburg
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 18.)
 
 No. 436.

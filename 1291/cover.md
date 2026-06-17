@@ -10,8 +10,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Ausweisungen & Rottländereien                   Rep II
 
 C. Im Amte Bückeburg
@@ -32,8 +31,7 @@ den N. 13 & 14 in Nordholz.
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Allocations & Cleared Lands Rep. II
 
 In the Bückeburg District

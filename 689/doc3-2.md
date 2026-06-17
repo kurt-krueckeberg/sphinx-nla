@@ -32,8 +32,7 @@ holding of a numbered Colon (tenant holder), comprising land and buildings."**
 
 Trasnliteration
 
-```{code-block} text
-
+```{div} doc-text
 Die Stelle des Krückeberg besteht
 
 aus 10 Morgen a 100 rt.......1000 rt
@@ -60,8 +59,7 @@ Bbg 15. Nov. 41.
                   vert
 ```
 
-```{code-block} text
-
+```{div} doc-text
 The holding of Krückeberg consists of
 
 10 Morgen at 100 rt each ........... 1000 rt

@@ -69,8 +69,7 @@ So this note is basically saying:
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 N. 257.
 [document number:]11.
 
@@ -160,8 +159,7 @@ an Kammeral Prestanden
 
 ### Specification’s Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 ad 11
 
 Specification von dreÿ Auswiesungen im Baumer Forste.
@@ -207,8 +205,7 @@ Specification von dreÿ Auswiesungen im Baumer Forste.
   - 
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Die obigen 3 Ausweisungen, wovon die Zeichnung hierneben beigefügt ist,
 sind im Baumer Forste, bei Nordholz, belegen.
 
@@ -218,8 +215,7 @@ L. Stille
 
 ## Translation
 
-```{code-block} text
-
+```{div} doc-text
 No. 257 — 11.)
 
 [3 Groschen stamp]
@@ -306,8 +302,7 @@ Kammeral dues table in text
 
 ### Specification’s Translation
 
-```{code-block} text
-
+```{div} doc-text
 Regarding document 11
 
 Specification of three land assignments in the Baumer Forest.
@@ -353,8 +348,7 @@ Specification of three land assignments in the Baumer Forest.
   - 
 ```
 
-```{code-block} text
-
+```{div} doc-text
 The above three land assignments, the drawing of which is attached here,
 are situated in the Baumer Forest, near Nordholz.
 

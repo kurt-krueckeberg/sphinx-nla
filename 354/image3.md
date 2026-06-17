@@ -6,8 +6,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 Actum d. 15ten Xbris 1721.
 
 In heutigen Subhastation
@@ -81,8 +80,7 @@ Groschen, unless otherwise stated.
 
 :::
 
-```{code-block} text
-
+```{div} doc-text
 H. Ren.
 Als nun woraufft das Liech[t]
 ```

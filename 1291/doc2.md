@@ -8,8 +8,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 N. Cam. 62.                            2.
 
 p. 5 Febr. 1817
@@ -42,8 +41,7 @@ MKaas
 The **Söhre** was a locally named tract of village forest/common land near Berenbusch, from which parcels could be sold or allotted.
 ```
 
-```{code-block} text
-
+```{div} doc-text
 N. Cam. 62.                                         2.
 
 presented 5 February 1817
@@ -78,8 +76,7 @@ MKaas
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 R. Cam. (Resolutio Camerae) Die Kammer ist der Meinung, daß dem Krückeberg
    der kleine mit A auf der Zeichnung bemerkte Platz, etwa 1/2 Morgen,
 gegen billige Be- zahlung zu überlassen seÿn möchte. Rescr. dem Amte daß es
@@ -90,8 +87,7 @@ Bbg. 10ten Feb. 1817
 T Landesberg
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Resolution of the Chamber. The Chamber is of the opinion that the small
 parcel marked with A on the drawing, about 1/2 Morgen, should be granted to
 Krückeberg for a reasonable payment.
@@ -112,8 +108,7 @@ T Landesberg
 
 ## Transliteration and Translatin
 
-```{code-block} text
-
+```{div} doc-text
 ad 2.
 
 Ausweisung betreff
@@ -131,8 +126,7 @@ Baum d: 2ten Febr. 1817
 Falckmann
 ```
 
-```{code-block} text
-
+```{div} doc-text
 ad 2 [pertaining to document 2]
 
 Re: Land allotment
@@ -161,8 +155,7 @@ Falckmann
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
                      Der Raue Knick
 
 der Röcker Damm.
@@ -187,8 +180,7 @@ Forst
 
 Translation
 
-```{code-block} text
-                    Der Raue Knick [literally, “the rough hedgerow/boundary bank”]
+```{div} doc-text                    Der Raue Knick [literally, “the rough hedgerow/boundary bank”]
 
 the Röcke Dike / Röcke Causeway
 

@@ -31,8 +31,7 @@ September 1849 and signed by Spreng and other clerical officials.
 
 Transliteration
 
-```{code-block} text
-N. C. 5399.
+```{div} doc-textN. C. 5399.
 N. P. 1429.
 Stpl. 3 mg.[Mariengroschen: currency]
 
@@ -89,8 +88,7 @@ Lm            L
 
 Translate
 
-```{code-block} text
-
+```{div} doc-text
 N.C. 5399.
 N.P. 1429.
 Stamp: 3 Mariengroschen

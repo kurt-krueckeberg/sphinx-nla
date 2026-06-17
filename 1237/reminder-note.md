@@ -13,8 +13,7 @@ merely a reminder about Berenbusch woodland boundaries.
 :width: 75%
 ```
 
-```{code-block} text
-
+```{div} doc-text
 ad Nro. 322
 Res Cam.
 wie ad Nro. 317.
@@ -27,8 +26,7 @@ B. 27. Octbr 1800
     MK.
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Re: No. 322
 Chamber Resolution
 as in No. 317.

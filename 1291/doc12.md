@@ -18,8 +18,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 St. 3 mg.                                      12.)
 
 Num: Cam: 257.
@@ -99,8 +98,7 @@ Spring
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Stamp: 3 Mariengroschen                                  12.)
 
 Kammer file no. 257

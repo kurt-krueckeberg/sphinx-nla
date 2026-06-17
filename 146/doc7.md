@@ -10,8 +10,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Conc/
 ad Num: Cam. 368.
 
@@ -55,8 +54,7 @@ MKaas
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Draft
 Re: Chamber No. 368.
 

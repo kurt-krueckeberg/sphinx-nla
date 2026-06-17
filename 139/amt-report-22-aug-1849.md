@@ -22,8 +22,7 @@ issued from Bückeburg on 22 August 1849 and signed by Höner.
 :class: image-override
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Nr. 4997
 
 Stempel: 3 Gr.
@@ -63,8 +62,7 @@ Bückeburg 22 August 1849
 Höner
 ```
 
-```{code-block} text
-No. 4997
+```{div} doc-textNo. 4997
 
 Stamp: 3 Groschen.
 

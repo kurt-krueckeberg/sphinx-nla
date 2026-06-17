@@ -12,8 +12,7 @@
 
 ## Transliteration and Translation
 
-```text
-Abschrift
+```{div} doc-textAbschrift
 
 [3Gr Stempel]
 
@@ -65,8 +64,7 @@ In fidem
 König Assessor
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Transcript
 
 [3 groschen stamp]

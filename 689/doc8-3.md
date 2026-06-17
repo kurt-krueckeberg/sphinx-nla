@@ -12,8 +12,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 Concept an den Kammerrentmeister Berger
 
 Dem Colonn Krückeberg No 10 in Berenbusch ist ein Kapital von
@@ -35,8 +34,7 @@ P.n.
 Das Capital ist am 25. Jan. 1842 ausgezahlt
 ```
 
-```{code-block} text
-
+```{div} doc-text
 Office Draft to the Treasurer Berger
 
 To Colon Krückeberg, No. 10 in Berenbusch, a capital sum of two

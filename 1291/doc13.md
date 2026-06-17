@@ -8,8 +8,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 13.)
 
 No. 372.
@@ -28,8 +27,7 @@ Bückeburg
 49 Rthlr
 ```
 
-```{code-block} text
-
+```{div} doc-text
 This is to certify that the colonist Vogt, no. 13 in Nordholz, has paid
 forty-nine Reichsthaler into the Princely Chamber Treasury for an assigned
 plot of land, for which payment is hereby acknowledged.

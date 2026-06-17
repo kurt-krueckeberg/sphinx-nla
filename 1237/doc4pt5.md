@@ -40,8 +40,7 @@ earlier.
 
 ### Main Text
 
-```text
-Den Colonus Krückeberg Nro 10. in Beren- busch ist zur Vergrösserung
+```{div} doc-textDen Colonus Krückeberg Nro 10. in Beren- busch ist zur Vergrösserung
 seines Hofraums und Gartens ein Platz daselbst wie Figur a zeiget[,]
 ausgewiesen und vermessen zu
 
@@ -58,8 +57,7 @@ Bückeburg d. 30ten Märtz 1799.
                         beeidigter Landmesser
 ```
 
-```text
-To Colonus Krückeberg, No. 10, in Berenbusch, a plot has been assigned
+```{div} doc-textTo Colonus Krückeberg, No. 10, in Berenbusch, a plot has been assigned
 and measured on the site for the enlargement of his yard and garden, as
 shown in figure a, measuring
 

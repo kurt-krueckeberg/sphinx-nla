@@ -81,8 +81,7 @@ petition of Colon Krückeberg, herewith returned.”
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 An
 Fürstliche Rentkammer.
 des Kolon Krucheberg
@@ -94,8 +93,7 @@ sens[dessens] pp
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 To
 Princely Rent Chamber.
 of the Colon Krückeberg
@@ -116,8 +114,7 @@ for loan consent, etc
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 NC 4381                             pr. in Cam 2 Oct 1841
 
 
@@ -164,8 +161,7 @@ Conc[ipist]. GWFuchs.                  Nr 10 in Berenbusch.
 progg[short for:protokollieren].
 ```
 
-```{code-block} text
-
+```{div} doc-text
 NC 4381                   presented in Cammer 2 Oct 1841
 
 

@@ -18,8 +18,7 @@ On page 110 Berenbusch:
 
 Transliteration:
 
-```{code-block} text
-
+```{div} doc-text
 No. 10 am Hause
 Johann Henrich Krickeberg zu Behrenbusch
 besitzet
@@ -36,8 +35,7 @@ In modern terms, ¾ Morgen and 29 square Ruten comes to about **0.6 acres**.
 
 Translation:
 
-```{code-block} text
-
+```{div} doc-text
 No. 10 (the house site)
 Johann Heinrich Krückeberg of Berenbusch
 possesses a homestead plot and garden land.

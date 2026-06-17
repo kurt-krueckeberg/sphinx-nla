@@ -20,8 +20,7 @@ third page
 
 ## Transliteration
 
-```text
-[2GR Stempel]
+```{div} doc-text[2GR Stempel]
 
 Ad N.C. 4386.
 
@@ -133,8 +132,7 @@ Fürstl. Bückeb. Amt.
 ## Translation
 
 
-```text
-
+```{div} doc-text
 [2-groschen stamp]
 
 Ad N.C. 4386.

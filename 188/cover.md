@@ -10,8 +10,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 Acta Bauergüter
 
 Verkauft der Krückebergschen Stätte No. 18 in
@@ -28,8 +27,7 @@ Berenbusch No. 18
 
 Translation
 
-```{code-block} text
-
+```{div} doc-text
 Case Files
 Agricultural Holdings
 

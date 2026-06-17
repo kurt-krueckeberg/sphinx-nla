@@ -8,8 +8,7 @@
 
 ## Transliteration and Translation
 
-```{code-block} text
-
+```{div} doc-text
 N.C. 62                                          3.)
 
 [set of initials]
@@ -45,8 +44,7 @@ equivalents.
 
 :::
 
-```{code-block} text
-
+```{div} doc-text
 N.C. 62                                          3.)
 
 C.

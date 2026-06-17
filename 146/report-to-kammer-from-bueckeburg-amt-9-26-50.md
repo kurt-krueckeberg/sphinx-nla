@@ -10,8 +10,7 @@
 
 Transliteration
 
-```{code-block} text
-
+```{div} doc-text
 NC. 4549.
 Pr. in Cam. 26/9. 50
 
