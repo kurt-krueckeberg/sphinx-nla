@@ -31,7 +31,7 @@ pro act. — 3\
 u. ins.  — 4\
            7
 
-[Text on right side of page]
+[Text on right side of page]\
 gg\
 Re.
 
@@ -138,11 +138,10 @@ Fürstl. Bückeb. Amt.
 
 Ad N.C. 4386.
 
-[text on left side of page]
-
-Exp. 13/9 50\ 
-pro act. — 3\ 
-u. ins. — 4\
+[text on left side of page]\
+Exp. 13/9 50\
+`pro act. — 3`\ 
+`u. ins. — 4`\
 `          7`
 
 [Text on right side of page]
@@ -218,14 +217,14 @@ Exp. 19/9 50
 
 [accounting entries, uncertain]
 
-taxa      12 gl  
-[...]      3 „  
-Stgl.      3 „  
-[...]      3 „  
-Stgl.      1 „  
-[...]      3 „  
-[...]      2 „  
-          27 gl
+`taxa      12 gl`\
+`[...]      3 „`\
+`Stgl.      3 „`\
+`[...]      3 „`\
+`Stgl.      1 „`\
+`[...]      3 „`\
+`[...]      2 „`\
+`          27 gl`\
 
 Written up / entered [?]
 
