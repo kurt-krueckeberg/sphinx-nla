@@ -45,12 +45,12 @@ Den Colonus Krückeberg Nro 10. in Beren- busch ist zur Vergrösserung
 seines Hofraums und Gartens ein Platz daselbst wie Figur a zeiget[,]
 ausgewiesen und vermessen zu
 
-\19. Ruth: 44 Fuß Decimul
+19. Ruth: 44 Fuß Decimul
 
 Ferner ist ihm ein Platz, Figur b,. zur Vergrösserung seines Hofraums[,]
 welcher mit der Figur a in Verbindung stetht, vermessen zu
 
-\1. Ruth: 90 Fuß
+1. Ruth: 90 Fuß
 
 Bückeburg d. 30ten Märtz 1799.
 
