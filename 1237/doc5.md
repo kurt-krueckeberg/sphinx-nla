@@ -75,8 +75,8 @@ V. G. G.
 
 Wir lassen Euch auf Euren Bericht vom 18. d. M. in Ansehung der dem Colon
 Krückeberg Nr: 10 zu Berenbusch, behufs zur Vergrößerung seines Hofraums
-und Gartens zu respective 19 Ruten 44 Fuß decimal und 1 Rute 90 Fußa aus-
-gewiesenen Plätze, und des davon zu Michaelis dieses Jahrs zum erstenmal
+und Gartens zu respective 19 Ruten 44 Fuß decimal und 1 Rute 90 Fußa
+ausgewiesenen Plätze, und des davon zu Michaelis dieses Jahrs zum erstenmal
 und künftig jährlich mit 2 Mg. 1 d. zu entrichtenden Rottzinses, hiedurch
 ohnverhalten:
 
@@ -160,8 +160,6 @@ Gräflich : p
 [J??] Danckwerk
 Wint
 
-
-
 Wipperman
 ```
 
@@ -197,9 +195,11 @@ Wippermann
 ```
 
 ```{note}
-**Stirneichen** — The term appears here after **“Nr: 10”** in reference to Colon Krückeberg’s property.  He lived in
-Berenbusch not "Stirneichen", which does not correspond to any known village (**Ort**) in the region per **Meyers Orts-
-und Verkehrslexikon** (1912). It may represent a misrecorded place name or possibly a **Flurname** (traditional field
-name) used locally in the late 18th–early 19th century.  Its exact reference remains uncertain.
+**Stirneichen** — The term appears here after **“Nr: 10”** in reference to
+Colon Krückeberg’s property. He lived in Berenbusch not "Stirneichen",
+which does not correspond to any known village (**Ort**) in the region per
+**Meyers Orts- und Verkehrslexikon** (1912). It may represent a misrecorded
+place name or possibly a **Flurname** (traditional field name) used locally
+in the late 18th–early 19th century.  Its exact reference remains
+uncertain.
 ```
-
