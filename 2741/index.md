@@ -156,9 +156,13 @@ N. X [Rf?] er hiesse
     (b) Erbe 3 rthlr [Taler] 4 mgr [Groschen] 4 Pf [Pfennige]
     
     (c) nescit
+
     (d) nescit
+
     (e) nescit
+
     (f) nescit
+
     (g) nescit
     
 20. cessat

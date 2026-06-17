@@ -1,10 +1,8 @@
 # TODO
 
-## Revisit new `{div} doc-text` blocks
+##  Finish 2741/index.md
 
-I converted all `{code-block} text` and `text` bloks to
-`{div} doc-text` blocks. Now I need to add hard line breaks using `\`
-and ensure the format/appearance is o.k.
+Finish formatting the Translation section.
 
 ## Add Einliger Article to this project
 
