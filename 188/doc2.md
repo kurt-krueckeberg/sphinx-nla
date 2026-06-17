@@ -26,22 +26,22 @@ third page
 Ad N.C. 4386.
 
 [text on left side of page]
-Exp. 13/9 50
-pro act. — 3
-u. ins.  — 4
+Exp. 13/9 50\
+pro act. — 3\
+u. ins.  — 4\
            7
 
 [Text on right side of page]
-gg
+gg\
 Re.
 
 Citentur der Colon Krückeberg von Berenbusch N. 18 und der Schuster
 Wilhelm Meyer von Evesen auf 16. d. M. Morgens 11 Uhr.
-Bberg 12/9 1850
-[unreadable signature]
+Bberg 12/9 1850\
+[unreadable signature]\
 Egger, R.
 
-[unclear:] Citentur ... am Amte 16.
+[unclear:] Citentur ... am Amte 16.\
 Sept. 1850.
 
 Erschienen der Colon Krückeberg N. 18 von Berenbusch und der Schuster
@@ -73,18 +73,18 @@ Folgendem:
 
 Sie wollen um Bestätigung des Kaufbriefs gebeten haben.
 
-v. g. u. [unterschr.?]
-Krückeberg
+v. g. u. [unterschr.?]\
+Krückeberg\
 Meier
 
-In fidem
+In fidem\
 König, Ass[essor].
 
 Cont. ibidem et eodem.
 
 Nachträglich stellte Käufer Meyer den Antrag, zu seiner Sicherstellung
-nach Genehmigung des Contracts edictales zu erlassen.
-A. u. f.
+nach Genehmigung des Contracts edictales zu erlassen.\
+A. u. f.\
 [initials/signatures]
 
 
@@ -96,20 +96,20 @@ Unterthänigster Bericht des Amts Bückeburg
 
 Verkauf der Krückebergschen Stätte Nro. 18 in Berenbusch betr.
 
-B. Pr. 1314.
-ad
-N. C. 4368
-v. l.
+B. Pr. 1314.\
+ad\
+N. C. 4368\
+v. l.\
 Exp. 19/9 50
 
 [accounting entries, uncertain]
-taxa      12 gl
-[...]      3 „
-Stgl.      3 „
-[...]      3 „
-Stgl.      1 „
-[...]      3 „
-[...]      2 „
+taxa      12 gl\
+[...]      3 „\
+Stgl.      3 „\
+[...]      3 „\
+Stgl.      1 „\
+[...]      3 „\
+[...]      2 „\
           27 gl
 
 Aufges.[etzt?]
@@ -140,28 +140,41 @@ Ad N.C. 4386.
 
 [text on left side of page]
 
-Exp. 13/9 50  
-pro act. — 3  
-u. ins. — 4  
-           7
+Exp. 13/9 50\ 
+pro act. — 3\ 
+u. ins. — 4\
+`          7`
 
 [Text on right side of page]
 
 Re.
 
-Let the colon Krückeberg of Berenbusch No. 18 and the shoemaker Wilhelm Meyer of Evesen be summoned for the 16th of this month, 11 o’clock in the morning.
+Let the colon Krückeberg of Berenbusch No. 18 and the shoemaker Wilhelm
+Meyer of Evesen be summoned for the 16th of this month, 11 o’clock in the
+morning.
 
-Bückeburg, 12 September 1850  
-[unreadable signature]  
+Bückeburg, 12 September 1850\
+[unreadable signature]\
 Egger, R.
 
 [unclear:] Let them be summoned ... at the office, 16 September 1850.
 
-There appeared the colon Krückeberg No. 18 of Berenbusch and the shoemaker and lodger Wilhelm Meyer, at No. 41 in Röcke, who, after communication of the petition submitted by the former to the Princely Rentkammer concerning the sale of his holding to Wilhelm Meyer, gave the following statement:
+There appeared the colon Krückeberg No. 18 of Berenbusch and the shoemaker
+and lodger Wilhelm Meyer, at No. 41 in Röcke, who, after communication of
+the petition submitted by the former to the Princely Rentkammer concerning
+the sale of his holding to Wilhelm Meyer, gave the following statement:
 
-Wilhelm Meyer had purchased the holding, together with all appurtenances, for the price of 550 reichsthalers. For payment of the purchase price he had cash assets of 100 reichsthalers; in addition, he wished to assume the older debts resting on the holding, amounting to 250 reichsthalers, and to borrow 200 reichsthalers from the colon Witte No. 13 in Eilsen, who had already declared himself willing to do this.
+Wilhelm Meyer had purchased the holding, together with all appurtenances,
+for the price of 550 reichsthalers. For payment of the purchase price he
+had cash assets of 100 reichsthalers; in addition, he wished to assume the
+older debts resting on the holding, amounting to 250 reichsthalers, and to
+borrow 200 reichsthalers from the colon Witte No. 13 in Eilsen, who had
+already declared himself willing to do this.
 
-The extent of the holding was correctly stated in the petition addressed to the Chamber. The garden lay immediately by the house, and the latter was insured for 400 reichsthalers. The burdens of the holding consisted of the following:
+The extent of the holding was correctly stated in the petition addressed to
+the Chamber. The garden lay immediately by the house, and the latter was
+insured for 400 reichsthalers. The burdens of the holding consisted of the
+following:
 
 1. 1 reichsthaler 1 good groschen service money,
 2. __ 10 good groschen 2 pfennigs Rottzins,
@@ -178,14 +191,15 @@ Read aloud, approved, and [signed?]
 Krückeberg  
 Meier
 
-In witness thereof,  
+In witness thereof,\
 König, Ass[essor].
 
 Continued at the same place and on the same date.
 
-Subsequently, the purchaser Meyer made the request that, for his security, after approval of the contract, edictal notices should be issued.
+Subsequently, the purchaser Meyer made the request that, for his security,
+after approval of the contract, edictal notices should be issued.
 
-A. u. f.  
+A. u. f.\
 [initials/signatures]
 
 [left side of page]
@@ -196,10 +210,10 @@ Most humble report of the Bückeburg Office
 
 Concerning the sale of the Krückeberg holding No. 18 in Berenbusch.
 
-B. Pr. 1314.  
-ad  
-N. C. 4368  
-v. l.  
+B. Pr. 1314.\
+ad\
+N. C. 4368\  
+v. l.\
 Exp. 19/9 50
 
 [accounting entries, uncertain]
@@ -217,7 +231,12 @@ Written up / entered [?]
 
 [right side of page]
 
-In returning the petition of the colon Krückeberg No. 18 at [Evesen struck through; beneath it: Berenbusch], requesting approval of a purchase contract concluded concerning his holding, we do not fail to submit most obediently to the Princely Rentkammer the protocol of the 16th of this month, attached here in copy, and we find nothing to object to in granting the petition presented.
+In returning the petition of the colon Krückeberg No. 18 at [Evesen struck
+through; beneath it: Berenbusch], requesting approval of a purchase
+contract concluded concerning his holding, we do not fail to submit most
+obediently to the Princely Rentkammer the protocol of the 16th of this
+month, attached here in copy, and we find nothing to object to in granting
+the petition presented.
 
 Bückeburg, 17 September 1850.
 
