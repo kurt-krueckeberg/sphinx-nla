@@ -18,3 +18,7 @@ The copy is actually much more readable than the
 what is on the images in folder `188/images`. Using the copy likely
 will result in an accurate transliteration of the original.
 
+## Similiar Villages for Meyer/Meier
+
+The villages of Röcke and Cammer are mentioned in folder 146, too, just
+like they are in folder 188?
