@@ -32,7 +32,7 @@ third page
 
 ## Tranliteration
 
-```text
+```{div} document-text
 No. pr. 1362
 pr. 21/9 50
 [3Gr Stempel]
