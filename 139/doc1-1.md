@@ -36,11 +36,17 @@ of her holding.
 Transliteration
 
 ```{div} doc-text
-N. C. 2816.                Praes: 8 Jul. 24.
+N. C. 2816.\
 HKR Sp.[likely initials of Rentcammer officials]
 
-                           Actum Bückeburg in Camera
-                           den 8ten July 1874.
+[on top right side]\
+Praes: 8 Jul. 24.
+
+[on right side of page]\
+Actum Bückeburg in Camera\
+den 8ten July 1874.\
+
+[on left side of page]\
 Dürftig.
 
 
@@ -65,13 +71,15 @@ G. Schultze
 Translation
 
 ```{div} doc-text
-N. C. 2816.                presented: 8 Jul. 24.
+N. C. 2816.\
 HKR Sp.[likely initials of these Rentcammer officials]
 
+[on top right side]\
+presented: 8 Jul. 24.
 
-                          Recorded at the Chamber in
-                          Bückeburg on 8 July 1824.
+Recorded at the Chamber in Bückeburg on 8 July 1824.
 
+[on left side of page]\
 [annotation:]Poor/in need
 
 
@@ -137,4 +145,3 @@ See overleaf.
 **(attached)** means: “This note has been attached (filed together)
 with the rest of the Krückeberg case documents.”
 ```
-
