@@ -9,6 +9,7 @@
     border-radius: 0.4rem;
     padding: 1rem 1.25rem;
     margin-bottom: 1.5rem;
+    text-indent: 0;
 }
 /* creates a shadow-obrder for images */
 img.image-override,
