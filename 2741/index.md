@@ -82,16 +82,14 @@ Transliteration
 ```{div} doc-text
 N. X [Rf?] er hiesse
 
-1. Johann Henrich Krückeberg
-
+1. Johann Henrich Krückeberg\
    vormahls Friedrich Kuhlmann auch Joh. Tönnies Eggerding
 
 2. habe darauf geheyrahtet
 
 3. ein Brinksitzer
 
-4. Er habe nichts als einen Garten
-
+4. Er habe nichts als einen Garten\
    worin zugl. etwas Saatlandt
 
    Nach der neuen Messung.
@@ -114,95 +112,100 @@ N. X [Rf?] er hiesse
 
 13. so offt es erforderlig [bei anderen: Landfolge mit der Hand]
 
-14. 15. 16. ut reliqui [bei anderen: auch Jagd und Wachten]
+14. ut reliqui [bei anderen: auch Jagd und Wachten]
+
+15. ut reliqui [bei anderen: auch Jagd und Wachten]
+
+16. ut reliqui [bei anderen: auch Jagd und Wachten]
 
 17. cessat
 
 18. [Dues listed below]
 
-a) contribat 2 [Groschen] 2 [Pfennige]
+    (a) contribat 2 [Groschen] 2 [Pfennige]
 
-b) Rottzinß 11 [Groschen]
+    (b) Rottzinß 11 [Groschen]
 
-c) Mahl[...] 12 [Groschen]
+    (c) Mahl[...] 12 [Groschen]
 
-d) Michael Schatz cessit
+    (d) Michael Schatz cessit
 
-e) –
+    (e) –
 
-f) – 4 [Pfennige]
+    (f) – 4 [Pfennige]
 
-g) Landschatz gibt er nicht weilen
+    (g) Landschatz gibt er nicht weilen er kein Land habe
 
-er kein Land habe
+    (h) nescit
 
-h) nescit
+    (i) ut reliqui
 
-i) ut reliqui
+    (k) Viehschatz p nro. des Viehes\
+        4 mgr [Groschen] 4 Pf [Pfennige] auch 8 mgr [Groschen]
 
-k) Viehschatz p nro. des Viehes
+    (l) cessat
 
-4 mgr [Groschen] 4 Pf [Pfennige] auch 8 mgr [Groschen]
+    (m) Ein Rauchhuhn an gdste Herrschafft
 
-l) cessat
-
-m) Ein Rauchhuhn an gdste Herrschafft
-
-n) nescit
+    (n) nescit
 
 19.
 
-a) ut reliqui
+    (a) ut reliqui
 
-b) Erbe 3 rthlr [Taler] 4 mgr [Groschen] 4 Pf [Pfennige]
+    (b) Erbe 3 rthlr [Taler] 4 mgr [Groschen] 4 Pf [Pfennige]
+    
+    (c) nescit
+    (d) nescit
+    (e) nescit
+    (f) nescit
+    (g) nescit
+    
+20. cessat
 
-c-g nescit
+21. cessat
 
-20-23. cessat
+22. cessat
 
-24. 1 Kuh 1 Rind
+23. cessat
 
-1 Schwein
+24. 1 Kuh 1 Rind 1 Schwein
 
 25. treibe solche vor den Hirten
 
 26. nein
 
-27-31 cessat
+27. cessat
 
-32. Er gebe niemand
+28. cessat
 
-etwas als dem
+29. cessat
 
-pastori und Küster
+30. nein
 
-das gewöhnliche
+31. cessat
+
+32. Er gebe niemand etwas als dem\
+    pastori und Küster das gewöhnliche
 
 33. nein
 
-34. Vermeyne, da er
-
-keine Länderey
-
-habe, solche nicht
-
-schuldig zu seyn
+34. Vermeyne, da er keine Länderey\
+    habe, solche nicht schuldig\
+    zu seyn
 
 35. nein
 
-36., 37. cessat
+36. cessat
+
+37. cessat
 
 38. nein
 
 39. ut reliqui
 
-40. Er samle
-
-das Holtz in
-
-der Waldung
-
-oder kauffe es.
+40. Er samle das Holtz in der Waldung\
+    oder kauffe es.
 ```
 
 ```{important}
