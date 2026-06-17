@@ -1,4 +1,4 @@
-/* Original: Also nice 
+/*
 .doc-text {
     font-family: var(--pst-font-family-base);
     font-weight: 500;
@@ -10,6 +10,12 @@
     padding: 1rem 1.25rem;
     margin-bottom: 1.5rem;
     text-indent: 0;
+}
+
+html[data-theme="dark"] .doc-text {
+    color: var(--pst-color-text-base);
+    background-color: var(--pst-color-surface);
+    border-color: var(--pst-color-border);
 }
 */
 .doc-text {
@@ -23,6 +29,7 @@
     padding: 1rem 1.25rem;
     margin-bottom: 1.5rem;
 }
+*/
 /* creates a shadow-obrder for images */
 img.image-override,
 .image-override img {
