@@ -107,8 +107,8 @@ Exp
 Kund und zu wissen sey hiermit, daß
 zwischen dem Colon Krückeberg N. 18 zu
 Berenbusch und dem Schuster Einlieger
-Wilhelm Meyer auf Nr. [unclear] zu Cammer
-mit Genehmigung fürstlicher RKammer
+Wilhelm Meyer auf Nr. 41 zu Cammer
+mit Genehmigung fürstlicher Rentkammer
 der nachstehende Kauſcontrakt verhandelt
 und
 ```
