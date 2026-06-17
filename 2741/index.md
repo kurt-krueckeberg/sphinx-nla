@@ -149,7 +149,7 @@ N. X [Rf?] er hiesse
 
     (n) nescit
 
-19.
+19. &nbsp;
 
     (a) ut reliqui
 
