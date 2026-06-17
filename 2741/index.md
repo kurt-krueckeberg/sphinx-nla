@@ -243,8 +243,9 @@ Heading: “N. X [Rentkammer-Fragen?] how he is called”
 
 5. ceased / not applicable
 
-6. He has no cleared land except the garden\
-   No independent Rottland holding.
+6. He has no cleared land except the garden
+
+   **Comments:** No independent Rottland holding.
 
 7. Belonging to His Most Illustrious Lordship
 
