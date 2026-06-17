@@ -41,13 +41,13 @@ felled and sold by the forestry office
 The complete text and its translation:
 
 ```{div} doc-text
-ad nr: Cam: 53. S. S. [Signatum Supra]
-Concept Cammer: Rescript
+ad nr: Cam: 53. S. S. [Signatum Supra]\
+Concept Cammer: Rescript\
 an die Beamten zu Buckeburg
 
 Espp: Schwarze
 
-V. G. G. [Verehrungswürdig Gehorsamst Gegeben]
+V. G. G. [Verehrungswürdig Gehorsamst Gegeben]\
 Wir haben auf Euren unterm 27. Februar dieses Jahr an Unserstattten
 Bericht resolvirt, daß dem Brücksitzer Krückeberg Nro. 10 zu Berenbusch
 der nachgesuchte in der Dorfsstraße daselbst bey seinem Garten belegene
@@ -84,7 +84,7 @@ Wippermann
 Translation
 
 ```{div} doc-text
-Concerning Chamber file no. 53 (same as above)
+Concerning Chamber file no. 53 (same as above)\
 Draft of the Chamber’s Rescript to the Officials at Bückeburg
 
 Most respectively resolved:
@@ -108,7 +108,7 @@ of Ruten.
 
 We remain graciously well-disposed toward you.
 
-Bückeburg, 11 March 1799.
+Bückeburg, 11 March 1799.\
 On behalf of the Chamber
 
 Hering Riehe Mkaas\
