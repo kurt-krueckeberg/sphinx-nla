@@ -225,132 +225,186 @@ Heading: “N. X [Rentkammer-Fragen?] how he is called”
 1. Johann Heinrich Krückeberg — formerly Friedrich Kuhlmann, also Johann Tönnies
    Eggerding
 
-   Comments: Indicates earlier holders of the same dwelling/holding.
+   *Comments:* Indicates earlier holders of the same dwelling/holding.
 
 2. He married in connection with it.
-   Comments: Formulaic reply indicating acquisition of the holding by marriage; the exact
+
+   *Comments:* Formulaic reply indicating acquisition of the holding by marriage; the exact
    relationship to the predecessor is not specified.
 
 3. A Brinksitzer
-   Comments: Small cottager living on the village edge with minimal land.
+
+   *Comments:* Small cottager living on the village edge with minimal land.
 
 4. He has nothing except a garden, in which also some seed-land according to
    the new survey
-   Comments: Very small cultivated plot only, confirmed by cadastral measurement.
+
+   *Comments:* Very small cultivated plot only, confirmed by cadastral measurement.
 
 5. ceased / not applicable
 
-6. He has no cleared land except the garden
+6. He has no cleared land except the garden\
    No independent Rottland holding.
 
 7. Belonging to His Most Illustrious Lordship
-   Comments: Direct territorial lord (domain property, not freehold).
+
+   *Comments:* Direct territorial lord (domain property, not freehold).
 
 8. Weekly services he performs not
-   Comments: Exempt from regular weekly labor services.
+
+   *Comments:* Exempt from regular weekly labor services.
 
 9. Yearly 12 Burgfesten
-   Comments: Twelve annual manorial labor or duty days owed to the manor.
+   
+   *Comments:* Twelve annual manorial labor or duty days owed to the manor.
 
 10. ceased / not applicable
 
 11. Five harvest days
-    Comments: Obligatory harvest labor for the lord’s estate.
+
+    *Comments:* Obligatory harvest labor for the lord’s estate.
 
 12. As often as necessary
-    Comments: Occasional service upon demand.
+
+    *Comments:* Occasional service upon demand.
 
 13. As often as required
-    Comments: Additional service obligations when called (others: land-escort duty).
 
-14–16. Like the others
-   Comments: Same communal obligations as fellow villagers (others: also hunting and watch
-   duties).
+    *Comments:* Additional service obligations when called (others: land-escort duty).
+
+14. Like the others
+15. Like the others
+16. Like the others
+
+    *Comments:* Same communal obligations as fellow villagers (others: also hunting and watch
+    duties).
 
 17. ceased / not applicable
 
 18. [Dues listed below]
 
-a) Contribution tax — 2 Groschen 2 Pfennige
-   General personal state tax, not tied to landholding.
+    (a) Contribution tax — 2 Groschen 2 Pfennige
 
-b) Rottland rent — 11 Groschen
-   Payment for use of cleared marginal land taken from forest or heath.
+        General personal state tax, not tied to landholding.
 
-c) Milling due — 12 Groschen
-   Fee for compulsory use of the lord’s mill (Mühlenzwang).
+    (b) Rottland rent — 11 Groschen
 
-d) Michaelmas tax — ceased
-   Former annual tax due at St. Michael’s Day (29 September) no longer owed.
+        Payment for use of cleared marginal land taken from forest or heath.
 
-e) none
+    (c) Milling due — 12 Groschen
 
-f) Minor due — 4 Pfennige
-   Small unspecified local fee, often court or parish related.
+        Fee for compulsory use of the lord’s mill (Mühlenzwang).
 
-g) Land tax — not paid because he owns no land
-   Indicates legally landless or near-landless status.
+    (d) Michaelmas tax — ceased
 
-h) does not know
-   Category not applicable or no obligation remembered.
+        Former annual tax due at St. Michael’s Day (29 September) no longer owed.
 
-i) like the others
-   Pays the customary village amount.
+    (e) none
 
-k) Livestock tax according to number of animals — 4 Mariengroschen 4 Pfennige,
-   also 8 Mariengroschen
-   Assessed per head of livestock, probably different animal classes.
+    (f) Minor due — 4 Pfennige
 
-l) exempt / not applicable
+        Small unspecified local fee, often court or parish related.
 
-m) One hearth-chicken to the gracious lordship
-   Traditional household tribute (feudal survival).
+    (g) Land tax — not paid because he owns no land
 
-n) does not know
-   No obligation known in this category.
+        Indicates legally landless or near-landless status.
 
-19.
+    (h) does not know
 
-a) like the others
-   Pays the same customary obligation as the rest of the villagers.
+        Category not applicable or no obligation remembered.
 
-b) Heriot — 3 Taler 4 Mariengroschen 4 Pfennige
-   Death duty payable to the lord when the holding passes to a successor.
+    (i) like the others
 
-c–g does not know
-   No known obligation in these categories.
+        Pays the customary village amount.
 
-20–23 not applicable
+    (k) Livestock tax according to number of animals — 4 Mariengroschen 4 Pfennige,
+        also 8 Mariengroschen
+
+        Assessed per head of livestock, probably different animal classes.
+
+    (l) exempt / not applicable
+
+    (m) One hearth-chicken to the gracious lordship
+
+        Traditional household tribute (feudal survival).
+
+    (n) does not know
+
+        No obligation known in this category.
+
+19. &nbsp;
+
+    (a) like the others
+        Pays the same customary obligation as the rest of the villagers.
+
+    (b) Heriot — 3 Taler 4 Mariengroschen 4 Pfennige
+        Death duty payable to the lord when the holding passes to a successor.
+
+    (c) does not know
+
+    (d) does not know
+
+    (e) does not know
+
+    (f) does not know
+
+    (g) does not know
+
+        No known obligation in these categories.
+
+20. not applicable
+
+21. not applicable
+
+22. not applicable
+
+23. not applicable
 
 24. 1 cow, 1 young bovine, 1 pig
-   Declared livestock in his possession.
+
+    Declared livestock in his possession.
 
 25. He drives them with the village herdsman
-   Animals kept in the communal herd, not privately pastured.
+
+    Animals kept in the communal herd, not privately pastured.
 
 26. no
 
-27–31 not applicable
+27. not applicable
+
+28. not applicable
+
+29. not applicable
+
+30. not applicable
+
+31. not applicable
 
 32. He gives nothing to anyone except the pastor and sexton, the customary amount
-   Only ordinary church dues (fees and offerings).
+
+    Only ordinary church dues (fees and offerings).
 
 33. no
 
 34. He believes that since he has no land he is not obliged to such
-   Claims exemption from a land-based obligation.
+
+    Claims exemption from a land-based obligation.
 
 35. no
 
-36–37 not applicable
+36. not applicable
+
+37. not applicable
 
 38. no
 
 39. like the others
-   Ordinary communal duty shared with villagers.
+
+    Ordinary communal duty shared with villagers.
 
 40. He gathers wood in the forest or buys it
-   No independent timber rights; only collection or purchase allowed.
+
+    No independent timber rights; only collection or purchase allowed.
 ```
 
 (citation-2741)=
