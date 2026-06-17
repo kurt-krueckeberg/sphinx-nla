@@ -8,7 +8,8 @@ third page
 
 ## Transliteration
 
-```{div} doc-textKaufbriefs geboten haben.
+```{div} doc-text
+Kaufbriefs geboten haben.
 11., z. d. [unclear]
 Krückeberg
 Meier

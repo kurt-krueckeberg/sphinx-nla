@@ -12,7 +12,8 @@
 
 ## Transliteration and Translation
 
-```{div} doc-textAbschrift
+```{div} doc-text
+Abschrift
 
 [3Gr Stempel]
 

@@ -84,9 +84,7 @@ N. X [Rf?] er hiesse
 
 1. Johann Henrich Krückeberg
 
-vormahls Friedrich Kuhlmann auch
-
-Joh. Tönnies Eggerding
+   vormahls Friedrich Kuhlmann auch Joh. Tönnies Eggerding
 
 2. habe darauf geheyrahtet
 
@@ -94,15 +92,13 @@ Joh. Tönnies Eggerding
 
 4. Er habe nichts als einen Garten
 
-worin zugl. etwas Saatlandt
+   worin zugl. etwas Saatlandt
 
-Nach der neuen Messung.
+   Nach der neuen Messung.
 
 5. cessat
 
-6. er habe kein Rottland ausser
-
-dem Garthen
+6. er habe kein Rottland ausser dem Garthen
 
 7. Sey Illmo eigen.
 

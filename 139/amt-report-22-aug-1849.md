@@ -62,7 +62,8 @@ Bückeburg 22 August 1849
 Höner
 ```
 
-```{div} doc-textNo. 4997
+```{div} doc-text
+No. 4997
 
 Stamp: 3 Groschen.
 

@@ -20,7 +20,8 @@ third page
 
 ## Transliteration
 
-```{div} doc-text[2GR Stempel]
+```{div} doc-text
+[2GR Stempel]
 
 Ad N.C. 4386.
 
