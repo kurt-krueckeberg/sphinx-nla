@@ -14,17 +14,17 @@ transliteration.
 ```{div} doc-text
 N. 67                                 1
 
-eingegangen [in] Buckbg.
+eingegangen [in] Buckbg.\
 7. Juni 1817
 
 [resolution or routing instruction written by the sovereign (or written in
-his name).]
-An die Kammer zum Gutachten.
-Georg Wilhelm.
+his name).]\
+An die Kammer zum Gutachten.\
+Georg Wilhelm.\
 
-[?] Oberf[orster] Kaas
-zum Gutachten
-[unreadable] 8. Juni 1817
+[?] Oberf[orster] Kaas\
+zum Gutachten\
+[unreadable] 8. Juni 1817\
 [initials]
 
 Durchlauchtigster Fürst und Herr!
@@ -42,23 +42,22 @@ ihn etwas verbessern, damit etwas Gras darauf wachsen könnte.
 
 Ich verlasse mich, durchlauchtigster Fürst und Herr, auf Ihre Liebe.
 
-No. 10 Berenbusch, den 1ten Januarÿ 1817
+No. 10 Berenbusch, den 1ten Januarÿ 1817\
 Schuster Krückeberg
 ```
 
 ```{div} doc-text
 No. 67                                   1
 
-Received in Bückeburg
-7 June 1817
+Received in Bückeburg 7 June 1817
 
-[Resolution / routing instruction]
-To the Chamber for an opinion.
+[Resolution / routing instruction]\
+To the Chamber for an opinion.\
 Georg Wilhelm
 
-[?] Chief Forester Kaas
-for review
-[unreadable] 8 June 1817
+[?] Chief Forester Kaas\
+for review\
+[unreadable] 8 June 1817\
 [initials]
 
 Most Serene Prince and Lord,
@@ -76,7 +75,6 @@ that some grass might grow there.
 
 I rely, Most Serene Prince and Lord, upon Your kindness.
 
-No. 10 Berenbusch, 1 January 1817
+No. 10 Berenbusch, 1 January 1817\
 Schuster Krückeberg
 ```
-
