@@ -14,7 +14,7 @@ seeking approval of the sale of his holding no. 18 Berenbusch.
 Transliteration
 
 ```{div} doc-text
-Abschrift         N.C. 4386
+Abschrift N.C. 4386
 
 An Fürstliche Rentkammer
 
@@ -31,13 +31,13 @@ ersuchen:
 
 den Consens zum beabsichtigten Verkaufe geneeigtest bald mir zu ertheilen.
 
-gehorsamster
+gehorsamster\
 Carl Frd. Krückeberg No. 18 zu Berenbusch
 
 
-Suppl:
-Bückeburg 11ten Septb 1850
-Cona: Langerfeldt Adv:
+Suppl:\
+Bückeburg 11ten Septb 1850\
+Cona: Langerfeldt Adv:\
 (G H)
 ```
 
@@ -64,13 +64,11 @@ sale.
 
 Your most obedient servant,
 
-Carl Friedrich Krückeberg
+Carl Friedrich Krückeberg\
 No. 18 in Berenbusch
 
-Submitted:
-Bückeburg, 11 September 1850
-Prepared by: Langerfeldt, Advocate
+Submitted:\
+Bückeburg, 11 September 1850\
+Prepared by: Langerfeldt, Advocate\
 (G H)
-
 ```
-
