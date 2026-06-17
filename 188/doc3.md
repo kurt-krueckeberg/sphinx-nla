@@ -32,68 +32,49 @@ third page
 
 ## Tranliteration
 
-```{div} document-text
-No. pr. 1362
-pr. 21/9 50
+```{div} doc-text
+No. pr. 1362\
+pr. 21/9 50\
 [3Gr Stempel]
 
-N. C. 4456.
+N. C. 4456.\
 N.P. 1314. Kg
 
-An
-das Amt Bückeburg.
-Verkauf der Krückeberg-
-schen Stätte No 18 in Beren-
-busch betreffend.
+An das Amt Bückeburg.  Verkauf der Krückebergschen Stätte No 18 in Berenbusch betreffend.
 
-Auf den Amtsbericht vom 17. d. M. wird
-Consens zum Verkauf der oben benannten
-Stätte hiermit ertheilt. Bemerkt wird
-aber, daß außerdem im Amtsprotokolle
-vom 16. d. M. angegebenen Prästanden, auch
-noch 5 Erntetage von der Stätte No 18
-in Berenbusch geleistet werden müssen.
+Auf den Amtsbericht vom 17. d. M. wird Consens zum Verkauf der oben
+benannten Stätte hiermit ertheilt. Bemerkt wird aber, daß außerdem im
+Amtsprotokolle vom 16. d. M. angegebenen Prästanden, auch noch 5 Erntetage
+von der Stätte No 18 in Berenbusch geleistet werden müssen.
 
-Bückeburg, 20. Septbr. 1850.
-Fürstlich Schaumbl. Lipp. Renkkammer.
+Bückeburg, 20. Septbr. 1850.\
+Fürstlich Schaumbl. Lipp. Renkkammer.\
 Spring
 
-Actum Bburg am
+Actum Bburg am\
 Amt 22. Sept. 1850.
 
-Erschien der Colon Krückeberg Nr. 18
-von Berenbusch mit dem Käufer Schuster Ernst
-Wilhelm Meyer von Nr. 41 zu Röcke und
-dem Colon Picht Nr. 7 von Rusbend, welche letztere
-beiden erklärten, wie folgt:
+Erschien der Colon Krückeberg Nr. 18 von Berenbusch mit dem Käufer Schuster
+Ernst Wilhelm Meyer von Nr. 41 zu Röcke und dem Colon Picht Nr. 7 von
+Rusbend, welche letztere beiden erklärten, wie folgt:
 
-Da der Colon Krückeberg das Handgeld schon
-abgeschickt hat, um am 1. Oktober d. J. von Bremen
-[right side of page]
-nach Amerika abzureisen, so wollen
-wir für die etwanige rückstän-
-dige Schuld des Krückeberg jeder
-zur Hälfte eintreten und verzichte
-namentlich ich, Wilhelm Meyer,
-auf die zu meiner Sicherstellung
-früher beantragte Edic-
-talladung.
+Da der Colon Krückeberg das Handgeld schon abgeschickt hat, um am 1.
+Oktober d. J. von Bremen nach Amerika abzureisen, so wollen wir für die
+etwanige rückstän- dige Schuld des Krückeberg jeder zur Hälfte eintreten
+und verzichte namentlich ich, Wilhelm Meyer, auf die zu meiner
+Sicherstellung früher beantragte Edictalladung.
 
-Amtsseitig wurde dieses Namens
-der etwanigen rückbleibenden Gläu-
-biger des Krückeberg acceptirt
-und bat letzterer um baldige Auf-
-nahme des Kaufcontracts.
+Amtsseitig wurde dieses Namens der etwanigen rückbleibenden Gläubiger des
+Krückeberg acceptirt und bat letzterer um baldige Aufnahme des
+Kaufcontracts.
 
-Die Contrahenten werden angewie-
-sen, zur Vollziehung des Contrakts
-sich am 26. d. M. Morgens 10 Uhr
-vor Amt einzufinden.
+Die Contrahenten werden angewie- sen, zur Vollziehung des Contrakts sich am
+26. d. M. Morgens 10 Uhr vor Amt einzufinden.
 
 Vorgel., gen. u. unterschr.
 
-Krückeberg
-Picht       Meier
+Krückeberg\
+Picht       Meier\
 In fidem
 
 
@@ -104,11 +85,8 @@ Kaufbrief
 Exp
 
 [bottom right of page]
-Kund und zu wissen sey hiermit, daß
-zwischen dem Colon Krückeberg N. 18 zu
-Berenbusch und dem Schuster Einlieger
-Wilhelm Meyer auf Nr. 41 zu Cammer
-mit Genehmigung fürstlicher Rentkammer
-der nachstehende Kauſcontrakt verhandelt
-und
+Kund und zu wissen sey hiermit, daß zwischen dem Colon Krückeberg N. 18 zu
+Berenbusch und dem Schuster Einlieger Wilhelm Meyer auf Nr. 41 zu Cammer
+mit Genehmigung fürstlicher Rentkammer der nachstehende Kauſcontrakt
+verhandelt und
 ```
