@@ -13,21 +13,20 @@
 ## Translation and Transliteration
 
 ```{div} doc-text
-ad. Num: Cam: 101.                                          9.,
-ad. Num. Praef. 831.
+ad. Num: Cam: 101.\
+9.,\
+ad. Num. Praef. 831.\
 Concept.
 
-[signatures]
-Spring
-Wag
-vlandesberg
+[signatures]\
+Spring\
+Wag\
+vlandesberg\
 Waceckwerten
 
 Expd: Knöttge.
 
-Ans
-Amt Bückeburg
-Ausweisung betr:
+Ans Amt Bückeburg Ausweisung betr:
 
 Dem Amt wird auf den Bericht vom 16ten Februar hierdurch eröffnet, daß dem
 Soldat Brüggemann ein Platz von 1 bis 1½ Morgen neben dem
@@ -46,7 +45,7 @@ Da vor künftigem Herbste kein Bauholz im Baumer Forst-Reviere mehr
 angewiesen wird; so wird das Amt beauftragt dieses den Neubauern bekannt zu
 machen, wonach sich dieselben zu richten haben.
 
-Bückeburg den 26ten Feb: 1818.
+Bückeburg den 26ten Feb: 1818.\
 Furstl: Schaumb: Lipp: Rentkammer
 ```
 
@@ -81,14 +80,15 @@ both square feet and acres.
 :::
 
 ```{div} doc-text
-ad. Num: Cam: 101                                                 9.,
-ad. Num. Praef. 831.
+ad. Num: Cam: 101\
+Document 9\
+ad. Num. Praef. 831.\
 Draft
 
-[signatures]
-Spring
-Wag
-vlandesberg
+[signatures]\
+Spring\
+Wag\
+vlandesberg\
 Waceckwerten
 
 Dispatched: Knöttge.
@@ -116,7 +116,7 @@ Since no construction timber will be assigned any further in the Baumer
 forest district before next autumn, the Office is instructed to make this
 known to the new settlers, and they must adjust their plans accordingly.
 
-Bückeburg, the 26th of February 1818.
+Bückeburg, the 26th of February 1818.\
 Princely Schaumburg-Lippe Rentkammer.
 ```
 
