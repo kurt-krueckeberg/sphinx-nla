@@ -101,8 +101,7 @@ Translation
 
 ```{div} doc-text
 Regarding the same matter as No. D: 322\
-Draft: Cammer directive\
-To the officials in Bückeburg
+Draft: Cammer directive To the officials in Bückeburg
 
 Very Gracious Lords,
 
@@ -137,9 +136,7 @@ On behalf of the Count
 Transliteration
 
 ```{div} doc-text
-Concept Cammer: Anweisung\
-an den Cammerrentmeister\
-Stackmann
+Concept Cammer: Anweisung an den Cammerrentmeister Stackmann
 
 Exp: per Bolte
 
@@ -163,8 +160,7 @@ Wipperman
 Translation
 
 ```{div} doc-text
-Draft: Chamber Directive\
-to the Chamber Rentmaster Stackmann
+Draft: Chamber Directive to the Chamber Rentmaster Stackmann
 
 (Dispatched by Bolte)
 
