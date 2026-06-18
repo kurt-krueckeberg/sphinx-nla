@@ -101,7 +101,7 @@ angewiesen werden möge.
 
 S. Bückeburg, 18ten Oct. 1800.
 
-J. H. Hablick    Stöling
+J. H. Hablick ·  Stöling
 ```
 
 Translation
@@ -126,7 +126,7 @@ Schilling, exclusive of exchange charges (agio).
 
 Bückeburg, 18 October 1800.
 
-J. H. Hablick  Stöling
+J. H. Hablick · Stöling
 ```
 
 ## Glossary of Terms

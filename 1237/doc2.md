@@ -70,7 +70,7 @@ stehe mögte.
 
 L Buckeburg 27ten Febr.\
 1799\
-H. Habicht.    Stölting
+H. Habicht. ·  Stölting
 ```
 
 ```{important}
@@ -111,7 +111,7 @@ land assignment should therefore be denied.
 
 Bückeburg, February 27,\
 1799\
-H. Habicht.     Stölting
+H. Habicht. ·  Stölting
 ```
 
 ## Official Reaction to Petition and Land Assignment Report (10 Mar. 1799)

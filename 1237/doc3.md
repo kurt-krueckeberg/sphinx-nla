@@ -72,8 +72,8 @@ Wir sind Euch in Gnaden gewogen
 Bückeburg d. 11. Merz 1799.\
 Anstatt pp
 
-Hering Riehe Mkaas\
-Emmerwarth  v. Landesberg
+Hering ·  Riehe ·  Mkaas\
+Emmerwarth ·  v. Landesberg
 
 
 
@@ -110,8 +110,8 @@ We remain graciously well-disposed toward you.
 Bückeburg, 11 March 1799.\
 On behalf of the Chamber
 
-Hering Riehe Mkaas\
-Emmerwarth v. Landesberg
+Hering ·  Riehe ·  Mkaas\
+Emmerwarth ·  v. Landesberg
 
 Wippermann
 ```
