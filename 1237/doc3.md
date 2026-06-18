@@ -42,8 +42,7 @@ The complete text and its translation:
 
 ```{div} doc-text
 ad nr: Cam: 53. S. S. [Signatum Supra]\
-Concept Cammer: Rescript\
-an die Beamten zu Buckeburg
+Concept Cammer: Rescript an die Beamten zu Buckeburg
 
 Espp: Schwarze
 
