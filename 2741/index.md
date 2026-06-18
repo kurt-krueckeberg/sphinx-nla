@@ -324,10 +324,10 @@ Heading: “N. X [Rentkammer-Fragen?] how he is called”
 
 19. &nbsp;
 
-    (a) like the others
+    (a) like the others\
         **Comments:** Pays the same customary obligation as the rest of the villagers.
 
-    (b) Heriot — 3 Taler 4 Mariengroschen 4 Pfennige
+    (b) Heriot — 3 Taler 4 Mariengroschen 4 Pfennige\
         **Comments:** Death duty payable to the lord when the holding passes to a successor.
 
     (c) does not know
@@ -340,7 +340,7 @@ Heading: “N. X [Rentkammer-Fragen?] how he is called”
 
     (g) does not know
 
-        No known obligation in these categories.
+    **Comments:** No known obligation in these categories.
 
 20. not applicable
 
