@@ -39,6 +39,21 @@
 .doc-text td:first-child {
     border-left: none;
 }
+
+.doc-text {
+    background-color: #f7f7f7;
+    border: 1.5px solid #777;
+    border-radius: 0.35rem;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.5rem;
+}
+
+html[data-theme="dark"] .doc-text {
+    background-color: #1f1f1f;
+    border-color: #aaa;
+}
+
+/*
 .doc-text {
     font-family: var(--pst-font-family-base);
     font-weight: 500;
@@ -51,6 +66,7 @@
     margin-bottom: 1.5rem;
 }
 
+*/
 /* removes even rows as lighter in color 
 .doc-text table.no-borders tbody tr:nth-child(even),
 .doc-text table.no-borders tbody tr:nth-child(even) td {
