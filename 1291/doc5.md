@@ -8,30 +8,28 @@
 
 ## Transliteration and Translation
 
-```{list-table}
+```{div} doc-text
+An fürstl. Rentkammer
 
-* - An
-    fürstl. Rentkammer
-    
-    des Soldaten Brüggeman
-    von No 1 in Nordholz
-    
-    Unterthänigste Vorstellung
-    und Bitte:
-    
-    gnädigste Answeisung eines
-    Platzes zum Hausbau mit Garten
-  - To the
-    Princely Rent Chamber
-    
-    [from] the soldier Brüggemann
-    of No. 1 in Nordholz
-    
-    Most humble petition
-    and request:
-    
-    Gracious assignment of
-    a plot of land for the construction of a house with a garden.
+des Soldaten Brüggeman von No 1 in Nordholz
+
+Unterthänigste Vorstellung
+und Bitte:
+
+gnädigste Answeisung eines
+Platzes zum Hausbau mit Garten
+```
+
+```{div} doc-text
+To the Princely Rent Chamber
+
+[from] the soldier Brüggemann of No. 1 in Nordholz
+
+Most humble petition
+and request:
+
+Gracious assignment of
+a plot of land for the construction of a house with a garden.
 ```
 
 ## Document 5

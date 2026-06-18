@@ -85,7 +85,8 @@ suppl Bbg
 ```
 
 ```{div} doc-text
-No. 520             4
+No. 520\
+Document 4
 
 [3 revenue stamps]
 
