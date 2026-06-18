@@ -55,7 +55,8 @@ Princely Rent Chamber
 ## Transliteration and Translation
 
 ```{div} doc-text
-N. 237                                        10.)
+N. 237\
+10.)
 
 [3Gr Stempel]
 
@@ -100,17 +101,18 @@ gesagt, am Mittwochen die Richtung seÿn soll.
 
 Ich ersterbe in tiefster Ehrfurcht Euer Durchlaucht
 
-Unterthänigster
-Vogt
+Unterthänigster\
+Vogt\
 in Nordholz
 
-Suppl.
-Bückeburg am 24sten May 1818.
+Suppl.\
+Bückeburg am 24sten May 1818.\
 Adb. Weissich pr. Gn
 ```
 
 ```{div} doc-text
-No. 237                                                         10.)
+No. 237\
+Document 10
 
 [3 Gr stamp]
 
@@ -157,8 +159,8 @@ stated, the raising is to take place on Wednesday.
 
 In deepest reverence I remain before Your Serene Highness,
 
-Most humble
-Vogt
+Most humble\
+Vogt\
 in Nordholz
 
 Supplicant.
