@@ -9,8 +9,8 @@
 ## Transliteration and Translation
 
 ```{div} doc-text
-N.C. 62                                          3.)
-
+N.C. 62\
+3.,\
 [set of initials]
 
 C.
@@ -45,8 +45,8 @@ equivalents.
 :::
 
 ```{div} doc-text
-N.C. 62                                          3.)
-
+N.C. 62\
+Document 3.\
 C.
 
 To the Office of Bückeburg

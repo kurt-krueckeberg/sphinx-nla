@@ -16,6 +16,13 @@ Untertänigste Vorstellung Bitte:
 Um Platz zum Hausbau
 ```
 
+```{div} doc-text
+To the Princely Rent Chamber
+
+Most humble petition and request of the lodger Voigt of Evesen: concerning
+a plot of land on which to build a house.
+```
+
 ## Petition of the lodger Vogt at Evesen
 
 ```{image} images/07-r.png

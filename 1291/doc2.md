@@ -88,7 +88,7 @@ T Landesberg
 ```
 
 ```{div} doc-text
-Resolution of the Chamber. The Chamber is of the opinion that the small
+Resolution of the Chamber: The Chamber is of the opinion that the small
 parcel marked with A on the drawing, about 1/2 Morgen, should be granted to
 Krückeberg for a reasonable payment.
 
@@ -127,7 +127,7 @@ Falckmann
 ```
 
 ```{div} doc-text
-ad 2 [pertaining to document 2]
+pertaining to document 2
 
 Re: Land allotment
 
