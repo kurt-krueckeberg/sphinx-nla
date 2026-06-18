@@ -9,8 +9,9 @@
 ## Tramsliteration and Translation
 
 ```{div} doc-text
-N. C. 16.                                             7.,
-N. A. 749.
+N. C. 16.\
+N. A. 749.\
+7.,
 
 [various initials]
 
@@ -24,8 +25,8 @@ Auf angezogenen Bericht wird d. Amt beauftragt, die darin
 erwähnte Ausweisung für den Einlieger Vogt zu Evesen zu
 bewerkstelligen u. demnächst hierüber zu berichten.
 
-Bbg. d. 13 Jan 18
-Schnor
+Bbg. d. 13 Jan 18\
+Schnor\
 Spring
 
 mit Zuziehung des Oberförsters, in einer Fläche von 1 bis 1 ½ Morgen
@@ -34,9 +35,9 @@ Exp: p: Alocis
 ```
 
 ```{div} doc-text
-N.C. 16.
-N.A. 749.
-(Folio 7)
+N.C. 16.\
+N.A. 749.\
+Document 7
 
 From the Amt of Bückeburg
 
@@ -48,7 +49,7 @@ and thereafter to report back.
 
 Bückeburg, 13 January 1818
 
-Schnor
+Schnor\
 Spring
 
 The allotment is to be carried out with the participation of the Chief
