@@ -18,21 +18,22 @@
 
 Transliteration
 
-```{div} doc-text
-St. 3 mg.                                      12.)
+````{div} doc-text
+St[emple] 3 mg.\
+12.)
 
-Num: Cam: 257.
+Num: Cam: 257.\
 Num: Pr: 136.
 
-[initials:]
-vdankwarts
+[initials:]\
+vdankwarts\
 MKaas
 
 Exp: p: Knöttge.
 
 Concept Cam: Rescript
 
-Ans Amt Bückeburg
+Ans Amt Bückeburg\
 Ausweisung betr:
 
 Auf den mit planimetrischer Zeichnung versehenen Bericht vom 30. v. M.,
@@ -55,36 +56,44 @@ Fürstlich pp.
 
 Spring
 
-Concept
-An den Kammerrentmeister
-Berger dahier.
-KProbator Botte.
-E[…] Botte
-MKaas
+Concept\
+An den Kammerrentmeister\ 
+Berger dahier.\
+KProbator Botte.\
+E[…] Botte\
+MKaas\
 E[…]
 
 Der Kammerrentmeister Berger wird angewiesen von nachstehenden Personen für
 ausgewiesene Plätze das Geld zu erheben:
 
-1., Von Krückeberg
-No. 10. zu Berenbusch
-für 49 Quadrat Rute à 12 g.                16 rl. 12 g.
+```{list-table}
+:widths: 8 62 30
+:header-rows: 0
+:class: no-borders
 
-2., Von Vogt No. 13.
-zu Nordholz für
- 60 Quadrat Rute à 6 g.  = 10 rl.
-117 Quadrat Rute à 12 g. = 39 rl.          49 rl.
+* - 1.
+  - Von Krückeberg  
+    No. 10 zu Berenbusch  
+    für 49 Quadrat Rute à 12 g.
+  - 16 rl. 12 g.
 
+* - 2.
+  - Von Vogt No. 13 zu Nordholz  
+    für 60 Quadrat Rute à 6 g. = 10 rl.  
+    117 Quadrat Rute à 12 g. = 39 rl.
+  - 49 rl.
 
-3., Von Brüggemann
-No. 14. zu Nordholz für
-60 Quadrat Rute à 6 g. = 10 rl
-103 Quadrat Rute 30 F. à 12 g. =
-               34 rl. 15 g. 4 d.
-                                           44 rl. 15 g. 4 d.
-                                    ------------------------
-                                    Summa 109 rl. 27 g. 4 d.
+* - 3.
+  - Von Brüggemann No. 14 zu Nordholz  
+    für 60 Quadrat Rute à 6 g. = 10 rl.  
+    103 Quadrat Rute 30 F. à 12 g. = 34 rl. 15 g. 4 d.
+  - 44 rl. 15 g. 4 d.
 
+* -
+  - **Summa**
+  - **109 rl. 27 g. 4 d.**
+```
 
 Diese Gelder hat der Kammerrentmeister gehörigen Orts zu vereinnahmen und
 zu verrechnen.
@@ -98,21 +107,22 @@ Spring
 
 Translation
 
-```{div} doc-text
-Stamp: 3 Mariengroschen                                  12.)
+````{div} doc-text
+Stamp: 3 Mariengroschen\
+Document 12
 
-Kammer file no. 257
+Kammer file no. 257\
 Register entry no. 136
 
-[initials:]
-vdankwarts
+[initials:]\
+vdankwarts\
 MKaas
 
 Exp.: by Knöttge
 
 Draft Chamber Rescript
 
-To the Amt of Bückeburg
+To the Amt of Bückeburg\
 Concerning land allocations
 
 In response to the report of the 30th of last month, accompanied by a
@@ -148,22 +158,36 @@ E[…]
 The Chamber Rentmaster Berger is instructed to collect from the following
 persons the payments for the assigned plots:
 
-1. From Krückeberg
-   No. 10 in Berenbusch
-   for 49 square rods at 12 groschen each =      16 rthlr. 12 gr.
+```{list-table}
+:widths: 8 62 30
+:header-rows: 0
+:class: no-borders
 
-2. From Vogt No. 13
-   in Nordholz for
-   60 square rods at 6 groschen = 10 rthlr.
-   117 square rods at 12 groschen = 39 rthlr.    49 rthlr.
+* - 1.
+  - From Krückeberg  
+    No. 10 in Berenbusch  
+    for 49 square rods at 12 groschen each
+  - 16 rthlr. 12 gr.
 
-3. From Brüggemann
-   No. 14 in Nordholz for
-   60 square rods at 6 groschen = 10 rthlr.
-   103 square rods 30 feet at 12 groschen =
-                      34 rthlr. 15 gr. 4 d.      44 rthlr. 15 gr. 4 pf.
-                                         ------------------------------
-                                         Total  109 rthlr. 27 gr. 4 pf.
+* - 2.
+  - From Vogt No. 13  
+    in Nordholz for  
+    60 square rods at 6 groschen = 10 rthlr.  
+    117 square rods at 12 groschen = 39 rthlr.
+  - 49 rthlr.
+
+* - 3.
+  - From Brüggemann  
+    No. 14 in Nordholz for  
+    60 square rods at 6 groschen = 10 rthlr.  
+    103 square rods 30 feet at 12 groschen =  
+    34 rthlr. 15 gr. 4 pf.
+  - 44 rthlr. 15 gr. 4 pf.
+
+* -
+  - **Total**
+  - **109 rthlr. 27 gr. 4 pf.**
+```
 
 These monies are to be received by the Chamber Rentmaster at the proper
 place and entered into account.
