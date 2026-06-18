@@ -103,7 +103,7 @@ Bburg. 17. Junÿ 1818.
 Fürstlich pp.
 
 Spring
-```
+````
 
 Translation
 
@@ -197,5 +197,5 @@ Bückeburg, 17 June 1818.
 Princely pp.
 
 Spring
-```
+````
 
