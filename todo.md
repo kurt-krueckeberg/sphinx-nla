@@ -3,10 +3,7 @@
 ##  Finish 2741/index.md
 
 - Finish formatting the Translation section.
-- Resume review of folder 1291 with doc9.md
-
-
-## Add Einliger Article to this project
+- Resume review of folder 1291 with doc10.md.
 
 It is in [repo](https://github.com/kurt-krueckeberg/funke.git),
 and this file: modern-english-translation.t,
