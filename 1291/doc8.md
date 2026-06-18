@@ -136,7 +136,7 @@ F. Rinnen Kamp N: 8  in Evesen.\
 G. Brügemans Kamp N. 1. in Nordholz\
 H. Ein Weg nach Weilands Kamp N. 1. in Behrenbusch\
 J. Weilands Kamp N. 6. in Nordholz\
-K. Die angrenzende Petzen Horst\
+K. Die angrenzende Petzen Horst
 ```
 
 ```{div} doc-text
@@ -153,6 +153,6 @@ F. Rinne’s field, No. 8 in Evesen.\
 G. Brügeman’s field, No. 1 in Nordholz.\
 H. A path leading to Weiland’s field, No. 1 in Behrenbusch.\
 J. Weiland’s field, No. 6 in Nordholz.\
-K. The adjoining Petzen Horst.\
+K. The adjoining Petzen Horst.
 ```
 

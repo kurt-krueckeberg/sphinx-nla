@@ -61,6 +61,8 @@ holders of grazing rights (Hude rights), after hearing them.
 
 Bückeburg, 13 Feb.
 
+[set of initials]
+
 Dispathced by Schultz
 ```
 

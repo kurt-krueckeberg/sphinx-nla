@@ -48,9 +48,9 @@ N. 520                                  4.
 
 p[räsentiert] 3 Nov 1817
 
-Durchlauchtigster Fürst!
-Gnädigst regierender
-Fürst und Herr!
+Durchlauchtigster Fürst!\
+Gnädigst regierender\
+Fürst und Herr!\
 
 P. N. Der Platz qu: könnte vom Forste wohl entbehrt werden.  Er ist in
 der Pezer Mastforst belegen. B[ückeburg]. 9. Nov. 1817.  MKaas.
@@ -75,12 +75,12 @@ auszuweisen.
 
 Da tiefster Ehrfurcht ersterbe ich Ew. Durchlauchten
 
-unterthänigsten Knecht
+unterthänigsten Knecht\
 Einlieger Voigt zu Evesen
 
 
-suppl Bbg
-3t Nov. 1817
+suppl Bbg\
+3t Nov. 1817\
 [various initials]
 ```
 
@@ -94,8 +94,8 @@ Document 4
 
 Presented 3 Nov. 1817
 
-Most Serene Prince!
-Most gracious reigning
+Most Serene Prince!\
+Most gracious reigning\
 Prince and Lord!
 
 Note. The place in question could well be spared from the forest. It lies
@@ -120,10 +120,10 @@ building of a house, together with some yard space and garden land.
 
 In deepest reverence I remain unto Your Serene Highness
 
-your most humble servant,
+your most humble servant,\
 Einlieger (lodger) Voigt of Evesen
 
-Suppl. Bückeburg
+Suppl. Bückeburg\
 3 Nov. 1817
 
 [various initials]
@@ -138,7 +138,8 @@ Res: Cam: Dem Amte Bückeburg b: M: zum Berichte mitzuteilen in Beziehung
 auf die Huthberechtigten, und auf das Vermögen und die Persönlichkeit des
 Supplicaten
 
-B. 10 Nov. 1817                            MKaas
+B. 10 Nov. 1817\
+MKaas
 ```
 
 Translation
@@ -149,6 +150,7 @@ report concerning the holders of grazing (common pasture) rights, and
 concerning the petitioner’s financial means and personal circumstances.
 
 Suppl[icant]
-Bückeburg, 10 November 1817.             M. Kaas
+Bückeburg, 10 November 1817.\
+M. Kaas
 ```
 

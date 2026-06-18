@@ -74,5 +74,5 @@ that some grass might grow there.
 I rely, Most Serene Prince and Lord, upon Your kindness.
 
 No. 10 Berenbusch, 1 January 1817\
-Schuster Krückeberg
+Shoemaker Krückeberg
 ```
