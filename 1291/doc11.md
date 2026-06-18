@@ -70,7 +70,7 @@ So this note is basically saying:
 Transliteration
 
 ```{div} doc-text
-N. 257.
+N. 257.\
 [document number:]11.
 
 [3G Stempel]
@@ -79,21 +79,21 @@ p[räsentiert]. 7. Juni 1818
 
 [routing notation]
 
-[vertical text on left side - Kammeral resolution]
-Res: Cam: Genehmiget und ist das Nöthige an die Behörden zu erlassen.
+[vertical text on left side - Kammeral resolution]\
+Res: Cam: Genehmiget und ist das Nöthige an die Behörden zu erlassen.\
 B. 15. Jun. 1818
 MKaas
 
-[cross references:]
-ad N: C. 62.       anni 1817 (See Kammer file no. 62 from 1817)
+[cross references:]\
+ad N: C. 62.       anni 1817 (See Kammer file no. 62 from 1817)\
 ad N: C. 168 & 101 anni 1818 (See Kammer files nos. 168 & 101 from 1818)
 
-N: pr. 237. a. p: ct 33. 136. ac.
-[Explanation: Recorded in the Kammer’s document register as entry no. 237;
+N: pr. 237. a. p: ct 33. 136. ac.\
+[Explanation: Recorded in the Kammer’s document register as entry no. 237;\
 see also entries 33 and 136.]
 
-An Fürstliche Kammer Bericht der Aemter Bückeburg und Arensburg
-betr.
+An Fürstliche Kammer Bericht der Aemter Bückeburg und Arensburg\
+betr.\
 Ausweisung
 
 
@@ -111,13 +111,13 @@ Neubauer Brüggemann Sub No. C. 101 der zu bezahlende Rutenpreiß à 1/2 Mg.
 auf 6 g 5 p: Ruthe, und auf 12 g p Ruthe das übrige Grund und Boden
 bestimmt ist, hiernach zu bezahlen haben.
 
-P. N.
+P. N.\
 Die Prästanden sind nach Ablauf 3. Freier Jahre zu entrichten, also
-spätestens zu Michaeli 1822.
+spätestens zu Michaeli 1822.\
 MKaas
 
-Bückeburg 30t Maÿ 1818.
-Habicht Neufsel
+Bückeburg 30t Maÿ 1818.\
+Habicht ᐧ Neufsel
 ```
 
 ```{list-table} an Kaufgeld table in text
@@ -216,7 +216,8 @@ L. Stille
 ## Translation
 
 ```{div} doc-text
-No. 257 — 11.)
+No. 257\
+Document 11
 
 [3 Groschen stamp]
 
@@ -224,20 +225,19 @@ Presented 7 June 1818
 
 [routing notation]
 
-Chamber resoution: Approved, and the necessary orders are to be issued to
-the authorities.
-Bückeburg, 15 June 1818
+Chamber resoution: Approved, and the necessary orders are to be issued to the authorities.\
+Bückeburg, 15 June 1818\
 M. Kaas
 
-See Kammer file no. 62 from 1817
+See Kammer file no. 62 from 1817\
 See Kammer files nos. 168 and 101 from 1818
 
 Recorded in the Kammer’s document register as entry no. 237; see also
 entries 33 and 136
 
-To the Princely Chamber
-Report of the Offices of Bückeburg and Arensburg
-concerning
+To the Princely Chamber\
+Report of the Offices of Bückeburg and Arensburg\
+concerning\
 land assignment
 
 Memorandum. From this report, from the following Chamber rescript, and from the
@@ -254,13 +254,13 @@ submit the survey drawing; and since for the new settler Brüggemann, under No. 
 5 Pfennig per rod, and the remaining land at 12 Groschen per rod, payment is to be
 made accordingly.
 
-P. N.
+P. N.\
 The dues are to be paid after the expiration of three free years, therefore no
-later than Michaelmas 1822.
+later than Michaelmas 1822.\
 M. Kaas
 
-Bückeburg, 30 May 1818
-Habicht Neufsel
+Bückeburg, 30 May 1818\
+Habicht ᐧ Neufsel\
 ```
 
 ```{list-table} Kaufgeld table in text
@@ -352,7 +352,7 @@ Specification of three land assignments in the Baumer Forest.
 The above three land assignments, the drawing of which is attached here,
 are situated in the Baumer Forest, near Nordholz.
 
-Bückeburg, 9 March 1818
+Bückeburg, 9 March 1818\
 L. Stille
 ```
 
