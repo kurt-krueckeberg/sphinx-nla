@@ -27,10 +27,13 @@
     padding: 1rem 1.25rem;
     margin-bottom: 1.5rem;
 }
+
+/* removes even rows as lighter in color 
 .doc-text table.no-borders tbody tr:nth-child(even),
 .doc-text table.no-borders tbody tr:nth-child(even) td {
     background: transparent !important;
 }
+*/
 /* creates a shadow-obrder for images */
 img.image-override,
 .image-override img {
