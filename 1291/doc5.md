@@ -77,12 +77,12 @@ Mir gnädigst fordersamst willfährige Resolution zu ertheilen.
 
 In tiefster Ehrfurcht ersterbe ich Ew. Durchlauchten
 
-unterthänigster
-Soldat Brüggemann
+unterthänigster\
+Soldat Brüggemann\
 von No 1 zu Nordholz
 
-Suppl
-Bbrg d 15 Dbr 1817
+Suppl\
+Bbrg d 15 Dbr 1817\
 Aswellmann p [?] [?]
 ```
 
@@ -135,12 +135,12 @@ That a gracious and prompt favorable decision be granted to me.
 
 In deepest reverence I remain before Your Serene Highness,
 
-your most humble servant
-Soldier Brüggemann
+your most humble servant\
+Soldier Brüggemann\
 from No. 1 at Nordholz
 
-Petition
-Bückeburg, 15 December 1817
+Petition\
+Bückeburg, 15 December 1817\
 Aswellmann p [?] [?]
 ```
 
@@ -159,7 +159,8 @@ in Betreff des ähnlichen Gesuchs des Einl[ieger]: Voigt ist eine
 Situations-Zeichnung der Lage der in Antrag gebrachten neuen Colonien
 beizufügen.
 
-Bückeb: 22 Dec. 1817 MKaas
+Bückeb: 22 Dec. 1817\
+MKaas
 ```
 
 ```{div} doc-text
@@ -172,7 +173,7 @@ the report regarding the similar petition of the Einlieger (lodger) Voigt,
 a location sketch showing the position of the newly proposed settlement
 sites is to be attached.
 
-Bückeburg, 22 December 1817
+Bückeburg, 22 December 1817\
 M. Kaas
 ```
 
