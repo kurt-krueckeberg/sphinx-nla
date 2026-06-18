@@ -79,13 +79,14 @@ appropriate.
 Transliteration
 
 ```{div} doc-text
-N. 16                                                          6.,
+N. 16\
+6.,
 
 [3 Gr Stempel]
 
 [routing notation]
 
-ad: C: N: 520
+ad: C: N: 520\
 No pr: 749
 
 p[räsenitert] 7 Juni 1818
@@ -144,18 +145,19 @@ decision afterward, especially when the larger farmers support it.
 Translation
 
 ```{div} doc-text
-No. 16                    6
+No. 16\
+Document 6
 
 [3 GR stamps]
 
 [routing notation]
 
-ad: C: N: 520
+ad: C: N: 520\
 No pr: 749
 
 Presented 7 June 1818
 
-Princely Chamber
+Princely Chamber\
 Report of the Offices of Bückeburg and Arensburg
 
 Allotment
@@ -204,15 +206,14 @@ does not issue a new order; it simply records that the allotment stands in
 the implementation stage.
 
 ```{div} doc-text
-Res. Cam. Nach
-die Ausweisung einer zu  bewirkfällige[n]
- Bbg d 12 Jan 1818
+Res. Cam. Nach die Ausweisung einer zu  bewirkfällige[n]\
+Bbg d 12 Jan 1818\
          in. fid. Spring
 ```
 
 ```{div} doc-text
-Chamber Resolution: Accordingly, the allotment is to be carried out.
-Bückeburg, 12 January 1818.
+Chamber Resolution: Accordingly, the allotment is to be carried out.\
+Bückeburg, 12 January 1818.\
 Certified: Spring.
 ```
 
