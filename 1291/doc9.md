@@ -14,9 +14,10 @@
 
 ```{div} doc-text
 ad. Num: Cam: 101.\
-9.,\
 ad. Num. Praef. 831.\
 Concept.
+
+9.,\
 
 [signatures]\
 Spring\
@@ -81,9 +82,10 @@ both square feet and acres.
 
 ```{div} doc-text
 ad. Num: Cam: 101\
-Document 9\
 ad. Num. Praef. 831.\
 Draft
+
+Document 9
 
 [signatures]\
 Spring\
