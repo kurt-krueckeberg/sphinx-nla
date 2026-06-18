@@ -3,7 +3,7 @@
 ##  Finish 2741/index.md
 
 - Finish formatting the Translation section.
-- Resume review of folder 1291 with doc10.md.
+- Resume review of folder 1291 with doc12.md.
 
 It is in [repo](https://github.com/kurt-krueckeberg/funke.git),
 and this file: modern-english-translation.t,
