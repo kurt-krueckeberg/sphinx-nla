@@ -1,4 +1,4 @@
-/* remove gird/border lines from a table in a {div} doc-text block */
+/* removes gird/border lines from a table in a {div} doc-text block 
 .doc-text table,
 .doc-text th,
 .doc-text td {
@@ -15,6 +15,29 @@
 
 .doc-text tr {
     border: none !important;
+}
+*/
+.doc-text table {
+    border-collapse: collapse;
+}
+
+/* draw only internal cell lines */
+.doc-text th,
+.doc-text td {
+    border-top: 1px solid var(--pst-color-border);
+    border-left: 1px solid var(--pst-color-border);
+}
+
+/* remove top outside border */
+.doc-text tr:first-child th,
+.doc-text tr:first-child td {
+    border-top: none;
+}
+
+/* remove left outside border */
+.doc-text th:first-child,
+.doc-text td:first-child {
+    border-left: none;
 }
 .doc-text {
     font-family: var(--pst-font-family-base);
