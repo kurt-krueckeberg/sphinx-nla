@@ -28,8 +28,20 @@ Bückeburg
 ```
 
 ```{div} doc-text
-This is to certify that the colonist Vogt, no. 13 in Nordholz, has paid
-forty-nine Reichsthaler into the Princely Chamber Treasury for an assigned
-plot of land, for which payment is hereby acknowledged.
+Document 13.
+
+No. 372
+
+[receipt / acknowledgment]
+
+That the Colon Vogt No. 13 in Nordholz has paid forty-nine Reichsthaler
+into the Princely Chamber treasury for an assigned parcel of land is hereby
+acknowledged.
+
+Berger
+
+Bückeburg, 14 September 1818
+
+49 Reichsthaler
 ```
 
