@@ -130,8 +130,7 @@ belegen, und an Nordholz grenzet.
 A. Für den Vogt.\
 B. Für den Brüggeman.\
 C. Bruns Haus N 12 in Nordholz\
-D. Die Strasse, welche aus Nordholz\
-   Wald führet.\
+D. Die Strasse, welche aus Nordholz im Wald führet.\
 E. Der Weg von Bruns Hause nach der Tiefen Strasse.\
 F. Rinnen Kamp N: 8  in Evesen.\
 G. Brügemans Kamp N. 1. in Nordholz\
