@@ -126,17 +126,18 @@ soll der Platz, mit A und B.
 bezeichnete für zwey Neubauer
 sein, welcher in der Petzer Horst
 belegen, und an Nordholz grenzet.
-A. Für den Vogt.
-B. Für den Brüggeman.
-C. Bruns Haus N 12 in Nordholz
-D. Die Strasse, welche aus Nordholz
-im Wald führet.
-E. Der Weg von Bruns Hause nach der Tiefen Strasse.
-F. Rinnen Kamp N: 8  in Evesen.
-G. Brügemans Kamp N. 1. in Nordholz
-H. Ein Weg nach Weilands Kamp N. 1. in Behrenbusch
-J. Weilands Kamp N. 6. in Nordholz
-K. die angrenzende Petzen Horst
+
+A. Für den Vogt.\
+B. Für den Brüggeman.\
+C. Bruns Haus N 12 in Nordholz\
+D. Die Strasse, welche aus Nordholz\
+   Wald führet.\
+E. Der Weg von Bruns Hause nach der Tiefen Strasse.\
+F. Rinnen Kamp N: 8  in Evesen.\
+G. Brügemans Kamp N. 1. in Nordholz\
+H. Ein Weg nach Weilands Kamp N. 1. in Behrenbusch\
+J. Weilands Kamp N. 6. in Nordholz\
+K. Die angrenzende Petzen Horst\
 ```
 
 ```{div} doc-text
@@ -144,15 +145,15 @@ By order of the Forestry Directorate, the plot marked A and B is to be
 designated for two new settlers; it is situated in the Petzen Horst and
 borders on Nordholz.
 
-A. For Vogt.
-B. For Brüggeman.
-C. Bruns’s house, No. 12 in Nordholz.
-D. The road leading from Nordholz into the forest.
-E. The path from Bruns’s house to the Tiefenstraße (Deep Road).
-F. Rinne’s field, No. 8 in Evesen.
-G. Brügeman’s field, No. 1 in Nordholz.
-H. A path leading to Weiland’s field, No. 1 in Behrenbusch.
-J. Weiland’s field, No. 6 in Nordholz.
-K. The adjoining Petzen Horst.
+A. For Vogt.\
+B. For Brüggeman.\
+C. Bruns’s house, No. 12 in Nordholz.\
+D. The road leading from Nordholz into the forest.\
+E. The path from Bruns’s house to the Tiefenstraße (Deep Road).\
+F. Rinne’s field, No. 8 in Evesen.\
+G. Brügeman’s field, No. 1 in Nordholz.\
+H. A path leading to Weiland’s field, No. 1 in Behrenbusch.\
+J. Weiland’s field, No. 6 in Nordholz.\
+K. The adjoining Petzen Horst.\
 ```
 
