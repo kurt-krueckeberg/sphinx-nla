@@ -22,8 +22,7 @@ his name).]\
 An die Kammer zum Gutachten.\
 Georg Wilhelm.
 
-[?] Oberf[orster] Kaas\
-zum Gutachten\
+[?] Oberf[orster] Kaas zum Gutachten\
 [unreadable] 8. Juni 1817\
 [initials]
 
@@ -55,8 +54,7 @@ Received in Bückeburg 7 June 1817
 To the Chamber for an opinion.\
 Georg Wilhelm
 
-[?] Chief Forester Kaas\
-for review\
+[?] Chief Forester Kaas for review\
 [unreadable] 8 June 1817\
 [initials]
 
