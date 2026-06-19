@@ -2,7 +2,7 @@
 
 ## Petition Docket Page
 
-```{image} images/20-l.png
+```{figure} images/20-l.png
 :class: image-override
 ```
 
@@ -38,20 +38,20 @@ Princely Rent Chamber
 
 ## Petition of Vogt
 
-```{image} images/17-r.png
+```{figure} images/17-r.png
 :class: image-override
 ```
 
-```{image} images/18-l.png
+```{figure} images/18-l.png
 :class: image-override
 ```
 
-```{image} images/19-r.png
+```{figure} images/19-r.png
 :class: image-override
 ```
 
 (brueggeman-vogt-plots)=
-```{image} images/18-r.png
+```{figure} images/18-r.png
 :class: image-override
 
 Brüggemann's and Vogt's new Plots of Land
