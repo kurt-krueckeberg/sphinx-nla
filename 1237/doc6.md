@@ -81,7 +81,7 @@ worden. So geschehen Bückeburg d. 1 December 1800.
 Grafl: Schaumburg; Lippische zur vormundschaftliche Rentcammer verordnete
 Director und Räthe
 
-Gladbeck v. Landesberg Maas Windt
+Gladbeck ᐧ v. Landesberg ᐧ Maas ᐧ Windt
 
 Wippermann
 ```

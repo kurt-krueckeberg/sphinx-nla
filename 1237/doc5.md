@@ -92,7 +92,7 @@ Wir verbleiben p,\
 Bückeburg d. 27. October 1800\
 Graftl:[Gräflich] p
 
-J. Danckwerth Mkaas Wint
+J. Danckwerth ᐧ Mkaas ᐧ Wint
 ```
 
 ## Translation
@@ -148,9 +148,7 @@ vereinnahmen, und solche mit dieser Anweisung zu rechtfertigen.
 Bückeburg den 27. October 1800.\
 Gräflich : p
 
-Mkaas\
-[J??] Danckwerk\
-Wint
+Mkaas ᐧ [J??] Danckwerk ᐧ Wint
 
 Wipperman
 ```
@@ -176,10 +174,7 @@ heading and accounted for with this directive.
 Bückeburg, 27 October 1800\
 For the Count
 
-Mkaas\
-[J??] Danckwerk\
-Wint
-
+Mkaas ᐧ [J??] Danckwerk ᐧ Wint
 
 
 Wippermann
