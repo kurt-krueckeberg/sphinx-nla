@@ -50,8 +50,11 @@ Princely Rent Chamber
 :class: image-override
 ```
 
+(brueggeman-vogt-plots)=
 ```{image} images/18-r.png
 :class: image-override
+
+Brüggemann's and Vogt's new Plots of Land
 ```
 
 ## Transliteration
