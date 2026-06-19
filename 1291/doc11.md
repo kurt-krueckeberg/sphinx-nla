@@ -14,8 +14,11 @@
 :class: image-override
 ```
 
+(krueckeberg-brüggemann-no1)=
 ```{figure} images/23-l.png
 :class: image-override
+
+Krückeberg Kamp vor der Söhre
 ```
 
 ```{list-table} Definitions of Map Terms

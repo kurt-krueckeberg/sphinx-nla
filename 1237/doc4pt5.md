@@ -15,9 +15,11 @@ Document 4, which it supplemented, is dated over a year later, October 18,
 negotiations, inspections, and back-and-forth between offices.
 earlier.
 
-
+(tailor-krückeberg-enlargement)=
 ```{figure} images/08-right-page.png
 :class: image-override
+
+Jobst Heinrich Krückeberg allotment for a enlargement of land
 ```
 
 ### Transliteration of Diagram Text

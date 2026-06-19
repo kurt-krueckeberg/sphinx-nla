@@ -1,8 +1,9 @@
 # Map List
 
-- {ref}`Brügemann Vogt Plots <brueggeman-vogt-plots>`
+- {ref}`brueggeman-vogt-plots`
+- {ref}`krueckeberg-brüggemann-no1`
+- {ref}`tailor-krueckeberg-enlargement`
 <!-- 
-- {doc}`../1291/doc10`
 - {doc}`../1291/doc11`
 - {doc}`../1237/doc4pt5`
 -->
