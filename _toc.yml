@@ -237,6 +237,10 @@ parts:
           - file: 188/doc2
           - file: 188/doc3
 
+  - caption: Maps in Case Files
+    chapters:
+      - file: maps/map-list.md
+
 # - caption: Non-Archival Documents
 #   chapters:
 #     - file: nonarchive/einlieger
