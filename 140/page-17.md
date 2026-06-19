@@ -56,15 +56,11 @@ Dorf Nodholz
 change of **holder** for a numbered holding: **Former holder** → **now**
 → **current holder**. So the entry:
 
-## Translation
-
 ```{div} doc-text
 Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
 ```
 
 means:
-
-## Transliteration
 
 ```{div} doc-text
 Johann Tönnies Eggerding, now Johann Heinrich Krückeberg.
