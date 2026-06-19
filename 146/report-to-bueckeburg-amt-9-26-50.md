@@ -48,3 +48,49 @@ Concept
 confirmat.
 ```
 
+## Translation
+
+```{div} doc-text
+N. C. 4549.  
+N. P. 1362.
+
+Stamp duty: 3 Königsgroschen.
+
+Expedited by Rosenb[erg?]  
+26 September.
+
+[Barken Why]
+
+[returned copy]  
+[?]
+
+Report to the Amt Bückeburg.
+
+Concerning the sale of the Krückeberg property No. 18 in Berenbusch:
+
+The deed of sale submitted and confirmed in the above-mentioned matter
+is returned herewith.
+
+Bückeburg, 26 September 1850.
+
+F. p.  
+Spring
+
+Expedited the same day.
+
+[Barken Why]
+
+[returned copy]  
+[?]
+
+The foregoing deed of sale is hereby approved and confirmed.
+
+Bückeburg, 26 September 1850.
+
+[L. L.] F. p.  
+Spring
+
+
+Office copy.  
+Confirmed.
+```
