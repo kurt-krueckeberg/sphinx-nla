@@ -48,7 +48,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 [3 Gr. Stempel]                                  14.)
@@ -113,6 +113,8 @@ Bück d 21. Sept. 1818.
 
 MKaas
 ```
+
+## Translation
 
 ```{div} doc-text
 [3 Groschen stamp]                                  14.)

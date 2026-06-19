@@ -6,7 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 13.)
@@ -26,6 +26,8 @@ Bückeburg
 
 49 Rthlr
 ```
+
+## Translation
 
 ```{div} doc-text
 Document 13.

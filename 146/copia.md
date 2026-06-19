@@ -33,7 +33,6 @@ submitted to the Princely Rent Chamber for final approval.
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 ```{note}
 In the third paragraph below,
@@ -41,7 +40,7 @@ In the third paragraph below,
 by nails.”
 ```
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Copie
@@ -128,7 +127,7 @@ gez. Lagerfeldt Krieger König
 (L. S.)
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Copy

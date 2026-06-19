@@ -10,7 +10,6 @@
 :class: image-override
 ```
 
-### Transliteration and Translation
 
 There are numerous abbrevations used in **NC 2422**. This table summarizes them.
 
@@ -72,7 +71,7 @@ There are numerous abbrevations used in **NC 2422**. This table summarizes them.
     **When/By whom:** Clerk at registration (after the letter was received).
 ```
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Abschrift Anweisung der Kammer
@@ -93,7 +92,7 @@ gehörigen Orts zu verausgeben und diese Ausgabe mit dieser
 Quittung zu belegen.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Copy. Order of the Chamber for the chamber treasurer Berger.
@@ -130,6 +129,8 @@ receipt.
 
 Right-side request (large hand; includes heading)
 
+## Transliteration
+
 ```{div} doc-text
 An
 Fürstl. Rentkammer
@@ -146,6 +147,8 @@ Berger
 
 Right-side request (large hand; includes heading)
 
+## Translation
+
 ```{div} doc-text
 To the Princely Rent Chamber
 
@@ -160,6 +163,8 @@ Berger
 ```
 
 Left-side minute/response (small hand; Rentkammer; signed Reck)
+
+## Transliteration
 
 ```{div} doc-text
 H.
@@ -178,6 +183,8 @@ Reck
 ```
 
 Left-side minute/response (small hand; Rentkammer; signed Reck)
+
+## Translation
 
 ```{div} doc-text
 The promissory note is to be annotated with the following
@@ -218,6 +225,8 @@ TODO: Change this table to make it look like the one above with **Meaning**, **P
   - **"Dispatched/expedited"** by Schöttd., dated 8 May (1845). A routing/handling note.
 ```
 
+## Transliteration
+
 ```{div} doc-text
                    N.C. 2696
 
@@ -240,6 +249,8 @@ Spm       L
 
                                          verte
 ```
+
+## Translation
 
 ```{div} doc-text
                    N.C. 2696
@@ -265,6 +276,8 @@ Spm       L
                             turn the page
 ```
 
+## Transliteration
+
 ```{div} doc-text
 Probatur.
 Eingetragen. Die Stückzinsen
@@ -272,6 +285,8 @@ sind v. 12./1 bis 28/4 1845 (3 1/2 Mt.)
 gezahlt mit [initialed: DH] 2 rt 12 gr
 Poppelbaum
 ```
+
+## Translation
 
 ```{div} doc-text
 Approved.
@@ -305,6 +320,8 @@ Poppelbaum.
   - **Meaning:** "Dispatched/expedited" by Schöttd., dated 8 May (1845). A routing/handling note.**Placement:** TODO**Who / When:**
 ```
 
+## Transliteration
+
 ```{div} doc-text
 Concept Quittung.
 
@@ -319,6 +336,8 @@ Bburg 5. Mai 1845.
 
 L
 ```
+
+## Translation
 
 ```{div} doc-text
 Official Draft.

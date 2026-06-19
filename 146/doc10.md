@@ -6,9 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Num: 452.
@@ -25,7 +23,7 @@ Staackmann
 17 Rthlr 3 gl. Münze
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 No. 452.

@@ -6,7 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 Unterthänigste Bitte
@@ -22,6 +22,8 @@ hat eine Anlage
 An
 Fürstliche Rentkammer
 ```
+
+## Translation
 
 ```{div} doc-text
 Most humble petition
@@ -52,7 +54,7 @@ Princely Rent Chamber
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 N. 237\
@@ -109,6 +111,8 @@ Suppl.\
 Bückeburg am 24sten May 1818.\
 Adb. Weissich pr. Gn
 ```
+
+## Translation
 
 ```{div} doc-text
 No. 237\

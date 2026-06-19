@@ -10,9 +10,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 NC. 4456
@@ -40,7 +38,7 @@ Bbg 19/9 50
 Barkhausen
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 NC. 4456
@@ -72,6 +70,8 @@ Written in a smaller hand onto the bottom-left of the document are the
 results of an **internal check by the Rentkammer** to make sure the fees and
 obligations attached to the property were listed correctly before approving
 its sale. It notes that **one fee was wrong** and that the others were correct.
+
+## Transliteration
 
 ```{div} doc-text
 Nach der Höckersauer M. Rechnung Berenbusch muß von der Stätte Nr 18 in

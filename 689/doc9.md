@@ -4,9 +4,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 NC 818                          pr. im Cam 15 Febr 42
@@ -49,7 +47,7 @@ an Krückeberg zugestellt.
 Schtt.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 NC 818 – Presented in the Chamber, 15 February 1842

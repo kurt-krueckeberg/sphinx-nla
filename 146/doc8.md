@@ -25,9 +25,7 @@ The difference is:
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 394. F. S.\
@@ -57,7 +55,7 @@ B. 11. Decem.\
 1809.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 394. F. S.\

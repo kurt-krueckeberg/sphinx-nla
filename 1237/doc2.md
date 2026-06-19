@@ -36,9 +36,7 @@ garden expansions in Berenbusch and to report back.
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Cam: N: 53.\
@@ -82,7 +80,7 @@ was a small edge-of-village holding. It tells us:
 - His household was a **craftsman’s holding**
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Chamber No. 53\
@@ -118,7 +116,7 @@ H. Habicht. ·  Stölting
 
 This reaction is written onto the left side of Document 2 to give feedback.
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Res Cam [Rescriptum Cammerale]
@@ -132,7 +130,7 @@ B. 10. März\
 M
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Official Resolution of the Chamber

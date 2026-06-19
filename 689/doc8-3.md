@@ -10,7 +10,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 Concept an den Kammerrentmeister Berger
@@ -33,6 +33,8 @@ Krückeberg zu erheben u[nd] zu vernehmen.
 P.n.
 Das Capital ist am 25. Jan. 1842 ausgezahlt
 ```
+
+## Translation
 
 ```{div} doc-text
 Office Draft to the Treasurer Berger

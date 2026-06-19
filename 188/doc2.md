@@ -131,7 +131,6 @@ Fürstl. Bückeb. Amt.
 
 ## Translation
 
-
 ```{div} doc-text
 [2-groschen stamp]
 

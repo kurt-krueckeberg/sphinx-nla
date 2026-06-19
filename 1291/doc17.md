@@ -8,7 +8,7 @@
 
 ## Transliteration and Translation of Outer Address Page
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Num: Cam: 392.
@@ -33,7 +33,7 @@ Bburg 7. Oct. 1818.
 Fürstlich pp.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Chamber File No. 392

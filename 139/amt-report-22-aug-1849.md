@@ -16,11 +16,12 @@ resolution dated the 13th of the month, it will collect a 12 Mariengroschen
 stamp duty from Krückeberg and will forward the amount. The document is
 issued from Bückeburg on 22 August 1849 and signed by Höner.
 
-## Transliteration and Translation
 
 ```{image} images/10-r.png
 :class: image-override
 ```
+
+## Transliteration
 
 ```{div} doc-text
 Nr. 4997
@@ -61,6 +62,8 @@ Bückeburg 22 August 1849
 
 Höner
 ```
+
+## Translation
 
 ```{div} doc-text
 No. 4997

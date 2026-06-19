@@ -14,9 +14,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 St. 6 mg.                                                20.)
@@ -76,6 +74,8 @@ Ruthen).
 ```
 
 Translation of Purchase Contract
+
+## Translation
 
 ```{div} doc-text
 Office Copy of the Purchase Contract for the Neubauer Vogt No. 13 at

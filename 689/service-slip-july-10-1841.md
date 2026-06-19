@@ -4,7 +4,6 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 These look like Amt-level service/processing fees, not fees charged by the Rentkammer itself. The slip is signed by
 Möller, Amtsdiener, and refers to the insinuation (formal service) of the “gleichlautendes Gegenbescheid”

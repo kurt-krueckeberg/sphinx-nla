@@ -155,9 +155,7 @@ transformation in status,
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 N. C. 368.
@@ -217,7 +215,7 @@ indicate error; some forms may reflect local usage or abbreviated
 scribal practice.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 N. C. 368.\

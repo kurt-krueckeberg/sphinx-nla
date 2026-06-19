@@ -50,7 +50,6 @@ step.
                         12 l
 ```
 
-## Transliteration and Translation
 
 ```{list-table}
 :header-rows: 1

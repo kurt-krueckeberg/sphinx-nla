@@ -14,7 +14,7 @@ is merely the left side of the [first page](doc1-1.md) of the widow Krückeberg�
 
 ## Translation and Transliteration
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
                  R. C. b. m. zum Amtsbericht
@@ -43,7 +43,7 @@ Bewilligt            Spang
 Georg Wilhelm.   Verte
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Rentkammer note: case assigned to me for handling the report from the
@@ -87,7 +87,7 @@ request in the Amt report.
 :class: image-override
 ```
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Es ist auch nach Bericht darüber zu fordern, ob Supplikantin das Stück
@@ -99,7 +99,7 @@ geh.
 Vert.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 It is also to be requested by report whether the petitioner still

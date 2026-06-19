@@ -16,7 +16,7 @@ chamber treasury.
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 NC. 5038                             pr. in Cam 12 Nov. 41
@@ -71,6 +71,8 @@ Den 11. Nov. 1841.                     Colon Krückeberg
 Conc[ipist]. GW Fuchs.                No 10 in Berenbusch.
 progg[short for:protokollieren].
 ```
+
+## Translation
 
 ```{div} doc-text
 NC. 5038            presented in the Chamber 12 Nov. [18]41

@@ -77,9 +77,7 @@ petition of Colon Krückeberg, herewith returned.”
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 An
@@ -91,7 +89,7 @@ um Anlehns den-
 sens[dessens] pp
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 To
@@ -112,7 +110,7 @@ for loan consent, etc
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 NC 4381                             pr. in Cam 2 Oct 1841
@@ -160,6 +158,8 @@ d. 2ten Ditto. 1841.                   Colon Krückeberg
 Conc[ipist]. GWFuchs.                  Nr 10 in Berenbusch.
 progg[short for:protokollieren].
 ```
+
+## Translation
 
 ```{div} doc-text
 NC 4381                   presented in Cammer 2 Oct 1841

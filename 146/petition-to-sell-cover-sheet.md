@@ -6,9 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 An Fürstliche Rentkammer
@@ -18,7 +16,7 @@ des Colonen Krückeberg No 18 in Berenbusch gehorsamstes Gesuch
 Stättener Lauf betr.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Most humble petition of Colon Krückeberg No. 18 in Berenbusch concerning

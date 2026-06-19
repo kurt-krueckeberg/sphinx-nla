@@ -52,7 +52,6 @@ non-appearance (or non-response)**, not after a contested hearing.
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 ```{list-table}
 :header-rows: 1

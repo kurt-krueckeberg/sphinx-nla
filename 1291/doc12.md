@@ -14,9 +14,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ````{div} doc-text
 St[emple] 3 mg.\
@@ -105,7 +103,7 @@ Fürstlich pp.
 Spring
 ````
 
-Translation
+## Translation
 
 ````{div} doc-text
 Stamp: 3 Mariengroschen\

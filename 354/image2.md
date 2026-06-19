@@ -4,7 +4,6 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 ### Actum d. 24. 9br. 1725 or Held on the 24th of November 1725
 

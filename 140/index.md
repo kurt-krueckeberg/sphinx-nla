@@ -17,7 +17,7 @@ mircofiche at the Bückeburg archive, found it only covers the year
 :class: image-override
 ```
 
-### Transliteration
+## Transliteration
 
 ```{div} doc-text
 Colonatsachen
@@ -35,7 +35,7 @@ angefertigt worden.
 Kolonen
 : Tenant holders under the Kolonat system (hereditary leaseholds).
 
-### Translation
+## Translation
 
 ```{div} doc-text
 Colonate Matters

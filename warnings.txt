@@ -1,0 +1,34 @@
+Updated: /home/kurt/temp/sphinx-nla/140/page-17.md
+  WARNING: odd number of doc-text blocks found: 3
+Updated: /home/kurt/temp/sphinx-nla/146/report-to-bueckeburg-amt-9-26-50.md
+  WARNING: odd number of doc-text blocks found: 1
+Updated: /home/kurt/temp/sphinx-nla/146/report-to-kammer-from-bueckeburg-amt-9-19-50.md
+  WARNING: odd number of doc-text blocks found: 3
+Updated: /home/kurt/temp/sphinx-nla/146/report-to-kammer-from-bueckeburg-amt-9-26-50.md
+  WARNING: odd number of doc-text blocks found: 1
+Updated: /home/kurt/temp/sphinx-nla/188/doc3.md
+  WARNING: odd number of doc-text blocks found: 1
+Updated: /home/kurt/temp/sphinx-nla/2741/cover.md
+  WARNING: odd number of doc-text blocks found: 1
+Updated: /home/kurt/temp/sphinx-nla/2741/title.md
+  WARNING: odd number of doc-text blocks found: 1
+Updated: /home/kurt/temp/sphinx-nla/689/doc2-1.md
+  WARNING: odd number of doc-text blocks found: 3
+Updated: /home/kurt/temp/sphinx-nla/689/literal-doc-index.md
+  WARNING: odd number of doc-text blocks found: 1
+Updated: /home/kurt/temp/sphinx-nla/_build/html/_sources/140/page-17.md
+  WARNING: odd number of doc-text blocks found: 3
+Updated: /home/kurt/temp/sphinx-nla/_build/html/_sources/146/report-to-bueckeburg-amt-9-26-50.md
+  WARNING: odd number of doc-text blocks found: 1
+Updated: /home/kurt/temp/sphinx-nla/_build/html/_sources/146/report-to-kammer-from-bueckeburg-amt-9-19-50.md
+  WARNING: odd number of doc-text blocks found: 3
+Updated: /home/kurt/temp/sphinx-nla/_build/html/_sources/146/report-to-kammer-from-bueckeburg-amt-9-26-50.md
+  WARNING: odd number of doc-text blocks found: 1
+Updated: /home/kurt/temp/sphinx-nla/_build/html/_sources/188/doc3.md
+  WARNING: odd number of doc-text blocks found: 1
+Updated: /home/kurt/temp/sphinx-nla/_build/html/_sources/689/doc2-1.md
+  WARNING: odd number of doc-text blocks found: 3
+Updated: /home/kurt/temp/sphinx-nla/creating-nla-citations.md
+  WARNING: odd number of doc-text blocks found: 11
+
+

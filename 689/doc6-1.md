@@ -12,7 +12,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 Ad NC 5587                   6
@@ -31,6 +31,8 @@ Bbg 16. Decbr 41
           Reck
 Verte
 ```
+
+## Translation
 
 ```{div} doc-text
 regarding NC 5587 [which is document 5]                   6
@@ -53,10 +55,14 @@ turn the page
 
 **Text in parenthesis in the left margin**
 
+## Transliteration
+
 ```{div} doc-text
 ( 8 M. 90 QR für 835 r
 8 M. à 50 r —— 400 r)
 ```
+
+## Translation
 
 ```{div} doc-text
 8 Morgen 90 square-Ruthen for 835 Reichthalers;
@@ -65,12 +71,16 @@ turn the page
 
 Decision of Rentcammer
 
+## Transliteration
+
 ```{div} doc-text
 RC[Rentcammer] der p Krückeberg müsse abschläg[ig] bescheiden seÿn.
 Bbg 16. Dec. 41
 (vid in fine           Reck
     signed )
 ```
+
+## Translation
 
 ```{div} doc-text
 Decision: petitioner Krückeberg is to be denied.

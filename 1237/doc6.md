@@ -43,9 +43,7 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Concept Cammeral: Kaufbriefs für den Colon Kruckeberg Nr: 10 zu
@@ -88,7 +86,7 @@ Gladbeck v. Landesberg Maas Windt
 Wippermann
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Chamber Deed of Sale for Tenant Farmer Krückeberg, No. 10 in Berenbusch,

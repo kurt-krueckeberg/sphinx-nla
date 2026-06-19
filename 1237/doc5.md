@@ -63,9 +63,7 @@ With these actions, the land enlargement for Krückeberg moved from
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 ad Nr: D: 322. S. S.\
@@ -97,7 +95,7 @@ Graftl:[Gräflich] p
 J. Danckwerth Mkaas Wint
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Regarding the same matter as No. D: 322\
@@ -133,7 +131,7 @@ On behalf of the Count
 
 ## Draft of Official Resolution to the Fiscal Treasurer Stackmann: Payment Ordered
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Concept Cammer: Anweisung an den Cammerrentmeister Stackmann
@@ -157,7 +155,7 @@ Wint
 Wipperman
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Draft: Chamber Directive to the Chamber Rentmaster Stackmann

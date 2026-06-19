@@ -12,6 +12,8 @@
 
 ## Translation and Transliteration
 
+## Transliteration
+
 ```{div} doc-text
 ad. Num: Cam: 101.\
 ad. Num. Praef. 831.\
@@ -79,6 +81,8 @@ both square feet and acres.
 ```
 
 :::
+
+## Translation
 
 ```{div} doc-text
 ad. Num: Cam: 101\

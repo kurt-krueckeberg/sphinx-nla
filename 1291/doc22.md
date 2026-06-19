@@ -14,9 +14,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 St. 3 mg.                                                21)
@@ -82,7 +80,7 @@ Document 11; thus 1 Morgen 43 Ruthen 30 Fuß = 163 Ruthen 30 Fuß, matching the
 pricing breakdown (of 60 + 103 Ruthen 30 Fuß) mentioned in this document.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 St. 3 mg.                                                21)

@@ -36,9 +36,10 @@ felled and sold by the forestry office
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 The complete text and its translation:
+
+## Transliteration
 
 ```{div} doc-text
 ad nr: Cam: 53. S. S. [Signatum Supra]\
@@ -80,7 +81,7 @@ Emmerwarth ·  v. Landesberg
 Wippermann
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Concerning Chamber file no. 53 (same as above)\

@@ -6,12 +6,13 @@ This and document #5 both are "regarding Nro. 322 (ad Nor. 322)". It was written
 as Document #5. It also references "Nro. 317", **"wie ad Nro. 317"** ("as with No. 317"), and is
 merely a reminder about Berenbusch woodland boundaries.
 
-## Transliteration and Translation
 
 ```{image} images/07-right-page.png
 :class: image-override
 :width: 75%
 ```
+
+## Transliteration
 
 ```{div} doc-text
 ad Nro. 322\
@@ -26,6 +27,8 @@ B. 27. Octbr 1800
 
 MK.
 ```
+
+## Translation
 
 ```{div} doc-text
 Re: No. 322\

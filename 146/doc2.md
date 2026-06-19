@@ -59,12 +59,13 @@ Rentkammer to expands his grounds and garden, is called
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 Below is the transliteration of the main text of the report. This is followed
 by a separate block with the transliteration of theRentkammer’s response.
 
 Transliteration of main text of report
+
+## Transliteration
 
 ```{div} doc-text
 N.C. 287.\
@@ -110,6 +111,8 @@ text. Both blocks of text are transliterated below.
 
 Transliteration of Rentkammer Response
 
+## Translation
+
 ```{div} doc-text
 Res: Cam: Die Ausweisung des Platzes, von etwa ½ to ¾ Morgen, in
 derjenigen Grenzen, welche von der Forst-Direction dem Oberförster
@@ -137,6 +140,8 @@ could reasonably finance the construction of his own house.
 ```
 
 Translation of Document 2
+
+## Transliteration
 
 ```{div} doc-text
 N.C. 287.\
@@ -171,6 +176,8 @@ Habicht Neussel
 ```
 
 Translation of the Rentkammer’s response.
+
+## Translation
 
 ```{div} doc-text
 Rentkammer Response (Res. Cam.):

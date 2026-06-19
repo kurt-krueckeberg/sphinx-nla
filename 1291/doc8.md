@@ -16,6 +16,8 @@
 
 ## Translation and Transliteration
 
+## Transliteration
+
 ```{div} doc-text
 N. 101.
 p. 20 Febr. 1818
@@ -66,6 +68,8 @@ sich darnach zu richten.
 Bückeb: 23. Febr. 1818.
 MKaas
 ```
+
+## Translation
 
 ```{div} doc-text
 No. 101.
@@ -120,6 +124,8 @@ M. Kaas
 
 ### Drawing Legend
 
+## Transliteration
+
 ```{div} doc-text
 Auf Befehl der Forst Direction
 soll der Platz, mit A und B.
@@ -138,6 +144,8 @@ H. Ein Weg nach Weilands Kamp N. 1. in Behrenbusch\
 J. Weilands Kamp N. 6. in Nordholz\
 K. Die angrenzende Petzen Horst
 ```
+
+## Translation
 
 ```{div} doc-text
 By order of the Forestry Directorate, the plot marked A and B is to be

@@ -6,7 +6,7 @@
 
 ## Translation and Transliteration
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Bauerngüter und Colonien
@@ -30,7 +30,7 @@ Fürstenthume Schaumburg
 Berenbusch No. 10
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Farm holdings and settlement colonies

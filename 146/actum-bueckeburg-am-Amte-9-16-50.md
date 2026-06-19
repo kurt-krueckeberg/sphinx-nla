@@ -10,7 +10,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 Abschrift
@@ -64,6 +64,8 @@ A. u. f.
 In fidem
 König Assessor
 ```
+
+## Translation
 
 ```{div} doc-text
 Transcript

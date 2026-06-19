@@ -20,13 +20,12 @@ be collected and remitted.
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 ```{note}
 This transliteration changed the arachic contraction "ichlso" to "ich also".
 ```
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 NC 4731                                 Jst. ml. 8/8 49.
@@ -56,7 +55,7 @@ Bbg. 13/8 49.
 Barkhausen.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 NC 4731. Registered 8 August 1849.
@@ -91,13 +90,11 @@ Barkhausen.
 
 ## Transliteration
 
-Transliteration
-
 ```{div} doc-text
 An Hochfürstliche Rentkammer Bückeburg
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 To the Princely Fiscal Chamber in Bückeburg

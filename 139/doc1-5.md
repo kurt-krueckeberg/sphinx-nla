@@ -14,9 +14,7 @@ This same page holds:
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Boines
@@ -39,7 +37,7 @@ F. p.
 A Kaas
 ```
 
-Transliteration
+## Translation
 
 ```{div} doc-text
 Boines

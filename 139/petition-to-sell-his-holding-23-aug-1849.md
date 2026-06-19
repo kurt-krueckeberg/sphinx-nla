@@ -16,7 +16,7 @@ internal processing and routing (including “Exp” for dispatch).
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 Stpl. 3 g.
@@ -45,6 +45,8 @@ p.
 
 Exp Streck 23/8.
 ```
+
+## Translation
 
 ```{div} doc-text
 Stamp: 3 groschen.

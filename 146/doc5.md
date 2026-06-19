@@ -13,7 +13,7 @@ document 4?
 
 ## Transliateration and Translation
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 ad Num. 15\
@@ -47,7 +47,7 @@ God’s grace.” It has no practical effect on the decision itself; it’s a fo
 header indicating princely authority.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 No. 15\

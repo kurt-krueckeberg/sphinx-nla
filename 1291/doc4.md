@@ -6,7 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 An furstl. Rentkammer
@@ -15,6 +15,8 @@ des Eininliegers Voigt zu Evesen
 Untertänigste Vorstellung Bitte:
 Um Platz zum Hausbau
 ```
+
+## Translation
 
 ```{div} doc-text
 To the Princely Rent Chamber
@@ -37,7 +39,7 @@ a plot of land on which to build a house.
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 N. 520                                  4.
@@ -83,6 +85,8 @@ suppl Bbg\
 3t Nov. 1817\
 [various initials]
 ```
+
+## Translation
 
 ```{div} doc-text
 No. 520\
@@ -131,7 +135,7 @@ Suppl. Bückeburg\
 
 ## Chamber Resolution (vertical text)
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Res: Cam: Dem Amte Bückeburg b: M: zum Berichte mitzuteilen in Beziehung
@@ -142,7 +146,7 @@ B. 10 Nov. 1817\
 MKaas
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Royal Chamber Resolution: The Amt of Bückeburg is instructed to submit a

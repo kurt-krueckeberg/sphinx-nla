@@ -6,7 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 N. Cam. 62.                            2.
@@ -41,6 +41,8 @@ MKaas
 The **Söhre** was a locally named tract of village forest/common land near Berenbusch, from which parcels could be sold or allotted.
 ```
 
+## Translation
+
 ```{div} doc-text
 N. Cam. 62.                                         2.
 
@@ -74,7 +76,7 @@ MKaas
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 R. Cam. (Resolutio Camerae) Die Kammer ist der Meinung, daß dem Krückeberg
@@ -86,6 +88,8 @@ Hude-Berechtigten vernehmen und sodann ad cameram berichte.
 Bbg. 10ten Feb. 1817\
 T Landesberg
 ```
+
+## Translation
 
 ```{div} doc-text
 Resolution of the Chamber: The Chamber is of the opinion that the small
@@ -108,6 +112,8 @@ T Landesberg
 
 ## Transliteration and Translatin
 
+## Transliteration
+
 ```{div} doc-text
 ad 2.
 
@@ -125,6 +131,8 @@ Baum d: 2ten Febr. 1817
 
 Falckmann
 ```
+
+## Translation
 
 ```{div} doc-text
 pertaining to document 2
@@ -151,7 +159,6 @@ Falckmann
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 Transliteration
 

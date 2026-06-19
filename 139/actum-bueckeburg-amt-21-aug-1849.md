@@ -24,7 +24,6 @@ remainder needed for the purchase from Colon Rinne of Evesen. The record is
 concluded with signatures (or marks) of the parties and attestation by the
 Amt official Höcker.
 
-## Transliteration and Translation
 
 ```{image} images/08-r.png
 :class: image-override
@@ -37,6 +36,8 @@ Amt official Höcker.
 ```{image} images/09-r.png
 :class: image-override
 ```
+
+## Transliteration
 
 ```{div} doc-text
 Abschrift.
@@ -94,6 +95,8 @@ Handzeichen + + + des Wilhelm
                In fidem
                Höcker
 ```
+
+## Translation
 
 ```{div} doc-text
 Copy.
@@ -160,7 +163,6 @@ Mark of + + + of Wilhelm
 :class: image-override
 ```
 
-### Transliteration and Translation
 
 ```{list-table}
 

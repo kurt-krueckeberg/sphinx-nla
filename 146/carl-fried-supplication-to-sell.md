@@ -65,9 +65,7 @@ settlement lands.
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 N.C. 4386.
@@ -110,7 +108,7 @@ Conc.: Cengafelat, och
 (9 Gr.)
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Chamber No. 4386.

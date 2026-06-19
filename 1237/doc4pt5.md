@@ -15,7 +15,6 @@ Document 4, which it supplemented, is dated over a year later, October 18,
 negotiations, inspections, and back-and-forth between offices.
 earlier.
 
-## Transliteration and Translation
 
 ```{image} images/08-right-page.png
 :class: image-override
@@ -40,6 +39,8 @@ earlier.
 
 ### Main Text
 
+## Transliteration
+
 ```{div} doc-text
 Den Colonus Krückeberg Nro 10. in Beren- busch ist zur Vergrösserung
 seines Hofraums und Gartens ein Platz daselbst wie Figur a zeiget[,]
@@ -57,6 +58,8 @@ Bückeburg d. 30ten Märtz 1799.
 Funck\
 beeidigter Landmesser
 ```
+
+## Translation
 
 ```{div} doc-text
 To Colonus Krückeberg, No. 10, in Berenbusch, a plot has been assigned

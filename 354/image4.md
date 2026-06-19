@@ -4,7 +4,6 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 > ```{code-block} text
 >

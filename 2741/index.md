@@ -49,7 +49,6 @@ conditions as all the others.
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 Transcript of the report for Johann Heinrich Krückeberg at Berenbusch
 no. X
@@ -77,7 +76,7 @@ Holders in the District of Bückeburg as Part of a General Land Survey
 criteria of property holders.
 ```
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 N. X [Rf?] er hiesse
@@ -217,7 +216,7 @@ The reply to question #1 only gives the prior holders of no. 10 Berenbusch.
 It does not give the persons through whom the tenure right could pass.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Heading: “N. X [Rentkammer-Fragen?] how he is called”

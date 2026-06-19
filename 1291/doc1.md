@@ -6,10 +6,11 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 The spelling, grammar and punctuation have been normalized in this
 transliteration.
+
+## Transliteration
 
 ```{div} doc-text
 N. 67                                 1
@@ -44,6 +45,8 @@ Ich verlasse mich, durchlauchtigster Fürst und Herr, auf Ihre Liebe.
 No. 10 Berenbusch, den 1ten Januarÿ 1817\
 Schuster Krückeberg
 ```
+
+## Translation
 
 ```{div} doc-text
 No. 67                                   1

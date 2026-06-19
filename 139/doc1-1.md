@@ -31,9 +31,7 @@ of her holding.
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 N. C. 2816.\
@@ -68,7 +66,7 @@ Stätte gehenden Burgrest- Handtage und Forstdienste gnädigst zu erlassen.
 G. Schultze
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 N. C. 2816.\
@@ -111,13 +109,12 @@ had once bought from the Chamber.
 This is apparently a sort of "post-it" note reminder of what further to
 request in the Amt report.
 
-### Transliteration and Translation
 
 ```{image} images/03-left-side-of-page.png
 :class: image-override
 ```
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Es ist auch nach Bericht darüber zu fordern, ob Supplikantin das Stück
@@ -129,7 +126,7 @@ geh.
 Vert.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 It is also to be requested by report whether the petitioner still

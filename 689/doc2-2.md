@@ -13,7 +13,6 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 ```{list-table}
 :header-rows: 1
@@ -111,7 +110,6 @@ Here is what each of them means:
 :class: image-override
 ```
 
-### Transliteration and Translation
 
 ```{list-table}
 :header-rows: 1

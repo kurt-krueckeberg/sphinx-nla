@@ -11,7 +11,6 @@ September of 1850.
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 <!-- Raw HTML table emitted because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 

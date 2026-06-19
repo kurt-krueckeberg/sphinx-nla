@@ -4,15 +4,13 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-### Explanations of Abbreviations and Terms used:
+## Explanations of Abbreviations and Terms used:
 
 - **r.** = Reichstaler
 - **behufliche Obligation** = the requisite promissory note (i.e., the note required for this purpose).
 - **Amt** = district office.
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Stpl: 3 g         N. C. 5702.
@@ -42,7 +40,7 @@ Fürstl: p.
 [clerical initials:] Lm   L
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Stpl: 3 g            N. C. 5702.

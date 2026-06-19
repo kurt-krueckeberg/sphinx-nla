@@ -21,7 +21,6 @@ forced sale remaimed imminent.
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 :::{admonition} "holding" and "vot." Explained
 
@@ -31,6 +30,8 @@ holding of a numbered Colon (tenant holder), comprising land and buildings."**
 :::
 
 Trasnliteration
+
+## Transliteration
 
 ```{div} doc-text
 Die Stelle des Krückeberg besteht
@@ -58,6 +59,8 @@ Bbg 15. Nov. 41.
         Reck
                   vert
 ```
+
+## Translation
 
 ```{div} doc-text
 The holding of Krückeberg consists of

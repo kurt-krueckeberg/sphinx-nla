@@ -20,9 +20,7 @@ remained with the territorial authority.
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 ad Num 394\
@@ -44,7 +42,7 @@ Waccelwerk v. Lindesberg MKaas\
 Wandt
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Ref. no. 394\

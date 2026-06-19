@@ -22,6 +22,8 @@ They are to inform Jobst Heinrich of these conditions and terms.
 
 ## Transliateration and Translation
 
+## Transliteration
+
 ```{div} doc-text
 Ad N. 287.\
 C. K. [Cammer-Kanzlei] Rescripts ans Amt Bückeburg
@@ -63,6 +65,8 @@ indicating that the *rescript** was issued under princely authority.
 A **rescript** was an official decision letter sent by the central authority in
 reply to a petition or report.
 ```
+
+## Translation
 
 ```{div} doc-text
 Re: No. 287.

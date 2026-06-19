@@ -6,7 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 N.C. 62\
@@ -43,6 +43,8 @@ was not a standardized unit, these figures represent approximate modern
 equivalents.
 
 :::
+
+## Translation
 
 ```{div} doc-text
 N.C. 62\

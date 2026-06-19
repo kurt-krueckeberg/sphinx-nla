@@ -67,7 +67,7 @@ So this note is basically saying:
 
 > These documents were copied and placed in the individual property files for those two settlements.
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 N. 257.\
@@ -159,6 +159,8 @@ an Kammeral Prestanden
 
 ### Specification’s Transliteration
 
+## Translation
+
 ```{div} doc-text
 ad 11
 
@@ -204,6 +206,8 @@ Specification von dreÿ Auswiesungen im Baumer Forste.
   - 30
   - 
 ```
+
+## Transliteration
 
 ```{div} doc-text
 Die obigen 3 Ausweisungen, wovon die Zeichnung hierneben beigefügt ist,
@@ -302,6 +306,8 @@ Kammeral dues table in text
 
 ### Specification’s Translation
 
+## Transliteration
+
 ```{div} doc-text
 Regarding document 11
 
@@ -347,6 +353,8 @@ Specification of three land assignments in the Baumer Forest.
   - 30
   - 
 ```
+
+## Translation
 
 ```{div} doc-text
 The above three land assignments, the drawing of which is attached here,

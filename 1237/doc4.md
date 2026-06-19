@@ -77,9 +77,7 @@ Michaelmas (Michaeli) = Feast of Saint Michael the Archangel, celebrated on 29 S
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Cam:Nr:322. Forstsachen
@@ -104,7 +102,7 @@ S. Bückeburg, 18ten Oct. 1800.
 J. H. Hablick ·  Stöling
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Cam: No. 322. Forestry matters

@@ -18,7 +18,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 N. 431                                                     5.)
@@ -82,6 +82,8 @@ MKaas
 
 **Vertical Text on left of 1st page:**
 
+## Translation
+
 ```{div} doc-text
 Res: Cam: Genehmiget nach dem Amts-Vorschlage,
 wornach das Nöthige an das Amt u. an
@@ -91,6 +93,8 @@ MKaas
 
 **Transliteration of Map Text:**
 
+## Transliteration
+
 ```{div} doc-text
 Zeichnung
 eines Kolonieplatzes im Baumer Forstrevier
@@ -99,6 +103,8 @@ Die Theile A u. B halten 1 Morgen 54 Ruth: 80 Fuß
 
 Stille
 ```
+
+## Translation
 
 ```{div} doc-text
 Drawing

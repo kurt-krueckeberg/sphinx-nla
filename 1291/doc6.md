@@ -74,9 +74,7 @@ appropriate.
 
 :::
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 N. 16\
@@ -142,7 +140,7 @@ decision afterward, especially when the larger farmers support it.
 
 :::
 
-Translation
+## Translation
 
 ```{div} doc-text
 No. 16\
@@ -205,11 +203,15 @@ allotment that is to be carried into effect under a Chamber resolution. It
 does not issue a new order; it simply records that the allotment stands in
 the implementation stage.
 
+## Transliteration
+
 ```{div} doc-text
 Res. Cam. Nach die Ausweisung einer zu  bewirkfällige[n]\
 Bbg d 12 Jan 1818\
          in. fid. Spring
 ```
+
+## Translation
 
 ```{div} doc-text
 Chamber Resolution: Accordingly, the allotment is to be carried out.\

@@ -6,9 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Conc\
@@ -52,7 +50,7 @@ MKaas
 ‡—also in Sa: mit 17 [Reichsthaler-symbol] 3 gl d
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Draft\

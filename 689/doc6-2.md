@@ -6,7 +6,6 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 ```{list-table}
 :header-rows: 1

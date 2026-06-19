@@ -14,7 +14,7 @@
 :class: image-override
 ```
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 P.V.
@@ -50,7 +50,7 @@ Bbg. 23. Decbr.
 Reck
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 per Vorstehung (by the authority of)
@@ -85,9 +85,13 @@ Reck
 
 ### Left Margin Text in Parentheses
 
+## Transliteration
+
 ```{div} doc-text
 (Die Taxe wird indes wohl etwas niedrig seÿn.)
 ```
+
+## Translation
 
 ```{div} doc-text
 (However, the appraisal/valuation will likely be somewhat low.)
@@ -103,7 +107,7 @@ Schaumburg-Lippe, Georg Wilhelm, Prince of Schaumburg-Lippe.
 :class: image-override
 ```
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Ich bewilligt nach dem Antrage der Kammer des Dorlichen von 200
@@ -113,7 +117,7 @@ Bb 23 Dec.
 Georg Wilhelm
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 I approve, in accordance with the chamber’s petition, the loan of

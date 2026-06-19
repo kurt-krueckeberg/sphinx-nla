@@ -42,11 +42,12 @@ estimation.
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 ### Survey Text
 
 Transliteration of Survey Text
+
+## Transliteration
 
 ```{div} doc-text
 ad Nr. 6
@@ -64,6 +65,8 @@ L Stille
 ```
 
 Translation of survey text
+
+## Translation
 
 ```{div} doc-text
 ad No. 6 (with reference to document no. 6)

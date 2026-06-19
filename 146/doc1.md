@@ -57,7 +57,7 @@ weight for determining residence.
 
 ## Transliteration and Translation of Petition Cover Page
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 An Fürstl[iche]. Rentkammer
@@ -69,7 +69,7 @@ Unterthänigste Vorstellung und Bitte
 gnädigste Überlassung eines Platzes zum Hausbau
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 To the Princely Rent Chamber
@@ -93,9 +93,7 @@ for the gracious granting of a plot of land for the construction of a house
 
 See [Corrections to Text](https://chatgpt.com/share/694485ae-3bec-8004-961e-67d320e050d3)
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Nr. Cam. 260.\
@@ -139,7 +137,7 @@ Bbg. d. 29ten Sept. 1808.\
 H Wellmann
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 No. Cam. 260.\

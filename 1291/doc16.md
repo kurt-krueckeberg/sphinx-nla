@@ -14,7 +14,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 N. 392.              Tract: By in Can.     p. 16 Sept. 1818
@@ -59,6 +59,8 @@ MKaas
 
 Vertical Text on Right Side of Page
 
+## Translation
+
 ```{div} doc-text
 P.N.
 
@@ -69,6 +71,8 @@ erhaltene Vergrößerung umsonst haben! Das ist unbescheiden.
 
 MKaas
 ```
+
+## Transliteration
 
 ```{div} doc-text
 To the Chamber
@@ -107,6 +111,8 @@ M. Kaas
 ```
 
 Vertical Text on Right Side of Page
+
+## Translation
 
 ```{div} doc-text
 For the record:

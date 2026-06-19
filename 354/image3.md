@@ -4,7 +4,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 Actum d. 15ten Xbris 1721.
@@ -79,6 +79,8 @@ This currency structure was so common that numeric columns without headers were 
 Groschen, unless otherwise stated.
 
 :::
+
+## Translation
 
 ```{div} doc-text
 H. Ren.

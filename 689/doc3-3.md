@@ -14,7 +14,6 @@ Berenbusch”, showing that a copy of the decision was dispatched to him.
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 ```{list-table}
 :header-rows: 1

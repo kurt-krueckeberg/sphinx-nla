@@ -17,9 +17,7 @@ right side** of the page.
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Concept An die Witwe Krückeberg Nro. 10 in Bärenbusch.
@@ -32,7 +30,7 @@ F.p.
 AKaas.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Concept

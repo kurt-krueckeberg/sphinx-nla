@@ -41,6 +41,13 @@
 }
 
 .doc-text {
+    border: 1.5px solid #777;
+    border-radius: 0.35rem;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.5rem;
+}
+/*
+.doc-text {
     background-color: #f7f7f7;
     border: 1.5px solid #777;
     border-radius: 0.35rem;
@@ -52,7 +59,7 @@ html[data-theme="dark"] .doc-text {
     background-color: #1f1f1f;
     border-color: #aaa;
 }
-
+*/
 /*
 .doc-text {
     font-family: var(--pst-font-family-base);

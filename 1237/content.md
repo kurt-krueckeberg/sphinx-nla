@@ -12,7 +12,6 @@
 :class: image-override
 ```
 
-### Transliteration and Translation
 
 ```{list-table} Transliteration and Translation of Document Index
 :header-rows: 1

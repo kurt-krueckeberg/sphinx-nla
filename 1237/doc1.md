@@ -6,9 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 der Colon Krückeberg Nr. 10 zu Berenbusch bittet unterthänigst:
@@ -21,7 +19,7 @@ vormundschaftlichen
 Rentkammer
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 The Colon Krückeberg No. 10 in Berenbusch humbly requests:
@@ -64,9 +62,7 @@ the "Res Cam" was initialed by him.
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Cam: Nr: 662.
@@ -103,7 +99,7 @@ unterthänigste\
 Col. Krückeberg N. 10 zu Berenbusch
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Chamber: No. 662
@@ -150,7 +146,7 @@ The Cammer requested a Forestry report that was written by **MKass** of the
 Forstamts, the foresty office. It is written in a large hand to the left
 of the petition.
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Res Cam\
@@ -168,7 +164,7 @@ zu pflanzen.
 MKaas forstmst[?]
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Concerning the Chamber’s directive:\
@@ -199,7 +195,7 @@ only this short reference and the Amt’s subsequent [Report on the matter](doc2
 :class: image-override
 ```
 
-Translation
+## Transliteration
 
 ```{div} doc-text
 Res Cam Brevi manu dem Amts zum Berichte.
@@ -208,7 +204,7 @@ B. 18 Febr 1799\
 MKaas
 ```
 
-Transliteration
+## Translation
 
 ```{div} doc-text
 Chamber decision:\

@@ -8,7 +8,7 @@
 
 ## Transliteration and Translation of Outer Address Page
 
-Translation
+## Transliteration
 
 ```{div} doc-text
 18.)
@@ -26,7 +26,7 @@ Bückeburg
 16 Rthrl. 12 Mg.
 ```
 
-Transliteration
+## Translation
 
 ```{div} doc-text
 18.)

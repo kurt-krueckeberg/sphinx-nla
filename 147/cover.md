@@ -4,9 +4,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Bauerguter & Colonien
@@ -28,7 +26,7 @@ in specie
 die Neubauer-Stätte des Triftmeyer N. 19 zu Bärenbusch betr.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Farm Holdings & Colonies

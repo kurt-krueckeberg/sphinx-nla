@@ -14,9 +14,7 @@ by Alvei, who mailed it (or logged its mailing).
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Conc. in extracten dem Gehülfsschreiber Schmöe dem Amte Bückeburg
@@ -33,7 +31,7 @@ N.C. 2816
 N.P. 602
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Concept, in extract, to the assistant clerk Schmöe, to the Office of

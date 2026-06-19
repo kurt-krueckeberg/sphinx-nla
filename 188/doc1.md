@@ -9,9 +9,7 @@ seeking approval of the sale of his holding no. 18 Berenbusch.
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Abschrift N.C. 4386
@@ -41,7 +39,7 @@ Cona: Langerfeldt Adv:\
 (G H)
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Copy  N.C. 4386

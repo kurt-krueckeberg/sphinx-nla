@@ -12,11 +12,10 @@ On page 110 Berenbusch and Johann Heinrich Krückeberg are mentioned.
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 On page 110 Berenbusch:
 
-Transliteration:
+## Transliteration
 
 ```{div} doc-text
 No. 10 am Hause
@@ -33,7 +32,7 @@ Summa Summarum                          ¾ [Morgen]   29 [Ruten]
 In modern terms, ¾ Morgen and 29 square Ruten comes to about **0.6 acres**.
 ```
 
-Translation:
+## Translation
 
 ```{div} doc-text
 No. 10 (the house site)

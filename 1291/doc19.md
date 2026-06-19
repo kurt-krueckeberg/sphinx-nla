@@ -14,9 +14,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 St. 3 mg                                                 19.)
@@ -82,7 +80,7 @@ The Rottzins is a **fixed property-based obligation**, while the Kontribution
 is a **variable public tax**.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Stamp: 3 Groschen                                        <emphasis role="strong">19.)</emphasis>

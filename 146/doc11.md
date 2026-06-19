@@ -113,9 +113,7 @@ Krückeberg’s secure and heritable right to the holding.
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Concept Kaufbriefs Namens der R[ent]Kammer für den Jobst Heinrich Krückeberg
@@ -153,7 +151,7 @@ Fürstl. Schaumbl. Liple zur Rentkammer v. d. u. R.
 Sandesbur Wint
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Draft purchase deed issued in the name of the Rent Chamber

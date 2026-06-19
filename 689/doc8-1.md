@@ -6,9 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 NC 274                       pr. in Cam 17 Jan. 1842
@@ -44,7 +42,7 @@ Amt zu versehe[n]. Bbg. 20. Jan 42.
                       vert
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 N. C. 274 — presented in the chamber on 17 Jan. 1842.

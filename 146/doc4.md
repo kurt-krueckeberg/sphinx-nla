@@ -20,7 +20,7 @@ that the required dues or obligations be proposed.
 
 ## Transliateration and Translation
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 N. C. 15.
@@ -55,7 +55,7 @@ bringen. B. 22 Jan 1809
 MKaas
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 N. C. 15.

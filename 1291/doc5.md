@@ -6,7 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 An fürstl. Rentkammer
@@ -19,6 +19,8 @@ und Bitte:
 gnädigste Answeisung eines
 Platzes zum Hausbau mit Garten
 ```
+
+## Translation
 
 ```{div} doc-text
 To the Princely Rent Chamber
@@ -42,7 +44,7 @@ a plot of land for the construction of a house with a garden.
 :class: image-override
 ```
 
-## Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 N. 584.
@@ -100,6 +102,8 @@ explaining that his service with the British resulted from captivity during
 the war, not voluntary disloyalty.
 ```
 
+## Translation
+
 ```{div} doc-text
 N. 584
 
@@ -150,7 +154,7 @@ Aswellmann p [?] [?]
 :class: image-override
 ```
 
-### Transliteration and Translation
+## Transliteration
 
 ```{div} doc-text
 Res: Cam: Dem Amte Bückeburg B.M. zum Berichte in Beziehung auf die
@@ -162,6 +166,8 @@ beizufügen.
 Bückeb: 22 Dec. 1817\
 MKaas
 ```
+
+## Translation
 
 ```{div} doc-text
 Chamber resolution:

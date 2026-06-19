@@ -6,9 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Acta Bauergüter
@@ -25,7 +23,7 @@ Berenbusch an der Schuster Wilhelm Meyer zu Röcke
 Berenbusch No. 18
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Case Files

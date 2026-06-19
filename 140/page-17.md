@@ -24,7 +24,6 @@ into possession of no. 10 Berenbusch through marriage.
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 ```{important}
 There is an important connection between **Johann Tönnies Eggerding** and
@@ -34,6 +33,8 @@ sponsor of Johann Heinrich Krückeberg’s son, Johann Friedrich, who was born
 in 1728. See the {external+genealogy:doc}`1728 baptism record for Johann
 Friedrich Krückeberg <petzen/PET-B-1728a>`.
 ```
+
+## Transliteration
 
 ```{div} doc-text
 Joh. Heinr. Kreutler modo Daniel Steding
@@ -55,11 +56,15 @@ Dorf Nodholz
 change of **holder** for a numbered holding: **Former holder** → **now**
 → **current holder**. So the entry:
 
+## Translation
+
 ```{div} doc-text
 Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
 ```
 
 means:
+
+## Transliteration
 
 ```{div} doc-text
 Johann Tönnies Eggerding, now Johann Heinrich Krückeberg.

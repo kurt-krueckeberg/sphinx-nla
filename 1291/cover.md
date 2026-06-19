@@ -6,9 +6,7 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Ausweisungen & Rottländereien                   Rep II
@@ -29,7 +27,7 @@ zur Errichtung der Neubauerstätten
 den N. 13 & 14 in Nordholz.
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Allocations & Cleared Lands Rep. II

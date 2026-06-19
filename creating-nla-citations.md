@@ -10,6 +10,8 @@ For Rentkammer case files the format would be:
 
 ###. For Rentkammer case file — specific Actenstück listed in the Designatio Actorum
 
+## Transliteration
+
 ```{div} doc-text
 Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], <case-file identifier>,
 Actenstück <number>, "<German Designatio Actorum description>" [<English translation>],
@@ -18,6 +20,8 @@ Arcinsys Niedersachsen und Bremen, accessed <date>.
 ```
 
 Example:
+
+## Translation
 
 ```{div} doc-text
 Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], L 1 Nr. 1234,
@@ -30,6 +34,8 @@ in "Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch"
 
 ###. Rentkammer case file — additional document not listed in the Designatio Actorum
 
+## Transliteration
+
 ```{div} doc-text
 Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], <case-file identifier>,
 document headed "<German document heading>" [<English translation>],
@@ -38,6 +44,8 @@ Arcinsys Niedersachsen und Bremen, accessed <date>.
 ```
 
 Example:
+
+## Translation
 
 ```{div} doc-text
 Niedersächsisches Landesarchiv, Abteilung Bückeburg [NLA BU], L 1 Nr. 1234,
@@ -50,6 +58,8 @@ in "Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch"
 
 ### Standalone archival document, not inside a case file
 
+## Transliteration
+
 ```{div} doc-text
 Niedersächsisches Landesarchiv, Abteilung Bückeburg,
 [<NLA BU archival identifier>](<Arcinsys URL>), "<German title or heading>"
@@ -57,6 +67,8 @@ Niedersächsisches Landesarchiv, Abteilung Bückeburg,
 ```
 
 Example:
+
+## Translation
 
 ```{div} doc-text
 Niedersächsisches Landesarchiv, Abteilung Bückeburg,
@@ -80,6 +92,8 @@ On each document page, add:
 ```
 
 Meaning:
+
+## Transliteration
 
 ```{div} doc-text
 Use document 5 from the Designatio Actorum table.
@@ -108,17 +122,23 @@ case_file:
 
 This can contain either:
 
+## Translation
+
 ```{div} doc-text
 raw HTML table
 ```
 
 or:
 
+## Transliteration
+
 ```{div} doc-text
 Markdown table
 ```
 
 The table must include:
+
+## Translation
 
 ```{div} doc-text
 document number | German description | English translation
@@ -170,6 +190,8 @@ in "Acta betreffend den Colon Jobst Heinrich Krückeberg Nr. 10 zu Berenbusch"
 ## Scope for first version
 
 Handle only:
+
+## Transliteration
 
 ```{div} doc-text
 document page → numbered Designatio Actorum row → generated citation

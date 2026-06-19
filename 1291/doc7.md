@@ -8,6 +8,8 @@
 
 ## Tramsliteration and Translation
 
+## Transliteration
+
 ```{div} doc-text
 N. C. 16.\
 N. A. 749.\
@@ -33,6 +35,8 @@ mit Zuziehung des Oberförsters, in einer Fläche von 1 bis 1 ½ Morgen
 
 Exp: p: Alocis
 ```
+
+## Translation
 
 ```{div} doc-text
 N.C. 16.\

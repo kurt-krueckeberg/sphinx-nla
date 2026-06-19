@@ -17,7 +17,6 @@ that the 12 Mariengroschen stamp fee be properly collected, accounted for,
 and the receipt sent to the Kammer. The approval and orders are dated 20
 September 1849 and signed by Spreng and other clerical officials.
 
-## Transliteration and Translation
 
 ```{image} images/06-l.png
 :class: image-override
@@ -27,9 +26,7 @@ September 1849 and signed by Spreng and other clerical officials.
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 N. C. 5399.
@@ -88,6 +85,8 @@ Lm            L
 ```
 
 Translate
+
+## Translation
 
 ```{div} doc-text
 N.C. 5399.

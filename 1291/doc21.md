@@ -6,7 +6,6 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
 
 ```{note}
 The clerk incorrectly numbered this document as "20." in the upper
@@ -15,6 +14,8 @@ document in the [Designatio Actorum](content.md).
 ```
 
 Receipt
+
+## Transliteration
 
 ```{div} doc-text
 Num: 458.                                20.)
@@ -33,6 +34,8 @@ Bückeburg
 ```
 
 Translation of Receipt
+
+## Translation
 
 ```{div} doc-text
 No. 458.                                      20.)

@@ -14,9 +14,7 @@ office.
 :class: image-override
 ```
 
-## Transliteration and Translation
-
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Bauerngüters Colonien                     Rep. I
@@ -43,7 +41,7 @@ vor Furstgrunde
 Berenbusch no. 18
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 Agrarian tenancy holdings                Series I

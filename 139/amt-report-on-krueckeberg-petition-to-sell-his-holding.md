@@ -15,11 +15,12 @@ note dated September 20 instructs that the purchase deed is to be confirmed
 and returned once processed, and that proof of the dues and obligations
 attached to the property is to be provided.
 
-## Transliteration and Translation
 
 ```{image} images/05-r.png
 :class: image-override
 ```
+
+## Transliteration
 
 ```{div} doc-text
 N.C. 5399                             pr. m.C. 15/9 49
@@ -60,6 +61,8 @@ Vereinnahmungsanweisung.
 Bbg 20/9 49
 Barkhausen.
 ```
+
+## Translation
 
 ```{div} doc-text
 N.C. 5399                             pr. m.C. 15 September 1849

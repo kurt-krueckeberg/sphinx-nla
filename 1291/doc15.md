@@ -8,7 +8,7 @@
 
 ## Transliteration and Translation of Outer Address Page
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Num: Cam: 386                             15.)
@@ -35,7 +35,7 @@ Fürstlich pp.
 [uncertain]
 ```
 
-Translation
+## Translation
 
 ```{div} doc-text
 No. Cam. 386                                               15.)

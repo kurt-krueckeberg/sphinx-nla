@@ -8,7 +8,7 @@
 
 ## Translation and Translation
 
-Transliteration
+## Transliteration
 
 ```{div} doc-text
 Ausweisungen & Rottländereien
@@ -38,7 +38,7 @@ AB                         Rep: II
 C. 67
 ```
 
-Transliteration
+## Translation
 
 ```{div} doc-text
 Land Allocations & Cleared Lands
