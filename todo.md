@@ -1,5 +1,7 @@
 # TODO
 
+## Go through `warnings.txt`
+
 ##  Finish 2741/index.md
 
 - Finish formatting the Translation section.
