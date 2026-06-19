@@ -133,7 +133,7 @@ Your Serene Highness and Your High Comital Grace.
 Petition.\
 Bückeburg, May 29, 1798.
                                             
-Lindemann, written on behalf of[him]\        
+Lindemann, written on behalf of[him]\
 by order.
 
 Most humble,\
