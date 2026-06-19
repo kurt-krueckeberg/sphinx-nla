@@ -1,7 +1,5 @@
 Updated: /home/kurt/temp/sphinx-nla/140/page-17.md
   WARNING: odd number of doc-text blocks found: 3
-Updated: /home/kurt/temp/sphinx-nla/146/report-to-bueckeburg-amt-9-26-50.md
-  WARNING: odd number of doc-text blocks found: 1
 Updated: /home/kurt/temp/sphinx-nla/146/report-to-kammer-from-bueckeburg-amt-9-19-50.md
   WARNING: odd number of doc-text blocks found: 3
 Updated: /home/kurt/temp/sphinx-nla/146/report-to-kammer-from-bueckeburg-amt-9-26-50.md
