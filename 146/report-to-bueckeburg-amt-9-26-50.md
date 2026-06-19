@@ -9,12 +9,12 @@
 ## Transliteration
 
 ```{div} doc-text
-N. C. 4549.
+N. C. 4549.\
 N. P. 1362.
 
 Stpl. 3 Kongl.
 
-Exp Rosenb
+Exp Rosenb\
 26/9.
 
 [Barken Why]
@@ -27,41 +27,41 @@ Bericht an das Amt Bückeburg.
 Verkauff der Krückebergschene Stätte No 18 in Berenbusch betr:
 
 Der wegen rubr: Gegenstandes eingesandte und bestätigte Kaufbrief
-erfolgt anbei zurück Bbg, 26. Sept. 1850.
-F. p
+erfolgt anbei zurück Bbg, 26. Sept. 1850.\
+F. p\
 Spring
 
 Exp eod
 
 [Barken Why]
 
-[ret. cop.]
+[ret. cop.]\
 [fart?]
 
-Vorstehender Kaufbrief wird hiermit genehmigt und bestätigt.
-Bbg, 26. Sept: 1850
-(L. L.) F. p.
+Vorstehender Kaufbrief wird hiermit genehmigt und bestätigt.\
+Bbg, 26. Sept: 1850\
+(L. L.) F. p.\
 Spring
 
 
-Concept
+Concept\
 confirmat.
 ```
 
 ## Translation
 
 ```{div} doc-text
-N. C. 4549.  
+N. C. 4549.\
 N. P. 1362.
 
 Stamp duty: 3 Königsgroschen.
 
-Expedited by Rosenb[erg?]  
+Expedited by Rosenb[erg?]\
 26 September.
 
 [Barken Why]
 
-[returned copy]  
+[returned copy]\
 [?]
 
 Report to the Amt Bückeburg.
@@ -73,24 +73,24 @@ is returned herewith.
 
 Bückeburg, 26 September 1850.
 
-F. p.  
+F. p.\
 Spring
 
 Expedited the same day.
 
 [Barken Why]
 
-[returned copy]  
+[returned copy]\
 [?]
 
 The foregoing deed of sale is hereby approved and confirmed.
 
 Bückeburg, 26 September 1850.
 
-[L. L.] F. p.  
+[L. L.] F. p.\
 Spring
 
 
-Office copy.  
+Office copy.\
 Confirmed.
 ```

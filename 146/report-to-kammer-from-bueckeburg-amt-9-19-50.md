@@ -13,12 +13,12 @@
 ## Transliteration
 
 ```{div} doc-text
-NC. 4456
+NC. 4456\
 pr. in Cam 19/9 50
 
 [3GR Stempel]
 
-N.P. 1314
+N.P. 1314\
 ad N.C. 4386
 
 An Fürstliche Rentkammer Bericht des Amts Bückeburg
@@ -33,20 +33,20 @@ Gesuchs Etwas nicht zu erinnern.
 
 Bückeburg 17 Septbr. 1850.
 
-Ditur consensus zum Verkaufe. Die angegeben Lasten waren zu revidiren
-Bbg 19/9 50
+Ditur consensus zum Verkaufe. Die angegeben Lasten waren zu revidiren\
+Bbg 19/9 50\
 Barkhausen
 ```
 
 ## Translation
 
 ```{div} doc-text
-NC. 4456
+NC. 4456\
 received in the Chamber on 19/9/50
 
 [3-groschen revenue stamp]
 
-N.P. 1314
+N.P. 1314\
 re: NC. 4386
 
 Report to the Princely Rent Chamber from the Office of Bückeburg
@@ -61,8 +61,8 @@ and we find that, if the petition is granted, there is nothing to object to.
 
 Bückeburg, 17 September 1850.
 
-Consent is given to the sale. The stated encumbrances are to be reviewed.
-Bückeburg, 19/9/50
+Consent is given to the sale. The stated encumbrances are to be reviewed.\
+Bückeburg, 19/9/50\
 Barkhausen
 ```
 
@@ -95,3 +95,4 @@ Desgleichen 1 Rauchhuhn
 Stadning
 ```
 
+**TODO:** Translation

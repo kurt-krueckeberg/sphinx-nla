@@ -9,13 +9,13 @@
 ## Transliteration
 
 ```{div} doc-text
-NC. 4549.
+NC. 4549.\
 Pr. in Cam. 26/9. 50
 
 [3GR Stemple]
 
-B.
-N. P. 1362.
+B.\
+N. P. 1362.\
 ad N. C. 4456.
 
 An Fürstliche Rentkammer Bericht des Amts Bückeberg.
@@ -30,12 +30,13 @@ hat.
 
 Bückeberg 26 Septbr. 1850.
 
-Langerfeldt.
+Langerfeldt.\
 Krieger. König
 
-Der Kaufbrief wäre zu
-bestätigen und zu remittiren.
-Bbg. 26/9 50
+Der Kaufbrief wäre zu\
+bestätigen und zu remittiren.\
+Bbg. 26/9 50\
 Barkhausen
 ```
 
+**TODO:** Translation
