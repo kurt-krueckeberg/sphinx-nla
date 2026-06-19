@@ -14,7 +14,7 @@ that the required dues or obligations be proposed.
 
 ## Image
 
-```{image} images/05-r-alternate.png
+```{figure} images/05-r-alternate.png
 :class: image-override
 ```
 

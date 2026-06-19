@@ -2,15 +2,15 @@
 
 ## Petition
 
-```{image} images/31-r.png
+```{figure} images/31-r.png
 :class: image-override
 ```
 
-```{image} images/32-l.png
+```{figure} images/32-l.png
 :class: image-override
 ```
 
-```{image} images/31-r-vert-text.png
+```{figure} images/31-r-vert-text.png
 :class: image-override
 ```
 

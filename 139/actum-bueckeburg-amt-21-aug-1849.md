@@ -25,15 +25,15 @@ concluded with signatures (or marks) of the parties and attestation by the
 Amt official Höcker.
 
 
-```{image} images/08-r.png
+```{figure} images/08-r.png
 :class: image-override
 ```
 
-```{image} images/09-l.png
+```{figure} images/09-l.png
 :class: image-override
 ```
 
-```{image} images/09-r.png
+```{figure} images/09-r.png
 :class: image-override
 ```
 
@@ -159,7 +159,7 @@ Mark of + + + of Wilhelm
 
 ## Cover Note to the Document
 
-```{image} images/10-l.png
+```{figure} images/10-l.png
 :class: image-override
 ```
 

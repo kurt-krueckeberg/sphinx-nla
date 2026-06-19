@@ -1,6 +1,6 @@
 # Case File Cover
 
-```{image} images/cover-orig.png
+```{figure} images/cover-orig.png
 :class: image-override
 ```
 

@@ -16,7 +16,7 @@ remained with the territorial authority.
 
 ## Image
 
-```{image} images/11-r.png
+```{figure} images/11-r.png
 :class: image-override
 ```
 

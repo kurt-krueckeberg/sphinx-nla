@@ -21,7 +21,7 @@ The difference is:
 
 ## Image
 
-```{image} images/10-r.png
+```{figure} images/10-r.png
 :class: image-override
 ```
 

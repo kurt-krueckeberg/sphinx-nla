@@ -2,7 +2,7 @@
 
 ## Receipt
 
-```{image} images/38-r.png
+```{figure} images/38-r.png
 :class: image-override
 ```
 

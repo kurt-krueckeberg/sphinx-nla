@@ -2,7 +2,7 @@
 
 ## Chamber Treausry Recept
 
-```{image} images/33-r.png
+```{figure} images/33-r.png
 :class: image-override
 ```
 

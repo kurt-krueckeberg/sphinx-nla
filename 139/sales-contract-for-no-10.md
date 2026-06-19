@@ -64,19 +64,19 @@ holder—a significant upward shift in rural status and responsibility.
 
 ## Images
 
-```{image} images/11-r.png
+```{figure} images/11-r.png
 :class: image-override
 ```
 
-```{image} images/12-l.png
+```{figure} images/12-l.png
 :class: image-override
 ```
 
-```{image} images/12-r.png
+```{figure} images/12-r.png
 :class: image-override
 ```
 
-```{image} images/13-l.png
+```{figure} images/13-l.png
 :class: image-override
 ```
 

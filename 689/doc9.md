@@ -1,6 +1,6 @@
 # Report from the District Office of Bückeburg (8 Feb 1842)
 
-```{image} images/20-r.png
+```{figure} images/20-r.png
 :class: image-override
 ```
 

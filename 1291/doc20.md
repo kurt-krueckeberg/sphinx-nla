@@ -2,15 +2,15 @@
 
 ## Concluded purchase contract for new settler Vogt No. 13 at Nordholz
 
-```{image} images/36-r.png
+```{figure} images/36-r.png
 :class: image-override
 ```
 
-```{image} images/37-l.png
+```{figure} images/37-l.png
 :class: image-override
 ```
 
-```{image} images/37-r.png
+```{figure} images/37-r.png
 :class: image-override
 ```
 

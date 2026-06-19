@@ -38,7 +38,7 @@ estimation.
 
 ## Image
 
-```{image} images/08-r.png
+```{figure} images/08-r.png
 :class: image-override
 ```
 

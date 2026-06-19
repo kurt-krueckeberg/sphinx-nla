@@ -8,7 +8,7 @@
 
 ## The Designatio Actorum (Table of Contents)
 
-```{image} images/01.png
+```{figure} images/01.png
 :class: image-override
 ```
 

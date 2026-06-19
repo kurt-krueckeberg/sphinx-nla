@@ -12,7 +12,7 @@ column is a note on the subject of the doucment(s); lastly comes the place, year
 
 **Note:** The column “Z.” denotes the sequential registry number within the
 stated month, not the day of the month.
-```{image} images/01-r.png
+```{figure} images/01-r.png
 :class: image-override
 ```
 

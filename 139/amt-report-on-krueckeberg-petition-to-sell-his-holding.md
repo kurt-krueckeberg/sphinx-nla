@@ -16,7 +16,7 @@ and returned once processed, and that proof of the dues and obligations
 attached to the property is to be provided.
 
 
-```{image} images/05-r.png
+```{figure} images/05-r.png
 :class: image-override
 ```
 

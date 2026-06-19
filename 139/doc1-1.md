@@ -23,11 +23,11 @@ of her holding.
 
 ## Images of Petition of the widow Krückeberg
 
-```{image} images/02.png
+```{figure} images/02.png
 :class: image-override
 ```
 
-```{image} images/03-l.png
+```{figure} images/03-l.png
 :class: image-override
 ```
 
@@ -110,7 +110,7 @@ This is apparently a sort of "post-it" note reminder of what further to
 request in the Amt report.
 
 
-```{image} images/03-left-side-of-page.png
+```{figure} images/03-left-side-of-page.png
 :class: image-override
 ```
 

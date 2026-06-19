@@ -2,11 +2,11 @@
 
 ## Image
 
-```{image} images/19-r.png
+```{figure} images/19-r.png
 :class: image-override
 ```
 
-```{image} images/20-l.png
+```{figure} images/20-l.png
 :class: image-override
 ```
 

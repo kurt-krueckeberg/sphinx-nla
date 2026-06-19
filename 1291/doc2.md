@@ -2,7 +2,7 @@
 
 ## Digital Image
 
-```{image} images/03-r.png
+```{figure} images/03-r.png
 :class: image-override
 ```
 
@@ -72,7 +72,7 @@ MKaas
 
 ## Digital Image of Rentkammer Response
 
-```{image} images/03-r-horz-text.png
+```{figure} images/03-r-horz-text.png
 :class: image-override
 ```
 
@@ -106,7 +106,7 @@ T Landesberg
 
 ## Document 2 Enclosure: Report of Chief Forester Falkmann
 
-```{image} images/04-r.png
+```{figure} images/04-r.png
 :class: image-override
 ```
 
@@ -155,7 +155,7 @@ Falckmann
 
 ## Document 2 Enclosure: Survey Drawing
 
-```{image} images/05-r.png
+```{figure} images/05-r.png
 :class: image-override
 ```
 

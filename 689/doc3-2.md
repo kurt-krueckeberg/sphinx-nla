@@ -17,7 +17,7 @@ resolved: “the petition is to be rejected.” In short: the numbers didn’t
 convince the authorities that a rescue loan was secure, and the risk of a
 forced sale remaimed imminent.
 
-```{image} images/09-r.png
+```{figure} images/09-r.png
 :class: image-override
 ```
 

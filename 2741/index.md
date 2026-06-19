@@ -37,15 +37,15 @@ conditions as all the others.
 
 ## Images of Johann Heinrich Krückeberg’s Recorded Answers
 
-```{image} images/2741-1.jpg
+```{figure} images/2741-1.jpg
 :class: image-override
 ```
 
-```{image} images/2741-2.jpg
+```{figure} images/2741-2.jpg
 :class: image-override
 ```
 
-```{image} images/2741-3.jpg
+```{figure} images/2741-3.jpg
 :class: image-override
 ```
 

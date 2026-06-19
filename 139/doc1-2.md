@@ -8,7 +8,7 @@ is merely the left side of the [first page](doc1-1.md) of the widow Krückeberg�
 
 ## Image of Report from Bückeburg Office
 
-```{image} images/02-left-side-of-page.png
+```{figure} images/02-left-side-of-page.png
 :class: image-override
 ```
 
@@ -83,7 +83,7 @@ had once bought from the Chamber.
 This is apparently a sort of "post-it" note reminder of what further to
 request in the Amt report.
 
-```{image} images/03-left-side-of-page.png
+```{figure} images/03-left-side-of-page.png
 :class: image-override
 ```
 

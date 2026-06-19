@@ -18,11 +18,11 @@ and the receipt sent to the Kammer. The approval and orders are dated 20
 September 1849 and signed by Spreng and other clerical officials.
 
 
-```{image} images/06-l.png
+```{figure} images/06-l.png
 :class: image-override
 ```
 
-```{image} images/06-r.png
+```{figure} images/06-r.png
 :class: image-override
 ```
 

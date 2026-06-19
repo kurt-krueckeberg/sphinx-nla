@@ -17,19 +17,19 @@ submitted to the Princely Rent Chamber for final approval.
 
 ## Images
 
-```{image} images/22-r.png
+```{figure} images/22-r.png
 :class: image-override
 ```
 
-```{image} images/23-l.png
+```{figure} images/23-l.png
 :class: image-override
 ```
 
-```{image} images/23-r.png
+```{figure} images/23-r.png
 :class: image-override
 ```
 
-```{image} images/24-l.png
+```{figure} images/24-l.png
 :class: image-override
 ```
 

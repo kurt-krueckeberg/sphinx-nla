@@ -2,7 +2,7 @@
 
 ## Chancery resolution
 
-```{image} images/30-r.png
+```{figure} images/30-r.png
 :class: image-override
 ```
 

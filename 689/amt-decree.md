@@ -44,11 +44,11 @@ non-appearance (or non-response)**, not after a contested hearing.
 
 ## Images
 
-```{image} images/03-r.png 
+```{figure} images/03-r.png 
 :class: image-override
 ```
 
-```{image} images/04-l.png
+```{figure} images/04-l.png
 :class: image-override
 ```
 

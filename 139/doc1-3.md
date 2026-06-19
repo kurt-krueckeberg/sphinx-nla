@@ -13,7 +13,7 @@ right side** of the page.
 
 ## Image
 
-```{image} images/03-r.png
+```{figure} images/03-r.png
 :class: image-override
 ```
 

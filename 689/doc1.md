@@ -73,7 +73,7 @@ petition of Colon Krückeberg, herewith returned.”
 
 ## Case File Subject Slip
 
-```{image} images/08-l.png
+```{figure} images/08-l.png
 :class: image-override
 ```
 
@@ -102,11 +102,11 @@ for loan consent, etc
 
 ## Images
 
-```{image} images/02-r.png
+```{figure} images/02-r.png
 :class: image-override
 ```
 
-```{image} images/03-l-original.png
+```{figure} images/03-l-original.png
 :class: image-override
 ```
 

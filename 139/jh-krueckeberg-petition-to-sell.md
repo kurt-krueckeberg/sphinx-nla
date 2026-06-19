@@ -16,7 +16,7 @@ be collected and remitted.
 
 ## Image
 
-```{image} images/07-r.png
+```{figure} images/07-r.png
 :class: image-override
 ```
 
@@ -84,7 +84,7 @@ Barkhausen.
 
 ## Cover Note
 
-```{image} images/10-l.png
+```{figure} images/10-l.png
 :class: image-override
 ```
 

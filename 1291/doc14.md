@@ -4,7 +4,7 @@
 
 ## Petition Docket Page
 
-```{image} images/29-l.png
+```{figure} images/29-l.png
 :class: image-override
 ```
 
@@ -36,15 +36,15 @@
 
 ### Image
 
-```{image} images/27-l.png
+```{figure} images/27-l.png
 :class: image-override
 ```
 
-```{image} images/28-l.png
+```{figure} images/28-l.png
 :class: image-override
 ```
 
-```{image} images/28-r.png
+```{figure} images/28-r.png
 :class: image-override
 ```
 

@@ -2,11 +2,11 @@
 
 ## Digital Images
 
-```{image} images/16-r.png
+```{figure} images/16-r.png
 :class: image-override
 ```
 
-```{image} images/17-l.png
+```{figure} images/17-l.png
 :class: image-override
 ```
 

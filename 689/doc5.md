@@ -2,23 +2,23 @@
 
 ## Images
 
-```{image} images/12-r.png
+```{figure} images/12-r.png
 :class: image-override
 ```
 
-```{image} images/13-l.png
+```{figure} images/13-l.png
 :class: image-override
 ```
 
-```{image} images/13-r.png
+```{figure} images/13-r.png
 :class: image-override
 ```
 
-```{image} images/14-l.png
+```{figure} images/14-l.png
 :class: image-override
 ```
 
-```{image} images/14-r.png
+```{figure} images/14-r.png
 :class: image-override
 ```
 

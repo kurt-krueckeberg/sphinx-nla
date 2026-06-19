@@ -28,11 +28,11 @@ garden expansions in Berenbusch and to report back.
 
 ## Images of the Land Assignment Report
 
-```{image} images/03-right-page.png
+```{figure} images/03-right-page.png
 :class: image-override
 ```
 
-```{image} images/04-left-page.png
+```{figure} images/04-left-page.png
 :class: image-override
 ```
 

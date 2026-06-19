@@ -10,7 +10,7 @@ office.
 
 ## Image
 
-```{image} images/cover-top.jpg
+```{figure} images/cover-top.jpg
 :class: image-override
 ```
 

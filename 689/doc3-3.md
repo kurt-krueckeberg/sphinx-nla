@@ -10,7 +10,7 @@ Berenbusch”, showing that a copy of the decision was dispatched to him.
 
 ## Image
 
-```{image} images/10-l.png
+```{figure} images/10-l.png
 :class: image-override
 ```
 

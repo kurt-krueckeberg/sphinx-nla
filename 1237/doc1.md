@@ -2,7 +2,7 @@
 
 ## Petition Docket Item
 
-```{image} images/05-left-page.png
+```{figure} images/05-left-page.png
 :class: image-override
 ```
 
@@ -54,11 +54,11 @@ the "Res Cam" was initialed by him.
 
 ## Petition
 
-```{image} images/02.png
+```{figure} images/02.png
 :class: image-override
 ```
 
-```{image} images/03-left-page.png
+```{figure} images/03-left-page.png
 :class: image-override
 ```
 
@@ -191,7 +191,7 @@ order and any enclosures (such as the Forestry Report) are not preserved;
 only this short reference and the Amt’s subsequent [Report on the matter](doc2.md)
 (Document No. 2) remain.
 
-```{image} images/02-admin-note.png
+```{figure} images/02-admin-note.png
 :class: image-override
 ```
 

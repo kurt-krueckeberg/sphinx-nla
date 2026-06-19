@@ -2,15 +2,15 @@
 
 ## Purchase Contract
 
-```{image} images/34-r.png
+```{figure} images/34-r.png
 :class: image-override
 ```
 
-```{image} images/35-l.png
+```{figure} images/35-l.png
 :class: image-override
 ```
 
-```{image} images/35-r.png
+```{figure} images/35-r.png
 :class: image-override
 ```
 

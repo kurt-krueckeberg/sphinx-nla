@@ -105,11 +105,11 @@ Krückeberg’s secure and heritable right to the holding.
 
 ## Image
 
-```{image} images/13-r.png
+```{figure} images/13-r.png
 :class: image-override
 ```
 
-```{image} images/14-l.png
+```{figure} images/14-l.png
 :class: image-override
 ```
 

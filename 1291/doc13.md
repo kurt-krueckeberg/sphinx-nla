@@ -2,7 +2,7 @@
 
 ## Digital Image
 
-```{image} images/26-r.png
+```{figure} images/26-r.png
 :class: image-override
 ```
 

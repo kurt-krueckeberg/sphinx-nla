@@ -35,11 +35,11 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 
 ## Images
 
-```{image} images/11.png
+```{figure} images/11.png
 :class: image-override
 ```
 
-```{image} images/12.png
+```{figure} images/12.png
 :class: image-override
 ```
 

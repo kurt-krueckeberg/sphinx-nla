@@ -8,7 +8,7 @@ The [citation](#citation-2713) is at the bottom on this page.
 
 On page 110 Berenbusch and Johann Heinrich Krückeberg are mentioned.
 
-```{image} images/2713-24.png
+```{figure} images/2713-24.png
 :class: image-override
 ```
 

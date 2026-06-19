@@ -1,6 +1,6 @@
 # Draft of Official Order of the Chamber to the Office of Bückeburg (24 Dec. 1841)
 
-```{image} images/17-r.png
+```{figure} images/17-r.png
 :class: image-override
 ```
 

@@ -2,15 +2,15 @@
 
 ## Images
 
-```{image} images/16-l.png
+```{figure} images/16-l.png
 :class: image-override
 ```
 
-```{image} images/16-r.png
+```{figure} images/16-r.png
 :class: image-override
 ```
 
-```{image} images/17-l.png
+```{figure} images/17-l.png
 :class: image-override
 ```
 
@@ -103,7 +103,7 @@ On the last page, written vertically in the left margin—​rotated below so
 one can read it—​is the decision of the Sovereign ruler of
 Schaumburg-Lippe, Georg Wilhelm, Prince of Schaumburg-Lippe.
 
-```{image} images/17-l-vertical-text.png
+```{figure} images/17-l-vertical-text.png
 :class: image-override
 ```
 

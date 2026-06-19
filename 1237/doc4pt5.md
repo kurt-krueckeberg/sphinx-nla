@@ -16,7 +16,7 @@ negotiations, inspections, and back-and-forth between offices.
 earlier.
 
 
-```{image} images/08-right-page.png
+```{figure} images/08-right-page.png
 :class: image-override
 ```
 

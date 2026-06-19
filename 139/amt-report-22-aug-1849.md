@@ -17,7 +17,7 @@ stamp duty from Krückeberg and will forward the amount. The document is
 issued from Bückeburg on 22 August 1849 and signed by Höner.
 
 
-```{image} images/10-r.png
+```{figure} images/10-r.png
 :class: image-override
 ```
 

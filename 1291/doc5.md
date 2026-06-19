@@ -2,7 +2,7 @@
 
 ## Petition Docket Page
 
-```{image} images/10-l.png
+```{figure} images/10-l.png
 :class: image-override
 ```
 
@@ -36,11 +36,11 @@ a plot of land for the construction of a house with a garden.
 
 ## Document 5
 
-```{image} images/08-r.png
+```{figure} images/08-r.png
 :class: image-override
 ```
 
-```{image} images/09-l.png
+```{figure} images/09-l.png
 :class: image-override
 ```
 
@@ -150,7 +150,7 @@ Aswellmann p [?] [?]
 
 ### Resolution of Rentkammer
 
-```{image} images/08-r-vert-text.png
+```{figure} images/08-r-vert-text.png
 :class: image-override
 ```
 

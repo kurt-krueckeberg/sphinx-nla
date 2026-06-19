@@ -1,6 +1,6 @@
 # Image 4
 
-```{image} images/04.png
+```{figure} images/04.png
 :class: image-override
 ```
 

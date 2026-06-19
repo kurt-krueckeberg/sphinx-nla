@@ -13,7 +13,7 @@ mircofiche at the Bückeburg archive, found it only covers the year
 
 ## Title Page 
 
-```{image} images/title-140.png
+```{figure} images/title-140.png
 :class: image-override
 ```
 

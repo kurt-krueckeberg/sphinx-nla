@@ -8,11 +8,11 @@ chamber treasury.
 
 ## Images
 
-```{image} images/08-r.png
+```{figure} images/08-r.png
 :class: image-override
 ```
 
-```{image} images/09-l.png
+```{figure} images/09-l.png
 :class: image-override
 ```
 

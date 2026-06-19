@@ -9,7 +9,7 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 
 ## Image of Official Order
 
-```{image} images/06-l.png
+```{figure} images/06-l.png
 :class: image-override
 ```
 
@@ -106,7 +106,7 @@ Here is what each of them means:
   - Per-folio (per page) fee
 ```
 
-```{image} images/07-l.png
+```{figure} images/07-l.png
 :class: image-override
 ```
 

@@ -40,7 +40,7 @@ the " financial circumstances and on the personal qualities of the petitioner."
 
 ## Petition Cover Page
 
-```{image} images/05-l.png
+```{figure} images/05-l.png
 :class: image-override
 ```
 
@@ -83,11 +83,11 @@ for the gracious granting of a plot of land for the construction of a house
 
 ## Images for Petition submitted by the tailor Krückeberg in Evesen
 
-```{image} images/02-r.png
+```{figure} images/02-r.png
 :class: image-override
 ```
 
-```{image} images/03-l.png
+```{figure} images/03-l.png
 :class: image-override
 ```
 

@@ -2,19 +2,19 @@
 
 ## Digital Image
 
-```{image} images/21-r.png
+```{figure} images/21-r.png
 :class: image-override
 ```
 
-```{image} images/22-l.png
+```{figure} images/22-l.png
 :class: image-override
 ```
 
-```{image} images/21-r-vert-text.png
+```{figure} images/21-r-vert-text.png
 :class: image-override
 ```
 
-```{image} images/23-l.png
+```{figure} images/23-l.png
 :class: image-override
 ```
 
@@ -39,7 +39,7 @@
     or access and often forms the boundary between adjoining parcels of land.
 ```
 
-```{image} images/23-r.png
+```{figure} images/23-r.png
 :class: image-override
 ```
 

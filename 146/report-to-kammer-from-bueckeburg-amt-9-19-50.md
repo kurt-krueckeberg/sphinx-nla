@@ -2,11 +2,11 @@
 
 ## Image
 
-```{image} images/17-r-alternate.png
+```{figure} images/17-r-alternate.png
 :class: image-override
 ```
 
-```{image} images/17-r-small-text.png
+```{figure} images/17-r-small-text.png
 :class: image-override
 ```
 

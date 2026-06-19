@@ -2,13 +2,13 @@
 
 ## Images
 
-```{image} images/15-r-original.png
+```{figure} images/15-r-original.png
 :class: image-override
 ```
 
 **Vertical text in prior image rotated right**
 
-```{image} images/15-r-vertical.png
+```{figure} images/15-r-vertical.png
 :class: image-override
 ```
 

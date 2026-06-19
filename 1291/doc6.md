@@ -2,15 +2,15 @@
 
 ## Digital Images
 
-```{image} images/12-r.png
+```{figure} images/12-r.png
 :class: image-override
 ```
 
-```{image} images/13-l.png
+```{figure} images/13-l.png
 :class: image-override
 ```
 
-```{image} images/12-r-vert-text.png
+```{figure} images/12-r-vert-text.png
 :class: image-override
 ```
 

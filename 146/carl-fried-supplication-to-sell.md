@@ -61,7 +61,7 @@ settlement lands.
 
 ## Image
 
-```{image} images/21-r.png
+```{figure} images/21-r.png
 :class: image-override
 ```
 

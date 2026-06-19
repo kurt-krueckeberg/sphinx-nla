@@ -151,7 +151,7 @@ transformation in status,
 
 ## Image
 
-```{image} images/07-r.png
+```{figure} images/07-r.png
 :class: image-override
 ```
 

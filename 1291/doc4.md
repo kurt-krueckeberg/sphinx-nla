@@ -2,7 +2,7 @@
 
 ## Petition Docket Page
 
-```{image} images/11-l.png
+```{figure} images/11-l.png
 :class: image-override
 ```
 
@@ -27,15 +27,15 @@ a plot of land on which to build a house.
 
 ## Petition of the lodger Vogt at Evesen
 
-```{image} images/07-r.png
+```{figure} images/07-r.png
 :class: image-override
 ```
 
-```{image} images/08-l.png
+```{figure} images/08-l.png
 :class: image-override
 ```
 
-```{image} images/07-r-vertical-text.png
+```{figure} images/07-r-vertical-text.png
 :class: image-override
 ```
 

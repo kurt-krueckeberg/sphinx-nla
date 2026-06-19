@@ -10,7 +10,7 @@ by Alvei, who mailed it (or logged its mailing).
 
 ## Images
 
-```{image} images/03-r.png
+```{figure} images/03-r.png
 :class: image-override
 ```
 

@@ -2,19 +2,19 @@
 
 ## Images
 
-```{image} images/09-r.png
+```{figure} images/09-r.png
 :class: image-override
 ```
 
-```{image} images/10-l.png
+```{figure} images/10-l.png
 :class: image-override
 ```
 
-```{image} images/09-vert-text.png
+```{figure} images/09-vert-text.png
 :class: image-override
 ```
 
-```{image} images/11.png
+```{figure} images/11.png
 :class: image-override
 ```
 

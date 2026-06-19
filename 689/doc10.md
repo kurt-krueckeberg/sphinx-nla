@@ -2,11 +2,11 @@
 
 ## NC 2422 — Follow-up to Prommissory Note for 200 Reichsthaler, of 12 Jan 1842) — liquidation/crediting of interest
 
-```{image} images/21-r.png
+```{figure} images/21-r.png
 :class: image-override
 ```
 
-```{image} images/22.png
+```{figure} images/22.png
 :class: image-override
 ```
 
@@ -115,7 +115,7 @@ receipt.
 
 ## Follow-up delivery/receipt; mortgage cancellation approved
 
-```{image} images/23-r.png
+```{figure} images/23-r.png
 :class: image-override
 ```
 
@@ -202,7 +202,7 @@ pfennigs is to be entered as an expenditure.
 Bückeburg, 2 May 1845. — Reck
 ```
 
-```{image} images/24-l.png
+```{figure} images/24-l.png
 :class: image-override
 ```
 
@@ -297,7 +297,7 @@ Poppelbaum.
 
 ## Concept Quittung
 
-```{image} images/24-r.png
+```{figure} images/24-r.png
 :class: image-override
 ```
 

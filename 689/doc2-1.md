@@ -52,15 +52,15 @@ that it had temporarily suspended the distraint order.
 
 ## Images
 
-```{image} images/04-r-original.png
+```{figure} images/04-r-original.png
 :class: image-override
 ```
 
-```{image} images/05-l.png
+```{figure} images/05-l.png
 :class: image-override
 ```
 
-```{image} images/05-r.png
+```{figure} images/05-r.png
 :class: image-override
 ```
 

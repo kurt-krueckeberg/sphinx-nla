@@ -7,7 +7,7 @@ as Document #5. It also references "Nro. 317", **"wie ad Nro. 317"** ("as with N
 merely a reminder about Berenbusch woodland boundaries.
 
 
-```{image} images/07-right-page.png
+```{figure} images/07-right-page.png
 :class: image-override
 :width: 75%
 ```

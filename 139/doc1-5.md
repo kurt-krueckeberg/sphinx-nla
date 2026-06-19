@@ -10,7 +10,7 @@ This same page holds:
 
 ## Image
 
-```{image} images/03-r.png
+```{figure} images/03-r.png
 :class: image-override
 ```
 
