@@ -3,3 +3,4 @@
 - {ref}`brueggeman-vogt-plots`
 - {ref}`krueckeberg-brüggemann-no1`
 - {ref}`tailor-krückeberg-enlargement`
+- {ref}`krueckeberg-no-18-garten`

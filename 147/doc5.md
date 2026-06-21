@@ -14,8 +14,11 @@
 :class: image-override
 ```
 
+(krueckeberg-no-18-garten)=
 ```{figure} images/11.png
 :class: image-override
+
+Krückeberg Nr. 18 Garten
 ```
 
 ## Transliteration
