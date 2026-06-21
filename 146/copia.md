@@ -113,7 +113,7 @@ verabredeten Sache, der Verletzung unter oder über die Hälfte
 und welchen Samme[Summe] für sonst haben mögen.
 
 Da amtsseitig bei dem Vertrage Etwas nicht zu erinnern ist, so
-wird die gerichtliche Beslätigung dazu andurch ertheilt, und
+wird die gerichtliche Bestätigung dazu andurch ertheilt, und
 soll derselbe nach geschehener Vollziehung der Fürstl.
 Rentkammer zu höhern Bestätigung vorgelegt werden.
 
