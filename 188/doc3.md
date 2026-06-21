@@ -30,6 +30,12 @@ third page
 third page
 ```
 
+```{important}
+The text is the image is extremely difficult to decipher. Therefore the copy
+of the purchase contract that appears in {doc}`../146/copia` was relied on
+to interpret the text in this document.
+```
+
 ## Transliteration
 
 ```{div} doc-text
