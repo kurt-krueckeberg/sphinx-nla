@@ -42,7 +42,7 @@ by nails.”
 
 ## Transliteration
 
-````{div} doc-text
+```{div} doc-text
 Copie
 
 Kund und um wissen sei hiermit, d[aß] zwischen dem Colon
@@ -77,38 +77,15 @@ IV.
 
 Die Lasten der Stätte, welche bestehen in
 
-```{list-table}
-:widths: 10 90
-
-* - 1
-  - 1 Rthl 1 g Dienstgeld pro Jahr
-* - 2
-  - 10 g 2 d Rottmis
-* - 3
-  - 6 g Mahlschweingeld
-* - 4
-  - 1 g Michaelisschatz
-* - 5
-  - 1 Rauchhuhn
-* - 6
-  - 5 Erntetage
-* - 7
-  - 2 mg 2 d Contribution pro Simpla
-* - 8
-  - Landfolgen
-* - 9
-  - Gemeinde-, Kirchen- und Schullaste
-```
-
-1,  1 Rthl 1g Dienstgeld pro Jahr
-2, 10 g 2 d Rottmis
-3,  6 g Mahlschweingeld
-4,  1 g Michaelisschatz
-5,  1 Rauchhuhn
-6,  5 Erntetage
-7,  2 mg 2 d Contribution pro Simpla
-8,  Landfolgen
-9 Gemeinde-, Kirchen- und Schullaste
+1. 1 Rthl 1 g Dienstgeld pro Jahr
+2. 10 g 2 d Rottmis
+3. 6 g Mahlschweingeld
+4. 1 g Michaelisschatz
+5. 1 Rauchhuhn
+6. 5 Erntetage
+7. 2 mg 2 d Contribution pro Simpla
+8. Landfolgen
+9. Gemeinde-, Kirchen- und Schullaste
 
 hat Käufer, so wie sie vom Tage der Stätte-Übernahme an fällig
 werden zu tragen, und wenn eine oder die andere Last in
@@ -147,7 +124,7 @@ Fürstlich Schamb. Lipp. Amt
 
 gez. Lagerfeldt Krieger König
 (L. S.)
-````
+```
 
 ## Translation
 
