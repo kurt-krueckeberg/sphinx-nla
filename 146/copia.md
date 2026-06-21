@@ -200,7 +200,7 @@ for higher confirmation.
 
 Thus done at Bückeburg, 26 September 1850.
 
-Signed: Krückeberg, Meier
+Signed: Krückeberg, Meier\
 Princely Schaumburg-Lippe Office
 
 Signed: Lagerfeldt   Krieger   König
