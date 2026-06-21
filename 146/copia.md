@@ -164,7 +164,7 @@ The burdens attached to the holding, which consist of:
 2. 10 groschen 2 pfennigs Rottmis,
 3. 6 groschen milling fee (Mahlschweingeld),
 4. 1 groschen Michaelmas due,
-5. 1 smoke-hen,
+5. 1 hen,
 6. 5 harvest labor days,
 7. 2 Mariengroschen 2 pfennigs contribution per assessment unit,
 8. customary land obligations,
