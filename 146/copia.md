@@ -62,11 +62,10 @@ Schuster Einlieger Wilhelm Meyer verkauft.
 
 II.
 
-Das Wohnhaus wird verkauft mit Allen, was daran und = wand
-band = mit = und nagelhaft ist, (Normalisiert: daran und
-wandband- und nagelhaft ist,) desgleichen mit den Ofen und den
+Das Wohnhaus wird verkauft mit Allem, was daran erd-, wandband-,
+niet- und nagelfest ist, desgleichen mit dem Ofen und den
 auf der Boden-Statt Beschusses etwa lose liegenden Dielen und
-Pfösten. Das Hofraum und Garten erhält Käufer mit den darauf
+Pfösten. Den Hofraum und Garten erhält Käufer mit den darauf
 lichen Bäumen und den Einfriedigungen
 
 III.

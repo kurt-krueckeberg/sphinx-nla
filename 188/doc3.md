@@ -30,8 +30,6 @@ third page
 third page
 ```
 
-## Tranliteration
-
 ## Transliteration
 
 ```{div} doc-text
