@@ -92,13 +92,13 @@ werden zu tragen, und wenn eine oder die andere Last in
 Vorstehendem nicht richtig oder gar nicht angegeben sein
 sollte, auch diese zu übernehmen. Imgleichen gehen aber auch
 alle der Stätte anklebenden Gerechtigkeiten auf den Käufer
-über
+über.
 
 V.
 
 Die Übergabe der Stätte erfolgt sofort bei Aushändigung des
 Contracts und hat Käufer zu gleicher Zeit den Kaufpreis mit
-550 Rthlr in groben Cour[ant] zu berichtigen
+550 Rthlr in groben Cour[ant] zu berichtigen.
 
 VI.
 

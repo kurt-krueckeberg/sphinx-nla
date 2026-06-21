@@ -117,7 +117,39 @@ auf der Boden-Statt Beschusses etwa lose liegenden Dielen und
 Pfosten. Den Hofraum und Garten erhält Käufer mit den darauf
 befindlichen Bäumen und den Einfriedigungen.
 
-III
+III.
 
+Für die unter I. angegebene Größe des Gartens wird keine
+Gewähr geleistet.
 
+IV.
+
+Die Lasten der Stätte, welche bestehen in
+
+1. 1 Rthl 1 g Dienstgeld pro Jahr
+2. 10 g 2 d Rottmis
+3. 6 g Mahlschweingeld
+4. 1 g Michaelisschatz
+5. 1 Rauchhuhn
+6. 5 Erntetage
+7. 2 mg 2 d Contribution pro Simpla
+8. Landfolgen
+9. Gemeinde-, Kirchen- und Schullaste
+
+hat Käufer, so wie sie vom Tage der Stätte-Übernahme an fällig
+werden zu tragen, und wenn eine oder die andere Last in
+Vorstehendem nicht richtig oder gar nicht angegeben sein
+sollte, auch diese zu übernehmen. Imgleichen gehen aber auch
+alle der Stätte anklebenden Gerechtigkeiten auf den Käufer
+über.
+
+V.
+
+Die Übergabe der Stätte erfolgt sofort bei Aushändigung des
+Contracts und hat Käufer zu gleicher Zeit den Kaufpreis mit
+550 Rthlr in groben Cour[ant] zu berichtigen.
+
+VI.
+
+Die Kusten[Kosten] des Kaufcontracts trägt Käufer.
 ```
