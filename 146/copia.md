@@ -119,7 +119,7 @@ Rentkammer zu höhern Bestätigung vorgelegt werden.
 
 So geschehen Bückeburg 26 Sept 1850
 
-unter[screiben]/Krückeberg. Meier\
+unter[screiben] Krückeberg. Meier\
 Fürstlich Schamb. Lipp. Amt
 
 gez. Lagerfeldt Krieger König\
