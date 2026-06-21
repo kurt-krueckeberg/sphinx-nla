@@ -187,23 +187,21 @@ The costs of this purchase contract are borne by the buyer.
 
 VII.
 
-Both parties waive all objections that might stand in the way of this
-contract, in particular objections based on fraud, error, duress, the
-fact that the matter was written differently than agreed, injury by
-less than or more than one half, and whatever other sums they might
-otherwise claim.
+Both parties waive all objections that might be raised against this
+contract, especially objections based on fraud, mistake, duress, the
+agreement having been written down differently from what was agreed, or the
+claim that the agreed price was wildly unfair compared with the property’s
+real value, as well as any such objections by whatever other name.
 
-Since, from the official side, nothing is found to be objected to in
-this contract, judicial confirmation thereof is hereby granted, and,
-after execution, the same shall be submitted to the Princely Rent Chamber
-for higher confirmation.
+Since, on the part of the Amt, there is nothing to object to in the
+contract, judicial confirmation is hereby granted to it, and after its
+execution it shall be submitted to the Princely Rentkammer for higher
+confirmation.
 
-Thus done at Bückeburg, 26 September 1850.
+Done at Bückeburg, 26 September 1850.
 
-Signed: Krückeberg, Meier\
-Princely Schaumburg-Lippe Office
+Signed: Krückeberg. Meier.
+Princely Schaumburg-Lippe Amt.
 
-Signed: Lagerfeldt   Krieger   König\
-(Seal)
-```
-
+Signed: Lagerfeldt, Krieger, König.
+[Seal]
