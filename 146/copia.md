@@ -119,10 +119,10 @@ Rentkammer zu höhern Bestätigung vorgelegt werden.
 
 So geschehen Bückeburg 26 Sept 1850
 
-unter[screiben]/Krückeberg. Meier
+unter[screiben]/Krückeberg. Meier\
 Fürstlich Schamb. Lipp. Amt
 
-gez. Lagerfeldt Krieger König
+gez. Lagerfeldt Krieger König\
 (L. S.)
 ```
 
@@ -203,7 +203,7 @@ Thus done at Bückeburg, 26 September 1850.
 Signed: Krückeberg, Meier\
 Princely Schaumburg-Lippe Office
 
-Signed: Lagerfeldt   Krieger   König
+Signed: Lagerfeldt   Krieger   König\
 (Seal)
 ```
 
