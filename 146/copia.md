@@ -49,7 +49,7 @@ Kund und um wissen sei hiermit, d[aß] zwischen dem Colon
 Krückeberg No 18 zu Berenbusch und dem Schuster Einlieger
 Wilhelm Meÿer auf No. 41 in Cammer mit Genehmigung Fürstlicher
 Rentkammer dem nachstehende Kaufcontract verhandelt und
-abgeschlossen ist
+abgeschlossen ist.
 
 I.
 
@@ -65,8 +65,8 @@ II.
 Das Wohnhaus wird verkauft mit Allem, was daran erd-, wandband-,
 niet- und nagelfest ist, desgleichen mit dem Ofen und den
 auf der Boden-Statt Beschusses etwa lose liegenden Dielen und
-Pfösten. Den Hofraum und Garten erhält Käufer mit den darauf
-lichen Bäumen und den Einfriedigungen
+Pfosten. Den Hofraum und Garten erhält Käufer mit den darauf
+befindlichen Bäumen und den Einfriedigungen.
 
 III.
 
@@ -146,11 +146,11 @@ price of five hundred fifty thalers in current money.
 
 II.
 
-The dwelling house is sold together with everything attached to it,
-built into the walls, or fixed with mortar or nails, likewise including
-the stoves and any floorboards and posts that may be lying loose on the
-ground of the building site. The courtyard and garden are transferred
-to the buyer together with the trees standing thereon and the enclosures.
+The dwelling house is sold with all attached fixtures—that is, everything
+fixed in place as part of the structure—as well as the stove and any loose
+boards and posts lying in the floor or attic-floor area. The buyer also
+receives the yard and garden, together with the trees located there and the
+enclosures.
 
 III.
 

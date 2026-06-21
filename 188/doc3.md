@@ -84,9 +84,34 @@ In fidem
 Kaufbrief
 Exp
 
-[bottom right of page]
+[bottom right of page 5-l.jpg]
 Kund und zu wissen sey hiermit, daß zwischen dem Colon Krückeberg N. 18 zu
 Berenbusch und dem Schuster Einlieger Wilhelm Meyer auf Nr. 41 zu Cammer
 mit Genehmigung fürstlicher Rentkammer der nachstehende Kauſcontrakt
-verhandelt und
+verhandelt und...
+
+[image 5-right.jpg]
+
+...abgeschlossen ist.
+
+I.
+
+Die Stätte No. 18 zu Berenbusch, welche aus einen Wohnhause,
+kleine Hofraume und nebengelegene Garten von etwa eines
+Morgens Größe besteht, wird von dem Colonen Krückeberg unter
+den bestehenden bauerrechtlichen Verhältnissen für den
+Kaufpreis von Fünfhundert funfzig Thaler Courant an den
+Schuster Einlieger Wilhelm Meyer verkauft.
+
+II.
+
+Das Wohnhaus wird verkauft mit Allem, was daran erd-, wandband-,
+niet- und nagelfest ist, desgleichen mit dem Ofen und den
+auf der Boden-Statt Beschusses etwa lose liegenden Dielen und
+Pfosten. Den Hofraum und Garten erhält Käufer mit den darauf
+befindlichen Bäumen und den Einfriedigungen.
+
+III
+
+
 ```
