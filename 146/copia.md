@@ -71,7 +71,7 @@ befindlichen Bäumen und den Einfriedigungen.
 III.
 
 Für die unter I. angegebene Größe des Gartens wird keine
-Gewähr geleistet
+Gewähr geleistet.
 
 IV.
 
