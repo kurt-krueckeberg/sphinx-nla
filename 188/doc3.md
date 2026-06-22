@@ -24,7 +24,7 @@ third page
 third page
 ```
 
-```{figure} images/6-right.jpg
+```{figure} images/6-right.png
 :class: image-override
 
 third page
@@ -152,4 +152,20 @@ Contracts und hat Käufer zu gleicher Zeit den Kaufpreis mit
 VI.
 
 Die Kusten[Kosten] des Kaufcontracts trägt Käufer.
+
+VII.
+
+Beide Theile entsagen allen diesem Contracte etwa
+entgegenstehenden Einreden, insonderheit den Einreden des
+Betrugs, Irrthums, Zwangs, der anders niedergeschriebenen als
+verabredeten Sache, der Verletzung unter oder über die Hälfte
+und welchen Namen für sonst haben mögen.
+
+Da amtsseitig bei dem Vertrage Etwas nicht zu erinnern ist, so
+wird die gerichtliche Bestätigung dazu andurch ertheilt, und
+soll derselbe nach geschehener Vollziehung der Fürstl.
+Rentkammer zu höhern Bestätigung vorgelegt werden.
+
+So geschehen B[ückeburg] 26 Sept 1850\
+Krückeberg ᐧ Meier
 ```
