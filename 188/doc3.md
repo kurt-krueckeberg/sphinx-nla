@@ -86,11 +86,10 @@ In fidem
 
 [clerk’s initials or abbreviated signature]
 
-[left side of page]
-Kaufbrief
+[left side of page]\
+Kaufbrief\
 Exp
 
-[bottom right of page 5-l.jpg]
 Kund und zu wissen sey hiermit, daß zwischen dem Colon Krückeberg N. 18 zu
 Berenbusch und dem Schuster Einlieger Wilhelm Meyer auf Nr. 41 zu Cammer
 mit Genehmigung fürstlicher Rentkammer der nachstehende Kauſcontrakt
@@ -166,24 +165,21 @@ So geschehen B[ückeburg] 26 Sept 1850\
 Krückeberg ᐧ Meier
 
 
-[top left corner of last page]
-An
-RKammer
-berichtet
+[top left corner of last page]\
+An RKammer berichtet
 
-[heading located in top mid left-center]
-Verkauf der Krückebergischen
-Stätte N. 18 zu Berenbusch betr.
+[heading located in top mid left-center]\
+Verkauf der Krückebergischen Stätte N. 18 zu Berenbusch betr.
 
-[document numbers on left side of page]
-N. [F.?] 13. 1362.
-ad
+[document numbers on left side of page]\
+N. [F.?] 13. 1362.\
+ad\
 N. C. 4456.
 
-[located below document numbers]
+[located below document numbers]\
 Exp. 25/9 50.
 
-[table of amounts on left edge of page]
+[table of amounts on left edge of page]\
 taxa      12 g
 exp        3_
 Stgl.      3_
@@ -191,10 +187,10 @@ exp. Kaufb. 3_
 Stgl.     18_
 mf.        2_
          _____
-        1 rt. 5 g
+        1 rt. 5 g\
          Ausgez.
 
-[main text on right side of the page]
+[main text on right side of the page]\
 Auf das Rescript vom 20. d. M. ver-
 fehlen wir nicht, fürstlicher Rkammer
 den von beiden Theilen vollzoge-
@@ -205,6 +201,6 @@ Meyer auf die zu seiner Sicherstel-
 lung früher beantragte Edictalladung
 wieder verzichtet hat.
 
-Bburg 24 Sept. 1850.
+Bburg 24 Sept. 1850.\
 Krieger  [Remy?]
 ```
