@@ -110,7 +110,7 @@ Beide Theile entsagen allen diesem Contracte etwa
 entgegenstehenden Einreden, insonderheit den Einreden des
 Betrugs, Irrthums, Zwangs, der anders niedergeschriebenen als
 verabredeten Sache, der Verletzung unter oder über die Hälfte
-und welchen Samme[Summe] für sonst haben mögen.
+und welchen Namen für sonst haben mögen.
 
 Da amtsseitig bei dem Vertrage Etwas nicht zu erinnern ist, so
 wird die gerichtliche Bestätigung dazu andurch ertheilt, und
