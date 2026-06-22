@@ -1,6 +1,8 @@
 # TODO
 
-## Go through `warnings.txt`
+## Go through `188/doc3.md`
+
+Ask Chatgpt if I should break the text apart into three sections.
 
 ##  Finish 2741/index.md
 
