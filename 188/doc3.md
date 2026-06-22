@@ -44,7 +44,7 @@ pr. 21/9 50\
 [3Gr Stempel]
 
 N. C. 4456.\
-N.P. 1314. Kg
+N.P. 1314. [initials:]Kg
 
 An das Amt Bückeburg.  Verkauf der Krückebergschen Stätte No 18 in Berenbusch betreffend.
 
