@@ -181,7 +181,7 @@ Exp. 25/9 50.
 
 [table of amounts on left edge of page]
 
-<pre style="font-family: inherit; background: transparent; border: 0; padding: 0; margin: 0;">
+<pre style="font-family: var(--pst-font-family-base) !important; background: transparent; border: 0; padding: 0; margin: 0;">
 taxa             12 g
 exp.              3 g
 Stgl.             3 g
@@ -193,6 +193,25 @@ mf.               2 g
               Ausgez.
 </pre>
 
+:style: "max-width: fit-content;"
+
+<style>
+  .tight-table th, .tight-table td { 
+    padding-left: 0px !important; 
+    padding-right: 10px !important; 
+  }
+</style>
+
+<div class="tight-table">
+
+| Abbr. | Amount / Unit (1850) |
+| :--- | :--- |
+| Thl. | 1 Thaler (Primary silver coin) |
+| Sgr. | 1/30 Thaler (Silbergroschen) |
+| Ggr. | 1/24 Thaler (Gute Groschen) |
+| Pfg. | 1/12 Groschen (Pfennig) |
+
+</div>
 [main text on right side of the page]\
 Auf das Rescript vom 20. d. M. ver-
 fehlen wir nicht, fürstlicher Rkammer
