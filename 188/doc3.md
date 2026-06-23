@@ -286,8 +286,8 @@ In witness whereof,
 ## Translation of Sale deed for Holding (Stätte) No. 18 in Berenbusch
 
 ```{div} doc-text
-[left side of page]
-Sale document
+[left side of page]\
+Sale document\
 Exp.
 
 Be it known by this document that the following sale contract has been
