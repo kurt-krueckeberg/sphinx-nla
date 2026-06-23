@@ -178,7 +178,7 @@ So geschehen B[ückeburg] 26 Sept 1850\
 Krückeberg ᐧ Meier
 ```
 
-## Transliteration of ## Request for official approval, with fee notes
+## Transliteration of Request for official approval, with fee notes
 
 ````{div} doc-text
 [top left corner of last page]\
