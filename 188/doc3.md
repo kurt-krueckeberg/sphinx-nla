@@ -230,7 +230,7 @@ Bburg 24 Sept. 1850.\
 Krieger  [Remy?]
 ````
 
-## Translation of Sale deed for Holding (Stätte) No. 18 in Berenbusch
+## Translation of Official record of the sale proceedings
 
 ```{div} doc-text
 No. received 1362\
@@ -362,11 +362,11 @@ Krückeberg · Meier
 ## Translation of Official record of the sale proceedings 
 
 ```{div} doc-text
-No. received 1362
-received Sept. 21, 1850
+No. received 1362\
+received Sept. 21, 1850\
 [3-groschen stamp]
 
-N. C. 4456.
+N. C. 4456.\
 N.P. 1314. [initials:] Kg
 
 To the Bückeburg district office. Concerning the sale of the Krückeberg
@@ -378,8 +378,8 @@ noted, however, that in addition to the dues and obligations listed in the
 district office record of the 16th of this month, Holding No. 18 in
 Berenbusch is also required to provide five harvest-labor days.
 
-Bückeburg, September 20, 1850.
-Princely Schaumburg-Lippe Revenue Chamber.
+Bückeburg, September 20, 1850.\
+Princely Schaumburg-Lippe Revenue Chamber.\
 Spring
 
 Done at the Bückeburg district office, September 22, 1850.
@@ -405,11 +405,9 @@ contract.
 
 Read aloud, approved, and signed.
 
-Krückeberg
-Picht       Meier
+Krückeberg\
+Picht ᐧ Meier\
 In witness whereof,
 
 [clerk’s initials or abbreviated signature]
 ```
-
-
