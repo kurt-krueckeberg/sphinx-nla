@@ -236,6 +236,7 @@ parts:
           - file: 188/doc1
           - file: 188/doc2
           - file: 188/doc3
+          - file: 188/doc4
 
   - caption: Maps in Case Files
     chapters:
