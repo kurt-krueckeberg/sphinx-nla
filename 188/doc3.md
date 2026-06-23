@@ -181,8 +181,6 @@ Exp. 25/9 50.
 
 [table of amounts on left edge of page]
 
-```{div} doc-text
-
 <pre style="font-family: inherit; background: transparent; border: 0; padding: 0; margin: 0;">
 taxa             12 g
 exp.              3 g
