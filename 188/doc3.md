@@ -228,7 +228,7 @@ nen Kaufbrief zur festen Bestä-
 tigung herneben vorzulegen, wo-
 bei wir berichten, daß der Käufer
 Meyer auf die zu seiner Sicherstel-
-
+````
 
 ## Translation of Sale deed for Holding (Stätte) No. 18 in Berenbusch
 
