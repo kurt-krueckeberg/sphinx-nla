@@ -229,6 +229,44 @@ Sicherstellung früher beantragte Edictalladung wieder verzichtet hat.
 Bburg 24 Sept. 1850.\
 Krieger  [Remy?]
 ````
+
+## Translation of Sale deed for Holding (Stätte) No. 18 in Berenbusch
+
+```{div} doc-text
+No. received 1362
+received Sept. 21, 1850
+[3-groschen stamp]
+
+N. C. 4456.
+N.P. 1314. [initials:] Kg
+
+To the Bückeburg district office. Concerning the sale of the Krückeberg Holding (Stätte) No. 18 in Berenbusch.
+
+In response to the district office’s report of the 17th of this month, permission is hereby granted for the sale of the above-named holding. It is noted, however, that in addition to the dues and obligations listed in the district office record of the 16th of this month, Holding No. 18 in Berenbusch is also required to provide five harvest-labor days.
+
+Bückeburg, September 20, 1850.
+Princely Schaumburg-Lippe Revenue Chamber.
+Spring
+
+Done at the Bückeburg district office, September 22, 1850.
+
+There appeared Colon Krückeberg, No. 18 of Berenbusch, together with the buyer, the shoemaker Ernst Wilhelm Meyer of No. 41 in Röcke, and Colon Picht, No. 7 of Rusbend. The latter two declared as follows:
+
+Since Colon Krückeberg has already sent off the earnest money in order to depart from Bremen for America on October 1 of this year, we are willing to assume responsibility, each for one half, for any unpaid debt that Krückeberg may leave behind. In particular, I, Wilhelm Meyer, waive the public summons to creditors that I had previously requested for my own protection.
+
+On behalf of any creditors of Krückeberg who might remain behind, the district office accepted this declaration. Krückeberg then requested that the sale contract be drawn up soon.
+
+The contracting parties are instructed to appear before the district office on the 26th of this month at 10 o’clock in the morning to execute the contract.
+
+Read aloud, approved, and signed.
+
+Krückeberg
+Picht       Meier
+In witness whereof,
+
+[clerk’s initials or abbreviated signature]
+```
+
 ## Translation of Sale deed for Holding (Stätte) No. 18 in Berenbusch
 
 ```{div} doc-text
