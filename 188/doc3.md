@@ -199,9 +199,9 @@ Exp. 25/9 50.
 * - mf.
   - 2 g
 * -
-  - **1 rt. 5 g**
+  - 1 rt. 5 g
 * -
-  - *Ausgez.*
+  - Ausgez.
 ```
 
 [main text on right side of the page]\
