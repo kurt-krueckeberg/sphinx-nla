@@ -58,11 +58,42 @@ K.
 ## Translation
 
 ```{div} doc-text
+[very top center of page]
+received/presented 25 September 1850
 
-Bückeburg, 26 September 1850.
-In the Krückeberg matter, the request of [Amt-...?] Sander concerning [an unclear matter] was submitted/filed.
-A. r. t.
-Certified by [Kriegers?].
+[header in top center of page]
+To the Princely Amt Bückeburg
 
 
+[left-hand text]
+Bückeburg, 26 September 1850. In the Krückeberg matter, the request/application of [Amt-...?] Sander concerning [unclear matter] was submitted/filed.\
+[Unclear abbreviation.]\
+In attestation: [Kriegers?].
+
+Princely Amt:
+
+[main text]\
+By my letter of the 18th of this month, I requested that the Princely Amt
+have the following sums judicially collected from Colon Krückeberg No. 18
+in Berenbusch and remitted to me:
+
+1[?]8 groschen 3 pfennigs in Amt dues for Michaelmas 1849/50, and
+
+5 reichsthalers 18 groschen in land rent due on 1 November of this year,
+
+therefore, in total,
+
+6 reichsthalers — 12 groschen 3 pfennigs.
+
+If this debt of the aforesaid Krückeberg has not yet been collected, I have
+now received, by rescript of the Princely Rent Chamber of the 23rd/24th of
+this month, the order to place an attachment on the purchase money for the
+holding because of the arrears in question. I hereby carry out that order.
+
+Bückeburg, 24 September 1850
+
+Sandler
+
+
+TODO: end of page text
 ```
