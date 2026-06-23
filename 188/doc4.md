@@ -58,14 +58,14 @@ K.
 ## Translation
 
 ```{div} doc-text
-[very top center of page]
+[very top center of page]\
 received/presented 25 September 1850
 
-[header in top center of page]
+[header in top center of page]\
 To the Princely Amt Bückeburg
 
 
-[left-hand text]
+[left-hand text]\
 Bückeburg, 26 September 1850. In the Krückeberg matter, the request/application of [Amt-...?] Sander concerning [unclear matter] was submitted/filed.\
 [Unclear abbreviation.]\
 In attestation: [Kriegers?].
@@ -95,5 +95,5 @@ Bückeburg, 24 September 1850
 Sandler
 
 
-TODO: end of page text
+**TODO:** end of page text
 ```
