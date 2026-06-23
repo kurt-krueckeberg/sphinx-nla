@@ -44,7 +44,7 @@ Cona: Langerfeldt Adv:\
 ```{div} doc-text
 Copy  N.C. 4386
 
-To the Princely Rent Chamber
+To the Princely Fiscal Chamber
 
 Since I intend to emigrate with my entire family to America, where several
 relatives of mine are already living and are doing quite well, I have entered
