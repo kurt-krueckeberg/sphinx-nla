@@ -3,29 +3,33 @@
   background: inherit !important;
   background-color: inherit !important;
 }
+/* Plain default for every table inside doc-text */
+.doc-text table,
+.doc-text table * {
+    border: none !important;
+    background: transparent !important;
+    background-color: transparent !important;
+}
 
-/* Only tables that explicitly ask for internal rule lines */
+/* Opt-in internal rule lines */
 .doc-text table.ruled {
     border-collapse: collapse;
 }
 
-/* draw only internal cell lines */
 .doc-text table.ruled th,
 .doc-text table.ruled td {
-    border-top: 1px solid var(--pst-color-border);
-    border-left: 1px solid var(--pst-color-border);
+    border-top: 1px solid var(--pst-color-border) !important;
+    border-left: 1px solid var(--pst-color-border) !important;
 }
 
-/* remove top outside border */
 .doc-text table.ruled tr:first-child th,
 .doc-text table.ruled tr:first-child td {
-    border-top: none;
+    border-top: none !important;
 }
 
-/* remove left outside border */
 .doc-text table.ruled th:first-child,
 .doc-text table.ruled td:first-child {
-    border-left: none;
+    border-left: none !important;
 }
 
 .doc-text {
