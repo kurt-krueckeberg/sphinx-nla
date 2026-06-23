@@ -359,55 +359,52 @@ Done at Bückeburg, September 26, 1850.
 Krückeberg · Meier
 ```
 
-## Translation of Official record of the sale proceedings 
+## Translation of  Request for official approval, with fee notes
 
-```{div} doc-text
-No. received 1362\
-received Sept. 21, 1850\
-[3-groschen stamp]
+````{div} doc-text
+[top left corner of last page]\
+Reported to the Revenue Chamber
 
-N. C. 4456.\
-N.P. 1314. [initials:] Kg
+[heading located near the top, left of center]\
+Concerning the sale of the Krückeberg Holding (Stätte) No. 18 in Berenbusch
 
-To the Bückeburg district office. Concerning the sale of the Krückeberg
-Holding (Stätte) No. 18 in Berenbusch.
+[document numbers on left side of page]\
+N. T. 1362.\
+regarding\
+N. C. 4456.
 
-In response to the district office’s report of the 17th of this month,
-permission is hereby granted for the sale of the above-named holding. It is
-noted, however, that in addition to the dues and obligations listed in the
-district office record of the 16th of this month, Holding No. 18 in
-Berenbusch is also required to provide five harvest-labor days.
+[located below document numbers]\
+Exp. Sept. 25, 1850.
 
-Bückeburg, September 20, 1850.\
-Princely Schaumburg-Lippe Revenue Chamber.\
-Spring
+[table of amounts on left edge of page]
 
-Done at the Bückeburg district office, September 22, 1850.
+```{list-table}
+:class: compact
+:header-rows: 0
+:widths: auto
 
-There appeared Colon Krückeberg, No. 18 of Berenbusch, together with the
-buyer, the shoemaker Ernst Wilhelm Meyer of No. 41 in Röcke, and Colon
-Picht, No. 7 of Rusbend. The latter two declared as follows:
-
-Since Colon Krückeberg has already sent off the earnest money in order to
-depart from Bremen for America on October 1 of this year, we are willing to
-assume responsibility, each for one half, for any unpaid debt that
-Krückeberg may leave behind. In particular, I, Wilhelm Meyer, waive the
-public summons to creditors that I had previously requested for my own
-protection.
-
-On behalf of any creditors of Krückeberg who might remain behind, the
-district office accepted this declaration. Krückeberg then requested that
-the sale contract be drawn up soon.
-
-The contracting parties are instructed to appear before the district office
-on the 26th of this month at 10 o’clock in the morning to execute the
-contract.
-
-Read aloud, approved, and signed.
-
-Krückeberg\
-Picht ᐧ Meier\
-In witness whereof,
-
-[clerk’s initials or abbreviated signature]
+* - taxa
+  - 12 groschen
+* - exp.
+  - 3 groschen
+* - Stgl.
+  - 3 groschen
+* - exp. Kaufb.
+  - 3 groschen
+* - Stgl.
+  - 18 groschen
+* - mf.
+  - 2 groschen
+* -
+  - **1 thaler 5 groschen**
+* -
+  - *Paid*
 ```
+
+[main text on right side of the page]\
+In response to the order of the 20th of this month, we hereby submit to the Princely Revenue Chamber, for final confirmation, the sale document executed by both parties. We also report that the buyer, Meyer, has again waived the public summons to creditors that he had previously requested for his own protection.
+
+Bückeburg, September 24, 1850.\
+Krieger  [Remy?]
+````
+
