@@ -66,6 +66,7 @@ Der Kammerrentmeister Berger wird angewiesen von nachstehenden Personen für
 ausgewiesene Plätze das Geld zu erheben:
 
 ```{list-table}
+:class: ruled
 :widths: 8 62 30
 :header-rows: 0
 :class: no-borders
@@ -157,6 +158,7 @@ The Chamber Rentmaster Berger is instructed to collect from the following
 persons the payments for the assigned plots:
 
 ```{list-table}
+:class: ruled
 :widths: 8 62 30
 :header-rows: 0
 :class: no-borders
