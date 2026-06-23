@@ -180,7 +180,7 @@ N. C. 4456.
 Exp. 25/9 50.
 
 [table of amounts on left edge of page]
-```text
+<pre style="background: transparent;">
 taxa             12 g
 exp.              3 g
 Stgl.             3 g
@@ -190,7 +190,7 @@ mf.               2 g
                 _____
               1 rt. 5 g
               Ausgez.
-```
+</pre>
 
 [main text on right side of the page]\
 Auf das Rescript vom 20. d. M. ver-
