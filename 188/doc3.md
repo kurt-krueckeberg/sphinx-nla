@@ -190,6 +190,17 @@ mf.        2_
         1 rt. 5 g\
          Ausgez.
 
+|   |    |
+|---|---:|
+| taxa | 12 g |
+| exp. | 3 g |
+| Stgl. | 3 g |
+| exp. Kaufb. | 3 g |
+| Stgl. | 18 g |
+| mf. | 2 g |
+|  | **1 rt. 5 g** |
+|  | *Ausgez.* |
+
 [main text on right side of the page]\
 Auf das Rescript vom 20. d. M. ver-
 fehlen wir nicht, fürstlicher Rkammer
