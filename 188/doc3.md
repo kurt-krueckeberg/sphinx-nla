@@ -1,4 +1,4 @@
-# Concerning the Sale of Holding No. 18 in Berenbusch
+# Sale proceedings for Holding (Stätte) No. 18 in Berenbusch, 1850
 
 ```{figure} images/4-right.jpg
 :class: image-override
@@ -36,9 +36,9 @@ of the purchase contract that appears in {doc}`../146/copia` was relied on
 to interpret the text in this document.
 ```
 
-## Transliteration
+## Transliteration of Official record of the sale proceedings 
 
-````{div} doc-text
+```{div} doc-text
 No. pr. 1362\
 pr. 21/9 50\
 [3Gr Stempel]
@@ -85,7 +85,11 @@ In fidem
 
 
 [clerk’s initials or abbreviated signature]
+```
 
+## Transliteration of Sale deed for Holding (Stätte) No. 18 in Berenbusch
+
+```{div} doc-text
 [left side of page]\
 Kaufbrief\
 Exp
@@ -163,8 +167,11 @@ Rentkammer zu höhern Bestätigung vorgelegt werden.
 
 So geschehen B[ückeburg] 26 Sept 1850\
 Krückeberg ᐧ Meier
+```
 
+## Transliteration of ## Request for official approval, with fee notes
 
+````{div} doc-text
 [top left corner of last page]\
 An RKammer berichtet
 
