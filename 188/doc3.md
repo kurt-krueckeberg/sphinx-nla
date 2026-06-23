@@ -228,9 +228,143 @@ nen Kaufbrief zur festen Bestä-
 tigung herneben vorzulegen, wo-
 bei wir berichten, daß der Käufer
 Meyer auf die zu seiner Sicherstel-
+
+
+## Translation of Sale deed for Holding (Stätte) No. 18 in Berenbusch
+
 lung früher beantragte Edictalladung
 wieder verzichtet hat.
 
 Bburg 24 Sept. 1850.\
 Krieger  [Remy?]
 ````
+
+## Translation of Official record of the sale proceedings 
+
+```{div} doc-text
+No. received 1362
+received Sept. 21, 1850
+[3-groschen stamp]
+
+N. C. 4456.
+N.P. 1314. [initials:] Kg
+
+To the Bückeburg district office. Concerning the sale of the Krückeberg
+Holding (Stätte) No. 18 in Berenbusch.
+
+In response to the district office’s report of the 17th of this month,
+permission is hereby granted for the sale of the above-named holding. It is
+noted, however, that in addition to the dues and obligations listed in the
+district office record of the 16th of this month, Holding No. 18 in
+Berenbusch is also required to provide five harvest-labor days.
+
+Bückeburg, September 20, 1850.
+Princely Schaumburg-Lippe Revenue Chamber.
+Spring
+
+Done at the Bückeburg district office, September 22, 1850.
+
+There appeared Colon Krückeberg, No. 18 of Berenbusch, together with the
+buyer, the shoemaker Ernst Wilhelm Meyer of No. 41 in Röcke, and Colon
+Picht, No. 7 of Rusbend. The latter two declared as follows:
+
+Since Colon Krückeberg has already sent off the earnest money in order to
+depart from Bremen for America on October 1 of this year, we are willing to
+assume responsibility, each for one half, for any unpaid debt that
+Krückeberg may leave behind. In particular, I, Wilhelm Meyer, waive the
+public summons to creditors that I had previously requested for my own
+protection.
+
+On behalf of any creditors of Krückeberg who might remain behind, the
+district office accepted this declaration. Krückeberg then requested that
+the sale contract be drawn up soon.
+
+The contracting parties are instructed to appear before the district office
+on the 26th of this month at 10 o’clock in the morning to execute the
+contract.
+
+Read aloud, approved, and signed.
+
+Krückeberg
+Picht       Meier
+In witness whereof,
+
+[clerk’s initials or abbreviated signature]
+```
+
+## Translation of Sale deed for Holding (Stätte) No. 18 in Berenbusch
+
+```{div} doc-text
+[left side of page]
+Sale document
+Exp.
+
+Be it known by this document that the following sale contract has been
+negotiated and concluded between Colon Krückeberg, No. 18 in Berenbusch,
+and the shoemaker and resident lodger Wilhelm Meyer, living at No. 41 in
+Cammer, with the approval of the Princely Revenue Chamber.
+
+I.
+
+Holding (Stätte) No. 18 in Berenbusch, consisting of a dwelling house, a
+small yard, and an adjoining garden of about one Morgen in size, is sold by
+Colon Krückeberg to the shoemaker and resident lodger Wilhelm Meyer, under
+the existing customary landholding conditions, for the purchase price of
+five hundred fifty thalers courant.
+
+II.
+
+The dwelling house is sold with everything attached to it by earth, wall,
+beam, rivet, or nail, and likewise with the stove and any loose boards and
+posts lying in the attic storage area. The buyer receives the yard and
+garden with the trees and enclosures located on them.
+
+III.
+
+No guarantee is given for the size of the garden stated in Article I.
+
+IV.
+
+The obligations attached to the holding consist of:
+
+1. 1 thaler 1 groschen annual service money
+2. 10 groschen 2 pfennigs Rottmis
+3. 6 groschen milling-pig money
+4. 1 groschen Michaelmas tax
+5. 1 hearth-due hen
+6. 5 harvest-labor days
+7. 2 Mariengroschen 2 pfennigs contribution per Simpla
+8. compulsory local services
+9. community, church, and school burdens
+
+The buyer must bear these obligations as they become due from the day he
+takes over the holding. If any obligation has not been correctly stated
+above, or has not been stated at all, the buyer must assume that obligation
+as well. Likewise, however, all rights attached to the holding pass to the
+buyer.
+
+V.
+
+The holding is to be handed over immediately upon delivery of the contract,
+and at the same time the buyer must pay the purchase price of 550 thalers
+in good courant coin.
+
+VI.
+
+The buyer bears the costs of the sale contract.
+
+VII.
+
+Both parties renounce all objections that might be raised against this
+contract, especially objections based on fraud, mistake, coercion, the
+claim that the written terms differ from what was agreed, gross inadequacy
+or excess of price, and whatever other names such objections may have.
+
+Since the district office has no objection to the contract, judicial
+confirmation is hereby granted. After execution, the contract is to be
+submitted to the Princely Revenue Chamber for higher confirmation.
+
+Done at Bückeburg, September 26, 1850.
+Krückeberg · Meier
+```
+
