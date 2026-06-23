@@ -8,6 +8,8 @@
 
 ## Transliteration
 
+This is a receipt/acknowledgement of Vogt payment to the princely treasury.
+
 ```{div} doc-text
 13.)
 
@@ -34,7 +36,7 @@ Document 13.
 
 No. 372
 
-[receipt / acknowledgment]
+[vdankwarts]
 
 That the Colon Vogt No. 13 in Nordholz has paid forty-nine Reichsthaler
 into the Princely Chamber treasury for an assigned parcel of land is hereby

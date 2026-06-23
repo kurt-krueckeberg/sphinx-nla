@@ -1,13 +1,11 @@
 # TODO
 
-## Go through `188/doc3.md`
-
-Ask Chatgpt if I should break the text apart into three sections.
-
 ##  Finish 2741/index.md
 
 - Finish formatting the Translation section.
-- Resume review of folder 1291 with doc13.md.
+
+
+## Finish Funke tranalation
 
 It is in [repo](https://github.com/kurt-krueckeberg/funke.git),
 and this file: modern-english-translation.t,
