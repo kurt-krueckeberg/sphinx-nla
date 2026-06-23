@@ -1,4 +1,4 @@
-# ??
+# Claim for Unpaid Dues from the Sale Proceeds of Krückeberg Holding No. 18, 24 September 1850
 
 ```{figure} images/7.jpg
 :class: image-override
