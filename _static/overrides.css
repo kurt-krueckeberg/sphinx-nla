@@ -4,26 +4,27 @@
   background-color: inherit !important;
 }
 
-.doc-text table {
+/* Only tables that explicitly ask for internal rule lines */
+.doc-text table.ruled {
     border-collapse: collapse;
 }
 
 /* draw only internal cell lines */
-.doc-text th,
-.doc-text td {
+.doc-text table.ruled th,
+.doc-text table.ruled td {
     border-top: 1px solid var(--pst-color-border);
     border-left: 1px solid var(--pst-color-border);
 }
 
 /* remove top outside border */
-.doc-text tr:first-child th,
-.doc-text tr:first-child td {
+.doc-text table.ruled tr:first-child th,
+.doc-text table.ruled tr:first-child td {
     border-top: none;
 }
 
 /* remove left outside border */
-.doc-text th:first-child,
-.doc-text td:first-child {
+.doc-text table.ruled th:first-child,
+.doc-text table.ruled td:first-child {
     border-left: none;
 }
 
