@@ -24,13 +24,13 @@ Conclusion of the "Official record of the sale proceedings" and beginning of "Sa
 ```{figure} images/5-right.jpg
 :class: image-override
 
-Sale deed for Holding (Stätte) No. 18 in Berenbusch
+"Sale deed for Holding (Stätte) No. 18 in Berenbusch" continued
 ```
 
 ```{figure} images/6-left.jpg
 :class: image-override
 
-Sale deed for Holding (Stätte) No. 18 in Berenbusch
+"Sale deed for Holding (Stätte) No. 18 in Berenbusch" continued
 ```
 
 ```{figure} images/6-right.png
