@@ -188,7 +188,7 @@ An RKammer berichtet
 Verkauf der Krückebergischen Stätte N. 18 zu Berenbusch betr.
 
 [document numbers on left side of page]\
-N. T. 1362.\
+N. P. 1362.\
 ad\
 N. C. 4456.
 
