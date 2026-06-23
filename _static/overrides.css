@@ -1,22 +1,3 @@
-/* removes gird/border lines from a table in a {div} doc-text block 
-.doc-text table,
-.doc-text th,
-.doc-text td {
-    border: none !important;
-}
-
-.doc-text table {
-    border-collapse: collapse;
-}
-
-.doc-text thead {
-    border-bottom: none !important;
-}
-
-.doc-text tr {
-    border: none !important;
-}
-*/
 .doc-text table {
     border-collapse: collapse;
 }
