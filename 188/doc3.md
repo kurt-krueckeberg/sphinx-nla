@@ -179,16 +179,7 @@ N. C. 4456.
 [located below document numbers]\
 Exp. 25/9 50.
 
-[table of amounts on left edge of page]\
-taxa      12 g
-exp        3_
-Stgl.      3_
-exp. Kaufb. 3_
-Stgl.     18_
-mf.        2_
-         _____
-        1 rt. 5 g\
-         Ausgez.
+[table of amounts on left edge of page]
 
 |   |    |
 |---|---:|
