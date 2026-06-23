@@ -32,6 +32,15 @@
     border-left: none !important;
 }
 
+.doc-text table.compact {
+    width: auto;
+    display: inline-table;
+}
+
+.doc-text table.compact td {
+    padding: 0.15rem 0.35rem;
+}
+
 .doc-text {
     border: 1.5px solid #777;
     border-radius: 0.35rem;
