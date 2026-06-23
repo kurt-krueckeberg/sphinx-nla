@@ -1,5 +1,14 @@
 # Sale proceedings for Holding (Stätte) No. 18 in Berenbusch, 1850
 
+This cluster of three documents records the sale of Holding (Stätte) No. 18
+in Berenbusch by Carl Friedrich Krückeberg to the shoemaker Wilhelm Meyer.
+The central text is the formal sale document, or Kaufbrief, which describes
+the property being transferred, the purchase price, the attached dues and
+obligations, and the terms of the sale. It is preceded by an official
+record of the sale proceedings and followed by a request for official
+approval, with related fee notes.
+
+
 ```{figure} images/4-right.jpg
 :class: image-override
 
