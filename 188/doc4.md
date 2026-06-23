@@ -7,6 +7,10 @@
 
 ## Transliteration
 
+```{important}
+The text on the left side of the page is not certain.
+```
+
 ```{div} doc-text
 [very top center of page]\
 pr. 25/9 50
@@ -16,13 +20,8 @@ An Fürstliches Amt Bückeberg
 
 [left side of page]\
 Bbg. 26/9 1850\
-Krücke-\
-berg, producirt\
-Muthung des\
-[.....]\
-[.....]\
-[.....]\
-A. r. t.\
+Krückeberg, producirt Muthung des [Amts...?] Sander über [.....] [.....] [.....]\
+[unclear abbreviation]\
 In fid.\
 [Kriegers?]
 
@@ -57,3 +56,13 @@ K.
 ```
 
 ## Translation
+
+```{div} doc-text
+
+Bückeburg, 26 September 1850.
+In the Krückeberg matter, the request of [Amt-...?] Sander concerning [an unclear matter] was submitted/filed.
+A. r. t.
+Certified by [Kriegers?].
+
+
+```
