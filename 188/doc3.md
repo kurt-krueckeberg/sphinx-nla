@@ -193,25 +193,6 @@ mf.               2 g
               Ausgez.
 </pre>
 
-:style: "max-width: fit-content;"
-
-<style>
-  .tight-table th, .tight-table td { 
-    padding-left: 0px !important; 
-    padding-right: 10px !important; 
-  }
-</style>
-
-<div class="tight-table">
-
-| Abbr. | Amount / Unit (1850) |
-| :--- | :--- |
-| Thl. | 1 Thaler (Primary silver coin) |
-| Sgr. | 1/30 Thaler (Silbergroschen) |
-| Ggr. | 1/24 Thaler (Gute Groschen) |
-| Pfg. | 1/12 Groschen (Pfennig) |
-
-</div>
 [main text on right side of the page]\
 Auf das Rescript vom 20. d. M. ver-
 fehlen wir nicht, fürstlicher Rkammer
