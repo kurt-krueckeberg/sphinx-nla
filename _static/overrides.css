@@ -1,3 +1,9 @@
+.compact-fee-table tbody tr:nth-child(odd),
+.compact-fee-table tbody tr:nth-child(odd) td {
+  background: inherit !important;
+  background-color: inherit !important;
+}
+
 .doc-text table {
     border-collapse: collapse;
 }
