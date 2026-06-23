@@ -12,31 +12,31 @@ approval, with related fee notes.
 ```{figure} images/4-right.jpg
 :class: image-override
 
-first page
+Official record of the sale proceedings 
 ```
 
 ```{figure} images/5-left.jpg
 :class: image-override
 
-second page
+Conclusion of the "Official record of the sale proceedings" and beginning of "Sale deed for Holding (Stätte) No. 18 in Berenbusch"
 ```
 
 ```{figure} images/5-right.jpg
 :class: image-override
 
-third page
+Sale deed for Holding (Stätte) No. 18 in Berenbusch
 ```
 
 ```{figure} images/6-left.jpg
 :class: image-override
 
-third page
+Sale deed for Holding (Stätte) No. 18 in Berenbusch
 ```
 
 ```{figure} images/6-right.png
 :class: image-override
 
-third page
+Request for official approval, with fee notes
 ```
 
 ```{important}
