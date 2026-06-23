@@ -359,7 +359,7 @@ Done at Bückeburg, September 26, 1850.
 Krückeberg · Meier
 ```
 
-## Translation of  Request for official approval, with fee notes
+## Translation of Request for official approval, with fee notes
 
 ````{div} doc-text
 [top left corner of last page]\
