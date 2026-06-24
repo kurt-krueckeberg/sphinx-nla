@@ -5,6 +5,11 @@
 - Finish formatting the Translation section.
 
 
+## AI an Archivists
+
+Use Archivists to discover where records might be. Use AI to reason about
+the records I need.
+
 ## Finish Funke tranalation
 
 It is in [repo](https://github.com/kurt-krueckeberg/funke.git),

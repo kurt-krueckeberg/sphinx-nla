@@ -46,13 +46,12 @@ ich hierdurch erledige.
 Bückeburg, d. 24t September 1850\
 Sandler
 
-[bottom of page]
-[Re?]
+[bottom of page]\
+[Re?]\
 [unreadable] den Verkauf der Krückebergischen
-Stätte betr:\
+Stätte [betr:?]\
 B. 26/9. 1850.\
-Inståmt.
-K.
+[unreadable signatures]
 ```
 
 ## Translation
@@ -94,6 +93,10 @@ Bückeburg, 24 September 1850
 
 Sandler
 
-
-**TODO:** end of page text
+[bottom of page]\
+[Re?]\
+[unreadable] the sale of the Krückeberg
+Holding [...?]\
+B. 26/9. 1850.\
+[unreadable signatures]
 ```
