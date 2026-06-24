@@ -34,7 +34,8 @@ of his own house.
 We know that Jobst Heinrich’s father, Johann Heinrich, was no longer the
 holder in May of 1798 because his son, Jobst Heinrich, when he petitions the
 Rentkammer to expands his grounds and garden, is called
-[Colon Krückeberg](../1237/cover.md). See references to Jobst Heinrich:
+[Colon Krückeberg](../1237/cover.md). See also these other references to
+Jobst Heinrich:
 
 - [Land Assignment Report and Its Offical Response (27 Feb. 1799)](../1237/doc2.md)
 - [Submission of Geometric Drawing of Proposed Parcels to be Allocated (18 Oct. 1800)](../1237/doc4.md)
