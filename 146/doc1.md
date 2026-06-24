@@ -189,7 +189,7 @@ H. Swellmann
 
 ### Translation Notes
 
-**Einlieger** →  tenant (non-landholding resident)
+**Einlieger** →  lodger or tenent (non-landholding resident); someone without a home of his own.
 
 **mich selbst anzubauen** →  to establish myself independently (i.e., to build and maintain one’s own holding)
 
