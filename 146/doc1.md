@@ -102,8 +102,7 @@ praes. 30. Sept. 1808.
 Durchlauchtigster Fürst.\
 Gnädigst regierender Fürst und Herr!
 
-[Four-letter marginal filing and routing marks without semantic\
-relevance to the case content]
+[Four-letter marginal filing and routing marks without semantic relevance to the case content]
 
 Res: Cam: Dem Amte brevi manu zum Berichte über die Vermögens-Umstände und
 über die persönlichen Eigenschaften des Supplicanten.\
