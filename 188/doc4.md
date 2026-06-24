@@ -26,15 +26,13 @@ In fid.\
 [Kriegers?]
 
 [main text]\
-Fürstliches Amt ersuchte ich unterm 18ten d Mts, von dem
-Colon Krückeburg No 18 in Bernebusch
+Fürstliches Amt ersuchte ich unterm 18ten d Mts, von dem Colon Krückeburg No 18 in Bernebusch
 
 1[?]8 g 3 d Amtsgefälle pro Mich. 1849/50 und
 
 5 rt 18 qq. Landpacht. pr. 1 Novbr. d. Js., also in Suma
 
-6 Rthlr — 12 [g] 3 d gerichtlich einzuziehen und
-mir abliefern zu lassen.
+6 Rthlr — 12 [g] 3 d gerichtlich einzuziehen und mir abliefern zu lassen.
 
 Sollte diese Schuldforderung von p. Krückelung noch nicht
 eingezogen sein, so habe ich jetzt, durch Rescript
