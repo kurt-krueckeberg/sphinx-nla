@@ -106,7 +106,7 @@ Gnädigst regierender Fürst und Herr!
 relevance to the case content]
 
 Res: Cam: Dem Amte brevi manu zum Berichte über die Vermögens-Umstände und
-über die persönlichen Eigenschaften des Supplicanten.\ 
+über die persönlichen Eigenschaften des Supplicanten.\
 B. 2. Octbr. 1808.\
 P[?]kaas
 
