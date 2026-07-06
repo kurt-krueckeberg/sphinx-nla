@@ -44,7 +44,7 @@ Allocation from forest land
 
 1. to the Colon Krückeberg no. 10 at Berenbusch,
 
-2. to the lodgers Vogt and Brüggemann,
+2. to the Einliegers Vogt and Brüggemann,
 
 for the establishment of new settler holdings,
 nos. 13 & 14 at Nordholz.
