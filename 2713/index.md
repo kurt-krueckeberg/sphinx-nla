@@ -5,14 +5,18 @@
 On page 89 Jobst Henrich Weiland's holding at No. 1 Berenbusch is described is mentioned. His holding's
 description is on five total images.
 
-```{figure} imnages/24-2731.png No. 1 Berenbusch
+```{figure} imnages/24-2731.png
 :class: image-override
+
+No. 1 Berenbusch
 ```
 
 On page 110 Johann Heinrich Krückeberg's holding at No. 10 Berenbusch is described
 
 ```{figure} images/24-.2713png
 :class: image-override
+
+No. 10 Berenbusch
 ```
 
 ## Transliteration
