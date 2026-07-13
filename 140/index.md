@@ -43,7 +43,7 @@ Judicial Records
 
 Concerning
 
-A name register of all tenantcy-holders (Kolonen) of the offices (Ämter) of Bückeburg and Arensburg, which was compiled on the occasion of
+A name register of all tenancy-holders (Kolonen) of the offices (Ämter) of Bückeburg and Arensburg, which was compiled on the occasion of
 the numbering of all houses carried out in the year 1747.
 ```
 
