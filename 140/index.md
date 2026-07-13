@@ -26,8 +26,7 @@ Acta [judicialia]
 
 betr.
 
-Nahmens Verzeichniße sämmtlicher Kolo-
-nen der Ämter Bückeburg und Arensburg die beÿ Gelegenheit der
+Nahmens Verzeichniße sämmtlicher Kolonen der Ämter Bückeburg und Arensburg die beÿ Gelegenheit der
 im Jahre 1747 vorgehabten Nummrirung der sämtlichen Häuser
 angefertigt worden.
 ```
@@ -44,8 +43,7 @@ Judicial Records
 
 Concerning
 
-A name register of all tenants (Kolonen) of the offices
-(Ämter) of Bückeburg and Arensburg, which was compiled on the occasion of
+A name register of all tenantcy-holders (Kolonen) of the offices (Ämter) of Bückeburg and Arensburg, which was compiled on the occasion of
 the numbering of all houses carried out in the year 1747.
 ```
 
