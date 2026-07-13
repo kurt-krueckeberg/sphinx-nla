@@ -1,18 +1,23 @@
 # Survey of the Villages of Evesen, Berenbusch, and Nordholz (1745)
 
-## Location of Document 
+## Krückebergs in Berenbusch
 
-The [citation](#citation-2713) is at the bottom on this page.
+On page 89 Jobst Henrich Weiland's holding at No. 1 Berenbusch is described is mentioned. His holding's
+description is on five total images.
 
-## Overview
+```{figure} imnages/24-2731.png No. 1 Berenbusch
+:class: image-override
+```
 
-On page 110 Berenbusch and Johann Heinrich Krückeberg are mentioned.
+On page 110 Johann Heinrich Krückeberg's holding at No. 10 Berenbusch is described
 
 ```{figure} images/24-.2713png
 :class: image-override
 ```
 
 ## Transliteration
+
+This is the translation of page 110 for Johann Heinrich Krückeberg.
 
 ```{div} doc-text
 No. 10 am Hause
@@ -30,6 +35,8 @@ In modern terms, ¾ Morgen and 29 square Ruten comes to about **0.6 acres**.
 ```
 
 ## Translation
+
+This is the translation of page 110.
 
 ```{div} doc-text
 No. 10 (the house site)
