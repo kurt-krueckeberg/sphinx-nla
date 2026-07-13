@@ -5,7 +5,7 @@
 On page 89 Jobst Henrich Weiland's holding at No. 1 Berenbusch is described is mentioned. His holding's
 description is on five total images.
 
-```{figure} images/24-2731.png
+```{figure} images/24-2713.png
 :class: image-override
 
 No. 1 Berenbusch
