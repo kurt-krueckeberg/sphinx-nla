@@ -12,9 +12,6 @@ On page 110 Berenbusch and Johann Heinrich Krückeberg are mentioned.
 :class: image-override
 ```
 
-
-On page 110 Berenbusch:
-
 ## Transliteration
 
 ```{div} doc-text
