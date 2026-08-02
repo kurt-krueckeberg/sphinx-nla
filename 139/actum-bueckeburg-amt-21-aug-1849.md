@@ -92,8 +92,8 @@ V. g. und unterschrieben
 Handzeichen + + + des Wilhelm
                Bornemann
 
-               In fidem
-               Höcker
+In fidem
+Höcker
 ```
 
 ## Translation
@@ -153,8 +153,8 @@ Read and signed:
 Mark of + + + of Wilhelm
                  Bornemann
 
-                 In attestation:
-                 Höcker
+In attestation:
+Höcker
 ```
 
 ## Cover Note to the Document
