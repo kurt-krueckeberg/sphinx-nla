@@ -97,7 +97,7 @@ parts:
             title: Brüggemann Purchase Contract
      
       - file: 146/index.md
-        title: Holding No. 18 Berenbusch, 1808-1850
+        title: Site No. 18 Berenbusch, 1808-1850
         sections:
           - file: 146/content.md
             title: Table of Contents (1808-1810)
@@ -148,7 +148,7 @@ parts:
                 title: Purchase Contract Copy 
  
       - file: 147/cover
-        title: Holding No. 19 Berenbusch (1819-1820)
+        title: Site No. 19 Berenbusch (1819-1820)
         sections:
           - file: 147/content
           - file: 147/doc5
