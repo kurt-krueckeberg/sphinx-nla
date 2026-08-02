@@ -1,4 +1,4 @@
-# Holding No. 18 in Berenbusch (1808-1810 & Sept. 1850)
+# Site No. 18 in Berenbusch (1808-1810 & Sept. 1850)
 
 A second Jobst Heinrch Krückeberg apparently is living in Evesen no. 11 by
 1808 different from the Jobst Heinrich Krückeberg living at no. 10

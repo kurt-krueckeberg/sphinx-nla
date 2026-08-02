@@ -1,6 +1,6 @@
-# Sale proceedings for Holding (Stätte) No. 18 in Berenbusch, 1850
+# Sale proceedings for Site No. 18 in Berenbusch, 1850
 
-This cluster of three documents records the sale of Holding (Stätte) No. 18
+This cluster of three documents records the sale of site No. 18
 in Berenbusch by Carl Friedrich Krückeberg to the shoemaker Wilhelm Meyer.
 The central text is the formal sale document, or Kaufbrief, which describes
 the property being transferred, the purchase price, the attached dues and
@@ -18,19 +18,19 @@ Official record of the sale proceedings
 ```{figure} images/5-left.jpg
 :class: image-override
 
-Conclusion of the "Official record of the sale proceedings" and beginning of "Sale deed for Holding (Stätte) No. 18 in Berenbusch"
+Conclusion of the "Official record of the sale proceedings" and beginning of "Sale deed for site No. 18 in Berenbusch"
 ```
 
 ```{figure} images/5-right.jpg
 :class: image-override
 
-"Sale deed for Holding (Stätte) No. 18 in Berenbusch" continued
+"Sale deed for site No. 18 in Berenbusch" continued
 ```
 
 ```{figure} images/6-left.jpg
 :class: image-override
 
-"Sale deed for Holding (Stätte) No. 18 in Berenbusch" continued
+"Sale deed for site No. 18 in Berenbusch" continued
 ```
 
 ```{figure} images/6-right.png
@@ -96,7 +96,7 @@ In fidem
 [clerk’s initials or abbreviated signature]
 ```
 
-## Transliteration of Sale deed for Holding (Stätte) No. 18 in Berenbusch
+## Transliteration of Sale deed for Site No. 18 in Berenbusch
 
 ```{div} doc-text
 [left side of page]\
@@ -241,12 +241,12 @@ N. C. 4456.\
 N.P. 1314. [initials:] Kg
 
 To the Bückeburg district office. Concerning the sale of the Krückeberg
-Holding (Stätte) No. 18 in Berenbusch.
+site No. 18 in Berenbusch.
 
 In response to the district office’s report of the 17th of this month,
 permission is hereby granted for the sale of the above-named holding. It is
 noted, however, that in addition to the dues and obligations listed in the
-district office record of the 16th of this month, Holding No. 18 in
+district office record of the 16th of this month, holding No. 18 in
 Berenbusch is also required to provide five harvest-labor days.
 
 Bückeburg, September 20, 1850.\
@@ -283,7 +283,7 @@ In witness whereof,
 [clerk’s initials or abbreviated signature]
 ```
 
-## Translation of Sale deed for Holding (Stätte) No. 18 in Berenbusch
+## Translation of Sale deed for Site No. 18 in Berenbusch
 
 ```{div} doc-text
 [left side of page]\
@@ -297,7 +297,7 @@ Cammer, with the approval of the Princely Revenue Chamber.
 
 I.
 
-Holding (Stätte) No. 18 in Berenbusch, consisting of a dwelling house, a
+Site No. 18 in Berenbusch, consisting of a dwelling house, a
 small yard, and an adjoining garden of about one Morgen in size, is sold by
 Colon Krückeberg to the shoemaker and resident lodger Wilhelm Meyer, under
 the existing customary landholding conditions, for the purchase price of
@@ -366,7 +366,7 @@ Krückeberg · Meier
 Reported to the Revenue Chamber
 
 [heading located near the top, left of center]\
-Concerning the sale of the Krückeberg Holding (Stätte) No. 18 in Berenbusch
+Concerning the sale of the Krückeberg site No. 18 in Berenbusch
 
 [document numbers on left side of page]\
 N. T. 1362.\
