@@ -7,7 +7,7 @@
 This document is a **draft purchase record** issued by the Rentkammer
 (government land authority) for Jobst Heinrich Krückeberg, No. 18
 (Berenbusch). At this stage of the process, it **serves as the effective
-legal deed** for his holding, even though a more formal document
+legal deed** for his site, even though a more formal document
 (the Kaufbrief or Meyerbrief) was still to follow.
 In the document itself this is described as being issued **statt Kaufbriefs**
 (“in place of a purchase deed”).
@@ -36,15 +36,15 @@ understand it today.
 
 What this ownership **includes**:
 
-- a **secure, lifelong right** to the holding (house plot and garden),
-- the right to **pass the holding on to his heirs**,
+- a **secure, lifelong right** to the site (house plot and garden),
+- the right to **pass the site on to his heirs**,
 - and **legal protection** against arbitrary removal or competing claims.
 
 This ownership **also includes permanent conditions**:
 
-- the holding remains under **government authority** (the Rentkammer),
+- the site remains under **government authority** (the Rentkammer),
 - it carries **ongoing annual obligations** (payments and duties tied to the land),
-- and **selling or mortgaging the holding requires official approval**.
+- and **selling or mortgaging the site requires official approval**.
 
 These obligations are **not exceptions** to ownership; they are
 **part of what ownership means in this system**.
@@ -60,10 +60,10 @@ In practical terms, this means:
 - his rights are recognized and enforceable,
 - and the holding is legally secure.
 
-This protection does **not** remove the holding from government oversight
+This protection does **not** remove the site from government oversight
 or from its attached obligations.
 
-#### 3. What obligations come with the holding
+#### 3. What obligations come with the site
 
 The land carries **regular annual dues** (called **Prästanden**), which
 are inseparably tied to the holding.
@@ -101,7 +101,7 @@ and **ownership of the holding was formally recognized**.
 
 A later document (the Meyerbrief) would normally spell out the long-term
 rules and obligations in more detail, but this draft already establishes
-Krückeberg’s secure and heritable right to the holding.
+Krückeberg’s secure and heritable right to the site.
 
 ## Image
 
