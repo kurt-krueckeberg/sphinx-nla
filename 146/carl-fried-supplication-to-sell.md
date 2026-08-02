@@ -1,4 +1,4 @@
-# 11 Sept. 1850: Carl Friedrich Krückeberg Supplication to Rentkammer Requesting Sale of his Holding no. 18 Berenbusch
+# 11 Sept. 1850: Carl Friedrich Krückeberg Supplication to Rentkammer Requesting Sale of his Site no. 18 Berenbusch
 
 ## Overview
 
@@ -6,7 +6,7 @@
 
 This is a **supplication (Supplik)** addressed directly to the **Fürstliche
 Rentkammer**, requesting **official consent (Konsens)** for the sale of a
-*Neubauer* holding. Such consent was legally required because the land
+*Neubauer* site. Such consent was legally required because the land
 originated from a **state-regulated settlement**.
 
 ### 2. Phrase: Bezug im Bericht an das Amt Bückeburg
@@ -37,7 +37,7 @@ Key points of substance:
 family**.
 - He emphasizes **relatives already established there**, a common
 legitimizing argument.
-- He has **already sold** the holding, but the sale requires **retroactive
+- He has **already sold** the site, but the sale requires **retroactive
 official consent**.
 - The urgency (must already be in Bremen by the first of the current
 month) explains the tone and timing.
@@ -45,7 +45,7 @@ month) explains the tone and timing.
 ### 5. Neubauer-Colonie
 
 Here, *Neubauer-Colonie* does **not** mean a colony in the overseas sense,
-but a **state-organized settlement holding**, subject to continuing
+but a **state-organized settlement site**, subject to continuing
 oversight and restrictions on alienation.
 
 ### 6. Social and legal implications
@@ -130,8 +130,8 @@ Princely Rent Chamber.
 
 As I intend to emigrate to America with my entire family, where several
 relatives of mine already reside and are doing quite well, I have sold my
-small new-settler holding, No. 18 in Berenbusch, to the shoemaker Wilhelm
-Meier, a native of Evesen, presently residing in Röcke. My holding
+small new-settler site, No. 18 in Berenbusch, to the shoemaker Wilhelm
+Meier, a native of Evesen, presently residing in Röcke. My site
 consists, in addition to the house and a yard, of a garden of slightly
 more than one Morgen in size.
 

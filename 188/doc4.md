@@ -1,4 +1,4 @@
-# Claim for Unpaid Dues from the Sale Proceeds of Krückeberg Holding No. 18, 24 September 1850
+# Claim for Unpaid Dues from the Sale Proceeds of Krückeberg Site No. 18, 24 September 1850
 
 ```{figure} images/7.jpg
 :class: image-override
@@ -85,7 +85,7 @@ therefore, in total,
 If this debt of the aforesaid Krückeberg has not yet been collected, I have
 now received, by rescript of the Princely Rent Chamber of the 23rd/24th of
 this month, the order to place an attachment on the purchase money for the
-holding because of the arrears in question. I hereby carry out that order.
+site because of the arrears in question. I hereby carry out that order.
 
 Bückeburg, 24 September 1850
 
@@ -94,7 +94,7 @@ Sandler
 [bottom of page]\
 [Re?]\
 [unreadable] the sale of the Krückeberg
-Holding [...?]\
+Site [...?]\
 B. 26/9. 1850.\
 [unreadable signatures]
 ```
