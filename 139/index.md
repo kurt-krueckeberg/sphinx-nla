@@ -1,4 +1,4 @@
-# Holding No. 10 in Berenbusch (1824-1849)
+# Site No. 10 in Berenbusch (1824-1849)
 
 The Krückeberg remained Brinksitzers of No. 10 Berenbusch from at least
 1743-1744 until September of 1849 when Johann Heinrich (1806-1879) sold his
