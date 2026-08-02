@@ -1,4 +1,4 @@
-# Report from the Amt Bückeburg Concerning the Sale of the Krückeberg Holding (22 August 1849)
+# Report from the Amt Bückeburg Concerning the Sale of the Krückeberg Site (22 August 1849)
 
 ## Narrative Summary
 
