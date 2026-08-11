@@ -2,8 +2,8 @@
 
 ## Weilands and Krückebergs in Berenbusch
 
-On page 89 Jobst Henrich Weiland's holding at No. 1 Berenbusch is described is mentioned. His holding's
-description is on five total images.
+On page 89 Jobst Henrich Weiland's holding at No. 1 Berenbusch is mentioned. His holding's
+description covers five total pages.
 
 ```{figure} images/1-2713.png
 :class: image-override
