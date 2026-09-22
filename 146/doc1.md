@@ -189,17 +189,16 @@ H. Swellmann
 
 ### Translation Notes
 
-**Einlieger** →  lodger or tenent (non-landholding resident); someone without a home of his own.
+**Einlieger** — lodger or tenent (non-landholding resident); someone without a home of his own.
 
-**mich selbst anzubauen** →  to establish myself independently (i.e., to build and maintain one’s own holding)
+**mich selbst anzubauen**  — to establish myself independently (i.e., to build and maintain one’s own holding)
 
-**Forst-Amtswegen** →  by the Forestry Office
+**Forst-Amtswegen**  —  by the Forestry Office
 
-**Gründe** →  uneven grounds / irregular ground
+**Gründe**  —  uneven grounds / irregular ground
 
-**Leuten** →  people (important for a tailor’s livelihood)
+**Leuten**  — people (important for a tailor’s livelihood)
 
-**gegen ein Billiges** →  at a reasonable price
+**gegen ein Billiges**  — at a reasonable price
 
-**Ich erstrecke mich** →  formal closing: I remain
-
+**Ich erstrecke mich**  — formal closing: I remain
