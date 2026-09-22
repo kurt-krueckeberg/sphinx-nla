@@ -15,11 +15,11 @@ We know that when Carl Friedrich Krückeberg was
 {external+genealogy:doc}`baptismal sponsors <petzen/PET-B-1807a>` was Hans Heinrich
 Wilharm of no. 11 Evesen.
 
-Hans Heinrich Wilharm was
+We have this timeline for Hans Heinrich Wilharm
 
-- {external+genealogy:doc}`born <petzen/PET-B-1760a>` in Berenbusch in **1760**, and
-- in **1796** he {external+genealogy:doc}`married Anne Marie Philippine Blecke of no. 11 Evesen <petzen/PET-M-1796a>`.
-- She {external+genealogy:doc}` died <petzen/PET-D-1797a>` 11 April **1797** at No. 11 Evesen after the difficult
+- In **1760** he was {external+genealogy:doc}`born <petzen/PET-B-1760a>` in Berenbusch.
+- In **8 May 1796** he {external+genealogy:doc}`married <petzen/PET-M-1796a>` Anne Marie Philippine Blecke of no. 11 Evesen .
+- On She {external+genealogy:doc}` died <petzen/PET-D-1797a>` 11 April **1797** at No. 11 Evesen after the difficult
   {external+genealogy:doc}`birth <petzen/PET-B-1797a>` of her son Hans Heinrich Wilharm, and
 - later in **1797**, her surviving husband {external+genealogy:doc}`remarried <petzen/PET-M-1797a>`, her sister,
   Sophie Ernestine Blecke, who had been living with them.
