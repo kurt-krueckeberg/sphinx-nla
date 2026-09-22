@@ -17,19 +17,21 @@ Wilharm of no. 11 Evesen.
 
 We have this timeline for Hans Heinrich Wilharm
 
-- In **1760** he was {external+genealogy:doc}`born <petzen/PET-B-1760a>` in Berenbusch.
-- In **8 May 1796** he {external+genealogy:doc}`married <petzen/PET-M-1796a>` Anne Marie Philippine Blecke of no. 11 Evesen .
-- On She {external+genealogy:doc}` died <petzen/PET-D-1797a>` 11 April **1797** at No. 11 Evesen after the difficult
+- On **August 9, 1760** he was {external+genealogy:doc}`born <petzen/PET-B-1760a>` in Berenbusch.
+- On **May 8, 1796** he {external+genealogy:doc}`married <petzen/PET-M-1796a>` Anne Marie Philippine Blecke of no. 11 Evesen .
+- On **April 11, 1797** she {external+genealogy:doc}` died <petzen/PET-D-1797a>` at No. 11 Evesen after the difficult
   {external+genealogy:doc}`birth <petzen/PET-B-1797a>` of her son Hans Heinrich Wilharm, and
-- later in **1797**, her surviving husband {external+genealogy:doc}`remarried <petzen/PET-M-1797a>`, her sister,
+- On **August 9, 1797**, her surviving husband {external+genealogy:doc}`remarried <petzen/PET-M-1797a>`, her sister,
   Sophie Ernestine Blecke, who had been living with them.
 
-The subsequent birth records of their daughter Anne Marie
-Christine, {external+genealogy:doc}`born in 1798 <petzen/PET-B-1798c>`, and their
-son Carl Heinrich, {external+genealogy:doc}`born in 1810 <petzen/PET-B-1810a>`,
-show the Hans Heinrich Wilharm family:
+The new couple had two children:
 
-- continued to live a no. 11 Evesen
+- On **July 21, 1798**, the new couple's daughter Anne Marie Christine was {external+genealogy:doc}`born <petzen/PET-B-1798c>`, and
+- On **November 17, 1810** their son Carl Heinrich was {external+genealogy:doc}`born <petzen/PET-B-1810a>`
+
+Their birth records show:
+
+- The couple continued to live a no. 11 Evesen
 - Hans Heinrich was the Colon (Stätte holder) of no. 11 Evesen
 - He worked as an Ackermann (farmer) in 1810.
 
