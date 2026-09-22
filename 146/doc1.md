@@ -17,12 +17,12 @@ Wilharm of no. 11 Evesen.
 
 Hans Heinrich Wilharm was
 
-- {external+genealogy:doc}`born in Berenbusch in 1760 <petzen/PET-B-1760a>`,
-- and in 1796 he {external+genealogy:doc}`married Anne Marie Philippine Blecke of no. 11 Evesen <petzen/PET-M-1796a>`.
-- She {external+genealogy:doc}` died 11 April 1797 <petzen/PET-D-1797a>` after the difficult {external+genealogy:doc}`birth <petzen/PET-B-1797a>`
-  of her son Hans Heinrich Wilharm at No. 11 Evesen.
-- later in 1797, her surviving husband {external+genealogy:doc}`remarried Sophie Ernestine Blecke <petzen/PET-M-1797a>`, her sister 
-  who had been living with them.
+- {external+genealogy:doc}`born <petzen/PET-B-1760a>` in Berenbusch in **1760**, and
+- in **1796** he {external+genealogy:doc}`married Anne Marie Philippine Blecke of no. 11 Evesen <petzen/PET-M-1796a>`.
+- She {external+genealogy:doc}` died <petzen/PET-D-1797a>` 11 April **1797** at No. 11 Evesen after the difficult
+  {external+genealogy:doc}`birth <petzen/PET-B-1797a>` of her son Hans Heinrich Wilharm, and
+- later in **1797**, her surviving husband {external+genealogy:doc}`remarried <petzen/PET-M-1797a>`, her sister,
+  Sophie Ernestine Blecke, who had been living with them.
 
 The subsequent birth records of their daughter Anne Marie
 Christine, {external+genealogy:doc}`born in 1798 <petzen/PET-B-1798c>`, and their
