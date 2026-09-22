@@ -15,19 +15,19 @@ We know that when Carl Friedrich Krückeberg was
 {external+genealogy:doc}`baptismal sponsors <petzen/PET-B-1807a>` was Hans Heinrich
 Wilharm of no. 11 Evesen.
 
-Hans Heinrich Wilharm was {external+genealogy:doc}`born in
-Berenbusch in 1760 <petzen/PET-B-1760a>`, and in 1796 he
-{external+genealogy:doc}`married Anne Marie Philippine Blecke
-of no. 11 Evesen <petzen/PET-M-1796a>`. She died after giving birth to their son
-Hans Heinrich Wilharm], who was {external+genealogy:doc}`born
-11 April 1797 <petzen/PET-B-1797a>` at no. 11 Evesen. Later the same year, her husband
-{external+genealogy:doc}`remarried to Sophie Ernestine
-Blecke <petzen/PET-M-1797a>`, who had been living with them already.
+Hans Heinrich Wilharm was
 
-The birth records of their daughter Anne Marie
+- {external+genealogy:doc}`born in Berenbusch in 1760 <petzen/PET-B-1760a>`,
+- and in 1796 he {external+genealogy:doc}`married Anne Marie Philippine Blecke of no. 11 Evesen <petzen/PET-M-1796a>`.
+- She {external+genealogy:doc}` died 11 April 1797 <petzen/PET-D-1797a>` after the difficult {external+genealogy:doc}`birth <petzen/PET-B-1797a>`
+  of her son Hans Heinrich Wilharm at No. 11 Evesen.
+- later in 1797, her surviving husband {external+genealogy:doc}`remarried Sophie Ernestine Blecke <petzen/PET-M-1797a>`, her sister 
+  who had been living with them.
+
+The subsequent birth records of their daughter Anne Marie
 Christine, {external+genealogy:doc}`born in 1798 <petzen/PET-B-1798c>`, and their
 son Carl Heinrich, {external+genealogy:doc}`born in 1810 <petzen/PET-B-1810a>`,
-show the family:
+show the Hans Heinrich Wilharm family:
 
 - continued to live a no. 11 Evesen
 - Hans Heinrich was the Colon (Stätte holder) of no. 11 Evesen
@@ -90,8 +90,6 @@ for the gracious granting of a plot of land for the construction of a house
 ```{figure} images/03-l.png
 :class: image-override
 ```
-
-See [Corrections to Text](https://chatgpt.com/share/694485ae-3bec-8004-961e-67d320e050d3)
 
 ## Transliteration
 
@@ -189,16 +187,10 @@ H. Swellmann
 
 ### Translation Notes
 
-**Einlieger** — lodger or tenent (non-landholding resident); someone without a home of his own.
-
-**mich selbst anzubauen**  — to establish myself independently (i.e., to build and maintain one’s own holding)
-
-**Forst-Amtswegen**  —  by the Forestry Office
-
-**Gründe**  —  uneven grounds / irregular ground
-
-**Leuten**  — people (important for a tailor’s livelihood)
-
-**gegen ein Billiges**  — at a reasonable price
-
-**Ich erstrecke mich**  — formal closing: I remain
+- **Einlieger** — lodger or tenent (non-landholding resident); someone without a home of his own.
+- **mich selbst anzubauen** — to establish myself independently (i.e., to build and maintain one’s own holding)
+- **Forst-Amtswegen** —  by the Forestry Office
+- **Gründe** — uneven grounds / irregular ground
+- **Leuten** — people (important for a tailor’s livelihood)
+- **gegen ein Billiges** — at a reasonable price
+- **Ich erstrecke mich** — formal closing: "I remain"
