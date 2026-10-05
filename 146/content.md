@@ -11,149 +11,134 @@ September of 1850.
 :class: image-override
 ```
 
+```{flat-table}
+:class: no-zebra-rowspan-table
+:header-rows: 1
 
-<!-- Raw HTML table emitted because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
-
-```{raw} html
-<style>
-.no-zebra-rowspan-table tbody tr,
-.no-zebra-rowspan-table tbody tr:nth-child(odd),
-.no-zebra-rowspan-table tbody tr:nth-child(even),
-.no-zebra-rowspan-table tbody td,
-.no-zebra-rowspan-table tbody th {
-  background-color: transparent !important;
-}
-</style>
-<div class="pst-scrollable-table-container" tabindex="-1">
-<table class="table no-zebra-rowspan-table">
-  <thead>
-  <tr>
-    <th class="head">Nr</th>
-    <th class="head">Designatio Actorum
-(left)</th>
-    <th class="head">Thema/Gegenstand
-(right)</th>
-    <th class="head">Ort</th>
-    <th class="head">Jahr</th>
-    <th class="head">Monat</th>
-    <th class="head">Tag</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td><p>1</p></td>
-    <td><p><a class="reference internal" href="doc1.html"><span class="std std-doc">Petition submitted by the tailor Krückeberg in Evesen</span></a></p><p><a class="reference internal" href="doc1.html"><span class="std std-doc">Vorstellung von Schneider Krückeberg im Evesen</span></a></p></td>
-    <td rowspan="3"><p>Concerning the petition of the tailor Krückeberg in Evesen for the designation (Ausweisung) of a plot for house construction near Bärenbusch.</p><p>Pto Gesuch des Schneider Krückeberg in Evesen um Ausweisung eines Platzes zum Hausbau vor Bärenbusch.</p></td>
-    <td><p>Bückeburg</p></td>
-    <td><p>1808</p></td>
-    <td><p>Sept</p></td>
-    <td><p>29</p></td>
-  </tr>
-  <tr>
-    <td><p>2</p></td>
-    <td><p><a class="reference internal" href="doc1.html"><span class="std std-doc">Report of the administrative offices of Bückeburg and Arensburg</span></a></p><p><a class="reference internal" href="doc1.html"><span class="std std-doc">Bericht der Aemter Bückeb: u. Arensburg</span></a></p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>Oct</p></td>
-    <td><p>21</p></td>
-  </tr>
-  <tr>
-    <td><p>3</p></td>
-    <td><p><a class="reference internal" href="doc3.html"><span class="std std-doc">Drafts of Cameral rescripts from the Office of Bückeburg</span></a></p><p><a class="reference internal" href="doc3.html"><span class="std std-doc">Concept Camr. Rescripts aus Amt Bückeburg</span></a></p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>31</p></td>
-  </tr>
-  <tr>
-    <td><p>4</p></td>
-    <td><p><a class="reference internal" href="doc4.html"><span class="std std-doc">Report of the administrative offices of Bückeburg and Arensburg</span></a></p><p><a class="reference internal" href="doc4.html"><span class="std std-doc">Bericht der Aemter Bückeburg u. Arensburg</span></a></p></td>
-    <td rowspan="3"><p>Because of his financial circumstances and personal qualities,
-and also on account of the satisfaction of the common-pasture
-stakeholders.</p><p>Wegen seiner Vermögens Umstände und persönlichten Eigenschaften auch wegen Zufriendenheit der
-Hude-Interessenten.</p></td>
-    <td><p>"  "</p></td>
-    <td><p>1809</p></td>
-    <td><p>Jan.</p></td>
-    <td><p>12</p></td>
-  </tr>
-  <tr>
-    <td><p>5</p></td>
-    <td><p><a class="reference internal" href="doc5.html"><span class="std std-doc">Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg</span></a></p><p><a class="reference internal" href="doc5.html"><span class="std std-doc">Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg</span></a></p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>23</p></td>
-  </tr>
-  <tr>
-    <td><p>6
-ad 6</p></td>
-    <td><p><a class="reference internal" href="doc6.html"><span class="std std-doc">Report of the aforementioned administrative offices</span></a>,<a class="reference internal" href="ad6-survey-drawing.html"><span class="std std-doc">together with a geometrical (survey) drawing by Stille</span></a></p><p><a class="reference internal" href="doc6.html"><span class="std std-doc">Bericht gedachter Aemter</span></a>
-                
-                <a class="reference internal" href="ad6-survey-drawing.html"><span class="std std-doc">Ein geometische Zeichnung von Stille</span></a></p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>Oct</p></td>
-    <td><p>28</p></td>
-  </tr>
-  <tr>
-    <td><p>7</p></td>
-    <td><p><a class="reference internal" href="doc7.html"><span class="std std-doc">Drafts of Cameral rescripts from the Office of Bückeburg,
-also draft of a Cameral instruction to the Chamber Rent-Master Staackmann</span></a></p><p><a class="reference internal" href="doc7.html"><span class="std std-doc">Concept Camr Rescripts ans Amt Bückeburg</span></a></p></td>
-    <td rowspan="6"><p>Concerning the Cameral approval of the payment monies
-and the execution of the purchase deed.</p><p>pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs</p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>Nov.</p></td>
-    <td><p>15</p></td>
-  </tr>
-  <tr>
-    <td><p>7</p></td>
-    <td><p><a class="reference internal" href="doc7.html"><span class="std std-doc">Auch Concept Camr. Anweisung an den Kammerrentmeister Staackmann</span></a></p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>Nov.</p></td>
-    <td><p>15</p></td>
-  </tr>
-  <tr>
-    <td><p>8</p></td>
-    <td><p><a class="reference internal" href="doc8.html"><span class="std std-doc">Petition of the wife of the new settler Krückeberg,
-No. 18, in Berenbusch</span></a></p><p><a class="reference internal" href="doc8.html"><span class="std std-doc">Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch</span></a></p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>Decb.</p></td>
-    <td><p>7</p></td>
-  </tr>
-  <tr>
-    <td><p>9</p></td>
-    <td><p><a class="reference internal" href="doc9.html"><span class="std std-doc">Draft of a Cameral decree addressed to this colonist Krückeberg</span></a></p><p><a class="reference internal" href="doc9.html"><span class="std std-doc">Concept Camr Erlaß an diesen Kolon Krückeberg</span></a></p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>12</p></td>
-  </tr>
-  <tr>
-    <td><p>10</p></td>
-    <td><p><a class="reference internal" href="doc10.html"><span class="std std-doc">Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid
-by the aforementioned Krückeberg</span></a></p><p><a class="reference internal" href="doc10.html"><span class="std std-doc">Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
-gedachten Krückeberg</span></a></p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-  </tr>
-  <tr>
-    <td><p>11</p></td>
-    <td><p><a class="reference internal" href="doc10.html"><span class="std std-doc">Draft purchase deed for this Krückeberg, No. 18, in Berenbusch,
-concerning a building site for house construction and garden</span></a></p><p><a class="reference internal" href="doc10.html"><span class="std std-doc">Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau
-und Garten</span></a></p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>"  "</p></td>
-    <td><p>20</p></td>
-  </tr>
-  </tbody>
-</table>
-</div>
+* - Nr
+  - Designatio Actorum
+    (left)
+  - Thema/Gegenstand
+    (right)
+  - Ort
+  - Jahr
+  - Monat
+  - Tag
+* - 1
+  - [Petition submitted by the tailor Krückeberg in Evesen](doc1.md)
+    
+    [Vorstellung von Schneider Krückeberg im Evesen](doc1.md)
+  - {rspan}`2` Concerning the petition of the tailor Krückeberg in Evesen for the designation (Ausweisung) of a plot for house construction near Bärenbusch.
+    
+    Pto Gesuch des Schneider Krückeberg in Evesen um Ausweisung eines Platzes zum Hausbau vor Bärenbusch.
+  - Bückeburg
+  - 1808
+  - Sept
+  - 29
+* - 2
+  - [Report of the administrative offices of Bückeburg and Arensburg](doc1.md)
+    
+    [Bericht der Aemter Bückeb: u. Arensburg](doc1.md)
+  - "  "
+  - "  "
+  - Oct
+  - 21
+* - 3
+  - [Drafts of Cameral rescripts from the Office of Bückeburg](doc3.md)
+    
+    [Concept Camr. Rescripts aus Amt Bückeburg](doc3.md)
+  - "  "
+  - "  "
+  - "  "
+  - 31
+* - 4
+  - [Report of the administrative offices of Bückeburg and Arensburg](doc4.md)
+    
+    [Bericht der Aemter Bückeburg u. Arensburg](doc4.md)
+  - {rspan}`2` Because of his financial circumstances and personal qualities,
+    and also on account of the satisfaction of the common-pasture
+    stakeholders.
+    
+    Wegen seiner Vermögens Umstände und persönlichten Eigenschaften auch wegen Zufriendenheit der
+    Hude-Interessenten.
+  - "  "
+  - 1809
+  - Jan.
+  - 12
+* - 5
+  - [Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg](doc5.md)
+    
+    [Concept Camr. Rescripts an die Aemter Bückeb: und Arensburg](doc5.md)
+  - "  "
+  - "  "
+  - "  "
+  - 23
+* - 6
+    ad 6
+  - [Report of the aforementioned administrative offices](doc6.md),[together with a geometrical (survey) drawing by Stille](ad6-survey-drawing.md)
+    
+    [Bericht gedachter Aemter](doc6.md)
+    
+    [Ein geometische Zeichnung von Stille](ad6-survey-drawing.md)
+  - "  "
+  - "  "
+  - Oct
+  - 28
+* - 7
+  - [Drafts of Cameral rescripts from the Office of Bückeburg,
+    also draft of a Cameral instruction to the Chamber Rent-Master Staackmann](doc7.md)
+    
+    [Concept Camr Rescripts ans Amt Bückeburg](doc7.md)
+  - {rspan}`5` Concerning the Cameral approval of the payment monies
+    and the execution of the purchase deed.
+    
+    pto Camr. Bewilligung Zahlungs-Gelder und Ausfertigung des Kaufbriefs
+  - "  "
+  - "  "
+  - Nov.
+  - 15
+* - 7
+  - [Auch Concept Camr. Anweisung an den Kammerrentmeister Staackmann](doc7.md)
+  - "  "
+  - "  "
+  - Nov.
+  - 15
+* - 8
+  - [Petition of the wife of the new settler Krückeberg,
+    No. 18, in Berenbusch](doc8.md)
+    
+    [Bittschrift der Ehefrau des Neubauers Krückeberg Nr. 18 zu Berenbusch](doc8.md)
+  - "  "
+  - "  "
+  - Decb.
+  - 7
+* - 9
+  - [Draft of a Cameral decree addressed to this colonist Krückeberg](doc9.md)
+    
+    [Concept Camr Erlaß an diesen Kolon Krückeberg](doc9.md)
+  - "  "
+  - "  "
+  - "  "
+  - 12
+* - 10
+  - [Certificate from the Chamber Rent Master Staackmann concerning the plot-designation fees paid
+    by the aforementioned Krückeberg](doc10.md)
+    
+    [Bescheinigung vom Kammerrent Mstr. Staackman, über bezahlte Platz Platz-Ausweisungs-Gelder von oft
+    gedachten Krückeberg](doc10.md)
+  - "  "
+  - "  "
+  - "  "
+  - "  "
+* - 11
+  - [Draft purchase deed for this Krückeberg, No. 18, in Berenbusch,
+    concerning a building site for house construction and garden](doc10.md)
+    
+    [Concept Kaufbriefs für deisen Krückeberg Nr. 18 in Berenbusch, über einem Platz zum Hausbau
+    und Garten](doc10.md)
+  - "  "
+  - "  "
+  - "  "
+  - 20
 ```
 

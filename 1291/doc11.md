@@ -155,9 +155,65 @@ Habicht ᐧ Neufsel
 
 an Kammeral Prestanden
 
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
+```{flat-table}
+:class: no-zebra-rowspan-table
+:header-rows: 1
 
-```{include} _table-artifacts/doc11-table-03.html
+* - Person
+  - Description
+  - rl
+  - g
+  - d
+* - Krückeberg no 10 zu Berenbusch (auch Michaeli 1819)
+  - Rottzins
+  - 
+  - 4
+  - 1
+* - {rspan}`7` Vogt no 13 zu Nordholz für Haus und Gartenplatz
+    (auch Michaeli a 1823)
+  - Rottzins
+  - 
+  - 17
+  - 5
+* - Mahlschweingeld
+  - 
+  - 6
+  - 
+* - Michaelischatz
+  - 
+  - 1
+  - 
+* - Dienstgeld
+  - 1
+  - 
+  - 
+* - Ein Rauchhuhn
+  - 
+  - 
+  - 
+* - fünf Erntetage
+  - 
+  - 
+  - 
+* - Jagden Wachten
+  - 
+  - 
+  - 
+* - Landfolgen.
+  - 
+  - 
+  - 
+* - {rspan}`1` Neubauer Brüggemann no 14 zu
+    Nordholz für Haus und Gartenplatz
+    (Michaeli 1823)
+  - Rottzins
+  - 
+  - 16
+  - 2
+* - übrige Prestanden wie der vorige
+  - 
+  - 
+  - 
 ```
 
 ### Specification’s Transliteration
@@ -302,9 +358,65 @@ Habicht ᐧ Neufsel\
 
 Kammeral dues table in text
 
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
+```{flat-table}
+:class: no-zebra-rowspan-table
+:header-rows: 1
 
-```{include} _table-artifacts/doc11-table-06.html
+* - Person
+  - Description
+  - rl
+  - g
+  - d
+* - Krückeberg no 10 in Berenbusch (also Michaelmas 1819)
+  - clearing rent
+  - 
+  - 4
+  - 1
+* - {rspan}`7` Vogt no 13 in Nordholz for house and garden plot
+    (also Michaelmas 1823)
+  - clearing rent
+  - 
+  - 17
+  - 5
+* - mill-pig payment
+  - 
+  - 6
+  - 
+* - Michaelmas levy
+  - 
+  - 1
+  - 
+* - service fee
+  - 1
+  - 
+  - 
+* - one hen
+  - 
+  - 
+  - 
+* - five harvest days
+  - 
+  - 
+  - 
+* - hunt watch duties
+  - 
+  - 
+  - 
+* - land service duties
+  - 
+  - 
+  - 
+* - {rspan}`1` new settler Brüggemann no 14 in
+    Nordholz for house and garden plot
+    (Michaelmas 1823)
+  - clearing rent
+  - 
+  - 16
+  - 2
+* - other dues as the previous
+  - 
+  - 
+  - 
 ```
 
 ### Specification’s Translation

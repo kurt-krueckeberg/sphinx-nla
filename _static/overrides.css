@@ -151,3 +151,13 @@ img.image-override,
     width: calc(100% + 2rem);
   }
 }
+
+/* Tables with row spans (flat-table): no zebra striping, so a spanning
+   cell doesn't look like it belongs to only one shaded row. */
+.no-zebra-rowspan-table tbody tr,
+.no-zebra-rowspan-table tbody tr:nth-child(odd),
+.no-zebra-rowspan-table tbody tr:nth-child(even),
+.no-zebra-rowspan-table tbody td,
+.no-zebra-rowspan-table tbody th {
+  background-color: transparent !important;
+}
