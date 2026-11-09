@@ -17,9 +17,9 @@ fastjsonschema==2.21.2
 fspath==20230629
 google-auth==1.35.0
 google-auth-oauthlib==0.5.3
-greenlet==3.4.0
+greenlet
 idna==3.13
-imagesize==2.0.0
+imagesize==2.0.1
 importlib_metadata==9.0.0
 ipykernel==7.2.0
 ipython==9.13.0
@@ -68,7 +68,7 @@ referencing==0.37.0
 requests==2.33.1
 requests-oauthlib==2.0.0
 roman-numerals==4.1.0
-rpds-py==0.30.0
+rpds-py
 rsa==4.9.1
 setuptools==82.0.1
 six==1.17.0

@@ -158,7 +158,6 @@ parts:
         sections:    
           - file: 139/content.md
             sections: 
-              - file: 139/timeline
               - file: 139/cover
               - file: 139/doc1-1
                 title: Petition of the widow Krückeberg
