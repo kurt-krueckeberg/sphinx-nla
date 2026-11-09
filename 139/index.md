@@ -19,6 +19,20 @@ the Rentkammer to accept the sale of his holding to Wilhelm Boremann
 because he is immigrating to American, and the ship for America departs on
 [September 15, 1849](jh-krueckeberg-petition-to-sell.md).
 
+```{list-table}
+:widths: 25 75
+
+* - Archive reference
+  - [NLA BU, L 101a, A Nr. 139](arcinsys-link)
+* - Date span
+  - 1824–1849
+* - Holding
+  - Stätte No. 10, Berenbusch
+* - Principal persons
+  - Widow Krückeberg; Johann Heinrich Krückeberg (1806–1879); Wilhelm Bornemann
+* - Outcome
+  - Labour services remitted (1824); sale approved before emigration (1849)
+```
 
 ## Timeline
 
