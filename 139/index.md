@@ -23,7 +23,7 @@ because he is immigrating to American, and the ship for America departs on
 :widths: 25 75
 
 * - Archive reference
-  - [NLA BU, L 101a, A Nr. 139](arcinsys-link)
+  - [NLA BU, L 101a, A Nr. 139](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978697)
 * - Date span
   - 1824–1849
 * - Holding
