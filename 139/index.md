@@ -41,7 +41,7 @@ because he is immigrating to American, and the ship for America departs on
 
 * - Date
   - Topic
-  - Description
+  - Summary Description
 * - 8 July 1824
   - Petition of Widow Krückeberg (8 July 1824)
   - The widow Krückeberg is 58 years old and she can’t perform the feudal duties of the
