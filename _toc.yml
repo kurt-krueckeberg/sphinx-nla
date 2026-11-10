@@ -149,7 +149,8 @@ parts:
                 title: Purchase Contract Copy 
  
       - file: 147/index
-        title: Site No. 19 Berenbusch (1819-1820)
+        title: Holding No. 19 Berenbusch (1819-1820) \
+               (in particular concerning the new settler holding of Triftmeyer No. 19 at Bärenbusch)
         sections:
           - file: 147/cover
           - file: 147/content
