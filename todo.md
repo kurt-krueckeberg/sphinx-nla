@@ -1,11 +1,21 @@
 # TODO
 
-## See: https://chatgpt.com/c/6af1da60-f0d4-83e9-80c6-a7160b924564
+## See Claude Recommendations at `clause-case-file-analysis.md`
+
+In particular:
+
+- 689/index.md needs to be rewritten. It discusses what the Rentkammer was and not what this
+  case file concerns. More the description of the Rentkammer elsewhere to "Rentkammer
+  Explained", if it needs it.
+- Provide index.md files for each Rentkammer/Vornumdlichekammer case file
+- Make sure all documents transliterations and translations are readable.
+- Make sure the index.md contains a good overview.
+- Put any analysis elsewhere as part of the genealogy research.
+- Decide what to do with explanations contained with individual documents of case files.
 
 ##  Finish 2741/index.md
 
 - Finish formatting the Translation section.
-
 
 ## AI an Archivists
 
