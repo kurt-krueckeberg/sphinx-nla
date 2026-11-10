@@ -167,7 +167,7 @@ revenue office.
 
 The local officials were instructed to ensure Krückeberg fulfilled all stated conditions.
 
-They also issued a directive to o **Cammer Rentmaster Stackmann**, that he:
+They also issued a directive to **Cammer Rentmaster Stackmann**, that he:
 
 - ensure collection of the purchase price from Krückeberg calculated at 14 Reichsthaler, 8 Mariengroschen, 1 Pfennig.
 - Enter the amount under the proper heading in the Cammer accounts.
