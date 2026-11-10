@@ -52,98 +52,55 @@ non-appearance (or non-response)**, not after a contested hearing.
 :class: image-override
 ```
 
+## Transliteration
 
-```{list-table}
-:header-rows: 1
+```{div} doc-text
+                             corner folio:11
 
-* - Transliteration
-  - Translation
-* -                              corner folio:11
-    
-    
-    Actum Bückeburg am Amte
-    den 10ten Juli 1841
-    
-            In Sachen
-    
-    der Hempel Söhne in Minden, Kläger,
-              wider
-    den Colon Krückeberg No. 10 in Beren-
-    busch, Beklagten
-             [Totl] Capital und
-             Zinsen.
-    
-    Advocat Meÿer, Anwalt der Kläger bat gehorsamst, da der beklagte
-    Krückeberg noch nicht, wie ihm durch Decret vom 29ten Mai 6ten
-    Juni v. J. aufgegeben, die qu: 133 Rthlr 7 g nebst 5 p.c. Zinsen
-    vom 9ten April 1833 bezahlt habe, nunmehro die angehrohte
-    Execution, unter Androhung der Auspfandung zu erkennen.
-    ref: exp: contum: infidem
-      F. Sander
-    
-    
-          Decretum
-    
-    Vorstehender Recess wird dem Verklagten in Abschrift mitgeheilt
-    und nunmehr die Execution erkannt und den Amtsdiener Möller
-    aufgegeben, den Verklagten auf das Capital zu 133 Rthlr 7 mgl und
-    29 Zinsen vom 9ten April 1833 zu 5 Procent zu 4 mgl Gebühr in
-    exequiren und ihm anzudeuten, daß[,] wenn die Execution fruchtlos
-    bleibe und binnen 14 Tagen keine Zahlung erfolgen würde, auf
-    ferneres Ansuchen der Kläger sofort die Auspfandung erkannt und
-    vollzogen werde.
-    
-      Decr: Bückeburg 13t Juli 1841.
-      Fürstlich Schaumburg Upp. Amt.
-    
-         Hauck   Höcker
-  - [11/1i]
-    
-    Done at Bückeburg, at the Amt
-    on the 10th of July 1841
-    
-    
-            In the matter of
-    
-    the Hempel Sons in Minden, plaintiffs,
-              versus
-    the Colon Krückeberg No. 10 in
-    Berenbusch, defendant,
-             [Total] capital and
-             interest.
-    
-    Advocate Meyer, attorney for the plaintiffs, most respectfully
-    requested that, since the defendant Krückeberg has still not—
-    as was ordered to him by decree of the 29th of May and 6th of
-    June of last year—paid the sum of 133 Reichsthaler 7 Groschen
-    together with 5 percent annual interest from the 9th of April
-    1833, the threatened enforcement of judgment, with warning
-    of distraint [seizure of property], now be decreed.
-    
-    Entered and issued as a default judgment, in witness thereof.
-           F. Sander
-    
-          Decree
-    
-    The foregoing petition is to be communicated to the defendant in
-    copy, and the enforcement of judgment is now ordered. The court
-    officer Möller is ordered to collect from the defendant the
-    principal of 133 Reichsthaler 7 Mariengroschen, interest at 5
-    percent from 9 April 1833, and a fee of 4 Mariengroschen.  He is
-    further to make clear to him that, if this enforcement proves
-    fruitless and no payment is made within 14 days, then upon
-    further request of the plaintiffs, seizure of property (distraint)
-    will immediately be ordered and carried out.
-    
-    Decreed at Bückeburg, the 13th of July 1841.
-    Princely Schaumburg District Office.
-    
-         Hauck      Höcker
+
+Actum Bückeburg am Amte
+den 10ten Juli 1841
+
+        In Sachen
+
+der Hempel Söhne in Minden, Kläger,
+          wider
+den Colon Krückeberg No. 10 in Beren-
+busch, Beklagten
+         [Totl] Capital und
+         Zinsen.
+
+Advocat Meÿer, Anwalt der Kläger bat gehorsamst, da der beklagte
+Krückeberg noch nicht, wie ihm durch Decret vom 29ten Mai 6ten
+Juni v. J. aufgegeben, die qu: 133 Rthlr 7 g nebst 5 p.c. Zinsen
+vom 9ten April 1833 bezahlt habe, nunmehro die angehrohte
+Execution, unter Androhung der Auspfandung zu erkennen.
+ref: exp: contum: infidem
+  F. Sander
+
+
+      Decretum
+
+Vorstehender Recess wird dem Verklagten in Abschrift mitgeheilt
+und nunmehr die Execution erkannt und den Amtsdiener Möller
+aufgegeben, den Verklagten auf das Capital zu 133 Rthlr 7 mgl und
+29 Zinsen vom 9ten April 1833 zu 5 Procent zu 4 mgl Gebühr in
+exequiren und ihm anzudeuten, daß[,] wenn die Execution fruchtlos
+bleibe und binnen 14 Tagen keine Zahlung erfolgen würde, auf
+ferneres Ansuchen der Kläger sofort die Auspfandung erkannt und
+vollzogen werde.
+
+  Decr: Bückeburg 13t Juli 1841.
+  Fürstlich Schaumburg Upp. Amt.
+
+     Hauck   Höcker
 ```
+
+## Translation
 
 ```{note}
 A **default judgment** means a court decision that is entered against a party who fails to take part in the case
-— usually because they don’t show up, don’t respond, or otherwise ignore the summons.
+—usually because they don’t show up, don’t respond, or otherwise ignore the summons.
 
 In older German legal language (in contumaciam), it meant:
 
@@ -153,5 +110,50 @@ In older German legal language (in contumaciam), it meant:
 
 So when the clerk writes *contum.*, he’s noting that the judgment was rendered
 because of **Krückeberg’s non-appearance (or non-response)**, not after a contested hearing.
+```
+
+```{div} doc-text
+                                [11/1i]
+    
+Done at Bückeburg, at the Amt
+on the 10th of July 1841
+
+
+        In the matter of
+
+the Hempel Sons in Minden, plaintiffs,
+          versus
+the Colon Krückeberg No. 10 in
+Berenbusch, defendant,
+         [Total] capital and
+         interest.
+
+Advocate Meyer, attorney for the plaintiffs, most respectfully
+requested that, since the defendant Krückeberg has still not—
+as was ordered to him by decree of the 29th of May and 6th of
+June of last year—paid the sum of 133 Reichsthaler 7 Groschen
+together with 5 percent annual interest from the 9th of April
+1833, the threatened enforcement of judgment, with warning
+of distraint [seizure of property], now be decreed.
+
+Entered and issued as a default judgment, in witness thereof.
+       F. Sander
+
+      Decree
+
+The foregoing petition is to be communicated to the defendant in
+copy, and the enforcement of judgment is now ordered. The court
+officer Möller is ordered to collect from the defendant the
+principal of 133 Reichsthaler 7 Mariengroschen, interest at 5
+percent from 9 April 1833, and a fee of 4 Mariengroschen.  He is
+further to make clear to him that, if this enforcement proves
+fruitless and no payment is made within 14 days, then upon
+further request of the plaintiffs, seizure of property (distraint)
+will immediately be ordered and carried out.
+
+Decreed at Bückeburg, the 13th of July 1841.
+Princely Schaumburg District Office.
+
+     Hauck      Höcker
 ```
 
