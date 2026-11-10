@@ -28,27 +28,26 @@ parts:
           - file: rentkammer/terms
             title: Rentkammer Terms
            
-      - file: 1237/content
+      - file: 1237/index
         title:  Krückeberg No. 10 Berenbusch Land Enlargement Request
         sections:
           - file: 1237/cover
-          - file: 1237/intro
-          - file: 1237/timeline
-            title: Timeline
-          - file: 1237/doc1
-            title: Tailor Krückeberg Petition
-          - file: 1237/doc2
-            title: Report of Bückeburg Office
-          - file: 1237/doc3
-            title: Rentkammer Decision 
-          - file: 1237/doc4
-            title: Report of Bückeburg Office
-          - file: 1237/doc4pt5
-            title: Drawing of Two Parcels
-          - file: 1237/reminder-note
-          - file: 1237/doc5
-            title: Rentkammer Decision 
-          - file: 1237/doc6
+          - file: 1237/content
+            sections:
+              - file: 1237/doc1
+                title: Tailor Krückeberg Petition
+              - file: 1237/doc2
+                title: Report of Bückeburg Office
+              - file: 1237/doc3
+                title: Rentkammer Decision 
+              - file: 1237/doc4
+                title: Report of Bückeburg Office
+              - file: 1237/doc4pt5
+                title: Drawing of Two Parcels
+              - file: 1237/reminder-note
+              - file: 1237/doc5
+                title: Rentkammer Decision 
+              - file: 1237/doc6
 
       - file: 1291/content.md
         title: Allotments to Krückeberg no. 10 & Einliegers Vogt & Nordholz (1817 - 1818)
