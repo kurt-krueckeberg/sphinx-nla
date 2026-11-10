@@ -2,10 +2,6 @@
 
 ## Overview
 
-The Krückeberg remained Brinksitzers of No. 10 Berenbusch from at least
-1743-1744 until September of 1849 when Johann Heinrich (1806-1879) sold his
-inheritable tenancy right to Wilhelm Bornemann of Nordholtz.
-
 The case file primarily concerns the petition of Widow Krückeberg of no.
 10 Berenbusch before the Rentkammer, in 8 July 1824, to be relieved of the
 feudal obligations of manual labor that accompanied being a Stätte holder.
