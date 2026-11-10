@@ -15,32 +15,7 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 
 ## Transliteration
 
-```{div} doc-text
-
-N. 3/6                            N.C. 4487
-C. 1/                             N.P. 1274
-------
-= 4/6.
-
-                          Gesuch des Colons Krücke-
-    Copt[Concept]         berg N. 10 in Beren-
-aus Amt Bückeburg.        busch, um Anlehns-
-                          consens betr:
-
-[initials]         Das Amt wird auf den
-Fr.                obigen Gegenstand betreffen-
-R.                 de Bericht vom 7. d. M.
-                   beauftragt, wie angetra-
-Expedirt           gen den Krückeberg zu
-Holste             bescheiden.
-17/11.
-                     Bbg. 14. Oct. 1841.
-
-                     F. p.[Für protokoll]
-
-                     [clerial initials:] Lm        L
-```
-
+<!--
 ```{div} doc-text
 N. 3/6                            N.C. 4487
 C. 1/                              N.P. 1274
@@ -62,6 +37,58 @@ Bückeburg, 14 October 1841.
 This document has been officially recorded and put on file
 [clerial initials:] Lm        L
 ```
+-->
+
+````{div} doc-text
+
+```{list-table}
+:header-rows: 0
+
+* - N. 3/6
+  - N.C. 4487
+* - C. 1/
+  - N.P. 1274
+* - `------`
+  - &nbsp;
+* - = 4/6.
+  - &nbsp;
+* - &nbsp;
+  - Gesuch des Colons Krücke-
+* - Copt[Concept]
+  - berg N. 10 in Beren-
+* - aus Amt Bückeburg.
+  - busch, um Anlehns-
+* - &nbsp;
+  - consens betr:
+* - &nbsp;
+  - &nbsp;
+* - [initials]
+  - Das Amt wird auf den
+* - Fr.
+  - obigen Gegenstand betreffen-
+* - R.
+  - de Bericht vom 7. d. M.
+* - &nbsp;
+  - beauftragt, wie angetra-
+* - Expedirt
+  - gen den Krückeberg zu
+* - Holste
+  - bescheiden.
+* - 17/11.
+  - &nbsp;
+* - &nbsp;
+  - Bbg. 14. Oct. 1841.
+* - &nbsp;
+  - &nbsp;
+* - &nbsp;
+  - F. p.[Für protokoll]
+* - &nbsp;
+  - &nbsp;
+* - &nbsp;
+  - [clerial initials:] Lm        L
+```
+````
+
 
 ## Billing Note
 
