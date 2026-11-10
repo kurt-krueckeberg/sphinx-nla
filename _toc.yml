@@ -49,51 +49,53 @@ parts:
                 title: Rentkammer Decision 
               - file: 1237/doc6
 
-      - file: 1291/content.md
-        title: Allotments to Krückeberg no. 10 & Einliegers Vogt & Nordholz (1817 - 1818)
+      - file: 1291/index         
         sections:
-          - file: 1291/cover.md
-          - file: 1291/doc1.md
-            title: Krückeberg no. 10 Berenbush Petition 
-          - file: 1291/doc2.md
-            title: Forestry Dept. Report
-          - file: 1291/doc3.md
-            title: Official Decision 
-          - file: 1291/doc4.md
-            title: Petition of lodger Vogt
-          - file: 1291/doc5.md
-            title: Petition of soldier Brüggemann
-          - file: 1291/doc6.md
-            title: Report of local office
-          - file: 1291/doc7.md
-            title: Official Reply to local office
-          - file: 1291/doc8.md
-            title: Report of local office
-          - file: 1291/doc9.md
-            title: Official Decision of Princely Finance Office
-          - file: 1291/doc10.md
-            title: Petition of Vogt from Nordholz
-          - file: 1291/doc11.md
-            title: Report of local office with drawing
-          - file: 1291/doc12.md
-            title: Official Decision
-          - file: 1291/doc13.md
-          - file: 1291/doc14.md
-            title: Petition of Brüggemann
-          - file: 1291/doc15.md
-            title: Finance Office Decision on Brüggerman
-          - file: 1291/doc16.md
-            title: Krückeberg Petition
-          - file: 1291/doc17.md
-            title:  Finance Office Decision on Krückeberg
-          - file: 1291/doc18.md
-          - file: 1291/doc19.md
-            title: Krückeberg Purchase Contract
-          - file: 1291/doc20.md
-            title: Finance Office Decision on Vogt
-          - file: 1291/doc21.md
-          - file: 1291/doc22.md
-            title: Brüggemann Purchase Contract
+          - file: 1291/content
+            title: Allotments to Krückeberg no. 10 & Einliegers Vogt & Nordholz (1817 - 1818)
+            section:
+              - file: 1291/cover
+              - file: 1291/doc1
+                title: Krückeberg no. 10 Berenbush Petition 
+              - file: 1291/doc2
+                title: Forestry Dept. Report
+              - file: 1291/doc3
+                title: Official Decision 
+              - file: 1291/doc4
+                title: Petition of lodger Vogt
+              - file: 1291/doc5
+                title: Petition of soldier Brüggemann
+              - file: 1291/doc6
+                title: Report of local office
+              - file: 1291/doc7
+                title: Official Reply to local office
+              - file: 1291/doc8
+                title: Report of local office
+              - file: 1291/doc9
+                title: Official Decision of Princely Finance Office
+              - file: 1291/doc10
+                title: Petition of Vogt from Nordholz
+              - file: 1291/doc11
+                title: Report of local office with drawing
+              - file: 1291/doc12
+                title: Official Decision
+              - file: 1291/doc13
+              - file: 1291/doc14
+                title: Petition of Brüggemann
+              - file: 1291/doc15
+                title: Finance Office Decision on Brüggerman
+              - file: 1291/doc16
+                title: Krückeberg Petition
+              - file: 1291/doc17
+                title:  Finance Office Decision on Krückeberg
+              - file: 1291/doc18
+              - file: 1291/doc19
+                title: Krückeberg Purchase Contract
+              - file: 1291/doc20
+                title: Finance Office Decision on Vogt
+              - file: 1291/doc21
+              - file: 1291/doc22
+                title: Brüggemann Purchase Contract
      
       - file: 146/index.md
         title: Site No. 18 Berenbusch, 1808-1850
