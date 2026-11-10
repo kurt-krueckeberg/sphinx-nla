@@ -15,7 +15,7 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 
 ## Transliteration
 
-```{doc-text}
+```{div} doc-text
 N. 3/6                            N.C. 4487
 C. 1/                             N.P. 1274
 ------
@@ -40,7 +40,7 @@ Holste             bescheiden.
                      [clerial initials:] Lm        L
 ```
 
-```{doc-text}
+```{div} doc-text
 N. 3/6                            N.C. 4487
 C. 1/                              N.P. 1274
 ------
@@ -111,7 +111,7 @@ Here is what each of them means:
 
 ## Transliteration
 
-```{doc-text}
+```{div} doc-text
 Colon Krückeberg N 10 in Berenbusch
 
 
@@ -130,7 +130,7 @@ Möller Amtsdiener
 
 ## Translation
 
-```{doc-text}
+```{div} doc-text
 Colon Krückeberg N 10 in Berenbusch
 
 
