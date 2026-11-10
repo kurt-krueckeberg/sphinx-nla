@@ -161,3 +161,18 @@ img.image-override,
 .no-zebra-rowspan-table tbody th {
   background-color: transparent !important;
 }
+
+
+/* Compact archival transcription tables only */
+.doc-text table.compact {
+    border-collapse: collapse;
+}
+
+.doc-text table.compact td {
+    padding: 0 0.5rem;
+    vertical-align: top;
+}
+
+.doc-text table.compact td p {
+    margin: 0;
+}

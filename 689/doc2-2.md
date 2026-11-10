@@ -15,40 +15,17 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 
 ## Transliteration
 
-<!--
-```{div} doc-text
-N. 3/6                            N.C. 4487
-C. 1/                              N.P. 1274
-------
-= 4/6.
-
-Draft from the Bückeburg Office.
-
-Petition of the Colon Krückeberg No. 10 in Berenbusch,
-concerning the approval of a loan.
-
-
-The Office is instructed, based on the report of the 7th
-of this month regarding the matter above, to respond to
-Krückeberg as requested.
-
-Bückeburg, 14 October 1841.
-
-This document has been officially recorded and put on file
-[clerial initials:] Lm        L
-```
--->
-
 ````{div} doc-text
 
 ```{list-table}
 :header-rows: 0
+:class: compact
 
 * - N. 3/6
   - N.C. 4487
 * - C. 1/
   - N.P. 1274
-* - `------`
+* - \-\-\-\-\-\-
   - &nbsp;
 * - = 4/6.
   - &nbsp;
@@ -85,7 +62,7 @@ This document has been officially recorded and put on file
 * - &nbsp;
   - &nbsp;
 * - &nbsp;
-  - [clerial initials:] Lm        L
+  - [clerial initials:] Lm L
 ```
 ````
 
