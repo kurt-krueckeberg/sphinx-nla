@@ -35,7 +35,7 @@ found in the Lower Saxony state archive in Bückeburg, Germany.
   - [NLA
     BU, L 101a, A Nr. 140](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4869389)
 * - 1798 - 1800
-  - [The plots of land designated for Colon Krückeberg No. 10 in Berenbusch for the enlargement of his house lot and garden (1798-1800)](../1237/content.md)
+  - [The plots of land designated for Colon Krückeberg No. 10 in Berenbusch for the enlargement of his house lot and garden (1798-1800)](../1237/index.md)
     
     Die dem Colon Krückeberg Nr. 10 zu Berenbusch ausgewiesenen Plätze zur Vergrößerung seines Hofraumes und Garten
   - [NLA BU, K 2, A Nr. 1237](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766)
@@ -50,7 +50,7 @@ found in the Lower Saxony state archive in Bückeburg, Germany.
     Die Stätte Nr. 19 zu Berenbusch
   - [NLA BU K 2 Nr. 147](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979521)
 * - 1817-1818
-  - [Allotment from forest land to the colonist Krückeberg No. 10 in Berenbusch, and to the lodgers Vogt and Brüggemann, for the establishment of the new Holdings Nos. 13 and 14 in Nordholz.](../1291/content.md)
+  - [Allotment from forest land to the colonist Krückeberg No. 10 in Berenbusch, and to the lodgers Vogt and Brüggemann, for the establishment of the new Holdings Nos. 13 and 14 in Nordholz.](../1291/index.md)
     
     Ausweisung vom Forstgrunde
   - [NLA BU, K 2, A Nr. 1291](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978697)
