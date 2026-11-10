@@ -12,3 +12,7 @@ contains all the relevant details of the September 1850 sale of no. 18 Berenbusc
 
 - [Copy of document N. C. 4386](doc1.md)
 
+
+```{note}
+This Rentkammer case file has no **Designatio Actorum** (table of contents).
+```
