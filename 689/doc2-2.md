@@ -70,6 +70,9 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 
 ## Translation
 
+
+## Translation
+
 ````{div} doc-text
 
 ```{list-table}
@@ -85,33 +88,39 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 * - = 4/6.
   - &nbsp;
 * - &nbsp;
-  - &nbsp;
-* - Draft from the Bückeburg Office.
-  - &nbsp;
+  - Petition of Colon Krücke-
+* - Draft [concept]
+  - berg, No. 10 in Beren-
+* - from the Bückeburg Office.
+  - busch, concerning approval
+* - &nbsp;
+  - of a loan:
 * - &nbsp;
   - &nbsp;
-* - Petition of the Colon Krückeberg No. 10 in Berenbusch,
-  - &nbsp;
-* - concerning the approval of a loan.
+* - [initials]
+  - The Office is instructed,
+* - Fr.
+  - regarding the above matter,
+* - R.
+  - to act upon its report of
+* - &nbsp;
+  - the 7th of this month and,
+* - Dispatched
+  - as proposed, to notify
+* - Holste
+  - Krückeberg of the decision.
+* - 17 November
   - &nbsp;
 * - &nbsp;
-  - &nbsp;
-* - The Office is instructed, based on the report of the 7th
-  - &nbsp;
-* - of this month regarding the matter above, to respond to
-  - &nbsp;
-* - Krückeberg as requested.
-  - &nbsp;
+  - Bückeburg, 14 October 1841.
 * - &nbsp;
   - &nbsp;
-* - Bückeburg, 14 October 1841.
-  - &nbsp;
+* - &nbsp;
+  - For the record.
 * - &nbsp;
   - &nbsp;
-* - This document has been officially recorded and put on file
-  - &nbsp;
-* - [clerial initials:] Lm L
-  - &nbsp;
+* - &nbsp;
+  - [clerical initials:] Lm L
 ```
 
 ````
