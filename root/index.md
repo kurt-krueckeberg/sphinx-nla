@@ -55,7 +55,7 @@ found in the Lower Saxony state archive in Bückeburg, Germany.
     Ausweisung vom Forstgrunde
   - [NLA BU, K 2, A Nr. 1291](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978697)
 * - 1824-1849
-  - [Holding No. 10 in Berenbusch (1824-1849)](../139/content.md)
+  - [Holding No. 10 in Berenbusch (1824-1849)](../139/index.md)
     
     Die Stätte Nr. 10 zu Berenbusch
   - [NLA BU, K 2, B Nr. 139](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979527)
