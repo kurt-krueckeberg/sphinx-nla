@@ -14,7 +14,7 @@ husband’s poor health had impoverished her because of medical expenses
 spent on physicians and medicines.
 
 There are also a series of documents from August and September of 1849 in
-which "Colon Krückeberg", which is Johann Heinrich (1806-1879) petitions
+which "Colon Krückeberg", Johann Heinrich (1806-1879), petitions
 the Rentkammer to accept the sale of his holding to Wilhelm Boremann
 because he is immigrating to American, and the ship for America departs on
 [September 15, 1849](jh-krueckeberg-petition-to-sell.md).
