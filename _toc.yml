@@ -191,45 +191,45 @@ parts:
                - file: 139/sales-contract-for-no-10
                  title: Purchase Contract
 
-      - file: 689/content.md
+      - file: 689/index
         title: Loan to Krückeberg no. 10 Berenbusch (1841-1845)
         sections:
           - file: 689/cover
-          - file: 689/intro
-            title: Loan to Colon Krückeberg, no. 10 Berenbusch
-          - file: 689/amt-decree
-            title: Overview of Amt Decree
-          - file: 689/doc1
-            title: Petition of Colon Krückeberg No. 10 in Berenbusch 
-          - file: 689/doc2-1
-            title: Petition of Colon Krückeberg No. 10 in Berenbusch 
-          - file: 689/doc2-2
-            title: Rentkammer Decision to Bückeburg District Office
-          - file: 689/doc3-1
-            title: Petition of Colon Krückeberg
-          - file: 689/doc3-2
-          - file: 689/doc3-3
-          - file: 689/doc4-1
-          - file: 689/doc4-2
-            title: Official Order of the Chamber to Officer Creuzinger
-          - file: 689/doc5
-            title: Report of Officer Creuzinger on Söhren pasture
-          - file: 689/doc6-1
-            title: Advisory Opinion of Councillor Reck
-          - file: 689/doc6-2
-            title: Official order of His Serene Highness
-          - file: 689/doc6-3
-            title: Filing note by Councillor Reck 
-          - file: 689/doc7
-            title: Official Order of the Chamber to Bückeburg Office
-          - file: 689/doc8-1
-          - file: 689/doc8-2
-            title: Official Order of the Chamber to the Office of Bückeburg
-          - file: 689/doc8-3
-            title: Official Order to Treasurer Berger
-          - file: 689/doc9
-          - file: 689/doc10
-            title: Promissory Note for 200 Reichsthaler (Follow-ups)
+          - file: 689/content
+            sections:
+              - file: 689/amt-decree
+                title: Overview of Amt Decree
+              - file: 689/doc1
+                title: Petition of Colon Krückeberg No. 10 in Berenbusch 
+              - file: 689/doc2-1
+                title: Petition of Colon Krückeberg No. 10 in Berenbusch 
+              - file: 689/doc2-2
+                title: Rentkammer Decision to Bückeburg District Office
+              - file: 689/doc3-1
+                title: Petition of Colon Krückeberg
+              - file: 689/doc3-2
+              - file: 689/doc3-3
+              - file: 689/doc4-1
+              - file: 689/doc4-2
+                title: Official Order of the Chamber to Officer Creuzinger
+              - file: 689/doc5
+                title: Report of Officer Creuzinger on Söhren pasture
+              - file: 689/doc6-1
+                title: Advisory Opinion of Councillor Reck
+              - file: 689/doc6-2
+                title: Official order of His Serene Highness
+              - file: 689/doc6-3
+                title: Filing note by Councillor Reck 
+              - file: 689/doc7
+                title: Official Order of the Chamber to Bückeburg Office
+              - file: 689/doc8-1
+              - file: 689/doc8-2
+                title: Official Order of the Chamber to the Office of Bückeburg
+              - file: 689/doc8-3
+                title: Official Order to Treasurer Berger
+              - file: 689/doc9
+              - file: 689/doc10
+                title: Promissory Note for 200 Reichsthaler (Follow-ups)
 
       - file: 188/index.md
         title: Sale of the Krückeberg property no. 18 in Berenbusch 
