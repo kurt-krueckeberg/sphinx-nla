@@ -9,7 +9,7 @@ inheritable tenancy right to Wilhelm Bornemann of Nordholtz.
 The case file primarily concerns the petition of Widow Krückeberg of no.
 10 Berenbusch before the Rentkammer, in 8 July 1824, to be relieved of the
 feudal obligations of manual labor that accompanied being a Stätte holder.
-She was 58 years old and could not do the manual labor herself and her
+She was 58 years old and could not do the manual labor herself and her late 
 husband’s poor health had impoverished her because of medical expenses
 spent on physicians and medicines.
 
