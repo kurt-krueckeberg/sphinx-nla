@@ -53,7 +53,7 @@ parts:
         sections:
           - file: 1291/content
             title: Allotments to Krückeberg no. 10 & Einliegers Vogt & Nordholz (1817 - 1818)
-            section:
+            sections:
               - file: 1291/cover
               - file: 1291/doc1
                 title: Krückeberg no. 10 Berenbush Petition 
