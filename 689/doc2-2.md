@@ -89,7 +89,7 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
   - &nbsp;
 * - &nbsp;
   - Petition of Colon Krücke-
-* - Draft [concept]
+* - Chamber Decision
   - berg, No. 10 in Beren-
 * - from the Bückeburg Office.
   - busch, concerning approval
