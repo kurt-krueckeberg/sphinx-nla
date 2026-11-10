@@ -66,6 +66,61 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 ```
 ````
 
+## Translation
+
+````{div} doc-text
+
+```{list-table}
+:header-rows: 1
+:class: compact
+
+* - Transliteration
+  - Translation
+
+* - N. 3/6 — N.C. 4487
+  - N. 3/6 — N.C. 4487
+* - C. 1/ — N.P. 1274
+  - C. 1/ — N.P. 1274
+* - \-\-\-\-\-\-
+  - \-\-\-\-\-\-
+* - = 4/6.
+  - = 4/6.
+
+* - Gesuch des Colons Krücke-
+  - Draft from the Bückeburg Office.
+* - Copt[Concept] — berg N. 10 in Beren-
+  - &nbsp;
+* - aus Amt Bückeburg. — busch, um Anlehns-
+  - Petition of the Colon Krückeberg No. 10 in Berenbusch,
+* - consens betr:
+  - concerning the approval of a loan.
+
+* - [initials] — Das Amt wird auf den
+  - The Office is instructed, based on the report of the 7th
+* - Fr. — obigen Gegenstand betreffen-
+  - of this month regarding the matter above, to respond to
+* - R. — de Bericht vom 7. d. M.
+  - Krückeberg as requested.
+* - beauftragt, wie angetra-
+  - &nbsp;
+* - Expedirt — gen den Krückeberg zu
+  - &nbsp;
+* - Holste — bescheiden.
+  - &nbsp;
+* - 17/11.
+  - &nbsp;
+
+* - Bbg. 14. Oct. 1841.
+  - Bückeburg, 14 October 1841.
+
+* - F. p.[Für protokoll]
+  - This document has been officially recorded and put on file
+
+* - [clerial initials:] Lm L
+  - [clerial initials:] Lm L
+```
+
+````
 
 ## Billing Note
 
