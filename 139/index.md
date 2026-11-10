@@ -49,7 +49,7 @@ because he is immigrating to American, and the ship for America departs on
     afford to hire someone in her place. Her husband died two years ago, and since during his
     lifetime he was almost continually ill, she has, through the many expenses for doctor and
     apothecary, become nearly destitute. She petitions the Rentkammer for these duties to be
-    remitted. She petitions the Rentkammer for these duties to be remitted.
+    remitted.
 * - 26 July 1824
   - Report from the Bückeburg Office 
   - The Bückeburg local governmental office reports to the Chamber explains
