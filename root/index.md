@@ -60,7 +60,7 @@ found in the Lower Saxony state archive in Bückeburg, Germany.
     Die Stätte Nr. 10 zu Berenbusch
   - [NLA BU, K 2, B Nr. 139](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979527)
 * - 1841 - 1845
-  - [A capital sum of 200 Reichsthaler courant loaned from the chamber treasury to the colonist Krückeberg No. 10 in Berenbusch (1841-1845)](../689/content.md)
+  - [A capital sum of 200 Reichsthaler courant loaned from the chamber treasury to the colonist Krückeberg No. 10 in Berenbusch (1841-1845)](../689/index.md)
     
     Ein dem Colon Krückeberg Nr. 10 in Berenbusch aus Kammerkasse dargeliehenes Kapital von 200 Reichstaler Crt.
   - [NLA BU, K 2, A Nr. 689](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4988863)
