@@ -16,6 +16,7 @@ note shows clerk Holste dispatched the decision on 17 November 1841.
 ## Transliteration
 
 ```{div} doc-text
+
 N. 3/6                            N.C. 4487
 C. 1/                             N.P. 1274
 ------
