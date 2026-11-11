@@ -199,7 +199,6 @@ parts:
           - file: 689/content
             sections:
               - file: 689/amt-decree
-                title: Overview of Amt Decree
               - file: 689/doc1
                 title: Petition of Colon Krückeberg No. 10 in Berenbusch 
               - file: 689/doc2-1
