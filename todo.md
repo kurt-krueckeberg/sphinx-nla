@@ -10,8 +10,17 @@ In particular:
   this case file? Should it listed outside the table of contents
 
   amt-decress.md does contain two MyST markdown {figure}'s that correspond to TIF digitize images in
-  the 689 case file. Is the document on these two TID images in the Designatio Actorum; if not, why not,
+  the 689 case file. Is the document on these two TIF images in the Designatio Actorum; if not, why not,
   What role does this document play in case file?
+- For 1237/index.md...use the compressed timeline, but before you delete the detailed timeline,
+  check each section against its document page. Move anything the page lacks into that page’s
+  Overview, such as the quotations, the survey sizes and the purchase-price breakdown. Then
+  nothing is lost, and every detail lives in exactly one place. Then get rid of the dteailed
+  timeline.
+
+  Rebuild the compressed timeline table so it has one row per event, starting with the petition of 29
+  May 1798, and a Document column that links to each page. As it stands, it starts at Document 3 and is
+  numbered by document.
 - 689/index.md needs to be rewritten. It discusses what the Rentkammer was and not what this
   case file concerns. More the description of the Rentkammer elsewhere to "Rentkammer
   Explained", if it needs it.
