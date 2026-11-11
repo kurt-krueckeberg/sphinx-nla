@@ -4,6 +4,10 @@
 
 In particular:
 
+
+- Is 689/amt-decree.md, which has images 3-l.png and 4-l.png, listed in the Designatio Actorum?
+  If not, in what order should it be placed n the Designatio Actorum (table of contents) for
+  this case file? Should it listed outside the table of contents
 - 689/index.md needs to be rewritten. It discusses what the Rentkammer was and not what this
   case file concerns. More the description of the Rentkammer elsewhere to "Rentkammer
   Explained", if it needs it.
