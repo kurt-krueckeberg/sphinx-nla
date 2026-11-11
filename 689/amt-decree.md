@@ -1,6 +1,6 @@
-# Overview of Amt Bückeburg Decree and Execution Order (10/13 July 1841)
+# Amt Bückeburg Decree and Execution Order (10/13 July 1841).
 
-## Overview and Summary
+## Overview
 
 On **10 July 1841** at the **Amt Bückeburg**, the creditor **Hempel & Söhne
 of Minden** pressed their case against **Johann Heinrich Krückeberg**
@@ -54,6 +54,8 @@ non-appearance (or non-response)**, not after a contested hearing.
 
 ## Transliteration
 
+**TODO:** Does the text appear as it appears in the image--or close to it?
+
 ```{div} doc-text
                              corner folio:11
 
@@ -79,7 +81,7 @@ ref: exp: contum: infidem
   F. Sander
 
 
-      Decretum
+Decretum
 
 Vorstehender Recess wird dem Verklagten in Abschrift mitgeheilt
 und nunmehr die Execution erkannt und den Amtsdiener Möller
@@ -90,10 +92,10 @@ bleibe und binnen 14 Tagen keine Zahlung erfolgen würde, auf
 ferneres Ansuchen der Kläger sofort die Auspfandung erkannt und
 vollzogen werde.
 
-  Decr: Bückeburg 13t Juli 1841.
-  Fürstlich Schaumburg Upp. Amt.
+Decr: Bückeburg 13t Juli 1841.
+Fürstlich Schaumburg Upp. Amt.
 
-     Hauck   Höcker
+Hauck   Höcker
 ```
 
 ## Translation
