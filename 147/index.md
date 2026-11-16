@@ -20,6 +20,9 @@ only document that mentions **Krückeberg**.
   - Rentkammer approved the offices' proposal on 22 November 1819
 * - **Genealogical value**
   - Dates the settlement of Krückeberg at no. 18 Berenbusch to about 1808
+* - **Map**
+  - {ref}`Survey drawing by Stille <krueckeberg-no-18-garten>`, showing the
+    location of Krückeberg's garden at no. 18
 ```
 
 ## Summary of Document 5
@@ -52,5 +55,11 @@ it places his settlement in about 1808.
 This agrees with the case file for [Site No. 18 in Berenbusch](../146/index.md),
 in which the tailor Krückeberg [petitioned for a building plot](../146/doc1.md)
 on 29 September 1808 and received the same 102 square Ruthen 51 square feet.
-The {ref}`survey drawing <krueckeberg-no-18-garten>` attached to the report
-shows "Krückeberg Nr. 18 Garten" across the road from Triftmeier's plot.
+
+## Map Showing Krückeberg's Garden
+
+[Document 5](doc5.md) includes a {ref}`survey drawing <krueckeberg-no-18-garten>`
+by the surveyor Stille that shows where Krückeberg's garden lay. It is
+labelled "Krückeberg Nr. 18 Garten", next to the house marked "Kolonie Nr. 18",
+on the far side of the road from Berenbusch to Evesen and Petzen, opposite
+Triftmeier's plot.
