@@ -64,13 +64,13 @@ freÿen Jahre unterthänigst in Vorschlag:
 
 Genehmiget.
 
-1., Dienstgeld          1rl.
-2., Rothzins            17 g 3 d
+1. Dienstgeld          1rl.
+2. Rothzins            17 g 3 d
 3. Mahlschweingeld       6
 4. Michaelischatz        1
 5. Fünf Erndtetage
-6., Ein Rauchhuhn
-7., Jagden, Wachten, Landfolgen.
+6. Ein Rauchhuhn
+7. Jagden, Wachten, Landfolgen.
 
 Bückeburg 29t Octbr 1819.
 
