@@ -70,7 +70,7 @@ Genehmiget.
 6. Ein Rauchhuhn
 7. Jagden, Wachten, Landfolgen.
 
-Bückeburg 29t Octbr 1819.
+B[ückeburg] 29t Octbr 1819.
 
 Dabiehl Neusel
 
@@ -131,7 +131,7 @@ Dabiehl · Neusel
 
 Approved in accordance with the recommendation of the district offices. The necessary instructions are accordingly to be issued to the district office and to the Chamber Rentmaster.
 
-Bückeburg, November 22, 1819
+B[ückeburg], November 22, 1819
 
 M. Kaas
 ```
