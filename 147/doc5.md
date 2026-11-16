@@ -21,7 +21,7 @@
 Krückeberg Nr. 18 Garten
 ```
 
-## Transliteration
+## Transliteration of Report from Offices of Bückeburg and Arensburg
 
 ```{div} doc-text
 N. 431                                                     5.)
@@ -81,9 +81,7 @@ Kam: Rentmeister zu erlassen ist. B 22 Nov. 1819
 MKaas
 ```
 
-**Vertical Text on left of 1st page:**
-
-## Translation
+## Translation of Report from Offices of Bückeburg and Arensburg
 
 ```{div} doc-text
 **No. 431 — 5.)**
@@ -151,25 +149,22 @@ B[ückeburg], November 22, 1819
 M. Kaas
 ```
 
-**Transliteration of Map Text:**
-
-## Transliteration
+## Transliteration of Map Text
 
 ```{div} doc-text
 Zeichnung
 eines Kolonieplatzes im Baumer Forstrevier
-für den Neubauer Driftmeier zu Berenbusch.
+für den Neubauer Driftmeier zu Berenbusch.\
 Die Theile A u. B halten 1 Morgen 54 Ruth: 80 Fuß
 
 Stille
 ```
 
-## Translation
+## Translation of Map Text
 
 ```{div} doc-text
-Drawing
-of a colonist’s plot in the Baumer forest district
-for the new farmer Driftmeier of Berenbusch.
+Drawing of a Colon’s plot in the Baumer forest district
+for the new Colon Driftmeier of Berenbusch.\
 Sections A and B contain 1 Morgen, 54 Ruthen, 80 feet.
 
 Stille
