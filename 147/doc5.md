@@ -28,7 +28,7 @@ N. 431                                                     5.)
 
 [3GR]
 
-p. 16. Nov 1829
+p. 16. Nov 1819
 
 [routing notation]
 
@@ -88,7 +88,7 @@ MKaas
 ```{div} doc-text
 **No. 431 — 5.)**
 
-Received November 16, 1829
+Received November 16, 1819
 
 Re: Chamber No. 199  
 Incoming No. 325
