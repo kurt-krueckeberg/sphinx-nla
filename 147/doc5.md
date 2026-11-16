@@ -32,14 +32,12 @@ p. 16. Nov 1829
 
 [routing notation]
 
-ad N: Cam. 199
+ad N: Cam. 199\
 N: pr: 325,
 
-An Fürstliche Rentkammer Bericht
-der Aemter Amteburg und Arensburg
+An Fürstliche Rentkammer Bericht der Aemter Amteburg und Arensburg\
 betr.
 Ausweisung
-
 
 Ueber die im vergangenen Frühjahr in Gegenwart des Revierförsters durch den
 Inspektor Geometer Stille vorgenommenen Ausweisung des dem Einlieger
@@ -59,7 +57,7 @@ Platz von 102 Quadrat-Ruthen. 51 Fuß a Quadrat-Ruthe zu 6 g gnädigst
 überlassen worden. Wir stellen daher Fürstl. Rentkammer
 unterthönigstanheim, ob nicht dem Trifstmeier 1/2 Morgen à Quadrat-Ruthe zu
 6 g und nur der übrige Flächenbetrag etwa a Quadrat-Ruthe zu 12 mg
-anzurechnen seÿn möchte.  An Praestanden bringen wir nach Ablauf der dreÿ
+anzurechnen seÿn möchte. An Praestanden bringen wir nach Ablauf der dreÿ
 freÿen Jahre unterthänigst in Vorschlag:
 
 Genehmiget.
@@ -76,7 +74,7 @@ Bückeburg 29t Octbr 1819.
 
 Dabiehl Neusel
 
-[vertical text on left of 1st page]
+[vertical text on left of 1st page]\
 Res: Cam: Genehmiget nach dem Amts-Vorschlage,
 wornach das Nöthige an das Amt u. an
 Kam: Rentmeister zu erlassen ist. B 22 Nov. 1819
