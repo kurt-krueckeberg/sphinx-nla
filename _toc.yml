@@ -154,8 +154,9 @@ parts:
         sections:
           - file: 147/cover
           - file: 147/content
-          - file: 147/doc5
-            title: Report of Bückeburg district office
+            sections:
+              - file: 147/doc5
+                title: Report of Bückeburg district office
 
       - file: 139/index.md
         sections:    
