@@ -2,7 +2,12 @@
 
 ## See claude-case-file-analysis.md 
 
-Implement its recommendations.
+Implement its recommendations. In particular, for 1237/index.md better summarize the first
+two documents: 
+
+1. the intial Krückeberg petition, the Rentkammer response of requesting a Forestrz
+   dept. assessment, which was written onto the front of the petition.
+2. Whatever document 2 is likewise summarize it well and succinctly.
 
 ## AI an Archivists
 

@@ -38,7 +38,11 @@ Krückeberg made his petition.
   - Key content / action
 * - **1**
   - 29 May 1798
-  - 
+  - On May 29, 1798, *Jobst Heinrich Krückeberg*, a Colon at No. 10 in *Berenbusch*,
+    petitioned the *Amt in Bückeburg* (local goverment office) to purchase adjacent
+    plots "on the common land by the road, [where] there lies a sloping
+    corner of land which is uncultivated and therefore of no use to anyone,
+    and which even causes the road to be uneven." 
 * - **2**
   - 27 Feb. 1799 
   - 
