@@ -10,15 +10,15 @@ only document that mentions **Krückeberg**.
 ```{list-table}
 :widths: 25 75
 
-* - Date span
+* - **Date span**
   - 1819–1820
-* - Holding
+* - **Holding**
   - Neubauer-Stätte No. 19, Berenbusch (Triftmeier)
-* - Document included
+* - **Document included**
   - [Report of the offices of Bückeburg and Arensburg](doc5.md), 29 October 1819
-* - Outcome
+* - **Outcome**
   - Rentkammer approved the offices' proposal on 22 November 1819
-* - Genealogical value
+* - **Genealogical value**
   - Dates the settlement of Krückeberg at no. 18 Berenbusch to about 1808
 ```
 
