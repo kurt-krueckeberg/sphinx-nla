@@ -86,10 +86,54 @@ MKaas
 ## Translation
 
 ```{div} doc-text
-Res: Cam: Genehmiget nach dem Amts-Vorschlage,
-wornach das Nöthige an das Amt u. an
-Kam: Rentmeister zu erlassen ist. B 22 Nov. 1819
-MKaas
+**No. 431 — 5.)**
+
+Received November 16, 1829
+
+Re: Chamber No. 199  
+Incoming No. 325
+
+**To the Princely Rent Chamber**
+
+**Report of the Offices of Bückeburg and Arensburg**
+
+**Subject: Allocation of a Building Plot**
+
+Last spring, Inspector and Surveyor Stille, in the presence of the district forester, surveyed and marked out the building plot in the Baumer Forest that had been granted to the resident without landholdings, Triftmeier. Having received the drawing prepared for this purpose, which is enclosed herewith, a few days ago, we now respectfully report that, according to the enclosed drawing, the area allotted to Triftmeier for his new dwelling amounts to 1 Morgen, 54 square Ruthen, and 80 square feet.
+
+Regarding the purchase price that Triftmeier is to pay for the plot, the Achtleute (local assessors) have indeed valued two-thirds of the plot at 15 Groschen per square Ruthe and one-third at 13 Groschen and 4 Pfennig per square Ruthe.
+
+However, other new settlers have been granted half a Morgen at a price of 6 Groschen per square Ruthe. Furthermore, Krückeberg of House No. 18 in Berenbusch, who settled eleven years ago immediately adjacent to Triftmeier's plot on land of equally good quality, was graciously granted his entire plot of 102 square Ruthen and 51 square feet at a price of 6 Groschen per square Ruthe.
+
+We therefore respectfully submit to the Princely Rent Chamber for consideration whether Triftmeier should not likewise be charged 6 Groschen per square Ruthe for half a Morgen, and approximately 12 Groschen per square Ruthe for the remaining area.
+
+After the expiration of the three years of exemption from dues and obligations, we respectfully propose the following payments and services:
+
+**Approved.**
+
+1. Service payment: 1 Reichstaler
+2. Rottzins (land rent): 17 Groschen, 3 Pfennig
+3. Mahl­schweingeld (pig-related levy): 6 Groschen
+4. Michaelmas tax: 1 Groschen
+5. Five days of harvest labor
+6. One Rauchhuhn (a customary poultry tribute)
+7. Hunting duties, watch duties, and compulsory public service
+
+Bückeburg, October 29, 1819
+
+Dabiehl · Neusel
+
+---
+
+**Marginal notation on the left side of the first page:**
+
+**Resolution of the Rent Chamber:**
+
+Approved in accordance with the recommendation of the district offices. The necessary instructions are accordingly to be issued to the district office and to the Chamber Rentmaster.
+
+Bückeburg, November 22, 1819
+
+M. Kaas
 ```
 
 **Transliteration of Map Text:**
