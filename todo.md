@@ -5,7 +5,7 @@
 Implement its recommendations. In particular, for 1237/index.md better summarize the first
 two documents: 
 
-1. the intial Krückeberg petition, the Rentkammer response of requesting a Forestrz
+1. the intial Krückeberg petition, the Rentkammer response of requesting a Forestry
    dept. assessment, which was written onto the front of the petition.
 2. Whatever document 2 is likewise summarize it well and succinctly.
 
@@ -20,7 +20,7 @@ It is in [repo](https://github.com/kurt-krueckeberg/funke.git),
 and this file: modern-english-translation.t,
 and this file: modern-english-translation.txtt
 
-## The Case Study HowTO Guide
+## The Case Study How-To Guide
 
 Read John Beatty's article, then listen to the video again.
 The notes on it are in `case-study/case-study-howto.md`.

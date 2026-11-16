@@ -1,12 +1,13 @@
 # Overview 
 
-**TODO**: Detemine if the information in doc4-extra.md is relevant to this overview?
+**TODO**: Put the expanded timeline into the timeline tble. Check that the dates in the
+expanded timeline are correct and the text is accurate.
 
 The case file of Jobst Heinrich’s Petition to Enlarge Farmyard and Garden is call number
 [NLA BU, K 2, A Nr. 1237](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766)
 in the Arcinsys online catalog system. It resides in the Bückeburg regional archive.
 
-## The Regency Period
+## Background: The Regency Period
 
 On 13 February 1787 **Count Philipp II Ernst** died His, and his young son **Georg
 Wilhelm (born 20 December 1784)** inherited the title at age two on that
@@ -28,7 +29,7 @@ under a fully reigning adult ruler.
 It was before the **vormundschaftliche Rentkammer** that Jobst Heinrich
 Krückeberg made his petition.
 
-## Compressed Timeline
+## Timeline of Events
 
 ```{list-table}
 :header-rows: 1
@@ -40,8 +41,8 @@ Krückeberg made his petition.
   - 29 May 1798
   - On May 29, 1798, *Jobst Heinrich Krückeberg*, a Colon at No. 10 in *Berenbusch*,
     petitioned the *Amt in Bückeburg* (local goverment office) to purchase adjacent
-    plots "on the common land by the road, [where] there lies a sloping
-    corner of land which is uncultivated and therefore of no use to anyone,
+    plots to enlarge his garden and homestead grounds "on the common land by the road, [where]
+    there lies a sloping corner of land which is uncultivated and therefore of no use to anyone,
     and which even causes the road to be uneven." 
 * - **2**
   - 27 Feb. 1799 
@@ -75,19 +76,6 @@ Krückeberg made his petition.
   - Final filing or
     acknowledgment of execution.
 ```
-
-## 1. The Petition is Initiated at the Bückeburg Office (29 May 1798)
-
-On May 29, 1798, *Jobst Heinrich Krückeberg*, a Colonist at No. 10 in *Berenbusch*,
-petitioned the *Amt in Bückeburg* (local goverment office) to purchase adjacent
-plots to enlarge his garden and homestead grounds. An official named *Lindemann* recorded
-his request. This identifies Lindemann as the scribe of the petition, acting on
-Krückeberg’s behalf.
-
-> Close to my garden, on the common land by the road, there lies a sloping
-> corner of land which is uncultivated and therefore of no use to anyone,
-> and which even causes the road to be uneven. Since this corner adjoins
-> my garden, I would like to cultivate it and purchase it.
 
 ## 2. The Petition is Reviewed by the Cammer (30 May 1798)
 
