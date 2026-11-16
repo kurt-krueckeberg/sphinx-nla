@@ -99,15 +99,29 @@ Incoming No. 325
 
 **Subject: Allocation of a Building Plot**
 
-Last spring, Inspector and Surveyor Stille, in the presence of the district forester, surveyed and marked out the building plot in the Baumer Forest that had been granted to the resident without landholdings, Triftmeier. Having received the drawing prepared for this purpose, which is enclosed herewith, a few days ago, we now respectfully report that, according to the enclosed drawing, the area allotted to Triftmeier for his new dwelling amounts to 1 Morgen, 54 square Ruthen, and 80 square feet.
+Last spring, Inspector and Surveyor Stille, in the presence of the district forester, surveyed
+and marked out the building plot in the Baumer Forest that had been granted to the resident
+without landholdings, Triftmeier. Having received the drawing prepared for this purpose, which
+is enclosed herewith, a few days ago, we now respectfully report that, according to the
+enclosed drawing, the area allotted to Triftmeier for his new dwelling amounts to 1 Morgen, 54
+square Ruthen, and 80 square feet.
 
-Regarding the purchase price that Triftmeier is to pay for the plot, the Achtleute (local assessors) have indeed valued two-thirds of the plot at 15 Groschen per square Ruthe and one-third at 13 Groschen and 4 Pfennig per square Ruthe.
+Regarding the purchase price that Triftmeier is to pay for the plot, the Achtleute (local
+assessors) have indeed valued two-thirds of the plot at 15 Groschen per square Ruthe and
+one-third at 13 Groschen and 4 Pfennig per square Ruthe.
 
-However, other new settlers have been granted half a Morgen at a price of 6 Groschen per square Ruthe. Furthermore, Krückeberg of House No. 18 in Berenbusch, who settled eleven years ago immediately adjacent to Triftmeier's plot on land of equally good quality, was graciously granted his entire plot of 102 square Ruthen and 51 square feet at a price of 6 Groschen per square Ruthe.
+However, other new settlers have been granted half a Morgen at a price of 6 Groschen per square
+Ruthe. Furthermore, **Krückeberg of House No. 18 in Berenbusch, who settled eleven years ago
+immediately adjacent to Triftmeier's plot on land of equally good quality, was graciously
+granted his entire plot of 102 square Ruthen and 51 square feet at a price of 6 Groschen per
+square Ruthe.**
 
-We therefore respectfully submit to the Princely Rent Chamber for consideration whether Triftmeier should not likewise be charged 6 Groschen per square Ruthe for half a Morgen, and approximately 12 Groschen per square Ruthe for the remaining area.
+We therefore respectfully submit to the Princely Rent Chamber for consideration whether
+Triftmeier should not likewise be charged 6 Groschen per square Ruthe for half a Morgen, and
+approximately 12 Groschen per square Ruthe for the remaining area.
 
-After the expiration of the three years of exemption from dues and obligations, we respectfully propose the following payments and services:
+After the expiration of the three years of exemption from dues and obligations, we respectfully
+propose the following payments and services:
 
 **Approved.**
 
@@ -129,7 +143,8 @@ Dabiehl · Neusel
 
 **Resolution of the Rent Chamber:**
 
-Approved in accordance with the recommendation of the district offices. The necessary instructions are accordingly to be issued to the district office and to the Chamber Rentmaster.
+Approved in accordance with the recommendation of the district offices. The necessary
+instructions are accordingly to be issued to the district office and to the Chamber Rentmaster.
 
 B[ückeburg], November 22, 1819
 
