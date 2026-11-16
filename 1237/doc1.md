@@ -40,13 +40,12 @@ Heinrich Krückeberg requesting permission to enlarge his the yard of his
 holding and its garden. The larger text on the left of the first page is
 the Forestry Office assessment of the impact of the request.
 
-Jobst Heinrich Krückeberg’s petition was addressed to the **Rentkammer**.  A
-**Res. Cam.** (Resolution of the Cammer) ordered that the matter be **reported
-on by the Bückeburg Amt**. **Before** the Amt produced its full report
-(Document 2), a **Forstamt technical assessment** was written directly onto
-the petition sheet (Document 1). That forestry note concerns only the
-**trees and land-use implications**, not the broader administrative
-decision.
+Jobst Heinrich Krückeberg’s petition was addressed to the **Rentkammer**. A
+Resolution of the Cammer (**Res. Cam.**) ordered that the matter be **reported
+on by the Bückeburg Amt**.  **Before** the Amt produced its full report
+(Document 2), a **Forstamt technical assessment** was written directly onto the
+petition sheet (Document 1). That forestry note concerns only the **trees and
+land-use implications**, not the broader administrative decision.
 
 MKaas (MK), who initials appear several times, was very likely a Forstamt
 official who also functioned as an administrative clerk, which explains why

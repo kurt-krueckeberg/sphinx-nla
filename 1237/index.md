@@ -36,6 +36,12 @@ Krückeberg made his petition.
 * - Doc No.
   - Date
   - Key content / action
+* - **1**
+  - 29 May 1798
+  - 
+* - **2**
+  - 27 Feb. 1799 
+  - 
 * - **3**
   - 11 Mar 1799
   - *Concept Cammer Rescript* to the Bückeburg Office,
