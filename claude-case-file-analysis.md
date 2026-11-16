@@ -1,4 +1,4 @@
-# Claude Analysis
+# Claude Analysis (done on 11/16/2026)
 
 Starting with the Context doc and the repository: reading the folder list, then comparing each
 folder's `_toc.yml` entries and markdown content.

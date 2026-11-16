@@ -13,7 +13,7 @@ only document that mentions **Krückeberg**.
 * - **Date span**
   - 1819–1820
 * - **Holding**
-  - Neubauer-Stätte No. 19, Berenbusch (Triftmeier)
+  - New settler holding (Neubauer-Stätte) No. 19, Berenbusch (Triftmeier)
 * - **Document included**
   - [Report of the offices of Bückeburg and Arensburg](doc5.md), 29 October 1819
 * - **Outcome**
