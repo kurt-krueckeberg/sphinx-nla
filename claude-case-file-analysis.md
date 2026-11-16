@@ -12,7 +12,6 @@ All seven folders start with `index` → `cover` → `content` (188 has no `cont
 
 - **Chapter titles:** each uses a different form. 1237 and 188 carry no dates, 146 puts the dates after a comma, 147 is two lines long, and 139 has no `title:` at all.
 - **Document titles:** none carry dates. Many entries have no title (1237/doc6, 1291/doc13, 18 and 21, eight in 689, all of 188), so the sidebar falls back to long H1 headings.
-- **Nesting:** in 147, `doc5` sits beside `content` instead of under it.
 - **Order:** 146 puts two analysis pages ahead of Document 1, and 689 puts `amt-decree` ahead of Document 1.
 - **Later documents:** 139 and 146 group them under `other-docs`; no other folder has such a group.
 - **Orphans:** 19 pages are in no toc: 13 in 689, 4 in 188 and 2 in 1237.
