@@ -106,8 +106,8 @@ is enclosed herewith, a few days ago, we now respectfully report that, according
 enclosed drawing, the area allotted to Triftmeier for his new dwelling amounts to 1 Morgen, 54
 square Ruthen, and 80 square feet.
 
-Regarding the purchase price that Triftmeier is to pay for the plot, the Achtleute (local
-assessors) have indeed valued two-thirds of the plot at 15 Groschen per square Ruthe and
+Regarding the purchase price that Triftmeier is to pay for the plot, the local
+assessors (Achtleute) have indeed valued two-thirds of the plot at 15 Groschen per square Ruthe and
 one-third at 13 Groschen and 4 Pfennig per square Ruthe.
 
 However, other new settlers have been granted half a Morgen at a price of 6 Groschen per square
