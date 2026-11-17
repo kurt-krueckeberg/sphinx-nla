@@ -46,7 +46,7 @@ Krückeberg made his petition.
     named Weiland raised objections — which the Offices dismissed as without merit.
 * - **3**
   - 11 Mar 1799
-  - *Concept Cammer Rescript* to the Bückeburg Office,
+  - Chamber directive (Concept Cammer Rescript) to the Bückeburg Office,
     ordering implementation of the Chamber’s decision following the 27 Feb
     1799 Office report. Signed "Anstatt pp Hering Riehe MKaas Emmerwarth v.
     Landesberg."
