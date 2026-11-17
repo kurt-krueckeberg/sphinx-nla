@@ -41,12 +41,12 @@ Krückeberg made his petition.
   - 29 May 1798
   - On May 29, 1798, *Jobst Heinrich Krückeberg*, a Colon at No. 10 in *Berenbusch*,
     petitioned the *Amt in Bückeburg* (local goverment office) to purchase adjacent
-    plots to enlarge his garden and homestead grounds "on the common land by the road, [where]
-    there lies a sloping corner of land which is uncultivated and therefore of no use to anyone,
-    and which even causes the road to be uneven." 
+    plots to enlarge his garden and homestead grounds.
 * - **2**
   - 27 Feb. 1799 
-  - 
+  - The Offices of Bückeburg and Arensburg reported, on February, 27, 1799, 
+    they had reviewed the forestry report and that only one Berenbusch resident
+    named Weiland raised objections — which the Offices dismissed as without merit.
 * - **3**
   - 11 Mar 1799
   - *Concept Cammer Rescript* to the Bückeburg Office,
@@ -76,6 +76,20 @@ Krückeberg made his petition.
   - Final filing or
     acknowledgment of execution.
 ```
+
+## 1. The Petition is Initiated at the Bückeburg Office (29 May 1798)
+
+On May 29, 1798, *Jobst Heinrich Krückeberg*, a Colonist at No. 10 in *Berenbusch*,
+petitioned the *Amt in Bückeburg* (local goverment office) to purchase adjacent
+plots to enlarge his garden and homestead grounds. An official named *Lindemann* recorded
+his request. This identifies Lindemann as the scribe of the petition, acting on
+Krückeberg’s behalf.
+
+> Close to my garden, on the common land by the road, there lies a sloping
+> corner of land which is uncultivated and therefore of no use to anyone,
+> and which even causes the road to be uneven. Since this corner adjoins
+> my garden, I would like to cultivate it and purchase it.
+
 
 ## 2. The Petition is Reviewed by the Cammer (30 May 1798)
 
