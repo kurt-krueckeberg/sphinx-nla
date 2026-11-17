@@ -1,8 +1,5 @@
 # Overview 
 
-**TODO**: Put the expanded timeline into the timeline tble. Check that the dates in the
-expanded timeline are correct and the text is accurate.
-
 The case file of Jobst Heinrich’s Petition to Enlarge Farmyard and Garden is call number
 [NLA BU, K 2, A Nr. 1237](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4978766)
 in the Arcinsys online catalog system. It resides in the Bückeburg regional archive.
