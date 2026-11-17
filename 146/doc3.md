@@ -31,7 +31,7 @@ C. K. [Cammer-Kanzlei] Rescripts ans Amt Bückeburg
 Expedirt\
 Beyer
 
-V. G. G.[Von Gottes Gnaden]
+V[on] G[ottes] G[naden]
 
 Auf Euren Bericht vom 21ten d.
 M. die Neubauerung †  betr:, unverhalten wir, daß die Ausweisung des
