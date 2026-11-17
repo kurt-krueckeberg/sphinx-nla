@@ -16,7 +16,7 @@ Kammer-Rescripts ans Amt Bückeburg.
 
 Expd. Schwarze
 
-V.G.G.
+V[on] G[ottes] G[naden]
 
 Die Ausweisung an den Einlieger Jobst Heinrich Krückeberg No 18 zu Bärenbusch,
 so wie auch die von Euch in Vorschlag gebrachten Prästanden †, sind genehmigt

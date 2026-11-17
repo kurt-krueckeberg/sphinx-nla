@@ -26,7 +26,7 @@ C.K. Rescripts ans Amt Aren[s]burg
 
 Exped. d. V. Bolte
 
-V.G.G.
+V[on] G[ottes] G[naden]
 
 Auf Euren Bericht vom 12ten d. M., Ausweisung betr., eröffnen Wir Euch,
 daß Wir die Ausweisung des befragten Platzes für den Einlieger Krückeberg
