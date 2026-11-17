@@ -11,8 +11,6 @@ document 4?
 :class: image-override
 ```
 
-## Transliateration and Translation
-
 ## Transliteration
 
 ```{div} doc-text
