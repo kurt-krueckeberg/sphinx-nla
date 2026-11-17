@@ -10,7 +10,7 @@
 
 ## Transliteration
 
-```{div} doc-text
+```text
 Ausweisungen & Rottländereien
 Specia
 bim Amt Bückeburg
@@ -40,7 +40,7 @@ C. 67
 
 ## Translation
 
-```{div} doc-text
+```text
 Land Allocations & Cleared Lands
 Case file
 at the Office of Bückeburg
