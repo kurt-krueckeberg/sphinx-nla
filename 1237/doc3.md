@@ -84,32 +84,32 @@ Wippermann
 ## Translation
 
 ```{div} doc-text
-Concerning Chamber file no. 53 (same as above)\
+Concerning Chamber no. 53 (as above)\
 Draft of the Chamber’s Rescript to the Officials at Bückeburg
 
-Most respectively resolved:
+(Dispatched by Schwarze)
 
-We have, upon your report of the 27th of February of this year submitted
-to us, resolved that the smallholder Krückeberg, No. 10 in Berenbusch, is
-to be assigned the plot he requested in the village street there beside
-his garden, for the enlargement of his holding, under the condition that
-the willows and poplars standing upon it have been sold by our Forestry
-Department, and that Colon Krückeberg must obligate himself to re-plant,
-in another place in the forest, three saplings for each poplar or willow
-that is to be felled.
+By the grace of God,\
+Upon your report of the 27th of February of this year submitted to Us, We
+have resolved that the plot requested by the smallholder (Brinksitzer)
+Krückeberg, No. 10 in Berenbusch, lying in the village street there beside
+his garden, is to be allocated to him for the enlargement of that garden,
+on condition that the willows and poplars standing on it are to be sold by
+Our Forestry Department, and that Colon Krückeberg must bind himself to
+plant, at another place in the forest, three saplings for each poplar or
+willow to be felled.
 
-You are therefore to inform him of this decision and that he must pay 24
-Mariengroschen per square Rute for the plot thus to be granted to him. If
-he agrees to these terms, you shall then, in the presence of Forester
-Talkmann and with due regard for the access road belonging to Colon
-Weiland No. 1 in Berenbusch, have the plot surveyed by a sworn
-land-surveyor and report to us the measured area according to the number
-of Ruten.
+You are therefore to inform him of this, and that he must pay 24
+Mariengroschen per square Rute for the plot to be granted to him on these
+terms. If he agrees to this, you shall then, in the presence of Forester
+Talkmann and with due regard for the driveway access of Colon Weiland
+No. 1 in Berenbusch, have the plot surveyed by a sworn land surveyor and
+report its size to Us in Ruten.
 
-We remain graciously well-disposed toward you.
+We remain graciously disposed toward you.
 
 Bückeburg, 11 March 1799.\
-On behalf of the Chamber
+On behalf of the Count's regency government
 
 Hering · Riehe · Mkaas\
 Emmerwarth · v. Landesberg
