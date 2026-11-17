@@ -1,9 +1,16 @@
-# Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg
+# Draft of a Cameral rescript to the administrative office of Arensburg
 
 ## Overview
 
-TODO: This seems like a duplication of the Rescript at the bottom of
-document 4?
+Draft of the Chamber's reply (22 January 1809) to the Office of Arensburg's
+report of 12 January 1809. The Chamber approves laying out a building plot for
+the Einlieger Krückeberg in the presence of Chief Forester Falkman and asks
+the office to propose the dues (Prästanden) he should pay. Document 7
+(15 November 1809) records the Chamber's approval of the plot and of the
+proposed dues.
+
+TODO: Compare with the rescript at the bottom of document 4 to check for
+duplication.
 
 ## Image
 
@@ -15,23 +22,24 @@ document 4?
 
 ```{div} doc-text
 ad Num. 15\
-C.K. Rescripts ans Amt Arenburg
+C.K. Rescripts ans Amt Aren[s]burg
 
 Exped. d. V. Bolte
 
-V.G.G.[Von Gottes Gnaden]
+V.G.G.
 
 Auf Euren Bericht vom 12ten d. M., Ausweisung betr., eröffnen Wir Euch,
 daß Wir die Ausweisung des befragten Platzes für den Einlieger Krückeberg
 genehmigen, und tragen Euch daher auf, denselben dem Krückeberg in
-Gegewart des Oberforsters Falkman auszuweisen, u. die Prästanden in
-Verschlag bringen.
+Gegenwart des Oberforsters Falkman auszuweisen, u. die Prästanden in
+Vorschlag [zu] bringen.
 
 W.\
 Bburg. 22 Jan 1809\
 [????]
 
-P [W]?ackelwer[k/t] MKaas
+P[?] v. Danckwertz\
+MKaas
 ```
 
 ```{note}
@@ -48,8 +56,8 @@ header indicating princely authority.
 ## Translation
 
 ```{div} doc-text
-No. 15\
-Princely Chamber rescript\
+Re: No. 15\
+[Draft] Chamber rescript\
 to the Office of Arensburg
 
 Dispatched by V. Bolte
@@ -58,13 +66,13 @@ By the grace of God,
 
 Upon your report of the 12th of this month, concerning the designation
 (Ausweisung), we inform you that we approve the designation of the plot in
-question for the tenant Krückeberg, and therefore instruct you to have the
-same designated for Krückeberg in the presence of Chief Forester Falkmann,
-and to submit the assessed charges for consideration.
+question for the tenant Krückeberg, and therefore instruct you to designate
+it to Krückeberg in the presence of Chief Forester Falkman, and to propose
+the dues (Prästanden) he is to pay.
 
 We.\
 Bückeburg, 22 January 1809
 
+von Danckwertz\
 M. Kaas
 ```
-
