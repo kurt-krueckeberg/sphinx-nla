@@ -71,7 +71,7 @@ lassen und von deßen Größe nach Rutenzahl an Uns berichten.
 Wir sind Euch in Gnaden gewogen
 
 Bückeburg d. 11. Merz 1799.\
-Anstatt pp
+Anstatt p[erge] p[erge]
 
 Hering · Riehe · Mkaas\
 Emmerwarth · v. Landesberg
